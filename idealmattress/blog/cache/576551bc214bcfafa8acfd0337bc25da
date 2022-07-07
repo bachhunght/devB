@@ -1,0 +1,230 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4811:"One '2-Core + Earth' cable takes Live and Neutral to the switch back box, a second cable takes the Neutral and Switched Live to the light. Note - the Neutral is not connected to the actual switch, the two … STEP 4. Some studies suggest that crime rates are lower on well-lit streets. Home; Replace Light Switch Electrician Singapore Bedok HDB (Last Updated On: September 14, 2018) Daylight Electrician Singapore team helped to Replace Light Switch in Bedok HDB Singapore. With others, you can snap over your existing light switch for ease of use. The Wemo Light Switch allows you to control your home lighting from the wall, your phone or by using your voice. Unscrew the switch from the electrical box and pull it out with the wires still attached. Daylight Electrician Singapore provides complete electrical services including 24 hour electrician services. An example of a 3-wire lighting circuit is shown in Figure 2. The most basic three-way switch setup has two switches that connect and control one light fixture, like switches on either end of a hallway, staircase or large living area. Unscrew and remove the switch plate; then use a voltage tester to make sure that the circuit is dead. If the ground wire had been connected to the old switch, complete the wiring by attaching the ground. Share. Move on to attaching the neutral wire to the light switch, using the same technique you used to attach the hot wire. Q: What is the best smart light switch? I really love the Toggle as an option for quick and easy transformations. Although plug-in connections may be more convenient, they are less reliable … How to Manually Disable the Power and Drive LEDs on Your Desktop PC Michael Crider @MichaelCrider August 24, 2017, 10:24am EDT Desktop computers make a certain amount of noise and light during operation. A: There are so many to choose from. I wrote this great article on the best smart Wi-Fi light switches and plugs over here for more. Without a neutral wire, the No-Neutral wall switch will always continue to send a small current to your light fixtures so that it can keep itself powered (its wifi receiver and modules) and continue to listen for your instructions from you or the Gateway. Our EMA Licensed electrician and … An Easy Guide to Understand the HDB Electrical Guidelines. Everybody who lives in Singapore must be familiar with the HDB (Housing Development Board) Authorities and their guidelines. Simply tighten any screws with a screwdriver, particularly those on the fan, ceiling plate, and light fixture, if any. Daylight Electrician Singapore provides complete electrical services including 24 hour electrician services. How To: Replace a Light Switch For any confident do-it-yourselfer, it's easy to replace a light switch. Light Fixtures Cannot Be Switched On. All type of switches for hdb . Step 4: Remove the two screws holding the base in place. Minor Repairs Fixtures and fittings such as pipes, water taps, cisterns, hinges, and switches will naturally wear out over time and require repairs. Single-Pole Light Switches. Most modern switches have screw terminals on each side and may also have holes in the back to accept the end of the wire. WiFi light switches may help prevent burglaries, too. There may be some problem with the electrical wiring to the light fixtures or the light switch. In this section of HomeTips, we’ll take a closer look at these many different types of light switches. The electronic starter or driver components may have malfunctioned. The screws on the fan may loosen over time due to the fan’s vibrations. But as with any project involving electricity, it's essential to exercise caution. Home Residential Living in an HDB Flat Home Maintenance Professional Help and Contractors Minor Repairs. A leading provider of electrical services in Singapore, 1st Electrical Services offers 24 hour service from technicians all across the city, allowing for fast response times – and each one of their electricians is a seasoned professional who is EMA/BCA/IDA authorized. To replace this kind of switch, follow these steps: Turn off the power to the switch at the main circuit breaker or fuse panel. How to Replace a 1-Way Switch Step 1: Buy a replacement. S$50. If you want better control over how bright or dim your lights get, installing a dimmer switch is a great way to make that happen, especially if you want to adjust them regularly.  If a light switch fails to function, it should be replaced. These are extremely important to know, especially if you’re dabbling with interior design in Singapore. If the ground wire had been (and is still) connected to the box, let it be. This smart light switch connects to your existing home WiFi network to provide wireless control of your lights – with no subscription or hub required. ";s:7:"keyword";s:30:"how to change hdb light switch";s:5:"links";s:6742:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cape-upvc-windows-cape-town'>Cape Upvc Windows Cape Town</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=check-dfs-replication-status-server-2019'>Check Dfs Replication Status Server 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=urban-outfitters-promo-code-reddit'>Urban Outfitters Promo Code Reddit</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=step2-love-to-entertain-kitchen-target'>Step2 Love To Entertain Kitchen Target</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=are-1920s-houses-well-built'>Are 1920s Houses Well Built</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ethan-allen-country-french-headboard'>Ethan Allen Country French Headboard</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=international-property-awards-2018-2019'>International Property Awards 2018 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=portes-du-soleil-mtb-2019'>Portes Du Soleil Mtb 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=signature-by-ashley-end-tables'>Signature By Ashley End Tables</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-creeping-jenny-toxic-to-fish'>Is Creeping Jenny Toxic To Fish</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=description-of-a-beautiful-house-essay'>Description Of A Beautiful House Essay</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-led-recessed-lights-2018'>Best Led Recessed Lights 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ge-profile-arctica-manual-pdf'>Ge Profile Arctica Manual Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=solid-surface-countertops-vs-quartz'>Solid Surface Countertops Vs Quartz</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dwell-home-inc-contact-number'>Dwell Home Inc Contact Number</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=raised-garden-bed-vs-planter-box'>Raised Garden Bed Vs Planter Box</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=couches-for-sale-san-diego'>Couches For Sale San Diego</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-edinburgh-landscape-architecture'>University Of Edinburgh Landscape Architecture</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=karcher-1700-psi-pressure-washer-manual'>Karcher 1700 Psi Pressure Washer Manual</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-old-is-jimmy-johnson'>How Old Is Jimmy Johnson</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=daybed-with-pop-up-trundle-assembly-instructions'>Daybed With Pop Up Trundle Assembly Instructions</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wide-chest-of-drawers-ikea'>Wide Chest Of Drawers Ikea</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=aloo-gobi-recipe-in-hindi'>Aloo Gobi Recipe In Hindi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=622-lorong-1-toa-payoh'>622 Lorong 1 Toa Payoh</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=houses-for-sale-marion-ohio-re-max'>Houses For Sale Marion Ohio Re Max</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-scrap-metal-sculptures'>How To Make Scrap Metal Sculptures</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=triple-glazed-french-doors-price'>Triple Glazed French Doors Price</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=300-sq-ft-apartment-for-rent'>300 Sq Ft Apartment For Rent</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=traditional-dining-room-tables-and-chairs'>Traditional Dining Room Tables And Chairs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cheap-ceiling-fans-home-depot'>Cheap Ceiling Fans Home Depot</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sheffield-hallam-university-commonwealth-shared-scholarship'>Sheffield Hallam University Commonwealth Shared Scholarship</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=types-of-non-alcoholic-beverages'>Types Of Non Alcoholic Beverages</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=crested-butte-lift-tickets-2020'>Crested Butte Lift Tickets 2020</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=when-does-at-home-ellenton-open'>When Does At Home Ellenton Open</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mediterranean-living-room-paint-colors'>Mediterranean Living Room Paint Colors</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=born-haber-cycle-a-level-chemistry'>Born Haber Cycle A Level Chemistry</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-led-recessed-lights-2018'>Best Led Recessed Lights 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=public-park-design-landscape-architecture'>Public Park Design Landscape Architecture</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=closeout-kitchen-cabinets-near-me'>Closeout Kitchen Cabinets Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=catholic-charities-baltimore-rental-assistance'>Catholic Charities Baltimore Rental Assistance</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=black-and-white-architecture-drawings'>Black And White Architecture Drawings</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=twin-over-full-bunk-bed-instructions'>Twin Over Full Bunk Bed Instructions</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-ash-lad-in-the-hall-of-the-mountain-king-imdb'>The Ash Lad In The Hall Of The Mountain King Imdb</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=unfinished-cabinet-doors-with-glass'>Unfinished Cabinet Doors With Glass</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-is-bologna-italy-known-for'>What Is Bologna Italy Known For</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=a-wrinkle-in-time-author'>A Wrinkle In Time Author</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=manitobah-mukluks-black-friday-sale-2019'>Manitobah Mukluks Black Friday Sale 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=beef-stroganoff-recipe-for-20'>Beef Stroganoff Recipe For 20</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-pressure-test-pool-main-drain'>How To Pressure Test Pool Main Drain</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=on-the-go-portable-beach-lounger'>On The Go Portable Beach Lounger</a>,
+";s:7:"expired";i:-1;}

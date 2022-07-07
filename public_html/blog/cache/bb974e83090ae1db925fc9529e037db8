@@ -1,0 +1,215 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3202:"The base/floor salary scale for the Professional and higher categories is shown in annex I. Read more about Staff Regulations, Annex 1, … General Service category Revision 33, effective 1 April 2019 (In Euro) Back to Salary scales for the General Service front page There is normally only one local salary scale per country, with only a few cases where more than one salary scale is in effect in the same country, when prevailing conditions necessitate it. The salaries are set according to local salary scales established in each country. Although salaries are expressed in United States dollars, in most Read more about Revised salary scales for staff in the General Service and related categories at Headquarters; Staff Regulations, Annex 1, para 7. General Service and National Officer. SALARY SCALES AND INCREMENTS There is normally only one salary scale per country for each local staff member category, i.e. How to read a salary scale The complexity and work responsibilities of types of jobs are evaluated and arranged in a level hierarchy (e.g., USG, ASG, D-2, D-1) according to the common system job classification method developed by the ICSC. General Service category: Revision 95, effective 1 April 2019 (Applicable only to staff recruited on or after 1 February 2013) General in others. Back to Salary scales for the General Service front page © 2003 - 2019 United Nations Office of Human Resources - All rights reserved. Compensation for locally recruited staff should reflect the best prevailing conditions found locally for similar work. A common job classification system developed by ICSC provides the structure for this salary scale. Preliminary remark : CCAQ has on several occasions attempted to deal with General Service entitlements to salaries and allowances in bulk - i.e. This applies to salaries for staff in the General Service and related categories hired in the locality of the duty station (their home country or the country where they have residency). it has considered entitlement to a particular allowance not in the context of that allowance for Professional staff but in the context of all other allowances for General Service staff. The salaries are set according to local salary scales established in each country.  We want someone who is analytical and can handle routine to complex tasks with dedication. Are General Service and related categories salaries global or local? A commitment to making UN successful is essential! (57) In its report for 1990 ICSC recommended that the Executive Heads of ILO and WHO bring to the attention of their legislative bodies the matter of additional steps in their salary scales for the General Service and related categories, and recommend that rewards for staff be provided not through the extension of salary scales but by the payment of one-time non-pensionable cash awards to reward … Revised base salary scales for staff in the Professional and higher categories and staff in the Field Service category Salary scales, General Service and related categories at … © 2003 - 2015 United Nations Office of Human Resources Management - All rights reserved. All salary scales are reviewed periodically on the basis of ";s:7:"keyword";s:31:"un general service salary scale";s:5:"links";s:4665:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=recipes-with-runner-beans-main-course'>Recipes With Runner Beans Main Course</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-eat-spinach-for-weight-loss'>How To Eat Spinach For Weight Loss</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-tommy-banks-in-a-relationship'>Is Tommy Banks In A Relationship</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=michigan-state-park-camping-fees'>Michigan State Park Camping Fees</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-is-the-kitchen-brigade-system'>What Is The Kitchen Brigade System</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-to-buy-office-chair'>Where To Buy Office Chair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=characteristics-of-non-flowering-plants'>Characteristics Of Non Flowering Plants</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=famous-hip-hop-graffiti-artists'>Famous Hip Hop Graffiti Artists</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=flo-from-progressive-net-worth-2018'>Flo From Progressive Net Worth 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-give-effective-feedback-to-your-students'>How To Give Effective Feedback To Your Students</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=Steak-for-chicken-fried-steak'>Steak For Chicken Fried Steak</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=old-southern-bbq-menu-edina'>Old Southern Bbq Menu Edina</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=roasted-broccoli-with-cheese-sauce'>Roasted Broccoli With Cheese Sauce</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=buffalo-fried-cauliflower-air-fryer'>Buffalo Fried Cauliflower Air Fryer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wholesale-linen-fabric-by-the-bolt'>Wholesale Linen Fabric By The Bolt</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hotel-lobby-floor-plan-design'>Hotel Lobby Floor Plan Design</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hobby-lobby-stores-coming-soon-2019'>Hobby Lobby Stores Coming Soon 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=face-to-face-lyrics-hillsong'>Face To Face Lyrics Hillsong</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=succession-season-2-episode-8'>Succession Season 2 Episode 8</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=new-kid-in-town-youtube'>New Kid In Town Youtube</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=should-i-cut-yellow-leaves-off-bamboo'>Should I Cut Yellow Leaves Off Bamboo</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=castle-in-the-clouds-drone'>Castle In The Clouds Drone</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=glass-garage-doors-for-houses'>Glass Garage Doors For Houses</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mosaic-black-iron-outdoor-accent-table'>Mosaic Black Iron Outdoor Accent Table</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=elk-island-national-park-weather'>Elk Island National Park Weather</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=spring-5-design-patterns-github'>Spring 5 Design Patterns Github</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cost-to-install-laminate-flooring-home-depot'>Cost To Install Laminate Flooring Home Depot</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-time-to-go-to-neptune-oyster'>Best Time To Go To Neptune Oyster</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=areca-palm-propagation-from-cutting'>Areca Palm Propagation From Cutting</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=new-england-vegetable-management-guide'>New England Vegetable Management Guide</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=weird-food-habits-around-world'>Weird Food Habits Around World</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pressure-washer-hose-reel-amazon'>Pressure Washer Hose Reel Amazon</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=landscaping-classes-programs-near-me'>Landscaping Classes Programs Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hitachi-hard-disk-service-center'>Hitachi Hard Disk Service Center</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-a-fabric-covered-headboard'>How To Make A Fabric Covered Headboard</a>,
+";s:7:"expired";i:-1;}

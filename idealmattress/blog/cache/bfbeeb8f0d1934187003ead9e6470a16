@@ -1,0 +1,213 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3646:"Find out the do’s and don’ts of eating clean if you’re a beginner and enjoy delicious healthy meals for breakfast, lunch and dinner! Cubed pork tenderloin, onions, and green peppers marinate in fresh lemon juice, olive oil, soy sauce, garlic and oregano. Jamie's Sweet and Easy Corn on the Cob.  Lose weight quickly, healthfully and keep it off with delicious recipes, meal plans and articles from our Registered Dietitians. Vegan Black Bean Burgers. Low Calorie Weight Loss Indian Recipes. A warm bowl of soup can help you avoid feeling hungry all of the time when you're trying to lose weight. Perfect Summer Fruit Salad. Healthier recipes with high fiber content and low in calories, from the food and nutrition experts at EatingWell. Jerre's Black Bean and Pork Tenderloin Slow Cooker Chili. Lose weight for life with low-calorie recipes and menus, weight-loss tips from registered dietitians, and smart strategies for healthy eating. This recipe transforms the high-calorie dressing into a lighter vinaigrette and adds substance, flavor, and nutrition in the form of sun-dried tomatoes and olives. Here are 20 hearty recipes to try tonight. Follow to get the latest weight-loss recipes, articles and more! Low Calorie Weight Loss Indian Veg Recipes. Weight Loss. Look to these 25 healthy dinner ideas that are pretty easy to whip up or prepare in advance, so you can drop those last ten pounds or start your diet on a high note. Find out the do’s and don’ts of eating clean if you’re a beginner and enjoy delicious healthy meals for breakfast, lunch and dinner! Yep, you can still have tacos when you’re trying to lose weight. Turkey Veggie Meatloaf Cups. Just replace the meat with white fish and the heavy toppings with a fruit and veggie slaw, like this dish by The Recipe Critic. Szechwan Shrimp. Think of this as the Caesar salad, reimagined—the perfect healthy recipe for weight loss. Get our recipe for Grilled Caesar Salad. How does one filter the good advice from the bad, the practical suggestions from the impractical ones! Here are EatingWell’s best meal-prep recipes for weight loss that are rich in veggies, fruits, whole grains, healthy protein and fat to help you reach your weight loss goals in a healthy way. All you need is four ingredients: lemon, hearty-healthy olive oil, chives, and—last but not least—white beans, which contain nearly 4 grams of resistant starch per serving. Best Black Beans. Find healthy, delicious weight-loss and diet recipes including breakfasts, lunches and dinners. Eating out too often can impair our weight loss efforts, so it’s better to make a meal from scratch at home. Shellfish is a great source of lean protein and healthy fats to fill you up and promote weight loss. Beer Lime Grilled Chicken. Thread the meat and veggies onto skewers, then grill. Mix up your morning meal and try one—or a few—of these 5 healthy breakfast foods that Here, we’ve rounded up seven of the best healthy recipes for weight loss that will make you forget you're trying to shed pounds. Take this chili lime shrimp zucchini noodle dish for example, or maybe the smoky paprika fish tacos with apple slaw—you can almost taste the to-die-for flavor. 50 Clean Eating recipes to add to your meal plan for weight loss! Many would agree that the most difficult aspect of weight-loss is dealing with the misconceptions! When you have a healthy plan in place you’re less likely to grab take-out and processed foods on the run. A simple 3-step plan to lose weight fast, along with numerous effective weight loss tips. 50 Clean Eating recipes to add to your meal plan for weight loss! ";s:7:"keyword";s:31:"healthy recipes for weight loss";s:5:"links";s:4333:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-to-know-about-stryker'>What To Know About Stryker</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=all-star-movie-resort-food-court-menu'>All Star Movie Resort Food Court Menu</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=williams-college-athletics-staff-directory'>Williams College Athletics Staff Directory</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=guy-fieri-panama-city-beach-fl'>Guy Fieri Panama City Beach Fl</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hardware-shop-near-me-open-now'>Hardware Shop Near Me Open Now</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=washable-runner-rugs-for-hallways'>Washable Runner Rugs For Hallways</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=foam-mattress-meaning-in-tamil'>Foam Mattress Meaning In Tamil</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ceramic-casserole-dish-with-lid'>Ceramic Casserole Dish With Lid</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rough-opening-for-36-inch-metal-frame-door'>Rough Opening For 36 Inch Metal Frame Door</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=The-Filth-and-the-Fury'>The Filth And The Fury</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=stores-that-went-out-of-business-in-the-2000s'>Stores That Went Out Of Business In The 2000s</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=home-depot-credit-card-decision'>Home Depot Credit Card Decision</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bag-of-french-fries-price'>Bag Of French Fries Price</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=restaurants-in-richmond-hill-georgia'>Restaurants In Richmond Hill Georgia</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=type-of-european-pear-crossword'>Type Of European Pear Crossword</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ice-cream-near-me-now'>Ice Cream Near Me Now</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=samsung-refrigerator-display-icon-meanings'>Samsung Refrigerator Display Icon Meanings</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=longest-ski-run-in-us'>Longest Ski Run In Us</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=royal-dutch-shell-investor-relations'>Royal Dutch Shell Investor Relations</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=solid-wood-computer-desk-with-keyboard-tray'>Solid Wood Computer Desk With Keyboard Tray</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-much-does-a-tailored-living-franchise-cost'>How Much Does A Tailored Living Franchise Cost</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=stuffed-italian-frying-peppers-recipe'>Stuffed Italian Frying Peppers Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=homes-for-sale-brookline-ma'>Homes For Sale Brookline Ma</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bachelor-pad-art-of-manliness'>Bachelor Pad Art Of Manliness</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=diy-pull-out-daybed-plans'>Diy Pull Out Daybed Plans</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=karcher-1800-psi-pressure-washer-parts'>Karcher 1800 Psi Pressure Washer Parts</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kid-friendly-pizza-dough-recipe'>Kid Friendly Pizza Dough Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cook-once-eat-all-week-sample'>Cook Once Eat All Week Sample</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=blood-and-bone-2-cast'>Blood And Bone 2 Cast</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-idaho-grad-app'>University Of Idaho Grad App</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=leather-lounge-chair-and-ottoman'>Leather Lounge Chair And Ottoman</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fields-and-furrows-log-cabin-quilt'>Fields And Furrows Log Cabin Quilt</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=margarita-mix-just-add-tequila'>Margarita Mix Just Add Tequila</a>,
+";s:7:"expired";i:-1;}

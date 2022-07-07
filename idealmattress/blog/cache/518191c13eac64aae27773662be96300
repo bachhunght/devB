@@ -1,0 +1,233 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:5609:"... Share on Reddit; Here’s our ergonomic video review of the day. I'd like to try them all out, but these companies don't make that easy - there are places like an hour away for each, but they seem to be more like enterprise distribution places, not showrooms. Steelcase Leap Chair and Steelcase Amia Chair Review Posted by Human Solution on Oct 28th 2015 Reading through the features and specifications on the Steelcase Leap and Amia chairs, you may wonder what the differences are, besides aesthetics and price. However, it’s not entirely clear how the chairs are different on Steelcase’s website or through their documentation. I picked one up for $100. Steelcase Leap vs Steelcase Think Comparison … So which is the better chair, and why? Steelcase Amia Chair Review Is the Amia chair worth the money? It’s an older model and the direct predecessor to the Steelcase Leap, which is arguably the best office chair on the market today, and hints of that chair’s ancestry can be found in the Amia. I have a Leap V2. Has your chair stopped rolling? Steelcase Leap V2 vs Gesture I'm looking into buying a nice office chair and I've narrowed it down to either the Steelcase Leap V2 and the Steelcase Gesture. [Request] Herman Miller Aeron vs Steelcase Gesture Furniture I had the opportunity to try out the aeron, embody, gesture, and leap at the store for about 20 mintures each. Features Steelcase's best-selling, ergonomic office chair featuring … The Steelcase Leap/Amia look like they may be more 'comfortable' yet still offer good support. Find new casters for your model and keep your chair moving. The Leap Chair V2 by Steelcase was built on a model incorporating the most ergonomic and comfortable features in contemporary seating technology. Well, I can help you - I have an Aeron at home, and furnished my company's offices with Steelcase Think and Leap chairs (about 9 in total). Is the Leap … Its back changes shape to support the entire spine, its Natural Glide System allows you to recline and … The Leap is much better, and very good looking in the right configuration (tan leather base/wine-red back/chrome metal parts) and quite comfy too. I love my Steelcase Leap. Amia brings an element of … The Think is quite flimsy, so I don't like it. Still good price. Amia by Steelcase is a hardworking office chair designed to handle long hours of serious sitting. A significant feature of the Leap, after this research, was their ‘LiveBack’ system. Its back changes shape to support the entire spine, its Natural Glide System allows you to recline and … The Amia has a more traditional shell-like back with the lumbar adjustment resting more inside the chair, whereas the Leap’s design is slightly more breathable with more vents and a more minimalist design. Tried to negotiate but the seller wouldn't budge. The Steelcase Amia is a slightly cheaper model, and it's a good choice too, but it's so easy finding the Leap on sale that you might as well go for it, and it's just better anyway. Useful Links Leap Brochure Leap User Guide Leap Environmental Profile Leap Productivity Study LEAP, 46216179, 46216179C, 46216179CS, 46216179S, 46267179, 46267179S Leap Its back moves as your back moves, its arms move as your arms move. With in-depth research on how your back is seriously and negatively impacted from hours of sitting, the Leap chair was designed in 1999. We have replacement casters for all of our office chairs. They have a fantastic catalog so I got to pick out of some cool colors. Amia 482 Series, continued Steel Seating Dimensions cPage 104 Resources Printed Materials c Amia Brochure (11-0002073) cAmia User Guide Amia brings an element of sophistication to any workspace. Today I'm reviewing the Steelcase Leap V2 (version 2) ergonomic chair and comparing it to the Herman Miller Embody and Herman Miller Aeron office chairs.  Design Story. • Leap 464 Series WorkLounge • Criterion 453 Series Seating Specification Guide 97 Amia 482 Series Product Details Amia 482 Series 98 ... Amia 482 Series Steelcase February 2020. You can buy 3 chairs for the price of one (~$600), but in terms of quality it stands … With exceptional comfort and support, Leap provides a healthier way to sit. The Amia chair was designed by Steelcase, in collaboration with industrial designer,Thomas Overthun of IDEO. The Amia has a more traditional shell-like back with the lumbar adjustment resting more inside the chair, whereas the Leap’s design is slightly more breathable with more vents and a more minimalist design. The Steelcase Amia Office Chair is a wonder of engineering and design. First things first, the cushion on this chair is great. I got it off CL for $280. Steelcase makes some great chairs, the Steelcase Leap and Steelcase Think are two chairs that they make that are very similar but also different. Hi, I want to buy a used Steelcase Leap, I'm debating between getting a V1 or paying a little more and going for the V2, one of the main questions I have is regarding adjustable lumbar support, on the V1 this seems to be optional as not all of the ones I've seen listed have it. Both backrests are very comfortable, and should be pretty similar in feel. Amia by Steelcase is a hardworking office chair designed to handle long hours of serious sitting. Ergonomic Adjustable and Eco-friendly the Leap Chair by Steelcase is the perfect option for your work-place or home office The dynamic seat with flexible backrest takes the pressure off the spine when reclining and ensures that the back is always fully supported Choose from a number of different ";s:7:"keyword";s:29:"steelcase amia vs leap reddit";s:5:"links";s:7073:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rose-flower-garden-hd-images'>Rose Flower Garden Hd Images</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=big-brothers-big-sisters-donation-pick-up'>Big Brothers Big Sisters Donation Pick Up</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=force-10-from-navarone-full-movie-free-download'>Force 10 From Navarone Full Movie Free Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=solid-surface-countertops-vs-quartz'>Solid Surface Countertops Vs Quartz</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=most-valuable-person-on-earth'>Most Valuable Person On Earth</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=taste-of-home-parsnip-recipes'>Taste Of Home Parsnip Recipes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=can-anyone-walk-the-red-carpet'>Can Anyone Walk The Red Carpet</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-garden-of-earthly-delights-hd'>The Garden Of Earthly Delights Hd</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mexican-restaurant-appetizers-in-spanish'>Mexican Restaurant Appetizers In Spanish</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-read-the-oxford-english-dictionary'>How To Read The Oxford English Dictionary</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=why-is-a-chefs-life-ending'>Why Is A Chefs Life Ending</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=Honor-8X-price-in-China'>Honor 8X Price In China</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=liberty-furniture-morgan-creek-console-table-with-stools'>Liberty Furniture Morgan Creek Console Table With Stools</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=healthy-dinner-ideas-for-kids'>Healthy Dinner Ideas For Kids</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-bachelor-season-24-contestants'>The Bachelor Season 24 Contestants</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=william-morris-style-wallpaper-sale'>William Morris Style Wallpaper Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-grow-a-berry-garden'>How To Grow A Berry Garden</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=things-to-do-in-alexandria-va'>Things To Do In Alexandria Va</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=samsung-refrigerator-display-icon-meanings'>Samsung Refrigerator Display Icon Meanings</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=double-wide-mobile-home-additions'>Double Wide Mobile Home Additions</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=honda-pressure-washer-manual-gcv160'>Honda Pressure Washer Manual Gcv160</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=small-bedroom-furniture-ideas-india'>Small Bedroom Furniture Ideas India</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=can-i-swallow-garlic-for-weight-loss'>Can I Swallow Garlic For Weight Loss</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=original-abstract-paintings-for-sale'>Original Abstract Paintings For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=free-gardening-stuff-for-schools-2019'>Free Gardening Stuff For Schools 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dining-table-steel-frame-design'>Dining Table Steel Frame Design</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=worst-bakers-in-america-episodes'>Worst Bakers In America Episodes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hotels-with-indoor-pools-and-slides-near-me'>Hotels With Indoor Pools And Slides Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=second-hand-dining-table-and-chairs-near-me'>Second Hand Dining Table And Chairs Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=How-to-clear-a-garden'>How To Clear A Garden</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=i-beg-your-pardon-in-a-sentence'>I Beg Your Pardon In A Sentence</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=second-hand-furniture-shop-in-kl'>Second Hand Furniture Shop In Kl</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-remove-tomato-plant-stains-from-clothing'>How To Remove Tomato Plant Stains From Clothing</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=my-kitchen-rules-season-10-episode-2'>My Kitchen Rules Season 10 Episode 2</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=What-to-do-with-swede'>What To Do With Swede</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=roper-refrigerator-parts-near-me'>Roper Refrigerator Parts Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=samsung-washer-stuck-on-rinse-cycle'>Samsung Washer Stuck On Rinse Cycle</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-bamboo-poisonous-to-humans'>Is Bamboo Poisonous To Humans</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=above-ground-pool-landscaping-with-rocks'>Above Ground Pool Landscaping With Rocks</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-ski-resorts-in-switzerland'>Best Ski Resorts In Switzerland</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=great-divide-ski-area-coupon-code'>Great Divide Ski Area Coupon Code</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-clean-tv-screen-lg'>How To Clean Tv Screen Lg</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=logan-full-movie-in-hindi-hd'>Logan Full Movie In Hindi Hd</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=proxy-design-pattern-in-spring'>Proxy Design Pattern In Spring</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=blue-ribbon-brasserie-dress-code'>Blue Ribbon Brasserie Dress Code</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=graphite-gray-panel-pool-set'>Graphite Gray Panel Pool Set</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-bengali-restaurant-near-me'>Best Bengali Restaurant Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=w-hotel-afternoon-tea-kl'>W Hotel Afternoon Tea Kl</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=big-bear-snow-forecast-december-2019'>Big Bear Snow Forecast December 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=safari-baby-animals-nursery-decor-art'>Safari Baby Animals Nursery Decor Art</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=peperomia-black-spots-on-leaves'>Peperomia Black Spots On Leaves</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rustic-end-tables-set-of-2'>Rustic End Tables Set Of 2</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=eames-lounge-chair-weight-limit'>Eames Lounge Chair Weight Limit</a>,
+";s:7:"expired";i:-1;}

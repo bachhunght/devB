@@ -1,0 +1,8 @@
+[24-Oct-2021 13:18:30 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Setting' not found in /home/australiana/public_html/wp-includes/customize/class-wp-customize-filter-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/australiana/public_html/wp-includes/customize/class-wp-customize-filter-setting.php on line 19
+[12-Apr-2022 06:44:54 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/australiana/public_html/wp-includes/customize/class-wp-widget-form-customize-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/australiana/public_html/wp-includes/customize/class-wp-widget-form-customize-control.php on line 17

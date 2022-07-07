@@ -1,0 +1,262 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3164:"Furthermore, you will find detailed code examples that will help you apply a suitable pattern in your real iOS … There’s no denying it: creating animations is one of the most enjoyable parts of iOS … in iOS Model-view-controller is very widely used together with delegation and other patterns. *FREE* shipping on qualifying offers. Intermediate Learn how to combat massive view controller syndrome with MVC-N, MVVM, and other popular design patterns. iOS Animations by Tutorials: iOS 12 and Swift 4.2 edition [raywenderlich Tutorial Team, Marin Todorov] on Amazon.com. Click here for the lowest … In future post, I will go deeper into the most common and frequent design patterns.  e.g. Design Patterns by Tutorials. Swiftdesignpattern3 source https blog teamtreehouse com ios design patterns model view controller part 3 the decorator mediator and bridge patterns Pics of : Decorator Design Pattern Ios Design Patterns On Ios Using Swift Part 1 2 Raywenderlich Com -> Source : www.raywenderlich.com *FREE* shipping on qualifying offers. Learn iOS design patterns with Swift! raywenderlich.com Subscription. Learn Android, Kotlin, Swift, & iOS development and unlock our massive catalog of courses, tutorials and screencasts. by raywenderlich Tutorial Team, Joshua ... More Buying Choices $55.99 (5 new offers) iOS Apprentice (Eighth Edition): Beginning iOS Development with Swift and UIKit. First, you’re already using tons of iOS design patterns thanks to the way Cocoa is built and the best practices you’re encouraged to use. Design Patterns on iOS using Swift – Part 2/2. Design Patterns by Tutorials (Third Edition): Learning Design Patterns in Swift. This book starts with basic patterns like MVC, Delegate and Strategy, and then moves into more advanced patterns such as the Factory, Prototype, Multicast Delegate, Flyweight, Command, and more. Design Patterns by Tutorials (Third Edition): Learning Design Patterns in Swift by raywenderlich Tutorial Team, Joshua Greene, Jay Strawn. Design patterns are reusable and… Learn about common design patterns when building iOS apps, and how you can apply these patterns in your own apps, in this 2-part tutorial. I'm doing a small research of mobile platforms and I would like to know which design patterns are used in Android? This article describes the most common iOS app design patterns including Singleton, Factory Method, and Abstract Factory. Second, this tutorial will bring you up to speed on all the major (and not so major) iOS design patterns that are commonly used in Cocoa. Make Delightful Animations with Swift! You will know how to use each pattern and what each of them is best to use for. With plans from just $14.99/mo, the raywenderlich.com subscription is the best way to improve your coding. If you’re new to design patterns, then I have good news for you! App Architecture: iOS Application Design Patterns in Swift [Chris Eidhof, Matt Gallagher, Florian Kugler] on Amazon.com. This book explains a range of application design patterns and their implementation techniques using a single example app This post is a brief introduction about common design patterns in Swift. ";s:7:"keyword";s:36:"design patterns in ios raywenderlich";s:5:"links";s:11354:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cooking-fresh-green-beans-country-style'>Cooking Fresh Green Beans Country Style</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=onion-during-pregnancy-first-trimester'>Onion During Pregnancy First Trimester</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=images-of-greenhouse-effect-and-global-warming'>Images Of Greenhouse Effect And Global Warming</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lake-tahoe-things-to-do'>Lake Tahoe Things To Do</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=5-minute-indian-snacks-recipes'>5 Minute Indian Snacks Recipes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=tu-delft-undergraduate-tuition-and-fees'>Tu Delft Undergraduate Tuition And Fees</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bench-partner-meaning-in-hindi'>Bench Partner Meaning In Hindi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hikes-near-fallen-leaf-lake'>Hikes Near Fallen Leaf Lake</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fast-food-restaurants-in-elko-nv'>Fast Food Restaurants In Elko Nv</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-get-the-tag-name-in-cucumber'>How To Get The Tag Name In Cucumber</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=silver-bedroom-set-ashley-furniture'>Silver Bedroom Set Ashley Furniture</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=non-slip-bathroom-floor-tiles'>Non Slip Bathroom Floor Tiles</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=2-bedroom-bungalow-floor-plans'>2 Bedroom Bungalow Floor Plans</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=catholic-charities-baltimore-rental-assistance'>Catholic Charities Baltimore Rental Assistance</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=stir-fry-green-beans-soy-sauce'>Stir Fry Green Beans Soy Sauce</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sauteed-brussel-sprouts-with-onions'>Sauteed Brussel Sprouts With Onions</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=new-kid-in-town-youtube'>New Kid In Town Youtube</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sofa-colors-for-small-living-room'>Sofa Colors For Small Living Room</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-descale-dupray-steamer'>How To Descale Dupray Steamer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cambridge-dictionary-free-download-full-version-for-mobile'>Cambridge Dictionary Free Download Full Version For Mobile</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=carbonara-sauce-recipe-with-cream'>Carbonara Sauce Recipe With Cream</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-canning-recipes-for-gifts'>Best Canning Recipes For Gifts</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-much-unripe-papaya-can-cause-abortion'>How Much Unripe Papaya Can Cause Abortion</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=john-wick-chapter-2-game'>John Wick Chapter 2 Game</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=award-winning-vodka-sauce-recipe'>Award Winning Vodka Sauce Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-melbourne-courses-for-international-students'>University Of Melbourne Courses For International Students</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=oil-painting-ideas-for-living-room'>Oil Painting Ideas For Living Room</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-power-of-punctuation-editing-exercise'>The Power Of Punctuation Editing Exercise</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cut-pampas-grass-for-sale'>Cut Pampas Grass For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-much-papaya-should-i-eat-per-day'>How Much Papaya Should I Eat Per Day</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=maytag-front-load-washer-not-spinning-clothes-dry'>Maytag Front Load Washer Not Spinning Clothes Dry</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=jasper-in-january-marmot-basin'>Jasper In January Marmot Basin</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=diy-modern-industrial-coffee-table'>Diy Modern Industrial Coffee Table</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chicken-ginger-recipe-by-faiza'>Chicken Ginger Recipe By Faiza</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=park-city-main-street-webcam'>Park City Main Street Webcam</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bed-bath-and-beyond-checkout'>Bed Bath And Beyond Checkout</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=craigslist-mobile-homes-for-rent-by-owner-near-me'>Craigslist Mobile Homes For Rent By Owner Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-northern-iowa-address'>University Of Northern Iowa Address</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=italian-marble-dining-table-singapore'>Italian Marble Dining Table Singapore</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=good-luck-bamboo-growth-spray'>Good Luck Bamboo Growth Spray</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=environmental-benefits-of-home-gardening'>Environmental Benefits Of Home Gardening</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=used-wooden-stools-for-sale'>Used Wooden Stools For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-storables-out-of-business'>Is Storables Out Of Business</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=a-new-tomato-ideal-for-urban-gardens-and-even-outer-space'>A New Tomato Ideal For Urban Gardens And Even Outer Space</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=east-side-marios-menu-prices-ontario'>East Side Marios Menu Prices Ontario</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=diners-drive-ins-and-dives-season-30-episode-10'>Diners Drive Ins And Dives Season 30 Episode 10</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=farmhouse-for-sale-in-texas'>Farmhouse For Sale In Texas</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-telemark-skiing-bad-for-knees'>Is Telemark Skiing Bad For Knees</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=72-inch-high-closet-doors'>72 Inch High Closet Doors</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fantastic-four-2005-full-movie'>Fantastic Four 2005 Full Movie</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=simplehuman-sensor-stainless-steel-soap-pump'>Simplehuman Sensor Stainless Steel Soap Pump</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=vax-blade-2-max-review'>Vax Blade 2 Max Review</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=new-restaurants-coming-to-owensboro-ky'>New Restaurants Coming To Owensboro Ky</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=home-centre-customer-care-mail-id'>Home Centre Customer Care Mail Id</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=keto-beef-stroganoff-with-zoodles'>Keto Beef Stroganoff With Zoodles</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=james-badge-dale-movies-and-tv-shows'>James Badge Dale Movies And Tv Shows</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=screw-in-pendant-light-conversion-kit-lowes'>Screw In Pendant Light Conversion Kit Lowes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-color-accent-wall-goes-with-grey'>What Color Accent Wall Goes With Grey</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-a-small-kitchen-look-bigger-with-paint'>How To Make A Small Kitchen Look Bigger With Paint</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=augmented-reality-home-design-app'>Augmented Reality Home Design App</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ice-age-the-meltdown-trailer'>Ice Age The Meltdown Trailer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=my-vegetable-garden-paragraph-for-class-4'>My Vegetable Garden Paragraph For Class 4</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-to-sell-abstract-art'>Where To Sell Abstract Art</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=original-pancake-house-near-me'>Original Pancake House Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=honor-20-lite-price-philippines'>Honor 20 Lite Price Philippines</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-factory-reset-toshiba-satellite-laptop-windows-7-without-cd'>How To Factory Reset Toshiba Satellite Laptop Windows 7 Without Cd</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=american-society-for-the-prevention-of-cruelty-to-animals-dba-aspca'>American Society For The Prevention Of Cruelty To Animals Dba Aspca</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-books-on-japanese-design'>Best Books On Japanese Design</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=one-straw-revolution-in-tamil'>One Straw Revolution In Tamil</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=redeemer-university-college-tuition-fees-for-international-students'>Redeemer University College Tuition Fees For International Students</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-westminster-student-hub'>University Of Westminster Student Hub</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ge-refrigerator-control-board-reset'>Ge Refrigerator Control Board Reset</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fiction-books-for-plant-lovers'>Fiction Books For Plant Lovers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=landscaping-ideas-for-shaded-back-of-house'>Landscaping Ideas For Shaded Back Of House</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sur-la-table-classes-ridge-hill'>Sur La Table Classes Ridge Hill</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=structural-requirements-for-a-green-roof'>Structural Requirements For A Green Roof</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-soak-almonds-overnight'>How To Soak Almonds Overnight</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=doterra-lavender-uses-and-benefits'>Doterra Lavender Uses And Benefits</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=panasonic-iron-box-made-in-malaysia'>Panasonic Iron Box Made In Malaysia</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-style-does-philippe-starck-work-in'>What Style Does Philippe Starck Work In</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=baby-toys-images-with-price'>Baby Toys Images With Price</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-lucky-bamboo-toxic-to-cats'>Is Lucky Bamboo Toxic To Cats</a>,
+";s:7:"expired";i:-1;}

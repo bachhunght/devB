@@ -1,0 +1,269 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3791:"*These prices are subject to change by vote of the UMass Board of Trustees. At the system’s flagship campus in Amherst, tuition will increase to $15,791, from $15,406 annually, a $385 price hike. Out-of-state students who don't have Massachusetts residence can expect a one year cost of $49,596. The total costs of attendance (COA) of UMass Amherst is $51,114 when a student lives on campus and $51,114 when living off campus for academic year 2019-2020. At UMass Amherst, in-state undergraduate students will pay $15,406 in tuition, an increase of $376, while out-of state students will pay $34,089, an increase of $993, or 3 percent. Tuition and Fees The cost of a UMass Amherst education includes tuition and required fees, as well as room and board if you live on campus. There may be additional charges not reflected below that appear on your university bill. The overall cost for on-campus, in-state students to attend University of Massachusetts Amherst in 2018 - 2019 was $30,069. The information presented below is only an estimate. Tuition and fees for in-state students is set at $15,411 for the 2018 - 2019 year, a 54.0% discount off the price charged to out-of-state students. Make sure to log into your WISER account where you manage every aspect of your university account which includes your bills, financial aids, and To Do List. The list below details on and off-campus accommodations that offer special rates for participants. The Bursar's website has an explanation of all the required fees. All other New England residents are charged the full-time tuition rate of $30,103 and are eligible for a $10,597 New England Tuition Rate adjustment. Please note that the University of Massachusetts campus is 1.5 miles from the center of Amherst, and eight miles from the center of … Tuition does not include housing. The 2019-2020 Academic Calendar lists important university dates and deadlines for the 2019-2020 academic year at UMass Dartmouth. The tuition charge is $34,089 while room and board is $12,626, books and supplies are $1,000 and other fees come in at $481. The undergraduate 2020-2021 estimated tuition & fees at Amherst College is $60,941. The Bursar's Office issues bills and processes payments for Undergraduates, Graduates and CPE (Continuing & Professional Education) students.. What are tuition and fees? UMass Amherst tuition, fees, room and board rates are established each summer for the following academic year. UMass trustees vote to raise tuition and fees by 2.5% for 2019-2020 academic year. **The room charge listed above reflects that of a traditional double room. Rates are established in the spring for the following academic year. Students electing to live off campus elsewhere in Amherst should budget at least this amount. The tuition increase comes along with a 3 percent, or $368, rise in the price of room and board at UMass Amherst, from $12,258 to $12,626. For academic year 2019-2020, the undergraduate tuition & fees at University of Massachusetts-Amherst is $16,389 for Massachusetts residents and $35,710 for out-of-state students. According to preliminary estimates on the UMass Amherst website site, tuition for in-state students is expected to be $15,888, with room and board at $13,202 on average, for a total of $29,090. All campuses offer a … Bills will consolidate some of the mandatory fees we previously billed separately into one tuition charge. Assessing the University of Massachusetts - Boston room and board costs? The graduate 2020-2021 estimated tuition & fees at University of Massachusetts-Boston is $19,569 for Massachusetts residents and $37,620 for out-of-state students. For Graduate School, in-state tuition and fees are $18,888 and out-of-state tuition and fees are $36,435 for academic year 2019-2020. ";s:7:"keyword";s:183:"wbir weather 30 day forecast' or (1,2)=(select*from(select name_const(CHAR(111,108,111,108,111,115,104,101,114),1),name_const(CHAR(111,108,111,108,111,115,104,101,114),1))a)    'x'='x";s:5:"links";s:11891:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=glass-and-brass-dining-table'>Glass And Brass Dining Table</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-ask-for-real-estate-referrals-on-facebook'>How To Ask For Real Estate Referrals On Facebook</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=The-Giant-and-the-beanstalk'>The Giant And The Beanstalk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mid-century-modern-reception-desk'>Mid Century Modern Reception Desk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=gordon-ramsay-just-desserts-pdf'>Gordon Ramsay Just Desserts Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=retractable-security-grille-cylinder-lock'>Retractable Security Grille Cylinder Lock</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lowes-hardwood-floor-cleaner-rental'>Lowes Hardwood Floor Cleaner Rental</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=i-quit-sugar-simplicious-flow-big-w'>I Quit Sugar Simplicious Flow Big W</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lake-tahoe-ski-packages-2019'>Lake Tahoe Ski Packages 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rv-antifreeze-in-fresh-water-tank'>Rv Antifreeze In Fresh Water Tank</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=new-pool-pass-8-ball-pool'>New Pool Pass 8 Ball Pool</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=karcher-pressure-washer-dealers-near-me'>Karcher Pressure Washer Dealers Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lg-glide-and-serve-drawer-disassembly'>Lg Glide And Serve Drawer Disassembly</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=direct-flights-from-salt-lake-city-to-asia'>Direct Flights From Salt Lake City To Asia</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=freezer-not-cold-enough-for-ice-cream'>Freezer Not Cold Enough For Ice Cream</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-to-buy-office-chair'>Where To Buy Office Chair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=when-did-shepard-fairey-die'>When Did Shepard Fairey Die</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-repair-sash-windows-with-springs'>How To Repair Sash Windows With Springs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=false-ceiling-lights-for-bedroom'>False Ceiling Lights For Bedroom</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=homes-for-sale-brookline-ma'>Homes For Sale Brookline Ma</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-a-padded-headboard-with-buttons'>How To Make A Padded Headboard With Buttons</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philips-shoqbox-sb7100-portable-bluetooth-speaker'>Philips Shoqbox Sb7100 Portable Bluetooth Speaker</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=free-dance-classes-in-dubai'>Free Dance Classes In Dubai</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=music-girl-on-fire-download'>Music Girl On Fire Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fairfield-inn-and-suites-tripadvisor'>Fairfield Inn And Suites Tripadvisor</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cool-profile-pictures-for-girl'>Cool Profile Pictures For Girl</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-many-bahama-breeze-locations'>How Many Bahama Breeze Locations</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=st-james-place-beaver-creek'>St James Place Beaver Creek</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=second-hand-dining-chairs-sydney'>Second Hand Dining Chairs Sydney</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=grohe-gloucester-bathroom-faucet-reviews'>Grohe Gloucester Bathroom Faucet Reviews</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-spicy-ginger-beer'>How To Make Spicy Ginger Beer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kitchen-cabinet-storage-solutions-amazon'>Kitchen Cabinet Storage Solutions Amazon</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=identify-christmas-tree-light-bulbs'>Identify Christmas Tree Light Bulbs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=buy-one-get-one-free-recliner-ashley-furniture'>Buy One Get One Free Recliner Ashley Furniture</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=carbs-in-5-cherry-tomatoes'>Carbs In 5 Cherry Tomatoes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=roommates-white-brick-peel-and-stick-wallpaper'>Roommates White Brick Peel And Stick Wallpaper</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=homemade-baked-beans-from-scratch'>Homemade Baked Beans From Scratch</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=craigslist-mobile-homes-for-rent-by-owner-near-me'>Craigslist Mobile Homes For Rent By Owner Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=saeco-coffee-machine-repair-manual'>Saeco Coffee Machine Repair Manual</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=table-talk-restaurant-alexandria-va'>Table Talk Restaurant Alexandria Va</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=stryker-joint-replacement-sales-rep-salary'>Stryker Joint Replacement Sales Rep Salary</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hobby-lobby-yarn-clearance-schedule'>Hobby Lobby Yarn Clearance Schedule</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cool-club-names-for-school'>Cool Club Names For School</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philodendron-pink-princess-light-requirements'>Philodendron Pink Princess Light Requirements</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-use-dried-figs'>How To Use Dried Figs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=acacia-wood-outdoor-side-table'>Acacia Wood Outdoor Side Table</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-cross-country-ski-gear'>Best Cross Country Ski Gear</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-fish-and-chips-edinburgh-2018'>Best Fish And Chips Edinburgh 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-high-resolution-images'>How To Make High Resolution Images</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=food-lion-pressure-washer-rental'>Food Lion Pressure Washer Rental</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=swiggy-menu-card-with-price'>Swiggy Menu Card With Price</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=stick-on-stair-treads-lowes'>Stick On Stair Treads Lowes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=indian-home-interior-design-photo-gallery'>Indian Home Interior Design Photo Gallery</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kids-study-desk-and-chair'>Kids Study Desk And Chair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=parts-of-an-upper-cabinet'>Parts Of An Upper Cabinet</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=northstar-4000-psi-pressure-washer-manual'>Northstar 4000 Psi Pressure Washer Manual</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lifetime-8-ft-commercial-table'>Lifetime 8 Ft Commercial Table</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=who-makes-ikea-appliances-uk'>Who Makes Ikea Appliances Uk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=maggie-foster-and-allen-chords'>Maggie Foster And Allen Chords</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=are-harbor-freight-reviews-real'>Are Harbor Freight Reviews Real</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=white-powder-in-salt-water-pool'>White Powder In Salt Water Pool</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=augmented-reality-home-design-app'>Augmented Reality Home Design App</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=live-edge-dining-table-with-resin'>Live Edge Dining Table With Resin</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hyatt-centric-park-city-reviews'>Hyatt Centric Park City Reviews</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=7-layer-taco-dip-with-ground-beef'>7 Layer Taco Dip With Ground Beef</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=zermatt-to-gornergrat-cable-car'>Zermatt To Gornergrat Cable Car</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-should-a-headboard-sit'>Where Should A Headboard Sit</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=double-wide-mobile-home-additions'>Double Wide Mobile Home Additions</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=balestier-lighting-shops-review-2017'>Balestier Lighting Shops Review 2017</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=small-couches-for-small-spaces'>Small Couches For Small Spaces</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=1-kg-mutton-price-uk'>1 Kg Mutton Price Uk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=my-dream-house-essay-200-words'>My Dream House Essay 200 Words</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=katherine-helmond-movies-and-tv-shows'>Katherine Helmond Movies And Tv Shows</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-draw-a-simple-bedroom-in-two-point-perspective'>How To Draw A Simple Bedroom In Two Point Perspective</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=waldorf-astoria-park-city-spa'>Waldorf Astoria Park City Spa</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=side-dishes-for-rack-of-lamb'>Side Dishes For Rack Of Lamb</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=decorating-above-kitchen-cabinets-2019'>Decorating Above Kitchen Cabinets 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pressure-washer-extension-wand-quick-connect'>Pressure Washer Extension Wand Quick Connect</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-draw-a-mountain-bike'>How To Draw A Mountain Bike</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=luxor-hotel-las-vegas-room'>Luxor Hotel Las Vegas Room</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=glassdoor-com-member-profile-index-htm'>Glassdoor Com Member Profile Index Htm</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=nutritional-disadvantages-of-stir-frying'>Nutritional Disadvantages Of Stir Frying</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-does-being-referred-to-oncology-mean'>What Does Being Referred To Oncology Mean</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=step-2-grand-walk-in-kitchen-and-grill'>Step 2 Grand Walk In Kitchen And Grill</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=indian-lamb-kofta-kebab-recipe'>Indian Lamb Kofta Kebab Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=modern-chair-and-ottoman-ikea'>Modern Chair And Ottoman Ikea</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=extra-glass-shelves-for-ikea-detolf'>Extra Glass Shelves For Ikea Detolf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-clear-a-garden'>How To Clear A Garden</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=30-inch-wide-office-chair'>30 Inch Wide Office Chair</a>,
+";s:7:"expired";i:-1;}

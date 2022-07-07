@@ -1,0 +1,244 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4163:"Habitat for Humanity Sarasota is the leading organization that provides permanent, affordable housing to income-qualified families in Sarasota. Build with us! Apply to Executive Administrator, Business Development Specialist, Development Manager and more! federal tax # 65-0484034. manatee habitat does not use paid solicitors. Habitat for Humanity partners with people to help them build a place they can call home. Learn More. Habitat for Humanity ReStore: East Bay/Silicon Valley is a nonprofit discount home improvement store and donation center benefiting the local community. Habitat homeowners help build their own homes alongside volunteers, and pay an affordable mortgage. Please use the forms below to find and contact a Habitat or ReStore near you to learn more. The Habitat ReStore sells building materials, appliances, new and gently-used furniture, and home accessories to the public at a fraction of the retail price. Habitat for Humanity of Montgomery and Delaware Counties partners with local residents to help them build or improve a place they can call home. Database of Habitat For Humanity Restore stores, factory stores and the easiest way to find Habitat For Humanity Restore store locations, map, shopping hours and information about brand. We're a nonprofit working with low-income families to build affordable homes. Habitat For Humanity Restore store locator displays list of stores in neighborhood, cities, states and countries. a copy of the official registration and financial information of the manatee county habitat for humanity may be obtained from the division of consumer services by calling 1-800-435-7352 within the state or from the website www.800helpfla.com. Habitat for Humanity Canada is a national, non-profit organization working towards a world where everyone has a safe and decent place to live. Thank you for your interest in volunteering with Habitat NYC! 132 Habitat For Humanity jobs available on Indeed.com. To us and millions of people around the world, there is no better expression of love than to help our neighbors purchase their own home. Habitat for Humanity International: Habitat for Humanity of Greater Portland is an affiliate of Habitat for Humanity International. Habitat ReStore locations: 371 Chatham Drive - Newport News; 1303 Jamestown Road - Williamsburg. Habitat for Humanity Sarasota is the leading organization that provides permanent, affordable housing to income-qualified families in Sarasota. The store is owned and operated by Raritan Valley Habitat for Humanity Donate, volunteer and advocate to build a better city. Habitat for Humanity Peninsula and Greater Williamsburg is a nonprofit that builds strength, stability and self-reliance through housing. Get involved! more... View all Habitat for Humanity jobs in Clearwater, FL - Clearwater jobs Habitat for Humanity MetroWest/Greater Worcester complies with the U.S. policy for the achievement of equal housing opportunity throughout the nation. Habitat has volunteer, homeownership and ReStore donation and shopping opportunities in your local area. Building & preserving New York City’s hard-working communities. There are many ways to get involved with Habitat for Humanity near you. Rep. Maloney Introduces Bill to Get Dangerous Contaminants Out of Habitat Homes Habitat for Humanity in Nassau County Partners with the NPD Group to Break New Ground Advocacy Day 2019 All Habitat affiliates are asked to “tithe”—to give 10 percent of their contributions to fund house-building work in other nations. Habitat for Humanity envisions a world where everyone has a decent place to live. Habitat for Humanity RGVs Disaster Recovery Program is assisting families affected by the June 2019 floods. We’re excited to share with you all the ways in which you can get involved, whether as an individual or a group. You can also find out where we build around the world. ... Habitat for Humanity New York City is a tax-exempt 501(C)(3) nonprofit organization.  The Lira Ramirez Family is one of more than 250 families that have applied for assistance. Have questions before you sign up? Habitat For Humanity Restore Store locator. ";s:7:"keyword";s:28:"habitat for humanity near me";s:5:"links";s:8402:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=samsung-freezer-door-handle-broken'>Samsung Freezer Door Handle Broken</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kootenay-national-park-to-banff'>Kootenay National Park To Banff</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hisense-mini-fridge-temperature-control'>Hisense Mini Fridge Temperature Control</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ideas-to-cover-an-open-kitchen'>Ideas To Cover An Open Kitchen</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mid-century-fabric-rocking-chair'>Mid Century Fabric Rocking Chair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=department-stores-that-sell-furniture'>Department Stores That Sell Furniture</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=small-kitchen-design-layout-10x10'>Small Kitchen Design Layout 10x10</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-kitchen-garden-harry-dodson'>The Kitchen Garden Harry Dodson</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bring-me-home-song-les-miserables'>Bring Me Home Song Les Miserables</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ibm-package-for-freshers-2019'>Ibm Package For Freshers 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-brunch-in-dubai-2018'>Best Brunch In Dubai 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=samsung-10kg-top-loader-wa10j7750gw1'>Samsung 10kg Top Loader Wa10j7750gw1</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=murphy-bed-with-tv-on-back'>Murphy Bed With Tv On Back</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sell-for-me-on-ebay'>Sell For Me On Ebay</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dresden-files-peace-talks-amazon'>Dresden Files Peace Talks Amazon</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=gen-korean-bbq-near-me'>Gen Korean Bbq Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=crockpot-cheesy-potatoes-with-tater-tots'>Crockpot Cheesy Potatoes With Tater Tots</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=masonite-door-where-to-buy'>Masonite Door Where To Buy</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-do-canvas-painting'>How To Do Canvas Painting</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=list-of-home-depot-stores'>List Of Home Depot Stores</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=foods-not-to-put-in-fridge'>Foods Not To Put In Fridge</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kayon-jungle-resort-pool-villa'>Kayon Jungle Resort Pool Villa</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=beef-taco-lettuce-wraps-keto'>Beef Taco Lettuce Wraps Keto</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=furniture-row-in-chattanooga-tn'>Furniture Row In Chattanooga Tn</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=nutritional-disadvantages-of-stir-frying'>Nutritional Disadvantages Of Stir Frying</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=appium-python-tutorial-for-beginners'>Appium Python Tutorial For Beginners</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=above-ground-pool-deck-ideas'>Above Ground Pool Deck Ideas</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=beni-shoga-where-to-buy'>Beni Shoga Where To Buy</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=are-liberty-and-freedom-synonyms'>Are Liberty And Freedom Synonyms</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-decorate-a-wall-shelf'>How To Decorate A Wall Shelf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=under-armour-womens-shoes-clearance'>Under Armour Womens Shoes Clearance</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=led-ceiling-lights-for-living-room'>Led Ceiling Lights For Living Room</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mutton-rogan-josh-without-onion-garlic'>Mutton Rogan Josh Without Onion Garlic</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hygge-and-west-removable-wallpaper'>Hygge And West Removable Wallpaper</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=buzios-brazil-real-estate-for-sale'>Buzios Brazil Real Estate For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=biryani-banane-ka-tarika-hindi-mai'>Biryani Banane Ka Tarika Hindi Mai</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-use-mango-for-skin-care'>How To Use Mango For Skin Care</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=signify-innovations-india-limited-share-price'>Signify Innovations India Limited Share Price</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-is-lookout-pass-in-montana'>Where Is Lookout Pass In Montana</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=williams-college-athletics-staff-directory'>Williams College Athletics Staff Directory</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=swing-arm-wall-lamp-lowes'>Swing Arm Wall Lamp Lowes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=frec-approved-real-estate-schools'>Frec Approved Real Estate Schools</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=walk-in-closet-designs-for-a-master-bedroom'>Walk In Closet Designs For A Master Bedroom</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-build-a-garden-bench'>How To Build A Garden Bench</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=indian-lamb-kofta-kebab-recipe'>Indian Lamb Kofta Kebab Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=loved-it-meaning-in-hindi'>Loved It Meaning In Hindi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-winterize-a-salt-water-pool'>How To Winterize A Salt Water Pool</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=enclosed-tv-cabinet-with-doors'>Enclosed Tv Cabinet With Doors</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-thrift-stores-le-marais'>Best Thrift Stores Le Marais</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=The-I-hate-to-cook-book'>The I Hate To Cook Book</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=italian-marble-dining-table-singapore'>Italian Marble Dining Table Singapore</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=seth-curry-net-worth-2019'>Seth Curry Net Worth 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=design-within-reach-corporate-office'>Design Within Reach Corporate Office</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=salisbury-steak-with-mushroom-gravy-pioneer-woman'>Salisbury Steak With Mushroom Gravy Pioneer Woman</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=easy-chocolate-desserts-to-impress'>Easy Chocolate Desserts To Impress</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ibm-manyata-tech-park-reviews'>Ibm Manyata Tech Park Reviews</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chocolate-and-vanilla-panna-cotta'>Chocolate And Vanilla Panna Cotta</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-do-rudbeckia-seedlings-look-like'>What Do Rudbeckia Seedlings Look Like</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=low-to-the-ground-chairs'>Low To The Ground Chairs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=huawei-p30-pro-price-in-europe'>Huawei P30 Pro Price In Europe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=opening-wall-between-kitchen-and-dining-room'>Opening Wall Between Kitchen And Dining Room</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wayfair-address-and-phone-number'>Wayfair Address And Phone Number</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-affordable-restaurants-in-paris-2019'>Best Affordable Restaurants In Paris 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=blue-lagoon-gin-orange-750ml-price-in-india'>Blue Lagoon Gin Orange 750ml Price In India</a>,
+";s:7:"expired";i:-1;}

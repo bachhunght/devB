@@ -1,0 +1,277 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2771:"8th Annual Skyline Indie Film Fest . THE FESTIVAL & RVA. Over 70 films will be screened and more than 80 guest artists and speakers are expected to participate. The festival, which will run through Sunday, is a program of the University of Virginia and its Office of the Provost and Vice Provost for the Arts. Who We Are. It means doing something because you love it. The 32 nd annual Virginia Film Festival will kick off Wednesday night, bringing highly anticipated films and their creators to Charlottesville and the University of Virginia. The blue-hued morning mist hugs the Blue Ridge and Allegheny mountains. What is Experimental Film Virginia? 2020 Sponsors In kind contributions Prize Donors Get Involved. We caught up with John Kelly, head of communications for the festival… Call for Entries Now Open. Our mission is to present high-quality, well-crafted stories that celebrate the diaspora and encourage people to connect. Park City, UT — The nonprofit Sundance Institute announced today the showcase of new independent feature films selected across all categories for the 2019 Sundance Film Festival. Festival Dates September 10-13, 2020 Festival Passes and Day Passes Available Soon! The 27th James River Film Festival RVA runs March 18-22, 2020 with events screening at the VA Museum of Fine Arts, Byrd Theatre, VCU's Grace St. Theater, Gallery 5 … Secure your TICKETS now! What Does “Indie” Mean To You? Annual film showcase that raises awareness of environmental issues relevant to the Richmond, VA region, our nation, and our planet. From the toe-tapping Festy Experience to the Virginia Beach Neptune Festival and the artsy Virginia Highlands Festival, the state of Virginia packs a lot of festival fun. RECORD-BREAKING 14,259 SUBMISSIONS FROM 152 COUNTRIES Pahokee, photo by Patrick Bresnan. The Festival presents a rich array of panel discussions addressing both high and low budget filmmaking. Afrikana is a film festival dedicated to showcasing the cinematic works of people of color from around the world. Here at Skyline Indie Film Fest, indie means off the beaten path. Experience all the world has to offer - Find friends. Experimental Film Virginia, Virginia's most unique film festival.  Revel on. Seminars, panels, receptions and party after party, lead up to an elaborate Oscar-style Awards Ceremony held at the Mosaic in Fairfax, Virginia, home of the beautiful Angelika Film Center! Launched in 2013 by a National Endowment for the Arts grant, Experimental Film Virginia is a celebration and an exploration, an art-soaked film-making residency for artists with live performance events for … Congrats to Parasite, featured at the 2019 Virginia Film Festival, on becoming the first South Korean film to take home a Golden Globe! ";s:7:"keyword";s:33:"virginia film festival 2019 dates";s:5:"links";s:13087:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-is-a-rain-garden-and-how-does-it-work'>What Is A Rain Garden And How Does It Work</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=heavy-duty-wood-screen-doors'>Heavy Duty Wood Screen Doors</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=types-of-tourism-destination-pdf'>Types Of Tourism Destination Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=i-quit-sugar-simplicious-flow-big-w'>I Quit Sugar Simplicious Flow Big W</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=eldora-ski-pass-discount-code'>Eldora Ski Pass Discount Code</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=3-drawer-bedside-table-white'>3 Drawer Bedside Table White</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-display-furniture-in-shop'>How To Display Furniture In Shop</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=baby-posters-for-pregnant-lady-walmart'>Baby Posters For Pregnant Lady Walmart</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=floors-of-the-house-in-spanish'>Floors Of The House In Spanish</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-tasting-alcohol-to-drink-straight'>Best Tasting Alcohol To Drink Straight</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=family-friendly-restaurants-marais-paris'>Family Friendly Restaurants Marais Paris</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ikea-furniture-names-in-deadpool'>Ikea Furniture Names In Deadpool</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=small-wooden-almirah-for-kitchen'>Small Wooden Almirah For Kitchen</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=houses-for-rent-in-brampton-1500'>Houses For Rent In Brampton 1500</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-size-slipcover-for-chair-and-a-half'>What Size Slipcover For Chair And A Half</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=king-size-headboard-with-storage'>King Size Headboard With Storage</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=object-oriented-programming-python-for-beginners'>Object Oriented Programming Python For Beginners</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=duravit-price-list-2018-india-pdf'>Duravit Price List 2018 India Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-ripen-papaya-after-cutting'>How To Ripen Papaya After Cutting</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=on-it-transit-calgary-to-banff'>On It Transit Calgary To Banff</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=restaurants-with-private-dining-near-me'>Restaurants With Private Dining Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-balance-a-bedroom-with-only-one-night-stand'>How To Balance A Bedroom With Only One Night Stand</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=meaning-of-lamb-in-hindi'>Meaning Of Lamb In Hindi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hdb-2-room-flexi-flat-interior-design'>Hdb 2 Room Flexi Flat Interior Design</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=master-bedroom-with-bathroom-and-walk-in-closet-design-ideas'>Master Bedroom With Bathroom And Walk In Closet Design Ideas</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=luther-season-5-episode-1-netflix'>Luther Season 5 Episode 1 Netflix</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ritz-afternoon-tea-dress-code'>Ritz Afternoon Tea Dress Code</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=A-Crime-in-the-Neighborhood'>A Crime In The Neighborhood</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pressure-washer-for-sale-in-inland-empire'>Pressure Washer For Sale In Inland Empire</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bed-bath-and-beyond-pub-table'>Bed Bath And Beyond Pub Table</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-is-ownership-in-law'>What Is Ownership In Law</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=plastic-under-bed-storage-bins'>Plastic Under Bed Storage Bins</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=Two-and-a-Half-Men'>Two And A Half Men</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=easy-outdoor-christmas-decorating-ideas'>Easy Outdoor Christmas Decorating Ideas</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=two-person-recliner-big-lots'>Two Person Recliner Big Lots</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=vail-lift-ticket-prices-2019'>Vail Lift Ticket Prices 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=my-kitchen-rules-season-9-winner'>My Kitchen Rules Season 9 Winner</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hamour-fish-name-in-urdu'>Hamour Fish Name In Urdu</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=madonna-of-the-rocks-symbolism'>Madonna Of The Rocks Symbolism</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=latest-sofa-designs-pictures-2019'>Latest Sofa Designs Pictures 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-cook-spare-ribs-on-gas-grill-in-foil'>How To Cook Spare Ribs On Gas Grill In Foil</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-a-banana-a-herb'>Is A Banana A Herb</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=teton-village-sports-ski-rentals'>Teton Village Sports Ski Rentals</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=custom-size-exterior-doors-fiberglass'>Custom Size Exterior Doors Fiberglass</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=shoe-stores-near-my-location'>Shoe Stores Near My Location</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=against-her-will-an-incident-in-baltimore'>Against Her Will An Incident In Baltimore</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dessert-recipes-with-pancake-mix'>Dessert Recipes With Pancake Mix</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=this-week-with-george-stephanopoulos-roundtable-members-today'>This Week With George Stephanopoulos Roundtable Members Today</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=zell-am-see-things-to-do'>Zell Am See Things To Do</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-block-competition-2019-volkswagen'>The Block Competition 2019 Volkswagen</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-university-of-oregon-good-for-computer-science'>Is University Of Oregon Good For Computer Science</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=it-chapter-2-age-rating'>It Chapter 2 Age Rating</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=order-place-meaning-in-hindi'>Order Place Meaning In Hindi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=storage-bins-with-lids-12-quart'>Storage Bins With Lids 12 Quart</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=50-trees-name-in-english-to-tamil'>50 Trees Name In English To Tamil</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=waldorf-astoria-park-city-spa'>Waldorf Astoria Park City Spa</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=tabela-brasileir%C3%A3o-2019-serie-b'>Tabela Brasileirão 2019 Serie B</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=force-10-from-navarone-full-movie-free-download'>Force 10 From Navarone Full Movie Free Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=who-chooses-title-company-in-california'>Who Chooses Title Company In California</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cabinet-maker-apprenticeship-near-me'>Cabinet Maker Apprenticeship Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=do-you-need-two-lamps-on-a-buffet'>Do You Need Two Lamps On A Buffet</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=paleo-fried-rice-nom-nom'>Paleo Fried Rice Nom Nom</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=7117-6th-ave-tahoma-ca'>7117 6th Ave Tahoma Ca</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=big-sky-real-estate-guide'>Big Sky Real Estate Guide</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cartoon-network-hotel-steven-universe-room'>Cartoon Network Hotel Steven Universe Room</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=yellow-and-blue-bedroom-ideas'>Yellow And Blue Bedroom Ideas</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=38-inch-square-folding-table'>38 Inch Square Folding Table</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=First-Battle-of-the-Marne'>First Battle Of The Marne</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=a-little-history-of-economics-pdf-download'>A Little History Of Economics Pdf Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=prices-of-virony-doors-in-nigeria'>Prices Of Virony Doors In Nigeria</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=battery-operated-paper-star-lanterns'>Battery Operated Paper Star Lanterns</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=things-to-do-in-breckenridge-this-week'>Things To Do In Breckenridge This Week</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=roasted-broccoli-with-cheese-sauce'>Roasted Broccoli With Cheese Sauce</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=do-all-refrigerators-have-freon'>Do All Refrigerators Have Freon</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=perennial-black-eyed-susan-seeds'>Perennial Black Eyed Susan Seeds</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=roasted-carrots-and-green-onions'>Roasted Carrots And Green Onions</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=precision-metal-art-usa-discount-code'>Precision Metal Art Usa Discount Code</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-much-protein-in-broccoli-sprouts'>How Much Protein In Broccoli Sprouts</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=important-synonyms-for-competitive-exams-pdf'>Important Synonyms For Competitive Exams Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=be-our-guest-sign-printable-free'>Be Our Guest Sign Printable Free</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=park-city-events-september-2019'>Park City Events September 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sugar-free-desserts-for-toddlers'>Sugar Free Desserts For Toddlers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=waterproof-wall-stickers-for-kitchen'>Waterproof Wall Stickers For Kitchen</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=raspberry-benefits-for-the-skin'>Raspberry Benefits For The Skin</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=baked-chicken-and-cauliflower-recipe'>Baked Chicken And Cauliflower Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-prepare-chayote-for-diabetes'>How To Prepare Chayote For Diabetes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=does-hom-furniture-take-old-furniture'>Does Hom Furniture Take Old Furniture</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=vinod-steel-dinner-set-51-piece'>Vinod Steel Dinner Set 51 Piece</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=structural-requirements-for-a-green-roof'>Structural Requirements For A Green Roof</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=war-for-the-planet-of-the-apes-full-movie'>War For The Planet Of The Apes Full Movie</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mid-century-desk-chair-target'>Mid Century Desk Chair Target</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hobby-lobby-classes-clarksville-tn'>Hobby Lobby Classes Clarksville Tn</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-is-a-claim-in-writing'>What Is A Claim In Writing</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ground-beef-and-ricotta-recipes'>Ground Beef And Ricotta Recipes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=solid-oak-extending-dining-table-and-6-chairs'>Solid Oak Extending Dining Table And 6 Chairs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=top-30-internal-medicine-residency-programs'>Top 30 Internal Medicine Residency Programs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=artificial-fiddle-leaf-fig-tree-bunnings'>Artificial Fiddle Leaf Fig Tree Bunnings</a>,
+";s:7:"expired";i:-1;}

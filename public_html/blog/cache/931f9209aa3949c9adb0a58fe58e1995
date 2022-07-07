@@ -1,0 +1,261 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:1995:"Bedroom, Living Room, Dining Room, Kids Furniture and much more! Bassett offers a variety of styles, including traditional and transitional. Locate the closest Bassett Furniture store near you to find deals on living room, dining room, bedroom, and/or outdoor furniture and decor at your local Las Vegas Bassett Furniture Shop for Bassett 60" Gathering Table, 4015-6032, and other Dining Room Dining Tables at Norwood Furniture. Shop for Bassett 48" Turned Ped. You can also request custom options from Bassett Furniture and have living room, dining room, or bedroom collections delivered to your door in about one month. Whether you feel your cosy dining area deserves a burst of new life with an all-white table and bench set, or your spacious kitchen could do with a warm injection of dark leather furniture, expressing your personality through your kitchen and dining furniture is an easy way to update your home. Up to 60% off in our huge furniture clearance sale! Browse and compare Bassett Dining Tables at Johnsons Furniture & Mattress For sales and advice 0871 984 1924. The retailer offers complimentary design consultations in stores, online, and over the phone. Furniture 123. Glass Table, 4618-K48GL09, and other Dining Room Dining Tables at Gilliam Thompson Furniture in Mayfield, KY. Have a peek at Habitat’s full collection and see for yourself. Bassett Furniture Locations in Las Vegas, Nevada.  Prices from £96. Eat a simple supper, throw a party, talk into the wee hours, hold a family meeting, meet a deadline, fold the washing – dining tables are several things to most people, so we’ll have a size and style that fits all, and plenty to dress it your way. Ideal for entertaining, our round or extendable dining tables and chairs will suit any home. Financing. Bassett Furniture. Producing quality furniture for over a century, Bassett blends style, comfort and value with lasting quality and has built a reputation as one of the most recognizable brands in the USA. ";s:7:"keyword";s:35:"bassett furniture dining table sale";s:5:"links";s:10979:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=center-for-the-arts-crested-butte'>Center For The Arts Crested Butte</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=1-kg-cashew-price-in-goa'>1 Kg Cashew Price In Goa</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=stretch-seat-covers-for-dining-chairs'>Stretch Seat Covers For Dining Chairs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hierarchy-of-front-office-department-in-large-hotel'>Hierarchy Of Front Office Department In Large Hotel</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mix-dal-recipe-in-hindi'>Mix Dal Recipe In Hindi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=menards-ad-black-friday-2019'>Menards Ad Black Friday 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=directions-to-denver-international-airport'>Directions To Denver International Airport</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=can-i-use-a-pottery-barn-gift-card-at-williams-sonoma'>Can I Use A Pottery Barn Gift Card At Williams Sonoma</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=box-up-meaning-in-hindi'>Box Up Meaning In Hindi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=gardening-shows-on-amazon-prime'>Gardening Shows On Amazon Prime</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=drain-error-in-whirlpool-washing-machine'>Drain Error In Whirlpool Washing Machine</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=never-talk-to-strangers-movie-download-300mb'>Never Talk To Strangers Movie Download 300mb</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=difference-between-zone-6a-and-6b'>Difference Between Zone 6a And 6b</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cut-pampas-grass-for-sale'>Cut Pampas Grass For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-steam-onions-in-the-microwave'>How To Steam Onions In The Microwave</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mobile-brick-oven-pizza-catering-near-me'>Mobile Brick Oven Pizza Catering Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-sofa-goes-with-eames-chair'>What Sofa Goes With Eames Chair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-to-wear-in-prague-in-november'>What To Wear In Prague In November</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mark-levine-dollar-shave-club'>Mark Levine Dollar Shave Club</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=karcher-window-vac-anniversary-edition-reviews'>Karcher Window Vac Anniversary Edition Reviews</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=used-bunk-bed-for-sale-in-sharjah'>Used Bunk Bed For Sale In Sharjah</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=waterfront-dining-near-williamsburg-va'>Waterfront Dining Near Williamsburg Va</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=carpet-for-living-room-home-depot'>Carpet For Living Room Home Depot</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=american-furniture-warehouse-near-me'>American Furniture Warehouse Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-coffee-beans-on-amazon'>Best Coffee Beans On Amazon</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mid-century-modern-wall-cabinet'>Mid Century Modern Wall Cabinet</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ponytail-palm-top-broke-off'>Ponytail Palm Top Broke Off</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dso-star-wars-promo-code'>Dso Star Wars Promo Code</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=contemporary-living-room-decorating-ideas'>Contemporary Living Room Decorating Ideas</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sierra-ski-ranch-trail-map'>Sierra Ski Ranch Trail Map</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=appliance-parts-pros-near-me'>Appliance Parts Pros Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=unsw-fees-for-domestic-students'>Unsw Fees For Domestic Students</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=costco-laminate-flooring-reviews-golden-select'>Costco Laminate Flooring Reviews Golden Select</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mr-and-mrs-t-pina-colada-mix'>Mr And Mrs T Pina Colada Mix</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cedar-summit-replacement-slide-parts'>Cedar Summit Replacement Slide Parts</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=boq-for-swimming-pool-construction-pdf'>Boq For Swimming Pool Construction Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-draw-healthy-food'>How To Draw Healthy Food</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=table-made-from-tree-trunk'>Table Made From Tree Trunk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=karcher-pressure-washer-1700-psi'>Karcher Pressure Washer 1700 Psi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=villa-interior-design-in-hyderabad'>Villa Interior Design In Hyderabad</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kitchen-appliance-packages-home-depot'>Kitchen Appliance Packages Home Depot</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=calzone-recipe-with-premade-pizza-dough'>Calzone Recipe With Premade Pizza Dough</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-does-moisture-affect-food-spoilage'>How Does Moisture Affect Food Spoilage</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lemongrass-tea-for-weight-loss'>Lemongrass Tea For Weight Loss</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=queen-headboard-and-footboard-with-storage'>Queen Headboard And Footboard With Storage</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=entry-door-with-hinged-sidelights'>Entry Door With Hinged Sidelights</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=front-doors-with-side-panels-wooden'>Front Doors With Side Panels Wooden</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=all-you-can-eat-chinese-buffet-san-francisco'>All You Can Eat Chinese Buffet San Francisco</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=free-download-gidget-goes-hawaiian'>Free Download Gidget Goes Hawaiian</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bird-of-paradise-plant-indoor'>Bird Of Paradise Plant Indoor</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kitchen-doors-and-drawer-fronts'>Kitchen Doors And Drawer Fronts</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cheap-rural-property-in-scotland'>Cheap Rural Property In Scotland</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sweetie-pies-mac-and-cheese-small-batch'>Sweetie Pies Mac And Cheese Small Batch</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=upper-east-side-apartments-for-sale'>Upper East Side Apartments For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=old-southern-bbq-menu-edina'>Old Southern Bbq Menu Edina</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=washing-machine-for-sale-on-facebook'>Washing Machine For Sale On Facebook</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=types-of-chefs-and-salaries-uk'>Types Of Chefs And Salaries Uk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=la-cucina-the-regional-cooking-of-italy-pdf-download'>La Cucina The Regional Cooking Of Italy Pdf Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=driving-from-montreal-to-quebec-city-in-winter'>Driving From Montreal To Quebec City In Winter</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lightweight-folding-stool-with-canvas-seat'>Lightweight Folding Stool With Canvas Seat</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=catherine-lansfield-animal-christmas-bedding'>Catherine Lansfield Animal Christmas Bedding</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=round-ottoman-coffee-table-with-tray'>Round Ottoman Coffee Table With Tray</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philips-lifeline-vs-life-alert'>Philips Lifeline Vs Life Alert</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=brandon-sanderson-white-sand-volume-3'>Brandon Sanderson White Sand Volume 3</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=foods-not-to-put-in-fridge'>Foods Not To Put In Fridge</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=castle-mountain-opening-day-2019'>Castle Mountain Opening Day 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=small-house-plans-with-garage'>Small House Plans With Garage</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=quotes-on-healthy-and-junk-food'>Quotes On Healthy And Junk Food</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=foods-not-to-put-in-fridge'>Foods Not To Put In Fridge</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wet-and-dry-kitchen-hdb'>Wet And Dry Kitchen Hdb</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=gubi-beetle-chair-replica-uk'>Gubi Beetle Chair Replica Uk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=gavita-pro-plus-1000w-hps-de-lamp'>Gavita Pro Plus 1000w Hps De Lamp</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=delivery-only-restaurants-near-me'>Delivery Only Restaurants Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=raising-chickens-for-beginners-pdf'>Raising Chickens For Beginners Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mid-century-modern-high-back-chair'>Mid Century Modern High Back Chair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=home-depot-hardwood-flooring-installation-reviews'>Home Depot Hardwood Flooring Installation Reviews</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=diy-kitchen-ideas-for-small-kitchens'>Diy Kitchen Ideas For Small Kitchens</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lg-refrigerator-ice-maker-not-filling-with-water'>Lg Refrigerator Ice Maker Not Filling With Water</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=royal-bed-designs-with-price'>Royal Bed Designs With Price</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=samsung-washing-machine-fuse-location'>Samsung Washing Machine Fuse Location</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wall-art-for-office-reception'>Wall Art For Office Reception</a>,
+";s:7:"expired";i:-1;}

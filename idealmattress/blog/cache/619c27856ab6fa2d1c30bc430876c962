@@ -1,0 +1,211 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4480:"HID Lighting (metal halide / high pressure sodium) has been the primary light source for outdoor applications until recently. Replacing halogen with LED is very easy. Ask McKay: Is it possible to convert my current halogen lighting system to LED? Do you want to change from your existing halogen lamps to a modern LED equivalent? And the result is pretty good. This is a perfect replacement piece for your old halogen light bulbs that are utilizing too much energy. LED bulbs are much more efficient in terms of wattage consumption as compared to halogen or incandescent bulbs. I recently bought a 12V Halogen light fixture that takes upto 5 20W G4 lamps. But don’t worry, this page will cover everything needed to retrofit a halogen […] This article is reviewing the best LED halogen replacement bulbs, and showing you how to replace the halogen bulb properly. There is a tread on the forum with all of the information you need to make the conversion. Why not us our conversion tool and the right lampes for you. Looking for LED bulbs, I see most of the 12V AC LED G4s are 3-5W, which combined together wouldn't exceed the minimum 35W requirement fo the transformer. For those of you who like to DIY, follow this guide to rewire a T12 or T8 fluorescent luminaire for T8 LED lamps and bypass the existing ballast. You want to replace your halogen lamps with LED? The number of fixtures matters for two reasons. Here you will find instructions for spotlight replacement. LED is now the go-to choice for new construction, so what do you do with your existing HID outdoor light fixtures? LED light bulbs use light-emitting diodes to produce lights. The answer is to retrofit them to LED or replace them with a new LED fixture… Inside this fixture is an electronic transformer that supplies 12V AC current to 35W-105W load. I wrapped one of my dead halogen bulbs in newspaper strips until it was 1.25" in diameter like the … Halogen bulbs must operate at higher temperatures in order to achieve the same effect as LED light fixtures. Halogen lights are a type of incandescent light that have long been popular because they are cheap, bright and small. The purpose of making this conversion is to combat the rising energy and maintenance costs that are taking its toll upon the profits of commercial and industrial businesses. More recently, it has become popular to implement a halogen to LED conversion. Because they operate on AC rather than DC you don't need to use a special LED driver. This video is a valuable guide to anyone considering the switch to solid state lighting, whether assembling an LED replacement from components or installing a direct replacement unit. Replacing halogen with LED is very easy. The light output of an LED bulb is also much higher . I have a number of small lamps that use 12V halogen bulbs, either 10W or 20W G4 types. Here you will find instructions for spotlight replacement. Here you will find instructions for spotlight replacement. There are a number of ways of upgrading from halogen to LED, doing this depends on the type of downlights and halogen lamps you've currently got. An LED bulb can provide as much light as a halogen bulb with a wattage consumption that is five times lower. Converting a Halogen Fixture to LED Part 1 V.2: Convert your energy consuming/short bulb life halogen or incandescent fixtures to LED technology. LED instead of halogen – replacing the lamps is a breeze! If you're replacing low voltage MR16 50W halogens that have low voltage transformers, the first option and potentially easiest way to convert to LED is replace it with something like a Philips 8W MR16 LED.They should operate from your existing transformers. I'd prefer to replace them with 3 watt LED bulbs. Confirm that the power source to the luminaire is between 120v and 277v. Converting fluorescent lights into LED fixtures that are maintenance-free and highly efficient requires an LED Conversion Kit or an LED Drop-In Tube. Our kitchen has under-cabinet lighting that uses halogen 20 watt G8 socket bulbs. This video is a valuable guide to anyone considering the switch to solid state lighting, whether assembling an LED … The purpose of making this conversion is to combat the rising energy and maintenance costs that are taking its toll upon the profits of commercial and industrial businesses. You want to replace your halogen lamps with LED? I've been searching but I haven't found any 120 volt AC G8 LED bulbs that will work. ";s:7:"keyword";s:30:"convert halogen fixture to led";s:5:"links";s:4233:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-haunting-nell-and-theo'>The Haunting Nell And Theo</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=paul-anderson-the-revenant-role'>Paul Anderson The Revenant Role</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ikea-benno-tv-stand-instructions'>Ikea Benno Tv Stand Instructions</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=small-black-dresser-with-mirror'>Small Black Dresser With Mirror</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=redeemer-university-college-phd-programs'>Redeemer University College Phd Programs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dr-mgr-educational-and-research-institute-degree-verification'>Dr Mgr Educational And Research Institute Degree Verification</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=stewart-falls-hike-from-sundance-chairlift'>Stewart Falls Hike From Sundance Chairlift</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=optimal-healing-environment-hospitals-in-california'>Optimal Healing Environment Hospitals In California</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=indoor-gardening-activities-for-elderly'>Indoor Gardening Activities For Elderly</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cute-desk-chairs-with-wheels'>Cute Desk Chairs With Wheels</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=new-balestier-lighting-pte-ltd'>New Balestier Lighting Pte Ltd</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-to-serve-with-chicken-fried-steak'>What To Serve With Chicken Fried Steak</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-to-buy-kabocha-squash'>Where To Buy Kabocha Squash</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=venus-de-milo-khan-academy'>Venus De Milo Khan Academy</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=this-war-of-mine-hotel'>This War Of Mine Hotel</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=breeze-ski-rentals-park-city'>Breeze Ski Rentals Park City</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mungaru-male-2-mp3-songs-download-320kbps'>Mungaru Male 2 Mp3 Songs Download 320kbps</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=secrets-of-a-restaurant-chef-prime-rib'>Secrets Of A Restaurant Chef Prime Rib</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=organic-mushroom-farming-in-india'>Organic Mushroom Farming In India</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=karcher-k4-stuck-on-mix'>Karcher K4 Stuck On Mix</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wort-hotel-jackson-hole-restaurant'>Wort Hotel Jackson Hole Restaurant</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-long-to-cook-ribs-wrapped-in-foil-on-grill'>How Long To Cook Ribs Wrapped In Foil On Grill</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=will-rubber-tree-leaves-grow-back'>Will Rubber Tree Leaves Grow Back</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-northern-iowa-basketball'>University Of Northern Iowa Basketball</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=popeye-olive-oyl-and-brutus'>Popeye Olive Oyl And Brutus</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=saturday-brunch-places-near-me'>Saturday Brunch Places Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dora-and-the-lost-city-of-gold-box-office-bomb'>Dora And The Lost City Of Gold Box Office Bomb</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-calculate-duct-area-to-square-feet'>How To Calculate Duct Area To Square Feet</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-baker-in-america-season-2-winner'>Best Baker In America Season 2 Winner</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=reach-out-and-read-volunteer'>Reach Out And Read Volunteer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sugar-snap-pea-and-carrot-salad'>Sugar Snap Pea And Carrot Salad</a>,
+";s:7:"expired";i:-1;}

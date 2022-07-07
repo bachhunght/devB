@@ -1,0 +1,252 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2584:"Compatible with new Sketchup formats and it's easier to edit objects within the program. Home Designer Pro can also import 3D .dwg and .dxf files. Home Designer Pro can also import 3D .dxf files. Working with Objects. ... Thousands of 2D and 3D objects to choose from! Homestyler Blog: How to import 3D models in your floor plan, 13 Mar, 2019, With the latest version of the Homestyler floor plan, you are now able to import your own 3D models and enrich your home design projects with unique pieces of furniture and accessories. Importing Objects. Manufacturer Non-Manufacturer. Its vocation is not to be a 3d … Live Home 3D is the most intuitive and feature packed home design app, a successor of Live Interior 3D. Tinkercad is a free, easy-to-use app for 3D design, electronics, and coding. DreamPlan Home Design Software. Home Designer Pro is 3D architectural software for residential home design. Unlimited number of floors with GOLD PLUS version (depends on your device's capacity). Draft detailed 2D floor plans and watch as the structure is automatically built in 3D. That means it lacks the wizards, samples and objects of dedicated home apps, and while there's a giant online selection of other people's plans and objects it can be very tedious to navigate. We’ll show you an easy way in this video. You can access the collection by using Live Home 3D interface, choose and insert a model right in the project. Home Designer - Suite. That means it lacks the wizards, samples and objects of dedicated home apps, and while there's a giant online selection of other people's plans and objects it can be very tedious to navigate. We will think about it however this is not in our project. Your 3D model will be named the Display Name that you selected during the import process. For more flexibility, look for home design software that supports importing even more objects from SketchUp, Trimble 3D Warehouse, or both. DIY Home Design Software. To locate additional 3D symbols. In Live Home 3D, choose File > Restore Library from the menu and select the backup created earlier. Home Design Software 3D Models Filter by: Catalog Type. With Home Design 3D, designing and remodeling your house in 3D has never been so quick and intuitive! The 3D models added to this page in July 2019 are surrounded with red. Where can I download 3D models to import into DreamPlan? The templates, 3D objects and materials will be added from the backup to the library. For more flexibility, look for home design software that supports importing even more objects from SketchUp, Trimble 3D … ";s:7:"keyword";s:29:"home design 3d import objects";s:5:"links";s:9888:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=walmart-christmas-clearance-90-off'>Walmart Christmas Clearance 90 Off</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=on-the-snow-nevados-de-chillan'>On The Snow Nevados De Chillan</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=can-i-grow-ball-moss-indoors'>Can I Grow Ball Moss Indoors</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=i-would-do-anything-for-love-female-singer'>I Would Do Anything For Love Female Singer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=campfire-tales-1997-full-movie-online'>Campfire Tales 1997 Full Movie Online</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=whitmor-3-section-small-drawer-organizer'>Whitmor 3 Section Small Drawer Organizer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ideal-standard-toilet-seat-fitting-instructions'>Ideal Standard Toilet Seat Fitting Instructions</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=huawei-p30-pro-price-in-europe'>Huawei P30 Pro Price In Europe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=houses-for-rent-in-brampton-1500'>Houses For Rent In Brampton 1500</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=muskmelon-fruit-meaning-in-tamil'>Muskmelon Fruit Meaning In Tamil</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=malt-chocolate-panna-cotta-recipe'>Malt Chocolate Panna Cotta Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-hurt-locker-full-movie-in-hindi'>The Hurt Locker Full Movie In Hindi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rustic-french-country-house-plans'>Rustic French Country House Plans</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-boston-ivy-poisonous-to-dogs'>Is Boston Ivy Poisonous To Dogs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=2-seater-glider-garden-seat'>2 Seater Glider Garden Seat</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bed-frame-with-drawers-full'>Bed Frame With Drawers Full</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lemona-bts-where-to-buy'>Lemona Bts Where To Buy</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chicken-enchilada-casserole-pioneer-woman'>Chicken Enchilada Casserole Pioneer Woman</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-idaho-enrollment-statistics'>University Of Idaho Enrollment Statistics</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=asia-pacific-property-awards-2018-winners'>Asia Pacific Property Awards 2018 Winners</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cobra-pose-vs-upward-dog'>Cobra Pose Vs Upward Dog</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dresden-files-peace-talks-amazon'>Dresden Files Peace Talks Amazon</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-permits-do-i-need-to-sell-food-in-california'>What Permits Do I Need To Sell Food In California</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=spider-plant-leaves-turning-yellow'>Spider Plant Leaves Turning Yellow</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=small-townhouse-interior-design-philippines'>Small Townhouse Interior Design Philippines</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-grow-potatoes-in-a-bag'>How To Grow Potatoes In A Bag</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=stretch-seat-covers-for-dining-chairs'>Stretch Seat Covers For Dining Chairs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-build-a-murphy-bed'>How To Build A Murphy Bed</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ikea-2005-catalog-pdf-download'>Ikea 2005 Catalog Pdf Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=high-protein-breakfast-ideas-without-eggs'>High Protein Breakfast Ideas Without Eggs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mid-century-bathroom-vanity-unit'>Mid Century Bathroom Vanity Unit</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=katalon-studio-vs-selenium-webdriver'>Katalon Studio Vs Selenium Webdriver</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-secret-garden-movie-1993'>The Secret Garden Movie 1993</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=samsung-washing-machine-symbols-meaning'>Samsung Washing Machine Symbols Meaning</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=showroom-sofas-sutton-in-ashfield'>Showroom Sofas Sutton In Ashfield</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-block-competition-2019-volkswagen'>The Block Competition 2019 Volkswagen</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=south-indian-restaurants-in-san-francisco'>South Indian Restaurants In San Francisco</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-a-swimming-pool-profitable'>How To Make A Swimming Pool Profitable</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-hong-kong-acceptance-rate'>University Of Hong Kong Acceptance Rate</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=herberger-institute-for-design-and-the-arts-acceptance-rate'>Herberger Institute For Design And The Arts Acceptance Rate</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=a-lover-of-good-food-one-word'>A Lover Of Good Food One Word</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-support-tomato-plants-with-string'>How To Support Tomato Plants With String</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=free-download-gidget-goes-hawaiian'>Free Download Gidget Goes Hawaiian</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-canning-recipes-for-gifts'>Best Canning Recipes For Gifts</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=whirlpool-refrigerator-265-ltr-price'>Whirlpool Refrigerator 265 Ltr Price</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-happens-if-you-eat-too-many-brussel-sprouts'>What Happens If You Eat Too Many Brussel Sprouts</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=paula-deen-recipes-for-thanksgiving'>Paula Deen Recipes For Thanksgiving</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hilton-honors-customer-service-number'>Hilton Honors Customer Service Number</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-restaurants-in-richmond-hill'>Best Restaurants In Richmond Hill</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=good-inexpensive-italian-restaurants-near-me'>Good Inexpensive Italian Restaurants Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=most-important-rooms-to-stage'>Most Important Rooms To Stage</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kidkraft-vintage-kitchen-batch-number'>Kidkraft Vintage Kitchen Batch Number</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=tommy-bahama-folding-beach-chair-costco'>Tommy Bahama Folding Beach Chair Costco</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=session-and-cookies-in-java-servlets'>Session And Cookies In Java Servlets</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rachael-ray-wet-cat-food-ingredients'>Rachael Ray Wet Cat Food Ingredients</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=michelin-star-restaurants-paris-2020'>Michelin Star Restaurants Paris 2020</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cheesy-potatoes-with-real-potatoes'>Cheesy Potatoes With Real Potatoes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lg-washing-machine-8kg-price'>Lg Washing Machine 8kg Price</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mirror-side-table-with-drawer'>Mirror Side Table With Drawer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-propagate-peace-lily-from-cutting'>How To Propagate Peace Lily From Cutting</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-build-a-deck-on-a-mobile-home'>How To Build A Deck On A Mobile Home</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=williams-sonoma-cooking-classes-near-me'>Williams Sonoma Cooking Classes Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=difference-between-ferrous-and-nonferrous-metals-pdf'>Difference Between Ferrous And Nonferrous Metals Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-are-the-objectives-of-gardening'>What Are The Objectives Of Gardening</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-is-melrose-abbey-located-in-scotland'>Where Is Melrose Abbey Located In Scotland</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=crate-and-barrel-leather-dining-chairs'>Crate And Barrel Leather Dining Chairs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-does-ibm-stand-for'>What Does Ibm Stand For</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=shopify-t-shirt-store-examples'>Shopify T Shirt Store Examples</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-counter-height-bar-stools'>Best Counter Height Bar Stools</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sany-char-kuey-teow-penang'>Sany Char Kuey Teow Penang</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=most-important-rooms-to-stage'>Most Important Rooms To Stage</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hobby-lobby-wooden-kitchen-sign'>Hobby Lobby Wooden Kitchen Sign</a>,
+";s:7:"expired";i:-1;}

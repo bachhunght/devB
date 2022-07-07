@@ -1,0 +1,28 @@
+[24-Oct-2021 05:12:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Requests_Exception_HTTP' not found in /home/australiana/public_html/wp-includes/Requests/Exception/HTTP/414.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/australiana/public_html/wp-includes/Requests/Exception/HTTP/414.php on line 13
+[24-Oct-2021 05:12:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Requests_Exception_HTTP' not found in /home/australiana/public_html/wp-includes/Requests/Exception/HTTP/414.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/australiana/public_html/wp-includes/Requests/Exception/HTTP/414.php on line 13
+[24-Oct-2021 08:40:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Requests_Exception_HTTP' not found in /home/australiana/public_html/wp-includes/Requests/Exception/HTTP/500.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/australiana/public_html/wp-includes/Requests/Exception/HTTP/500.php on line 13
+[24-Oct-2021 09:48:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Requests_Exception_HTTP' not found in /home/australiana/public_html/wp-includes/Requests/Exception/HTTP/304.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/australiana/public_html/wp-includes/Requests/Exception/HTTP/304.php on line 13
+[24-Oct-2021 11:38:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Requests_Exception_HTTP' not found in /home/australiana/public_html/wp-includes/Requests/Exception/HTTP/431.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/australiana/public_html/wp-includes/Requests/Exception/HTTP/431.php on line 15
+[24-Oct-2021 11:51:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Requests_Exception_HTTP' not found in /home/australiana/public_html/wp-includes/Requests/Exception/HTTP/504.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/australiana/public_html/wp-includes/Requests/Exception/HTTP/504.php on line 13
+[24-Oct-2021 11:53:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Requests_Exception_HTTP' not found in /home/australiana/public_html/wp-includes/Requests/Exception/HTTP/501.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/australiana/public_html/wp-includes/Requests/Exception/HTTP/501.php on line 13

@@ -1,0 +1,211 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4273:"Tahoe Donner Cross Country Ski Center, when fully open, offers over 100 km of the finest terrain and grooming to be found anywhere in the world. Voted as one of the top-three cross country ski areas in North America by USA Today, Tahoe Donner Cross Country Ski Center offers a modern fleet of rental equipment, a large selection of cross country apparel, fresh organic food from the Alder Creek Cafe and an après ski menu at the Trailside Bar. Tahoe Donner is a CCSAA & PSIA member. Ski through pines and aspens, climb peaks and gentle rolling hills or glide along the flats of Euer Valley. Register to race or volunteer! Tahoe Donner Cross Country Ski Center is a premier cross country ski and snowshoe facility with over 100 kilometers of trails groomed daily for diagonal striding, skating and snowshoeing. Enjoy breathtaking views and fun climbs at the Tahoe Donner Cross Country Ski Center, which sits just west of the Nevada border and a few miles north of Donner Memorial State Park. It includes Alder Creek Adventure Center and a cafe/bar, a ski rental center … With 51 trails and over 100km of trails, we have something for everyone to enjoy. Ski through pines and aspens, climb peaks and gentle rolling hills or glide along the flats of Euer Valley. Working in Tahoe Donner. Cost is inexpensive and usually it isn’t too crowded. Do you love skiing through pines and aspens, climbing peaks or gentle rolling hills? Amenities » Amenities » Cross Country Ski Center » Weather, Reports + Cams » Grooming Report. We sure would appreciate your vote. The most recent major overhaul to the cross country ski area was the construction of a new state-of-the-art ski center called the Alder Creek Adventure Center. Tahoe Donner Cross Country Ski Center offers more than 100km of world-class trails, comprised of 24% advanced, 40% intermediate and 36% novice terrain, along with four warming huts. TAHOE DONNER MEMBERS MAY STILL PURCHASE ONLINE AND IN PERSON! Come experience Tahoe Donner Cross Country Ski Center's beautiful gentle meadows, rolling terrain and challenging peaks. The winners for Best Cross-Country Ski Resort are in! Tahoe Donner Cross Country Ski Center is a premier cross country ski and snowshoe facility with over 100 kilometers of trails groomed daily for diagonal striding, skating and snowshoeing. Twitter Facebook Instagram Vimeo. Tahoe Donner Cross Country Ski Center Source: Facebook.com / Tahoe Donner. Come experience Tahoe Donner Cross Country Ski Center's beautiful gentle meadows, rolling terrain and challenging peaks. 616 likes. 4. Trails are groomed daily for skating and classic skiing using state-of-the-art snow-grooming machines (as snowpack and conditions allow). Click to see the winners for Best Cross-Country Ski Resort , chosen by the readers of 10Best and USA TODAY. Tahoe Donner Cross Country Ski Center is hosting the annual Skogsloppet XC Race this Sunday. Since Lake Tahoe is a world renowned tourist destination, many of the job opportunities are in hospitality and tourism. Close Amenities. It includes Alder Creek Adventure Center and a cafe/bar, a ski rental center and fat-tire bike rentals. Tahoe Donner Cross Country Ski Area. Alder Creek Adventure Center ... Cross Country Ski Center (530) 587-9484 xc@tahoedonner.com Snowplay (530) 587-9437 ALL CONTACTS. Swedish for "Forest Race" the Skogsloppet is a 15km and 3km fun race supporting our local school's Nordic race teams.  Voted the “Best Cross Country Center in North Lake Tahoe & Truckee” by the Sierra Sun, and #6 Best Cross Country Ski Resort in North America by USA Today, Tahoe Donner Cross Country Ski Center (TDXC) spans more than 2,800 acres in the beautiful Sierra Nevada Mountains. * Directions: Take Interstate 80 from the east or west to the Donner State Park exit, drive a 1/2 mile and turn north on Northwoods Blvd at the traffic light and follow Tahoe Donner signs for 5 miles, to turn right on Fjord and left on Alder Creek. Amenities for watching and waiting are below average. New This Year – Get four days of skiing at Diamond Peak Ski Resort and two days of skiing at Homewood Mountain Resort with your Tahoe Donner Ski Season Pass. Tahoe Donner Cross Country was founded in 1984 by Glenn Jobe, in partnership with Peter Werbel. ";s:7:"keyword";s:37:"tahoe donner cross country ski center";s:5:"links";s:4261:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=do-you-have-to-remove-furniture-to-install-hardwood-floors'>Do You Have To Remove Furniture To Install Hardwood Floors</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=les-demoiselles-d-avignon-criticism'>Les Demoiselles D Avignon Criticism</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kitchenaid-replacement-parts-food-processor'>Kitchenaid Replacement Parts Food Processor</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-fish-for-back-to-the-roots-water-garden'>Best Fish For Back To The Roots Water Garden</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=life-cycle-of-silkworm-wikipedia'>Life Cycle Of Silkworm Wikipedia</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=st-james-place-beaver-creek'>St James Place Beaver Creek</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=when-do-pools-go-on-sale'>When Do Pools Go On Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-decorate-a-bedroom-with-white-walls'>How To Decorate A Bedroom With White Walls</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-top-loading-washing-machine-malaysia'>Best Top Loading Washing Machine Malaysia</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=protein-in-1-cherry-tomato'>Protein In 1 Cherry Tomato</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=describe-the-taste-of-butter-chicken'>Describe The Taste Of Butter Chicken</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=deep-fried-mars-bar-newcastle'>Deep Fried Mars Bar Newcastle</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ar-pressure-washer-pump-3000-psi'>Ar Pressure Washer Pump 3000 Psi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=costco-black-friday-tv-deals-2019'>Costco Black Friday Tv Deals 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=craigslist-activity-partners-lafayette-la'>Craigslist Activity Partners Lafayette La</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chicken-and-tomato-recipes-easy'>Chicken And Tomato Recipes Easy</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=gordon-ramsay-masterclass-full-episodes-free'>Gordon Ramsay Masterclass Full Episodes Free</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=simple-wall-painting-designs-for-living-room'>Simple Wall Painting Designs For Living Room</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=navy-blue-living-room-color-scheme'>Navy Blue Living Room Color Scheme</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-pronounce-basil-in-american-english'>How To Pronounce Basil In American English</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=park-city-ski-school-video'>Park City Ski School Video</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=deer-valley-closing-date-2019'>Deer Valley Closing Date 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sex-in-the-city-or-sex-and-the-city'>Sex In The City Or Sex And The City</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=international-property-awards-2018-2019'>International Property Awards 2018 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ski-instructor-jobs-southern-hemisphere'>Ski Instructor Jobs Southern Hemisphere</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-spicy-ginger-beer'>How To Make Spicy Ginger Beer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=diy-wood-headboard-with-storage'>Diy Wood Headboard With Storage</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=quebec-city-events-september-2019'>Quebec City Events September 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=indoor-swimming-pools-near-me'>Indoor Swimming Pools Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-is-lookout-pass-in-montana'>Where Is Lookout Pass In Montana</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=restaurants-near-lake-louise-inn'>Restaurants Near Lake Louise Inn</a>,
+";s:7:"expired";i:-1;}

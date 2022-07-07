@@ -1,0 +1,240 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3654:"I set out to find a flexible and simple solution that could work as a reusable … Sometimes it makes sense for a cell to span multiple columns or multiple rows. The problem with our table component is that every column is the same width. If the columns filled the screen width nicely and you make one smaller, one (or some) of the others could grow if they had more content to show. Applies to View Flexible data table with CSS Grid (resizable columns with bad UX) by Adam Lynch (@adam-lynch) on CodePen. This example shows the first column being set to width: 200px (note that this is not pixel perfect in a table, the browser will make some adjustments! Since all the columns may not be visible on smaller breakpoints (or not there at all if using the “stack” table mode), relying solely on the column headers to choose the table sort isn’t practical. As such, the width of the column can be controlled using the columns.width option. Specify the cell width for all the columns in the ODS output. Normally, a <col> element takes up the space it needs to display the content.  Flexible pages viewed on a large display may have wide columns of text that are difficult to read, whereas a fixed-width layout allows designers to set line length at a comfortable measure. The maximum width and minimum width of the table can be specified by applying these properties to the TABLE element. Problem: Creating a table with fixed width columns, as well as one (or more) flexible width columns. When you specify the width for a cell, all cells in the same column automatically share that width. This property is also used in the shorthand for columns and can be used in tandem with column-count. Often you may want to have your table resize dynamically with the page. If they are fixed width, they don't let the user take advantage of a larger screen size. Why use colspan= or rowspan=? The width attribute is used to set a predefined width of a <col> element. Make a Layout With Fluid and Fixed-size Columns. Html Table Cell. ... Having CSF+LE to lock the Preferred size plus a flexible width >0 gave the the desired behaviour of not stretching while also distributing the free space. Once the browser cannot fit at least 2 columns at your specified width then the columns will stop and drop into a single column. Note: This attribute will overwrite any width set in the <colgroup> element. If the width of the container is narrower than the specified value, the single column's width will be smaller than the declared column width. The second one is to use the table-cell value of the display property. The width attribute specifies the width of a <col> element. Flexible/dynamically sized grids (like HTML tables)? Mozilla M16) is pretty good about following the width attributes you set for the TDs, the current Netscape browsers are not. Typically this is done by assigning width:100% in your CSS, but this presents a problem for Javascript since it can be very hard to get that relative size rather than the absolute pixels. The exact width depends on the col span. If the width attribute is not set, a table takes up the space it needs to display the table data. The width attribute specifies the width of a table. View Flexible data table with CSS Grid (resizable columns with bad UX) by Adam Lynch (@adam-lynch) on CodePen. Flexible table width. The maximum width and minimum width of the table can be specified by applying these properties to the TABLE element. ), a width that is reflected in the fixed column. Discussion in 'Unity UI (uGUI) ... so I need to find ways to iterate over the whole table to calculate column widths and row heights. ";s:7:"keyword";s:32:"html table flexible column width";s:5:"links";s:8122:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-write-a-presentation-paper'>How To Write A Presentation Paper</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=houses-for-sale-in-jamaica-portmore'>Houses For Sale In Jamaica Portmore</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=indian-food-names-a-to-z-vegetarian'>Indian Food Names A To Z Vegetarian</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=healthy-meals-for-one-person-on-a-budget'>Healthy Meals For One Person On A Budget</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=recliner-bed-for-patients-in-india'>Recliner Bed For Patients In India</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-secret-garden-movie-2019'>The Secret Garden Movie 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=south-indian-cauliflower-gravy-for-rice'>South Indian Cauliflower Gravy For Rice</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=overgrown-garden-where-to-start'>Overgrown Garden Where To Start</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-long-does-it-take-moss-to-grow-in-iceland'>How Long Does It Take Moss To Grow In Iceland</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=gala-yuzawa-opening-date-2019'>Gala Yuzawa Opening Date 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=good-eats-season-15-episode-11'>Good Eats Season 15 Episode 11</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=advantages-of-pressure-in-science'>Advantages Of Pressure In Science</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fig-tree-varieties-in-india'>Fig Tree Varieties In India</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=we-want-out-dagames-animation'>We Want Out Dagames Animation</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-identify-american-chestnut'>How To Identify American Chestnut</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=williams-sonoma-holiday-catalog-2019'>Williams Sonoma Holiday Catalog 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ge-cafe-refrigerator-touchpad-not-working'>Ge Cafe Refrigerator Touchpad Not Working</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=indian-fast-food-recipes-pdf'>Indian Fast Food Recipes Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=international-property-awards-2018-2019'>International Property Awards 2018 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=houses-for-sale-in-france-by-the-sea'>Houses For Sale In France By The Sea</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=raw-cashew-nut-suppliers-in-hyderabad'>Raw Cashew Nut Suppliers In Hyderabad</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kaufmann-house-palm-springs-photos'>Kaufmann House Palm Springs Photos</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=black-dining-room-chairs-set-of-4'>Black Dining Room Chairs Set Of 4</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=30-inch-steel-door-lowes'>30 Inch Steel Door Lowes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=diners-drive-ins-and-dives-las-vegas-nm'>Diners Drive Ins And Dives Las Vegas Nm</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=vodka-martini-with-a-twist'>Vodka Martini With A Twist</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=small-console-table-with-drawers'>Small Console Table With Drawers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-creature-from-the-black-lagoon-full-movie'>The Creature From The Black Lagoon Full Movie</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=second-hand-furniture-buyers-shivaji-nagar'>Second Hand Furniture Buyers Shivaji Nagar</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=loot-crate-lord-of-the-rings-coupon'>Loot Crate Lord Of The Rings Coupon</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=shed-plans-8x12-with-porch'>Shed Plans 8x12 With Porch</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=north-lake-tahoe-things-to-do'>North Lake Tahoe Things To Do</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dona-maria-mole-limited-edition-glasses'>Dona Maria Mole Limited Edition Glasses</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-hikes-west-lake-tahoe'>Best Hikes West Lake Tahoe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ashley-furniture-clearance-bedroom-sets'>Ashley Furniture Clearance Bedroom Sets</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=one-of-my-favorite-dish'>One Of My Favorite Dish</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-a-successful-pool-hall'>How To Make A Successful Pool Hall</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=are-gaming-chairs-worth-it-reddit'>Are Gaming Chairs Worth It Reddit</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=black-and-white-architecture-art'>Black And White Architecture Art</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-old-is-jimmy-johnson'>How Old Is Jimmy Johnson</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rooms-to-go-mattress-return-policy'>Rooms To Go Mattress Return Policy</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=institute-of-electrical-and-electronics-engineers-uk'>Institute Of Electrical And Electronics Engineers Uk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=samsung-refrigerator-not-cooling-freezer-ok'>Samsung Refrigerator Not Cooling Freezer Ok</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=catherine-the-great-horse-pulley'>Catherine The Great Horse Pulley</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-color-towels-for-gray-bathroom'>What Color Towels For Gray Bathroom</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-care-for-cracker-barrel-rocking-chairs'>How To Care For Cracker Barrel Rocking Chairs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=whole-foods-clapham-opening-times'>Whole Foods Clapham Opening Times</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-hikes-west-lake-tahoe'>Best Hikes West Lake Tahoe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=home-office-library-design-ideas'>Home Office Library Design Ideas</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-draw-a-shadow-of-an-object'>How To Draw A Shadow Of An Object</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=continental-breakfast-ideas-for-100'>Continental Breakfast Ideas For 100</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=house-plans-with-large-mudroom-and-butlers-pantry'>House Plans With Large Mudroom And Butlers Pantry</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=large-live-ficus-trees-for-sale'>Large Live Ficus Trees For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-next-iron-chef-cast'>The Next Iron Chef Cast</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=karcher-pressure-washer-dealers-near-me'>Karcher Pressure Washer Dealers Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=twin-bed-with-storage-and-headboard'>Twin Bed With Storage And Headboard</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=uses-of-cotton-in-interior-design'>Uses Of Cotton In Interior Design</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dr-sandra-lee-videos-youtube'>Dr Sandra Lee Videos Youtube</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-much-quantity-of-rum-is-good-for-health'>How Much Quantity Of Rum Is Good For Health</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lg-glide-and-serve-drawer-disassembly'>Lg Glide And Serve Drawer Disassembly</a>,
+";s:7:"expired";i:-1;}

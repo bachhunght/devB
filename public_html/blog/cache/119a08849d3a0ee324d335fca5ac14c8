@@ -1,0 +1,201 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3308:"Popular attractions Grant Park and Field Museum of Natural History are located nearby. Our guests praise the helpful staff in our reviews. Explore reviews, photos & menus and find the perfect spot for any occasion. See 2,804 traveler reviews, 709 candid photos, and great deals for Hilton Garden Inn Chicago Downtown/Magnificent Mile, ranked #83 of 205 hotels in Chicago and rated 4.5 of 5 at Tripadvisor. Hilton Garden Inn Chicago Downtown South Loop hotel features modern accommodations with comfortable beds, and complimentary WiFi. Skip secondary navigation. Willis Tower and Chicago Riverwalk are notable landmarks, and some of the area's popular attractions include John G. Shedd Aquarium and Navy Pier. Downtown hotel in the Chicago loop by Riverwalk, walking distance to Millennium Park, Michigan Avenue. Willis Tower and Chicago Riverwalk are notable landmarks, and some of the area's popular attractions include John G. Shedd Aquarium and Navy Pier. See 95 traveler reviews, 62 candid photos, and great deals for Hilton Garden Inn Chicago Downtown South Loop, ranked #125 of 205 hotels in Chicago and rated 4.5 of 5 at Tripadvisor. Lobby Renovations Jan 27 - Mar 6 Read message. Our new Hampton Inn Chicago Downtown Hotel is a trendy option with a host of modern amenities located between the West Loop and the Financial District. Located in Chicago's The Loop neighborhood, Hilton Garden Inn Chicago Downtown South Loop is near a metro station. Explore reviews, photos & menus and find the perfect spot for any occasion. Hampton Inn Chicago Downtown West Loop. Pick up snacks and drinks from the hotel's 24-hour sundry shop, and enjoy easy dining and drinks in the restaurant and bar. The area's natural beauty can be seen at Chicago Riverwalk and Grant Park, while Chicago Theatre and Field Museum of Natural History are cultural highlights. Enjoy 1 an indoor pool, 1 a restaurant, and 1 a bar/lounge. Check out an event or a game at Soldier Field, and consider making time for Adler Planetarium and Astronomy Museum, a top … ... Hilton Garden Inn. Our guests praise the helpful staff in our reviews. The rooms were quiet and big for a city hotel room! The front desk… Check out an event or a game at Soldier Field, and consider making time for Adler Planetarium and Astronomy Museum, a top … Our Hilton Garden Inn Chicago Downtown South Loop hotel features a modern design, comfortable accommodations, onsite restaurant and bar, and fitness center. About Hilton Garden Inn We’re here to help you be successful with great service and complimentary amenities. Now $78 (Was $̶9̶4̶) on Tripadvisor: Hilton Garden Inn Chicago Downtown South Loop, Chicago. The Hilton Garden Inn Chicago Downtown/North Loop occupies a high-rise tower, and its 191 non-smoking rooms feature convenient touches like free Wi-Fi, flat-panel satellite TVs, and microwaves and mini-fridges. Popular attractions Grant Park and Field Museum of Natural History are located nearby.  Located in Chicago's The Loop neighborhood, Hilton Garden Inn Chicago Downtown Riverwalk is in the business district and near the beach. Arie Crown Theater is on the other side of McCormick Place. Located in Chicago's The Loop neighborhood, Hilton Garden Inn Chicago Downtown Riverwalk is in the business district and near the beach. ";s:7:"keyword";s:39:"hilton garden inn chicago downtown loop";s:5:"links";s:2787:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=free-download-gidget-goes-hawaiian'>Free Download Gidget Goes Hawaiian</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-complete-book-of-baby-names'>The Complete Book Of Baby Names</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mushrooms-of-the-pacific-northwest-pdf'>Mushrooms Of The Pacific Northwest Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-brownie-recipe-in-the-world'>Best Brownie Recipe In The World</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=blue-leather-executive-office-chair'>Blue Leather Executive Office Chair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=why-is-strahan-and-sara-showing-reruns'>Why Is Strahan And Sara Showing Reruns</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=solid-mango-wood-bed-frame'>Solid Mango Wood Bed Frame</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ashley-furniture-bed-assembly-instructions'>Ashley Furniture Bed Assembly Instructions</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wells-fargo-bank-owned-properties'>Wells Fargo Bank Owned Properties</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-rooster-toronto-coffee-house'>The Rooster Toronto Coffee House</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=romaine-lettuce-nutrition-facts-100g'>Romaine Lettuce Nutrition Facts 100g</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lg-washing-machine-8kg-price'>Lg Washing Machine 8kg Price</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-thing-i-ever-ate-breakfast'>Best Thing I Ever Ate Breakfast</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=3-primary-kitchen-work-station'>3 Primary Kitchen Work Station</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-to-do-if-zz-plant-leaves-turn-yellow'>What To Do If Zz Plant Leaves Turn Yellow</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=shallow-wardrobes-for-small-bedrooms'>Shallow Wardrobes For Small Bedrooms</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=water-bath-canning-apple-butter'>Water Bath Canning Apple Butter</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=3-piece-sectional-with-sleeper'>3 Piece Sectional With Sleeper</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=glacier-peak-in-a-day'>Glacier Peak In A Day</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=download-autocad-2016-student-version'>Download Autocad 2016 Student Version</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philips-hue-starter-kit-gu10'>Philips Hue Starter Kit Gu10</a>,
+";s:7:"expired";i:-1;}

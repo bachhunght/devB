@@ -1,0 +1,227 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:1886:"Browse and save recipes from Barefoot Contessa Parties! Ina Garten is the author of the Barefoot Contessa cookbooks and host of Barefoot Contessa on Food Network. She will be the first to tell you, though, that nothing beats a cozy dinner, surrounded by the people you love most, in the comfort that only your own home can provide. And fans of The Barefoot Contessa Cookbook will be delighted to find the recipe for the Lemon Cake they drooled over but only saw pictured, right here in this book. My mom knows almost every Barefoot Contessa book by heart but I’m not so lucky so here’s my trick - the Barefoot Contessa Cookbook Index and a Personal Recipe F The Best Ina Garten Barefoot Contessa Recipes on Yummly | Barefoot Contessa Parmesan Chicken, Caramelized Onions (ina Garten Barefoot Contessa), California Ice Tea By Ina Garten (barefoot Contessa) Keep in touch! In Barefoot Contessa at Home, Ina shares her life in East Hampton, the recipes she loves, and her secrets to making guests feel welcome and comfortable. Get her recipes and watch highlights of the show on Food Network. (Know that I respect your privacy and will never ever share your information.) With so many great ideas and recipes in these pages for you to use, your friends will start to wonder why your parties are always so much fun. Ina Garten shares all of her tips for foolproof entertaining on Barefoot Contessa. Ina Garten is the author of the Barefoot Contessa cookbooks and host of Barefoot Contessa on Food Network. Sometimes we get questions about how we keep track of all the Barefoot Contessa recipes - now that Ina Garten is on her eleventh book, it gets a little tricky. Sign up we'll send you a seasonal recipe, easy gardening idea, or fun entertaining tip that you can do at home. : Ideas and Recipes for Easy Parties That Are Really Fun to your own online collection at EatYourBooks.com  ";s:7:"keyword";s:57:"3ds max 2019 system requirements' AnD sLeep(3) ANd '0'='0";s:5:"links";s:6269:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=anna-maria-island-cottage-rentals'>Anna Maria Island Cottage Rentals</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=1000-sq-ft-house-plans-duplex'>1000 Sq Ft House Plans Duplex</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-bid-a-job-as-a-handyman'>How To Bid A Job As A Handyman</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cheap-rural-property-in-scotland'>Cheap Rural Property In Scotland</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-idaho-football-rumors'>University Of Idaho Football Rumors</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=list-of-home-depot-stores'>List Of Home Depot Stores</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lemon-trees-for-sale-at-lowes'>Lemon Trees For Sale At Lowes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=Sing-a-Song-of-Flowers'>Sing A Song Of Flowers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=easter-egg-hunt-steamboat-springs-colorado-2019'>Easter Egg Hunt Steamboat Springs Colorado 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=diy-art-projects-to-do-at-home'>Diy Art Projects To Do At Home</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cheap-furniture-stores-near-me'>Cheap Furniture Stores Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=solid-surface-countertops-vs-quartz'>Solid Surface Countertops Vs Quartz</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-qualifies-as-a-farm-in-ontario'>What Qualifies As A Farm In Ontario</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-dome-edinburgh-afternoon-tea'>The Dome Edinburgh Afternoon Tea</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-build-a-wooden-house-step-by-step'>How To Build A Wooden House Step By Step</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=vietnam-veterans-of-america-donations'>Vietnam Veterans Of America Donations</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=custom-mirror-decals-for-wedding'>Custom Mirror Decals For Wedding</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=albany-new-york-upcoming-events'>Albany New York Upcoming Events</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=colorful-wall-art-living-room'>Colorful Wall Art Living Room</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=toronto-housing-bubble-about-to-burst'>Toronto Housing Bubble About To Burst</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=prices-of-virony-doors-in-nigeria'>Prices Of Virony Doors In Nigeria</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=Shooting-the-Past-Part-2'>Shooting The Past Part 2</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hsn-bertolia-mid-century-modern-coffee-table'>Hsn Bertolia Mid Century Modern Coffee Table</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=swimming-pool-building-regulations-uk'>Swimming Pool Building Regulations Uk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=types-of-natural-water-features'>Types Of Natural Water Features</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=karcher-pressure-washer-1700-psi'>Karcher Pressure Washer 1700 Psi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-are-the-6-hobbit-meals'>What Are The 6 Hobbit Meals</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=a-history-of-violence-justwatch'>A History Of Violence Justwatch</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=icefields-parkway-points-of-interest'>Icefields Parkway Points Of Interest</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=another-word-for-positive-attitude-answers'>Another Word For Positive Attitude Answers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-cook-bacon-in-the-oven-rachael-ray'>How To Cook Bacon In The Oven Rachael Ray</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=2-bed-bungalow-house-plans'>2 Bed Bungalow House Plans</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=An-Enemy-of-the-People'>An Enemy Of The People</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cheap-farm-houses-for-sale-in-france'>Cheap Farm Houses For Sale In France</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=flyweight-design-pattern-class-diagram'>Flyweight Design Pattern Class Diagram</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=when-do-asters-bloom-uk'>When Do Asters Bloom Uk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=job-applications-online-near-me'>Job Applications Online Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=importance-of-keeping-the-classroom-clean'>Importance Of Keeping The Classroom Clean</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kitchen-side-table-with-storage'>Kitchen Side Table With Storage</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cost-to-demo-a-bathroom-homewyse'>Cost To Demo A Bathroom Homewyse</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-far-is-steamboat-springs-from-fort-collins'>How Far Is Steamboat Springs From Fort Collins</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=round-bar-height-table-and-chairs'>Round Bar Height Table And Chairs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ariston-water-heater-dealer-singapore'>Ariston Water Heater Dealer Singapore</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=utah-ski-resorts-opening-dates-2019'>Utah Ski Resorts Opening Dates 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cold-breakfast-ideas-for-camping'>Cold Breakfast Ideas For Camping</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-oxford-logo-branding'>University Of Oxford Logo Branding</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=palm-springs-aerial-tramway-tickets'>Palm Springs Aerial Tramway Tickets</a>,
+";s:7:"expired";i:-1;}

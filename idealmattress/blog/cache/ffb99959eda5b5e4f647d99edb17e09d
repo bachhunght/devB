@@ -1,0 +1,242 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4936:"The items collected during the food drive will be distributed between local food banks, according to a release from the post office. GEORGIA —The National Association of Letter Carriers (NALC) will conduct its 27th annual nationwide Stamp Out Hunger Food Drive on Saturday, May 11 with the help of sponsors, volunteer organizations and postal workers.  This one day event is held the second Saturday in May and encourages our nation’s communities to set out bags of food for pick-up by their mailman and volunteers. Last year, the Siloam Springs Post Office collected 2,225.49 pounds of food, including matching donations. The Food Drive is primarily, well, a food drive, but if you also want to give personal care items (such as diapers, laundry detergent, soap, toilet paper and household cleaning items) in addition to your regular donation, food banks may be able to distribute or put them to good use with organizations that also provide help to those in need. 2019 Stamp Out Hunger National Food Drive. After collecting all the donations, they deliver them to the local food banks, community, food pantries … Postal Service employees in 10,000 communities nationwide, the National Association of Letter Carriers (NALC) will conduct its 26th annual Stamp Out Hunger Food Drive on Saturday, May 11. Use our quick tools to find locations, calculate prices, look up a … Postal workers are helping make sure that everyone has enough to eat. Stamp Out Hunger is the nation’s largest single-day food drive. So it is appropriately named Stamp Out Hunger Food Drive Day. They also collect the donations left in post offices by mailboxes. STAMP OUT HUNGER FOOD DRIVE DAY The second Saturday in May is the largest one-day food drive in the nation. Stamp Out Hunger drive yields 25,000 pounds of food. Since the drive started in 1993, total donations have surpassed 1.6 billion pounds of food. A revamped drive was organized for May 15, 1993 — the second Saturday in May — with a goal of having at least one NALC branch in each of the 50 states participating. Cloud food shelves. Postal service to ‘stamp out’ hunger with food drive Saturday Posted May 10, 2019 The National Letter Carriers Stamp Out Hunger Food Drive will be held May 11, 2019. PostalRHD.com for all of your postal route vehicle needs. Making a donation is easy. 25,349 pounds of food were split between The Salvation Army and Catholic Charities of St. Each year on the second Saturday in May. News briefs: Postal service's annual food drive set for Saturday. Additionally, National Dog Bite Prevention Week is expected to be held in April, while the Stamp Out Hunger food drive … They're getting ready for Saturday's "Stamp Out Hunger" food drive. In Viroqua, the Living Faith Food Welcome to USPS.com. National Postal Customer Council Week, an annual event that brings together USPS and industry leaders at meetings across the nation, will be held from Sept. 23-27. Last year’s drive resulted in carriers collecting 71.6 million pounds of food from local communities in all 50 states, the District of Columbia, Puerto Rico, Guam and the U.S. Virgin Islands. Postal Service Carriers Union is conducting their annual food drive, Saturday, May 11. Stamp Out Hunger food drive Feeding America’s hungry — learn how you can help Every second Saturday in May, letter carriers in more than 10,000 cities and towns across America collect the goodness and compassion of their postal customers, who participate in the NALC Stamp Out Hunger National Food Drive — the largest one-day food drive in the nation. Post an ad to sell your vehicle, or browse to buy one. Stamp Out Hunger is the nation’s largest single-day food drive. Find information on our most convenient and affordable shipping and mailing services. As they travel along their postal routes, they also collect the food from their postal customers who take part in NALC Stamp Out Hunger National Food Drive. How is it possible? Last year’s drive resulted in carriers collecting 71.6 million pounds of food from local communities in all 50 states, the District of Columbia, Puerto Rico, Guam and the U.S. Virgin Islands. The U.S. This year, local postal service employees have set a goal of collecting 3,000 pounds of food. Letter Carriers collect all the non-perishable food donations from their valuable customers. This national food drive event is one of the efforts that ties USPS more closely to the communities it serves. Each resident will receive a postcard describing the details. Postal Food Drive The Annual Postal Drive, Stamp Out Hunger, is a national effort to fight hunger. The U.S. Letter Carriers Stamp Out Hunger Food Drive back for 27th year Posted May 10, 2019 The National Letter Carriers Stamp Out Hunger Food Drive will be held May 11, 2019. In Viroqua, the Living Faith Food The result was astounding: More than 220 union branches collected more than 11 million … ";s:7:"keyword";s:30:"postal service food drive 2019";s:5:"links";s:8606:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cambridge-dictionary-free-download-full-version-for-mobile'>Cambridge Dictionary Free Download Full Version For Mobile</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=tall-shoe-cabinet-with-doors'>Tall Shoe Cabinet With Doors</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=garden-plans-for-front-of-house'>Garden Plans For Front Of House</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=national-honor-society-membership-fee'>National Honor Society Membership Fee</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kitchen-lighting-design-rules-of-thumb'>Kitchen Lighting Design Rules Of Thumb</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=courchevel-1850-hotels-ski-in-ski-out'>Courchevel 1850 Hotels Ski In Ski Out</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=romantic-things-to-do-in-owensboro-ky'>Romantic Things To Do In Owensboro Ky</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-there-snow-in-jackson-hole-in-march'>Is There Snow In Jackson Hole In March</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=2-piece-sectional-with-chaise-leather'>2 Piece Sectional With Chaise Leather</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-grow-broccoli-sprouts-rhonda-patrick'>How To Grow Broccoli Sprouts Rhonda Patrick</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-did-the-battle-of-thermopylae-take-place'>Where Did The Battle Of Thermopylae Take Place</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=things-to-do-in-victoria-bc-in-january-2019'>Things To Do In Victoria Bc In January 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=matte-lipstick-meaning-in-telugu'>Matte Lipstick Meaning In Telugu</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fire-upper-east-side-2020'>Fire Upper East Side 2020</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hotels-in-south-lake-tahoe'>Hotels In South Lake Tahoe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=old-fashioned-spanish-rice-recipe'>Old Fashioned Spanish Rice Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=canadian-tire-flyer-nov-21-2019'>Canadian Tire Flyer Nov 21 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=single-sofa-beds-for-small-rooms'>Single Sofa Beds For Small Rooms</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=take-it-to-the-limit-lyrics'>Take It To The Limit Lyrics</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-deal-with-difficult-coworkers-at-work'>How To Deal With Difficult Coworkers At Work</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lone-mountain-ranch-sleigh-ride-dinner'>Lone Mountain Ranch Sleigh Ride Dinner</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-copy-instagram-link-from-app'>How To Copy Instagram Link From App</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-great-american-baking-show-season-3'>The Great American Baking Show Season 3</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kieran-culkin-movies-and-tv-shows'>Kieran Culkin Movies And Tv Shows</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=simplehuman-sensor-can-power-adapter'>Simplehuman Sensor Can Power Adapter</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-remove-black-padding-under-carpet'>How To Remove Black Padding Under Carpet</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=back-niggle-meaning-in-tamil'>Back Niggle Meaning In Tamil</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=steamship-definition-ap-world-history'>Steamship Definition Ap World History</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dedicated-gluten-free-restaurants-near-me'>Dedicated Gluten Free Restaurants Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-clean-fabric-dining-chairs'>How To Clean Fabric Dining Chairs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=art-van-living-room-ideas'>Art Van Living Room Ideas</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=landscape-and-urban-planning-pdf'>Landscape And Urban Planning Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=How-to-draw-a-Chrysanthemum'>How To Draw A Chrysanthemum</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kitchen-chair-covers-round-back'>Kitchen Chair Covers Round Back</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=contemporary-dining-room-sets-for-small-spaces'>Contemporary Dining Room Sets For Small Spaces</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-dark-knight-full-movie-unblocked'>The Dark Knight Full Movie Unblocked</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-much-does-it-cost-to-stay-at-rock-harbor-lodge'>How Much Does It Cost To Stay At Rock Harbor Lodge</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=vintage-wrought-iron-table-and-chairs-for-sale'>Vintage Wrought Iron Table And Chairs For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=describe-the-taste-of-butter-chicken'>Describe The Taste Of Butter Chicken</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=odd-jobs-man-near-me'>Odd Jobs Man Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=arm-chairs-for-living-room'>Arm Chairs For Living Room</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=salt-lake-city-airport-directions'>Salt Lake City Airport Directions</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=different-types-of-tea-and-their-benefits'>Different Types Of Tea And Their Benefits</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=duramont-ergonomic-adjustable-office-chair-assembly-instructions'>Duramont Ergonomic Adjustable Office Chair Assembly Instructions</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=zillow-rental-manager-vs-cozy'>Zillow Rental Manager Vs Cozy</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=long-console-table-behind-couch'>Long Console Table Behind Couch</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=end-table-with-storage-baskets'>End Table With Storage Baskets</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=old-fashioned-potato-soup-recipe'>Old Fashioned Potato Soup Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=shade-hanging-basket-trailing-plants'>Shade Hanging Basket Trailing Plants</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-clean-your-apartment-from-top-to-bottom'>How To Clean Your Apartment From Top To Bottom</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-light-shop-coupon-code'>The Light Shop Coupon Code</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lalbagh-botanical-garden-entry-fee'>Lalbagh Botanical Garden Entry Fee</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=my-kitchen-rules-season-9-episode-49'>My Kitchen Rules Season 9 Episode 49</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=karcher-k7-display-not-working'>Karcher K7 Display Not Working</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-buying-local-better-for-the-environment'>Is Buying Local Better For The Environment</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pressure-washer-nozzle-for-car-wash'>Pressure Washer Nozzle For Car Wash</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pool-table-dining-conversion-kit'>Pool Table Dining Conversion Kit</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-adjust-the-back-of-an-office-chair'>How To Adjust The Back Of An Office Chair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ficus-microcarpa-ginseng-losing-leaves'>Ficus Microcarpa Ginseng Losing Leaves</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-happens-if-you-eat-too-many-brussel-sprouts'>What Happens If You Eat Too Many Brussel Sprouts</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pear-williams-bon-chretien-pollination'>Pear Williams Bon Chretien Pollination</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=crate-box-meaning-in-hindi'>Crate Box Meaning In Hindi</a>,
+";s:7:"expired";i:-1;}

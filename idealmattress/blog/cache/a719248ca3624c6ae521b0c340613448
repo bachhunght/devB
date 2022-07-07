@@ -1,0 +1,244 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3992:"I'll keep the pool open as long as the pool water is above 70 and there is a chance of the air temp being warm enough to justify a swim (75 or better - and yes - October gets that quite often here). How To Winterize A Saltwater Pool. In the cold months a saltwater swimming pool will become more acidic even if it has the ame filtration system as a traditional swimming pool. How to Winterize a Pool in Texas. If you have a swimming pool in Texas then what is typically done for "winterizing" can be very different then what those in the Northern US do to winterize a swimming pool.. For many in Texas, Winterizing a swimming pool means simply pulling all the drain plugs on the equipment items and then lowering the water to the bottom of the tile. -Make sure that the water is balanced.-When you see that the water temp is staying between 50-55 degrees, you can turn the chlorinator to 0, it will not be producing chlorine anyway, your T-cell has a life expectancy on it, or even better if you can substitute a piece … Today fiberglass pools come in many different shapes and sizes; they also come in a variety of different colors and are just as popular, if not more popular than than any other pool. First, all saltwater pools should be balanced prior to any winterization, with special attention given to pH, total alkalinity and calcium hardness. One of the first things you should know about closing your salt water pool is the way your salt water generator works. It's just as … All these … Salt water is more likely to form mineral scale on pool surfaces if the pH, alkalinity and calcium levels are out of whack. You need to change the water for every bather that enters the pool daily. Every pool is slightly different. Winter season lasts for approximately three months before the spring season, where you can finally reopen the pool.  Fortunately, these issues can be addressed by taking a few important steps as colder weather approaches. The difference is that the saltwater cleaning system, that eliminates the need to add chlorine to the water, will generate more salt and that can impact the water’s pH. Below we have put together some easy to follow steps to winterize an above ground pool. Failing to winterize your pool can be a costly affair. You don’t want your pool to develop unhealthy stains! Not only do you have to contend with algae growth and pool stains, but you may also have to repair the pool due to damage caused over the winter season.As such, it is essential to learn how to winterize a saltwater pool if you wish to save yourself some money as well as the headache of cleaning and fixing your salt ware swimming pool. OR you can save some money and close the pool yourself. If you have a swimming pool in Texas then what is typically done for "winterizing" can be very different then what those in the Northern US do to winterize a swimming pool.. For many in Texas, Winterizing a swimming pool means simply pulling all the drain plugs on the equipment items and then lowering the water to the bottom of the tile. A saltwater pool typically has a generator that produces chlorine from ordinary salt, and it's important to protect it from the elements when shutting down the pool for the winter. Not only do you have to contend with algae growth and pool stains, but you may also have to repair the pool due to damage caused over the winter season.As such, it is essential to learn how to winterize a saltwater pool if you wish to save yourself some money as well as the headache of cleaning and fixing your salt ware swimming pool. The difference is that the saltwater cleaning system, that eliminates the need to add chlorine to the water, will generate more salt and that can impact the water’s pH. Failing to winterize your pool can be a costly affair. Its 30 Gallons per bather. With over 200,000 members, TFP is the largest and most influential pool & spa website on the Internet. During winter, the cold temperature will harm the pool. ";s:7:"keyword";s:34:"how to winterize a salt water pool";s:5:"links";s:8686:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pvc-pipe-fittings-names-pdf'>Pvc Pipe Fittings Names Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=buy-one-get-one-free-recliner-ashley-furniture'>Buy One Get One Free Recliner Ashley Furniture</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=breakfast-casserole-with-biscuits-and-bacon'>Breakfast Casserole With Biscuits And Bacon</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=new-restaurants-in-north-carolina'>New Restaurants In North Carolina</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rei-garage-sale-mountain-view'>Rei Garage Sale Mountain View</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=washing-machine-for-sale-on-facebook'>Washing Machine For Sale On Facebook</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-become-a-crs'>How To Become A Crs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=iphone-wallpaper-high-quality-4k'>Iphone Wallpaper High Quality 4k</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ballard-designs-atlanta-new-store'>Ballard Designs Atlanta New Store</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rose-flower-garden-hd-wallpaper'>Rose Flower Garden Hd Wallpaper</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ice-cream-cartoon-ice-cream-cartoon'>Ice Cream Cartoon Ice Cream Cartoon</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=does-verizon-support-huawei-p30-pro'>Does Verizon Support Huawei P30 Pro</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-long-does-shatavari-take-to-work'>How Long Does Shatavari Take To Work</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-pollinate-air-plants'>How To Pollinate Air Plants</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=black-garage-doors-red-brick-house'>Black Garage Doors Red Brick House</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bedroom-designs-with-attached-bathroom-and-dressing-room-plans'>Bedroom Designs With Attached Bathroom And Dressing Room Plans</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=toshiba-hard-disk-customer-care-number-india'>Toshiba Hard Disk Customer Care Number India</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-cushions-for-mid-century-chair'>How To Make Cushions For Mid Century Chair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=food-delivery-near-me-open-now'>Food Delivery Near Me Open Now</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=home-equity-loan-calculator-wells-fargo'>Home Equity Loan Calculator Wells Fargo</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=malcolm-bentwood-leather-swivel-chair-review'>Malcolm Bentwood Leather Swivel Chair Review</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rectangular-above-ground-salt-water-pool'>Rectangular Above Ground Salt Water Pool</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-many-returns-should-a-pool-have'>How Many Returns Should A Pool Have</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=panna-cotta-recipe-for-6'>Panna Cotta Recipe For 6</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=val-thorens-ski-pass-prices-2019'>Val Thorens Ski Pass Prices 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ikea-dining-room-table-chairs'>Ikea Dining Room Table Chairs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-tomato-soup'>How To Make Tomato Soup</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pirates-of-the-caribbean-6-release-date'>Pirates Of The Caribbean 6 Release Date</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=desks-for-small-spaces-walmart'>Desks For Small Spaces Walmart</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=crafts-for-1-year-olds'>Crafts For 1 Year Olds</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=list-of-small-equipment-in-kitchen'>List Of Small Equipment In Kitchen</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chocolate-pavlova-with-chocolate-mascarpone-mousse'>Chocolate Pavlova With Chocolate Mascarpone Mousse</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=southwest-airlines-salt-lake-city-airport'>Southwest Airlines Salt Lake City Airport</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=diy-bed-frame-with-drawers'>Diy Bed Frame With Drawers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=recipes-using-sugar-beet-syrup'>Recipes Using Sugar Beet Syrup</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-restaurants-in-bangkok-2019'>Best Restaurants In Bangkok 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=8-heads-in-a-duffel-bag-tamil-dubbed-movie-download'>8 Heads In A Duffel Bag Tamil Dubbed Movie Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=samsung-french-door-refrigerator-reviews'>Samsung French Door Refrigerator Reviews</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=healthy-recipes-for-weight-loss'>Healthy Recipes For Weight Loss</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=appliance-parts-pros-near-me'>Appliance Parts Pros Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=christy-sports-ski-rental-coupon-code-2020'>Christy Sports Ski Rental Coupon Code 2020</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-to-buy-campari-tomatoes'>Where To Buy Campari Tomatoes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ryobi-2300-electric-pressure-washer'>Ryobi 2300 Electric Pressure Washer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=michel-roux-sr-net-worth'>Michel Roux Sr Net Worth</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=images-of-luxury-homes-interiors'>Images Of Luxury Homes Interiors</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=burj-khalifa-at-the-top'>Burj Khalifa At The Top</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=epic-pass-vs-whistler-season-pass'>Epic Pass Vs Whistler Season Pass</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-british-columbia-tuition-fees-for-international-students-graduate'>University Of British Columbia Tuition Fees For International Students Graduate</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=The-Yoga-Sutras-of-Patanjali'>The Yoga Sutras Of Patanjali</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=middle-eastern-food-recipes-appetizers'>Middle Eastern Food Recipes Appetizers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=simplehuman-40l-slim-step-can'>Simplehuman 40l Slim Step Can</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=japanese-tea-garden-near-me'>Japanese Tea Garden Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=room-for-rent-in-ajman-jurf-2'>Room For Rent In Ajman Jurf 2</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=eames-lounge-chair-weight-limit'>Eames Lounge Chair Weight Limit</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=zillow-rental-manager-vs-cozy'>Zillow Rental Manager Vs Cozy</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philips-hue-recessed-downlight-color'>Philips Hue Recessed Downlight Color</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=grain-wood-furniture-greenport-2-door-armoire'>Grain Wood Furniture Greenport 2 Door Armoire</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=triple-antibiotic-with-pain-relief-uses'>Triple Antibiotic With Pain Relief Uses</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=jughead-jones-and-betty-cooper'>Jughead Jones And Betty Cooper</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=new-dvd-releases-june-4'>New Dvd Releases June 4</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=diondre-2-door-accent-cabinet'>Diondre 2 Door Accent Cabinet</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-eat-whole-grains'>How To Eat Whole Grains</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philanthropy-used-in-a-short-sentence'>Philanthropy Used In A Short Sentence</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cooking-basics-for-dummies-free-pdf'>Cooking Basics For Dummies Free Pdf</a>,
+";s:7:"expired";i:-1;}

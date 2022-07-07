@@ -1,0 +1,272 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3234:": 38 This treatment later became an issue for Enron and its auditor Arthur Andersen as removing it from the balance sheet resulted in a $1.2 billion decrease in net shareholders' equity. One of the largest ethical and legal business cases in a very long time has involved Enron. Fall of Arthur Andersen - Arthur Anderson, US DOJ, The case examines the emergence of Arthur Andersen as one of the leading auditing and consulting firms in the world, on the basis of its emphasis on integrity and ethics in business. Ethical Incidents in Organizations: Arthur Andersen While the majority of people in the US are aware of the problems that were faced by Enron, most do not realize the impact the company had on other organizations which were also involved in the scandal. The Enron scandal, publicized in October 2001, eventually led to the bankruptcy of the Enron Corporation, an American energy company based in Houston, Texas, and the de facto dissolution of Arthur Andersen, which was one of the five largest audit and accountancy partnerships in the world. It employed about 21,000 people, mostly at its headquarters in Houston, Texas. Collapse of Enron Corp and role of its auditors, Arthur Andersen & Co, have strengthened discussion in accounting profession, among regulators and within Congress over future of … In the case of Enron, however, Arthur Andersen failed at their duties. Fall of Arthur Andersen - Arthur Anderson, US DOJ, The case examines the emergence of Arthur Andersen as one of the leading auditing and consulting firms in the world, on the basis of its emphasis on integrity and ethics in business. Arthur Andersen once exemplified the rock-solid character and integrity that characterized the accounting profession. Introduction Although Enron went bankrupt and disappeared ten years ago, the impacts it has made on the ethical standards never faded. AA contributed to the disaster by approving the structure of many Special Purpose Entities (SPE), which Enron used for off-balance sheet financing. During the last decade of the partnership’s life, auditors at several regional offices failed to detect, ignored, or approved accounting frauds for large clients paying lucrative consulting fees, including Enron Corp. and WorldCom Inc. Arthur Andersen somewhat helped Enron with their accounting scandal. You may also want to view the documentary […] The case explains the factors that led to deterioration in the firm's culture during the 1990s. Had Andersen done the job in an ethical manor, thousands of people would not be out of a job or even worst their retirement funds. Arthur Andersen’s Troubles 1.Arthur Anderson (AA) should have been able to help prevent to some extent the Enron disaster, however, they either missed or ignored Enron’s manipulations allowing the fraud to continue as long as it did. One such company was the accounting firm Arthur Andersen. Collapse of Enron Corp and role of its auditors, Arthur Andersen & Co, have strengthened discussion in accounting profession, among regulators and within Congress over future of … The Fall of Enron-An Analysis of Ethical Issues ENRON & ARTHUR ANDERSEN ETHICS ESSAY The Fall of Enron An Analysis of Ethical Issues Xiaomeng Wang 1. ";s:7:"keyword";s:36:"arthur andersen enron ethical issues";s:5:"links";s:12388:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=vanilla-ice-cream-cake-recipe'>Vanilla Ice Cream Cake Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rise-of-ottoman-empire-movie'>Rise Of Ottoman Empire Movie</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=all-family-food-court-loyang-point'>All Family Food Court Loyang Point</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mexican-restaurant-appetizers-in-spanish'>Mexican Restaurant Appetizers In Spanish</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=stainless-steel-dinnerware-made-in-usa'>Stainless Steel Dinnerware Made In Usa</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=big-lots-3-piece-table-set'>Big Lots 3 Piece Table Set</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=should-agapanthus-seed-heads-be-removed'>Should Agapanthus Seed Heads Be Removed</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-chicken-biryani-near-me'>Best Chicken Biryani Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-cook-beets-in-oven'>How To Cook Beets In Oven</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-is-maize-used-for'>What Is Maize Used For</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chow-chow-north-indian-recipe'>Chow Chow North Indian Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=when-do-asters-bloom-uk'>When Do Asters Bloom Uk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=auto-body-repair-mechanicsville-va'>Auto Body Repair Mechanicsville Va</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=american-restaurants-in-ogden-utah'>American Restaurants In Ogden Utah</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sterilite-3-drawer-small-walmart'>Sterilite 3 Drawer Small Walmart</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=houses-for-rent-in-naperville-il-craigslist'>Houses For Rent In Naperville Il Craigslist</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hayward-led-pool-light-problems'>Hayward Led Pool Light Problems</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=houses-for-sale-in-prague-ok'>Houses For Sale In Prague Ok</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=top-10-home-improvement-companies'>Top 10 Home Improvement Companies</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=when-was-st-george-born'>When Was St George Born</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=never-talk-to-strangers-movie-download-300mb'>Never Talk To Strangers Movie Download 300mb</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=essentials-of-classic-italian-cooking-reddit'>Essentials Of Classic Italian Cooking Reddit</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wall-of-cabinets-for-bedroom'>Wall Of Cabinets For Bedroom</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=temperature-sensor-used-in-refrigerator'>Temperature Sensor Used In Refrigerator</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=imperial-college-london-notable-alumni'>Imperial College London Notable Alumni</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=high-potassium-fertilizer-home-depot'>High Potassium Fertilizer Home Depot</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=marble-queen-pothos-not-white'>Marble Queen Pothos Not White</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=benefits-of-eating-raw-tomatoes'>Benefits Of Eating Raw Tomatoes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=building-a-modern-dining-table'>Building A Modern Dining Table</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=behr-paint-colors-for-laundry-room'>Behr Paint Colors For Laundry Room</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=antique-coffee-table-with-wheels'>Antique Coffee Table With Wheels</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philodendron-pink-princess-light-requirements'>Philodendron Pink Princess Light Requirements</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=custom-mirror-decals-for-wedding'>Custom Mirror Decals For Wedding</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=courtyard-by-marriott-edinburgh-tripadvisor'>Courtyard By Marriott Edinburgh Tripadvisor</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-fry-french-fries'>How To Fry French Fries</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=home-depot-sop-mutual-attraction'>Home Depot Sop Mutual Attraction</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ice-cream-flavors-blue-bell'>Ice Cream Flavors Blue Bell</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-waterloo-ranking-engineering'>University Of Waterloo Ranking Engineering</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=upma-rava-in-hindi-name'>Upma Rava In Hindi Name</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-much-foxglove-is-fatal-to-dogs'>How Much Foxglove Is Fatal To Dogs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=umass-lowell-pre-med-ranking'>Umass Lowell Pre Med Ranking</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mesh-computer-chair-with-arms'>Mesh Computer Chair With Arms</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=honor-10-lite-carphone-warehouse'>Honor 10 Lite Carphone Warehouse</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=tall-shoe-cabinet-with-doors'>Tall Shoe Cabinet With Doors</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=feedback-and-feedforward-control-system-example'>Feedback And Feedforward Control System Example</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=does-lucky-bamboo-give-oxygen-at-night'>Does Lucky Bamboo Give Oxygen At Night</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ficus-tree-lost-all-leaves'>Ficus Tree Lost All Leaves</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pretty-little-liars-the-perfectionists'>Pretty Little Liars The Perfectionists</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=l-shaped-modular-kitchen-cost'>L Shaped Modular Kitchen Cost</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=things-to-do-in-jasper-national-park'>Things To Do In Jasper National Park</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mary-queen-of-scots-and-francis'>Mary Queen Of Scots And Francis</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=250-watt-halogen-bulb-led-replacement'>250 Watt Halogen Bulb Led Replacement</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=thomasville-fabric-sectional-with-ottoman-1355974'>Thomasville Fabric Sectional With Ottoman 1355974</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-clean-anthurium-leaves'>How To Clean Anthurium Leaves</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=indian-vegetarian-tasting-menu-london'>Indian Vegetarian Tasting Menu London</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=winter-garden-projects-for-kids'>Winter Garden Projects For Kids</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=does-valerie-bertinelli-have-children'>Does Valerie Bertinelli Have Children</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=southwest-airlines-salt-lake-city-airport'>Southwest Airlines Salt Lake City Airport</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=used-swimming-pool-slide-craigslist'>Used Swimming Pool Slide Craigslist</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=creamy-mac-and-cheese-with-evaporated-milk'>Creamy Mac And Cheese With Evaporated Milk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=white-coffee-table-with-glass-top'>White Coffee Table With Glass Top</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=too-late-the-hero-john-entwistle'>Too Late The Hero John Entwistle</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=set-of-2-recliner-chairs'>Set Of 2 Recliner Chairs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-black-pepper-a-nightshade'>Is Black Pepper A Nightshade</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=most-visited-places-in-the-world-2019'>Most Visited Places In The World 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=build-your-own-rug-weaving-loom'>Build Your Own Rug Weaving Loom</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=love-your-garden-2019-episodes'>Love Your Garden 2019 Episodes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philips-track-light-price-india'>Philips Track Light Price India</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sterilite-30-gallon-tote-lid-only'>Sterilite 30 Gallon Tote Lid Only</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=should-i-disable-third-party-cookies'>Should I Disable Third Party Cookies</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=instructions-for-tourists-at-tourist-places'>Instructions For Tourists At Tourist Places</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=new-orleans-red-beans-and-rice-recipe'>New Orleans Red Beans And Rice Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bacardi-frozen-pina-colada-mix-walmart'>Bacardi Frozen Pina Colada Mix Walmart</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=stratford-black-office-chair-instructions'>Stratford Black Office Chair Instructions</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-draw-a-mountain-bike'>How To Draw A Mountain Bike</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=easy-crockpot-potato-soup-with-frozen-hash-browns'>Easy Crockpot Potato Soup With Frozen Hash Browns</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=beaver-creek-town-upcoming-events'>Beaver Creek Town Upcoming Events</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-an-old-kitchen-look-new-in-a-rental'>How To Make An Old Kitchen Look New In A Rental</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rachael-ray-47578-10-piece-steel-bakeware-set-agave-blue'>Rachael Ray 47578 10 Piece Steel Bakeware Set Agave Blue</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=crispy-saffron-rice-bon-appetit'>Crispy Saffron Rice Bon Appetit</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=The-I-hate-to-cook-book'>The I Hate To Cook Book</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=paint-colors-that-go-with-dark-wood-floors'>Paint Colors That Go With Dark Wood Floors</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=farmhouse-wall-decor-living-room'>Farmhouse Wall Decor Living Room</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kinds-of-curtains-with-pictures'>Kinds Of Curtains With Pictures</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-become-a-landscape-designer'>How To Become A Landscape Designer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=american-sniper-full-movie-in-hindi'>American Sniper Full Movie In Hindi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mile-radius-from-current-location'>Mile Radius From Current Location</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=manjula-pothos-vs-marble-queen'>Manjula Pothos Vs Marble Queen</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=vegetables-quotes-and-sayings-tagalog'>Vegetables Quotes And Sayings Tagalog</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-repair-ceiling-led-light'>How To Repair Ceiling Led Light</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=garage-storage-bins-for-sports-equipment'>Garage Storage Bins For Sports Equipment</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=48-inch-dog-crate-tray'>48 Inch Dog Crate Tray</a>,
+";s:7:"expired";i:-1;}

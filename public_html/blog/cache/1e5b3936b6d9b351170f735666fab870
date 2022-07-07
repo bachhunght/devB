@@ -1,0 +1,262 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4361:"This form of liquor has typically 30-60% alcohol by volume, which can pack quite a … Brandy is a spirit made by distilling grapes to a higher proof than they achieve as wine. Cognac is a brandy that is made specifically from grapes produced in a specific region in France. The name brandy is a shortening of the Dutch word brandewijn, which means “fire wine”. With the exception of … Location Only a Wine Brandy produced in Cognac region can be called Cognac, while Armagnac must be from the Armagnac region in Gascony, southwest France. The raw materials used in brandy production are liquids that contain any form of sugar. Cognac is a brandy from a specific section of Charente, about two-thirds of the way from Paris to Bordeaux. As you can imagine, pomace brandy is a very different beast than grape brandy is, having a more bitter, vegetal, and funky quality that is probably a more acquired taste. However, anything that will ferment can be distilled and turned into a brandy. Brandy, like wine, is also made from grapes, but the grapes are distilled more so that the alcohol content, or proof, is greater than that of wine. Grape brandy is distilled from the mash, juice or wine of grapes. However, it can be made with other fruits, including apples, apricots, and cherries. The wine is heated gently in a still, where the … Most brandy is made from actual grape wine, though some may also be made from the pulpy mixture of stems and seeds left after grapes are pressed, and some is made from the fermented juices of fruits other than grapes. Short answer: As noted by Rick Rhay below, Brandy is distilled wine and Whisky is distilled beer. Victor Hugo called cognac the "liquor of the gods. Cognac is a type of brandy, and after the distillation and during the aging process, is also called eau de vie. But most brandy cocktails are made with grape brandy: famous examples include the Sidecar and the Brandy Alexander, and adding a half ounce of Cognac to a glass of Champagne is a painless and delicious,= simple drink. Fruit brandies are made from any fruit—a classic example is Calvados, a brandy made from apples. There are multiple types of brandy that exist, but the one that you most likely know best is Cognac which is Hennessy. Brandy is derived from wine, yet it is aged in oak barrels, which increases the alcohol content and also gives it the unique color. The first answer given ("Most hrandys are made of distilled wine.") Most brandys are made of distilled wine. Most is made from actual grape wine, though some may also be made from the pulpy mixture of stems and seeds left after grapes are pressed, and some is made from the fermented juices of fruits other than grapes. I must admit that when I first started on this brandy journey, I had absolutely no idea how the spirit was made, apart from knowing it was made from wine and not grain like whisky. Santa Fe Spirits takes advantage of the extremely flavorful apples of the Mountain West, giving Santa Fe Spirits Apple Brandy a distinctive terroir unlike any other brandy. Another, much lesser-known, style of brandy is pomace brandy. It is a liquor distilled from wine or other fermented fruit juices. Brandy-making begins with wine, and works best when made from wines that would be frankly mediocre for ordinary drinking. Pomace brandy is typically made with the grape’s skins and seeds, and sometimes they even include the stems. This is really a two part question. Making Brandy: Respect for the master distillers. is a good start. How is Brandy Made Brandy is a spirit distilled from fruit, with grape brandy being the most common. They must be high in acidity, and low in alcohol and residual sugar. Each form has distinct variations, including distillation processes, aging requirements and ingredients used to produce the brandy. Speaking of it, the main difference between Cognac and Armagnac is also known as the golden rule of real estate: Location, location, location. Brandy derives its name from the Dutch word brandewijn, meaning "burned wine.". Pomace brandy, such as Grappa, is distilled from the pulp and skins left over after wine production.  "It's become known as a symbol of French luxury, the best brandy money can buy (yes, cognac is a brandy). French brandies are made from the wine of the St. Émillion, Colombard (or Folle Blanche) grapes. ";s:7:"keyword";s:24:"what is brandy made from";s:5:"links";s:11118:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=twinings-strawberry-and-raspberry-tea-health-benefits'>Twinings Strawberry And Raspberry Tea Health Benefits</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-westminster-international-students'>University Of Westminster International Students</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=beef-stroganoff-recipe-for-20'>Beef Stroganoff Recipe For 20</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=step-2-grand-walk-in-kitchen'>Step 2 Grand Walk In Kitchen</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-is-your-comfort-food'>What Is Your Comfort Food</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=use-photoshop-online-free-without-download'>Use Photoshop Online Free Without Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=target-kids-table-and-chairs'>Target Kids Table And Chairs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kids-foot-locker-release-calendar'>Kids Foot Locker Release Calendar</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=swiggy-menu-card-with-price'>Swiggy Menu Card With Price</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=low-maintenance-landscaping-with-rocks'>Low Maintenance Landscaping With Rocks</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=south-indian-menu-card-pdf'>South Indian Menu Card Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=oyster-sauce-vs-hoisin-sauce'>Oyster Sauce Vs Hoisin Sauce</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=at-home-turnersville-nj-grand-opening'>At Home Turnersville Nj Grand Opening</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=craigslist-eau-claire-miscellaneous-for-sale'>Craigslist Eau Claire Miscellaneous For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-wall-color-in-india'>Best Wall Color In India</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=used-wooden-stools-for-sale'>Used Wooden Stools For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hindi-word-mat-meaning-in-english'>Hindi Word Mat Meaning In English</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-did-cogongrass-originate-from'>Where Did Cogongrass Originate From</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=target-kids-table-and-chairs'>Target Kids Table And Chairs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=must-have-kitchen-items-list-in-hindi'>Must Have Kitchen Items List In Hindi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-long-to-boil-smoked-turkey-wings'>How Long To Boil Smoked Turkey Wings</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=foldable-table-for-sale-philippines'>Foldable Table For Sale Philippines</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=marigolds-in-garden-for-pest-control'>Marigolds In Garden For Pest Control</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cole-and-son-discount-wallpaper'>Cole And Son Discount Wallpaper</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=coin-purse-frames-hobby-lobby'>Coin Purse Frames Hobby Lobby</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=modern-farmhouse-rustic-oak-coffee-table'>Modern Farmhouse Rustic Oak Coffee Table</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=broccoli-sprouts-smoothie-rhonda-patrick'>Broccoli Sprouts Smoothie Rhonda Patrick</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-east-london-mba'>University Of East London Mba</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=The-Media-of-Mass-Communication'>The Media Of Mass Communication</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mustard-oil-vs-coconut-oil-for-hair'>Mustard Oil Vs Coconut Oil For Hair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=magnavox-dvd-recorder-finalize-disc'>Magnavox Dvd Recorder Finalize Disc</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=feng-shui-plants-in-bedroom'>Feng Shui Plants In Bedroom</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=healthy-angel-food-cake-desserts'>Healthy Angel Food Cake Desserts</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fabric-swivel-glider-recliner-costco'>Fabric Swivel Glider Recliner Costco</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-cut-cucumber-for-sushi'>How To Cut Cucumber For Sushi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=unsw-fees-for-domestic-students'>Unsw Fees For Domestic Students</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=are-ferns-poisonous-to-babies'>Are Ferns Poisonous To Babies</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-keto-carbs-cookbook-reviews'>The Keto Carbs Cookbook Reviews</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=famous-hip-hop-graffiti-artists'>Famous Hip Hop Graffiti Artists</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=italian-restaurant-near-me-now'>Italian Restaurant Near Me Now</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=living-room-furniture-layout-with-fireplace-and-tv-on-opposite-walls'>Living Room Furniture Layout With Fireplace And Tv On Opposite Walls</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=directions-to-niagara-falls-state-park'>Directions To Niagara Falls State Park</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-light-bulbs-work-with-amazon-alexa'>What Light Bulbs Work With Amazon Alexa</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=baby-boy-names-and-meanings'>Baby Boy Names And Meanings</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=public-park-design-landscape-architecture'>Public Park Design Landscape Architecture</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=free-round-patio-table-plans'>Free Round Patio Table Plans</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=generac-3200-psi-pressure-washer-manual'>Generac 3200 Psi Pressure Washer Manual</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=comforting-messages-for-a-friend-who-is-sad'>Comforting Messages For A Friend Who Is Sad</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wide-seat-metal-dining-chairs'>Wide Seat Metal Dining Chairs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-bbq-in-the-us-2018'>Best Bbq In The Us 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=upholstered-coffee-table-with-shelf'>Upholstered Coffee Table With Shelf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=onion-during-pregnancy-first-trimester'>Onion During Pregnancy First Trimester</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wort-hotel-jackson-hole-restaurant'>Wort Hotel Jackson Hole Restaurant</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=large-leather-ottoman-with-storage'>Large Leather Ottoman With Storage</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=godrej-almirah-with-locker-and-mirror'>Godrej Almirah With Locker And Mirror</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=tahoe-donner-cross-country-ski-center'>Tahoe Donner Cross Country Ski Center</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=html-table-flexible-column-width'>Html Table Flexible Column Width</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=front-doors-with-side-panels-wooden'>Front Doors With Side Panels Wooden</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=oil-rubbed-bronze-pendant-light-lowes'>Oil Rubbed Bronze Pendant Light Lowes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lowes-friends-and-family-discount'>Lowes Friends And Family Discount</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kitchen-floor-tile-ideas-2019'>Kitchen Floor Tile Ideas 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-rehydrate-beans-quickly'>How To Rehydrate Beans Quickly</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=two-jack-lake-skating-conditions-2019'>Two Jack Lake Skating Conditions 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-frieze-carpet-going-out-of-style'>Is Frieze Carpet Going Out Of Style</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-british-columbia-tuition-fees-for-international-students-graduate'>University Of British Columbia Tuition Fees For International Students Graduate</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=weather-in-china-in-october'>Weather In China In October</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-leeds-ranking-2020'>University Of Leeds Ranking 2020</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-plants-for-property-line'>Best Plants For Property Line</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ill-met-by-moonlight-ffxiv'>Ill Met By Moonlight Ffxiv</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=context-in-a-short-sentence'>Context In A Short Sentence</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-cook-vegetables-stir-fry'>How To Cook Vegetables Stir Fry</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=destinations-of-a-lifetime-list'>Destinations Of A Lifetime List</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-paint-colors-make-rooms-look-bigger'>What Paint Colors Make Rooms Look Bigger</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wood-decoration-ideas-for-wedding'>Wood Decoration Ideas For Wedding</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=canvas-painting-price-in-india'>Canvas Painting Price In India</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-grow-a-berry-garden'>How To Grow A Berry Garden</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=inn-at-holiday-valley-vs-tamarack-club'>Inn At Holiday Valley Vs Tamarack Club</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=weekly-meal-plan-for-working-moms'>Weekly Meal Plan For Working Moms</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=metal-raised-garden-beds-home-depot'>Metal Raised Garden Beds Home Depot</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=non-alcoholic-pina-colada-punch-with-ice-cream'>Non Alcoholic Pina Colada Punch With Ice Cream</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=high-potassium-fertilizer-home-depot'>High Potassium Fertilizer Home Depot</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=oprah-winfrey-email-address-2018'>Oprah Winfrey Email Address 2018</a>,
+";s:7:"expired";i:-1;}

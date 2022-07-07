@@ -1,0 +1,260 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:1:" ";s:7:"keyword";s:22:"world on fire series 2";s:5:"links";s:10830:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=herb-garden-layout-raised-bed'>Herb Garden Layout Raised Bed</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=santana-row-letter-to-santa'>Santana Row Letter To Santa</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=high-pressure-steam-cleaner-hire'>High Pressure Steam Cleaner Hire</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=raymour-and-flanigan-credit-card-payment-td-phone-number'>Raymour And Flanigan Credit Card Payment Td Phone Number</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-barbecue-restaurants-in-bangalore'>Best Barbecue Restaurants In Bangalore</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=gordon-ramsay-ultimate-home-cooking-free-download'>Gordon Ramsay Ultimate Home Cooking Free Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=black-and-white-prints-set-of-3'>Black And White Prints Set Of 3</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=small-gold-metal-wall-decor'>Small Gold Metal Wall Decor</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-psychology-of-restaurant-interior-design-part-3'>The Psychology Of Restaurant Interior Design Part 3</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hotel-departments-and-their-functions-pdf'>Hotel Departments And Their Functions Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=things-to-do-in-bear-valley-springs-ca'>Things To Do In Bear Valley Springs Ca</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=snowmass-hotels-ski-in-ski-out'>Snowmass Hotels Ski In Ski Out</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=peel-and-stick-wall-murals-floral'>Peel And Stick Wall Murals Floral</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=jughead-jones-movies-and-tv-shows'>Jughead Jones Movies And Tv Shows</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pickle-bath-for-rust-removal'>Pickle Bath For Rust Removal</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=light-lunch-ideas-for-work'>Light Lunch Ideas For Work</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-westminster-student-hub'>University Of Westminster Student Hub</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=industrial-hoover-hire-for-dust'>Industrial Hoover Hire For Dust</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fruit-salad-day-for-kindergarten'>Fruit Salad Day For Kindergarten</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=convert-dining-room-into-lounge'>Convert Dining Room Into Lounge</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=iron-man-2-full-movie-dailymotion'>Iron Man 2 Full Movie Dailymotion</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=deliver-us-from-evil-2014-123movies'>Deliver Us From Evil 2014 123movies</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=air-compressor-fitting-for-pool-lines'>Air Compressor Fitting For Pool Lines</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wells-tufted-leather-swivel-chair'>Wells Tufted Leather Swivel Chair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=back-case-meaning-in-tamil'>Back Case Meaning In Tamil</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=repast-meaning-in-merriam-webster'>Repast Meaning In Merriam Webster</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=things-to-do-in-november'>Things To Do In November</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-place-to-buy-computer-chair'>Best Place To Buy Computer Chair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=big-lots-fire-pit-dining-table'>Big Lots Fire Pit Dining Table</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lamont-dozier-going-back-to-my-roots'>Lamont Dozier Going Back To My Roots</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=watch-big-little-lies-season-2-episode-1'>Watch Big Little Lies Season 2 Episode 1</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-paint-colors-for-finished-basements'>Best Paint Colors For Finished Basements</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=molecular-weight-of-freon-123'>Molecular Weight Of Freon 123</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-places-to-go-skiing-in-early-april'>Best Places To Go Skiing In Early April</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=twin-mattress-and-box-spring-set'>Twin Mattress And Box Spring Set</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=starting-a-farmers-market-in-ontario'>Starting A Farmers Market In Ontario</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=spider-plant-leaves-turning-yellow-and-brown'>Spider Plant Leaves Turning Yellow And Brown</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=warp-drive-in-a-sentence'>Warp Drive In A Sentence</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sour-cream-pumpkin-pie-joy-of-cooking'>Sour Cream Pumpkin Pie Joy Of Cooking</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=montecito-sequoia-winter-sports-center'>Montecito Sequoia Winter Sports Center</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=are-spider-plants-toxic-to-cats'>Are Spider Plants Toxic To Cats</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=art-is-my-passion-quotes'>Art Is My Passion Quotes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lake-tahoe-things-to-do'>Lake Tahoe Things To Do</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-last-station-movie-download'>The Last Station Movie Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=peperomia-black-spots-on-leaves'>Peperomia Black Spots On Leaves</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cost-to-demo-a-bathroom-homewyse'>Cost To Demo A Bathroom Homewyse</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=study-table-designs-for-adults'>Study Table Designs For Adults</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=home-alone-in-concert-dso'>Home Alone In Concert Dso</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=101-barrington-road-schaumburg-il'>101 Barrington Road Schaumburg Il</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=plain-and-simple-in-a-sentence'>Plain And Simple In A Sentence</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=part-time-jobs-in-dubai-every-friday'>Part Time Jobs In Dubai Every Friday</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bar-in-world-trade-center-abu-dhabi'>Bar In World Trade Center Abu Dhabi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hgtv-dream-home-giveaway-2020'>Hgtv Dream Home Giveaway 2020</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dyson-v6-not-holding-charge'>Dyson V6 Not Holding Charge</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-create-pattern-in-javascript'>How To Create Pattern In Javascript</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=authentic-tikka-masala-paste-recipe'>Authentic Tikka Masala Paste Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-is-the-ferret-in-sredni-vashtar-linked-to-death'>How Is The Ferret In Sredni Vashtar Linked To Death</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=object-pool-design-pattern-in-java'>Object Pool Design Pattern In Java</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dollar-store-decor-outfitting-an-apartment'>Dollar Store Decor Outfitting An Apartment</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hd-nature-wallpaper-full-screen'>Hd Nature Wallpaper Full Screen</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pottery-barn-cotton-bath-mat'>Pottery Barn Cotton Bath Mat</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=menards-exterior-french-doors-with-frame'>Menards Exterior French Doors With Frame</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-mix-fabric-patterns-in-a-room'>How To Mix Fabric Patterns In A Room</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=comfy-chairs-for-bedroom-cheap'>Comfy Chairs For Bedroom Cheap</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=start-a-plant-nursery-from-scratch'>Start A Plant Nursery From Scratch</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=restaurants-near-me-open-now'>Restaurants Near Me Open Now</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pool-plumbing-diagram-with-spa'>Pool Plumbing Diagram With Spa</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-the-torpedo-factory-free'>Is The Torpedo Factory Free</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-much-value-does-a-half-bathroom-add'>How Much Value Does A Half Bathroom Add</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=big-lots-ashley-furniture-sectional'>Big Lots Ashley Furniture Sectional</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=marinade-for-lamb-chops-in-the-oven'>Marinade For Lamb Chops In The Oven</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fly-insect-meaning-in-hindi'>Fly Insect Meaning In Hindi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=longest-ski-run-in-us'>Longest Ski Run In Us</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hitachi-inverter-refrigerator-service-manual-pdf'>Hitachi Inverter Refrigerator Service Manual Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-duck-meat-red-meat'>Is Duck Meat Red Meat</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=smith-fork-ranch-for-sale'>Smith Fork Ranch For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=gwendoline-christie-movies-and-tv-shows'>Gwendoline Christie Movies And Tv Shows</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-does-ryoanji-illustrate-religious-syncretism-in-japan'>How Does Ryoanji Illustrate Religious Syncretism In Japan</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-ski-resorts-in-colorado-for-beginners'>Best Ski Resorts In Colorado For Beginners</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=euromicro-conference-on-software-engineering-and-advanced-applications'>Euromicro Conference On Software Engineering And Advanced Applications</a>,
+";s:7:"expired";i:-1;}

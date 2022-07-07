@@ -1,0 +1,954 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: captcha\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-07-25 12:34+0300\n"
+"PO-Revision-Date: 2017-07-25 12:34+0300\n"
+"Last-Translator: Mik013\n"
+"Language-Team: Mik013\n"
+"Language: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: captcha.php:32 captcha.php:34 captcha.php:363
+#: includes/class-hctpc-settings-tabs.php:453
+msgid "Captcha Settings"
+msgstr "Nastavení CAPTCHA"
+
+#: captcha.php:34 captcha.php:1557 captcha.php:1570
+#: includes/class-hctpc-settings-tabs.php:39
+msgid "Settings"
+msgstr "Nastavení"
+
+#: captcha.php:36 includes/class-hctpc-package-list.php:91
+msgid "Captcha Packages"
+msgstr ""
+
+#: captcha.php:36
+msgid "Packages"
+msgstr "Balíčky"
+
+#: captcha.php:38 includes/class-hctpc-whitelist.php:78
+msgid "Captcha Whitelist"
+msgstr ""
+
+#: captcha.php:38
+msgid "Whitelist"
+msgstr "Seznam povolených"
+
+#: captcha.php:441 captcha.php:447 captcha.php:463 captcha.php:465
+#: captcha.php:474 captcha.php:528 captcha.php:532 captcha.php:541
+#: captcha.php:564 captcha.php:574 captcha.php:599 captcha.php:602
+#: captcha.php:610
+msgid "ERROR"
+msgstr "CHYBA"
+
+#: captcha.php:666 captcha.php:672
+msgid "Error"
+msgstr "Chyba"
+
+#: captcha.php:666 captcha.php:672
+msgid "Click the BACK button on your browser, and try again."
+msgstr "Klikněte ve vašem prohlížeči na tlačítko ZPĚT a zkuste to znovu."
+
+#: captcha.php:860
+msgid "In order to pass the CAPTCHA please enable JavaScript"
+msgstr "Pro správnou funkci CAPTCHA prosím povolte JavaScript"
+
+#: captcha.php:1235
+msgid "zero"
+msgstr "nula"
+
+#: captcha.php:1236
+msgid "one"
+msgstr "jedna"
+
+#: captcha.php:1237
+msgid "two"
+msgstr "dva"
+
+#: captcha.php:1238
+msgid "three"
+msgstr "tři"
+
+#: captcha.php:1239
+msgid "four"
+msgstr "čtyři"
+
+#: captcha.php:1240
+msgid "five"
+msgstr "pět"
+
+#: captcha.php:1241
+msgid "six"
+msgstr "šest"
+
+#: captcha.php:1242
+msgid "seven"
+msgstr "sedm"
+
+#: captcha.php:1243
+msgid "eight"
+msgstr "osm"
+
+#: captcha.php:1244
+msgid "nine"
+msgstr "devět"
+
+#: captcha.php:1246
+msgid "ten"
+msgstr "deset"
+
+#: captcha.php:1247
+msgid "eleven"
+msgstr "jedenáct"
+
+#: captcha.php:1248
+msgid "twelve"
+msgstr "dvanáct"
+
+#: captcha.php:1249
+msgid "thirteen"
+msgstr "třináct"
+
+#: captcha.php:1250
+msgid "fourteen"
+msgstr "čtrnáct"
+
+#: captcha.php:1251
+msgid "fifteen"
+msgstr "patnáct"
+
+#: captcha.php:1252
+msgid "sixteen"
+msgstr "šestnáct"
+
+#: captcha.php:1253
+msgid "seventeen"
+msgstr "sedmnáct"
+
+#: captcha.php:1254
+msgid "eighteen"
+msgstr "osmnáct"
+
+#: captcha.php:1255
+msgid "nineteen"
+msgstr "devatenáct"
+
+#: captcha.php:1257
+msgid "twenty"
+msgstr "dvacet"
+
+#: captcha.php:1258
+msgid "twenty one"
+msgstr "dvacet jedna"
+
+#: captcha.php:1259
+msgid "twenty two"
+msgstr "dvacet dva"
+
+#: captcha.php:1260
+msgid "twenty three"
+msgstr "dvacet tři"
+
+#: captcha.php:1261
+msgid "twenty four"
+msgstr "dvacet čtyři"
+
+#: captcha.php:1262
+msgid "twenty five"
+msgstr "dvacet pět"
+
+#: captcha.php:1263
+msgid "twenty six"
+msgstr "dvacet šest"
+
+#: captcha.php:1264
+msgid "twenty seven"
+msgstr "dvacet sedm"
+
+#: captcha.php:1265
+msgid "twenty eight"
+msgstr "dvacet osm"
+
+#: captcha.php:1266
+msgid "twenty nine"
+msgstr "dvacet devět"
+
+#: captcha.php:1268
+msgid "thirty"
+msgstr "třicet"
+
+#: captcha.php:1269
+msgid "thirty one"
+msgstr "třicet jedna"
+
+#: captcha.php:1270
+msgid "thirty two"
+msgstr "třicet dva"
+
+#: captcha.php:1271
+msgid "thirty three"
+msgstr "třicet tři"
+
+#: captcha.php:1272
+msgid "thirty four"
+msgstr "třicet čtyři"
+
+#: captcha.php:1273
+msgid "thirty five"
+msgstr "třicet pět"
+
+#: captcha.php:1274
+msgid "thirty six"
+msgstr "třicet šest"
+
+#: captcha.php:1275
+msgid "thirty seven"
+msgstr "třicet sedm"
+
+#: captcha.php:1276
+msgid "thirty eight"
+msgstr "třicet osm"
+
+#: captcha.php:1277
+msgid "thirty nine"
+msgstr "třicet devět"
+
+#: captcha.php:1279
+msgid "forty"
+msgstr "čtyřicet"
+
+#: captcha.php:1280
+msgid "forty one"
+msgstr "čtyřicet jedna"
+
+#: captcha.php:1281
+msgid "forty two"
+msgstr "čtyřicet dva"
+
+#: captcha.php:1282
+msgid "forty three"
+msgstr "čtyřicet tři"
+
+#: captcha.php:1283
+msgid "forty four"
+msgstr "čtyřicet čtyři"
+
+#: captcha.php:1284
+msgid "forty five"
+msgstr "čtyřicet pět"
+
+#: captcha.php:1285
+msgid "forty six"
+msgstr "čtyřicet šest"
+
+#: captcha.php:1286
+msgid "forty seven"
+msgstr "čtyřicet sedm"
+
+#: captcha.php:1287
+msgid "forty eight"
+msgstr "čtyřicet osm"
+
+#: captcha.php:1288
+msgid "forty nine"
+msgstr "čtyřicet devět"
+
+#: captcha.php:1290
+msgid "fifty"
+msgstr "padesát"
+
+#: captcha.php:1291
+msgid "fifty one"
+msgstr "padesát jedna"
+
+#: captcha.php:1292
+msgid "fifty two"
+msgstr "padesát dva"
+
+#: captcha.php:1293
+msgid "fifty three"
+msgstr "padesát tři"
+
+#: captcha.php:1294
+msgid "fifty four"
+msgstr "padesát čtyři"
+
+#: captcha.php:1295
+msgid "fifty five"
+msgstr "padesát pět"
+
+#: captcha.php:1296
+msgid "fifty six"
+msgstr "padesát šest"
+
+#: captcha.php:1297
+msgid "fifty seven"
+msgstr "padesát sedm"
+
+#: captcha.php:1298
+msgid "fifty eight"
+msgstr "padesát osm"
+
+#: captcha.php:1299
+msgid "fifty nine"
+msgstr "padesát devět"
+
+#: captcha.php:1301
+msgid "sixty"
+msgstr "šedesát"
+
+#: captcha.php:1302
+msgid "sixty one"
+msgstr "šedesát jedna"
+
+#: captcha.php:1303
+msgid "sixty two"
+msgstr "šedesát dva"
+
+#: captcha.php:1304
+msgid "sixty three"
+msgstr "šedesát tři"
+
+#: captcha.php:1305
+msgid "sixty four"
+msgstr "šedesát čtyři"
+
+#: captcha.php:1306
+msgid "sixty five"
+msgstr "šedesát pět"
+
+#: captcha.php:1307
+msgid "sixty six"
+msgstr "šedesát šest"
+
+#: captcha.php:1308
+msgid "sixty seven"
+msgstr "šestnáct sedm"
+
+#: captcha.php:1309
+msgid "sixty eight"
+msgstr "šedesát osm"
+
+#: captcha.php:1310
+msgid "sixty nine"
+msgstr "šedesát devět"
+
+#: captcha.php:1312
+msgid "seventy"
+msgstr "sedmdesát"
+
+#: captcha.php:1313
+msgid "seventy one"
+msgstr "sedmdesát jedna"
+
+#: captcha.php:1314
+msgid "seventy two"
+msgstr "sedmdesát dva"
+
+#: captcha.php:1315
+msgid "seventy three"
+msgstr "sedmdesát tři"
+
+#: captcha.php:1316
+msgid "seventy four"
+msgstr "sedmdesát čtyři"
+
+#: captcha.php:1317
+msgid "seventy five"
+msgstr "sedmdesát pět"
+
+#: captcha.php:1318
+msgid "seventy six"
+msgstr "sedmdesát šest"
+
+#: captcha.php:1319
+msgid "seventy seven"
+msgstr "sedmdesát sedm"
+
+#: captcha.php:1320
+msgid "seventy eight"
+msgstr "sedmdesát osm"
+
+#: captcha.php:1321
+msgid "seventy nine"
+msgstr "sedmdesát devět"
+
+#: captcha.php:1323
+msgid "eighty"
+msgstr "osmdesát"
+
+#: captcha.php:1324
+msgid "eighty one"
+msgstr "osmdesát jedna"
+
+#: captcha.php:1325
+msgid "eighty two"
+msgstr "osmdesát dva"
+
+#: captcha.php:1326
+msgid "eighty three"
+msgstr "osmdesát tři"
+
+#: captcha.php:1327
+msgid "eighty four"
+msgstr "osmdesát čtyři"
+
+#: captcha.php:1328
+msgid "eighty five"
+msgstr "osmdesát pět"
+
+#: captcha.php:1329
+msgid "eighty six"
+msgstr "osmdesát šest"
+
+#: captcha.php:1330
+msgid "eighty seven"
+msgstr "osmdesát sedm"
+
+#: captcha.php:1331
+msgid "eighty eight"
+msgstr "osmdesát osm"
+
+#: captcha.php:1332
+msgid "eighty nine"
+msgstr "osmdesát devět"
+
+#: captcha.php:1334
+msgid "ninety"
+msgstr "devadesát"
+
+#: captcha.php:1335
+msgid "ninety one"
+msgstr "devadesát jedna"
+
+#: captcha.php:1336
+msgid "ninety two"
+msgstr "devadesát dva"
+
+#: captcha.php:1337
+msgid "ninety three"
+msgstr "devadesát tři"
+
+#: captcha.php:1338
+msgid "ninety four"
+msgstr "devadesát čtyři"
+
+#: captcha.php:1339
+msgid "ninety five"
+msgstr "devadesát pět"
+
+#: captcha.php:1340
+msgid "ninety six"
+msgstr "devadesát šest"
+
+#: captcha.php:1341
+msgid "ninety seven"
+msgstr "devadesát sedm"
+
+#: captcha.php:1342
+msgid "ninety eight"
+msgstr "devadesát osm"
+
+#: captcha.php:1343
+msgid "ninety nine"
+msgstr "devadesát devět"
+
+#: captcha.php:1408
+msgid "Encryption password is not set"
+msgstr "Kódovací heslo není nastaveno"
+
+#: captcha.php:1429
+msgid "Decryption password is not set"
+msgstr "Dekódovací heslo není nastaveno"
+
+#: captcha.php:1571
+msgid "FAQ"
+msgstr "Často kladené otázky (FAQ)"
+
+#: captcha.php:1572
+msgid "Support"
+msgstr "Podpora"
+
+#: captcha.php:1613
+msgid "settings page"
+msgstr "stránka nastavení"
+
+#: captcha.php:1616
+#, php-format
+msgid ""
+"You're using W3 Total Cache plugin. If %1$s doesn't work properly, please "
+"clear the cache in W3 Total Cache plugin and turn on '%2$s' option on the "
+"plugin %3$s."
+msgstr ""
+"Používáte W3 Total Cache plugin. Pokud %1$s nefunguje správně, vymažte cache "
+"W3 Total Cache plugin a zapněte '%2$s\" v pluginu možnost %3$s."
+
+#: captcha.php:1618
+msgid "Show CAPTCHA after the end of the page loading"
+msgstr "Zobrazit CAPTCHA až poté, kdy se načte celá stránka"
+
+#: includes/class-hctpc-package-list.php:38
+msgid "package"
+msgstr ""
+
+#: includes/class-hctpc-package-list.php:39
+msgid "packages"
+msgstr ""
+
+#: includes/class-hctpc-package-list.php:98
+msgid "Search"
+msgstr ""
+
+#: includes/class-hctpc-package-list.php:120
+msgid "No packages found"
+msgstr ""
+
+#: includes/class-hctpc-package-list.php:130
+msgid "Package"
+msgstr "Balíček"
+
+#: includes/class-hctpc-package-list.php:131
+#: includes/class-hctpc-whitelist.php:190
+msgid "Date Added"
+msgstr ""
+
+#: includes/class-hctpc-package-loader.php:43
+msgid ""
+"Can not load images in to the \"uploads\" folder. Please, check your "
+"permissions."
+msgstr ""
+
+#: includes/class-hctpc-package-loader.php:130
+#, php-format
+msgid "One package has been updated or added to the database."
+msgid_plural "%s packages have been updated or added to the database."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: includes/class-hctpc-package-loader.php:131
+#, php-format
+msgid "One image has been updated or added to the database."
+msgid_plural "%s images have been updated or added to the database."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: includes/class-hctpc-package-loader.php:239
+msgid "Archive is empty"
+msgstr "Archiv je prázdný"
+
+#: includes/class-hctpc-package-loader.php:585
+#, php-format
+msgid ""
+"Some settings of the package %s were set incorrectly. They have been skipped."
+msgstr ""
+
+#: includes/class-hctpc-package-loader.php:588
+msgid "Wrong data"
+msgstr "Nesprávná data"
+
+#: includes/class-hctpc-settings-tabs.php:40
+msgid "Messages"
+msgstr ""
+
+#: includes/class-hctpc-settings-tabs.php:41
+msgid "Misc"
+msgstr ""
+
+#: includes/class-hctpc-settings-tabs.php:49
+msgid "Login form"
+msgstr ""
+
+#: includes/class-hctpc-settings-tabs.php:50
+msgid "Registration form"
+msgstr ""
+
+#: includes/class-hctpc-settings-tabs.php:51
+msgid "Forgot password form"
+msgstr ""
+
+#: includes/class-hctpc-settings-tabs.php:52
+msgid "Comments form"
+msgstr ""
+
+#: includes/class-hctpc-settings-tabs.php:88
+msgid "WordPress default"
+msgstr ""
+
+#: includes/class-hctpc-settings-tabs.php:118
+msgid "Are you sure you want to restore default settings?"
+msgstr ""
+
+#: includes/class-hctpc-settings-tabs.php:121
+msgid "Yes, restore all settings"
+msgstr ""
+
+#: includes/class-hctpc-settings-tabs.php:122
+msgid "No, go back to the settings page"
+msgstr ""
+
+#: includes/class-hctpc-settings-tabs.php:137
+msgid "Information"
+msgstr ""
+
+#: includes/class-hctpc-settings-tabs.php:143
+msgid "Version"
+msgstr ""
+
+#: includes/class-hctpc-settings-tabs.php:151
+#: includes/class-hctpc-settings-tabs.php:171
+msgid "Save Changes"
+msgstr "Uložit změny"
+
+#: includes/class-hctpc-settings-tabs.php:246
+msgid "All plugin settings were restored."
+msgstr "Všechna nastavení pluginu byla obnovena."
+
+#: includes/class-hctpc-settings-tabs.php:282
+msgid "Miscellaneous Settings"
+msgstr ""
+
+#: includes/class-hctpc-settings-tabs.php:286
+msgid "Default Settings"
+msgstr ""
+
+#: includes/class-hctpc-settings-tabs.php:288
+msgid "Restore Settings"
+msgstr ""
+
+#: includes/class-hctpc-settings-tabs.php:289
+msgid "This will restore plugin settings to defaults."
+msgstr ""
+
+#: includes/class-hctpc-settings-tabs.php:308
+#: includes/class-hctpc-settings-tabs.php:400
+msgid "Arithmetic Actions"
+msgstr ""
+
+#: includes/class-hctpc-settings-tabs.php:309
+#: includes/class-hctpc-settings-tabs.php:410
+msgid "Complexity"
+msgstr "Míra komplexity"
+
+#: includes/class-hctpc-settings-tabs.php:310
+#: includes/class-hctpc-settings-tabs.php:428
+msgid "Image Packages"
+msgstr ""
+
+#: includes/class-hctpc-settings-tabs.php:324
+msgid "Text fields in the \"Messages\" tab must not be empty."
+msgstr ""
+
+#: includes/class-hctpc-settings-tabs.php:335
+#, php-format
+msgid "\"%s\" option must not be fully disabled."
+msgstr ""
+
+#: includes/class-hctpc-settings-tabs.php:363
+msgid ""
+"In order to use \"Optical Character Recognition\" type, please select at "
+"least one of the items in the option \"Image Packages\"."
+msgstr ""
+
+#: includes/class-hctpc-settings-tabs.php:366
+msgid ""
+"In order to use images in the CAPTCHA, please select at least one of the "
+"items in the option \"Image Packages\". The \"Images\" checkbox in "
+"\"Complexity\" option has been disabled."
+msgstr ""
+
+#: includes/class-hctpc-settings-tabs.php:377
+msgid "Settings saved."
+msgstr ""
+
+#: includes/class-hctpc-settings-tabs.php:392
+msgid "Captcha Type"
+msgstr ""
+
+#: includes/class-hctpc-settings-tabs.php:394
+msgid "Arithmetic actions"
+msgstr "Aritmetické operace"
+
+#: includes/class-hctpc-settings-tabs.php:395
+msgid "Optical Character Recognition (OCR)"
+msgstr ""
+
+#: includes/class-hctpc-settings-tabs.php:402
+msgid "Addition"
+msgstr ""
+
+#: includes/class-hctpc-settings-tabs.php:403
+msgid "Subtruction"
+msgstr ""
+
+#: includes/class-hctpc-settings-tabs.php:404
+msgid "Multiplication"
+msgstr "Krát"
+
+#: includes/class-hctpc-settings-tabs.php:412
+msgid "Numbers (1, 2, 3, etc.)"
+msgstr ""
+
+#: includes/class-hctpc-settings-tabs.php:413
+msgid "Words (one, two, three, etc.)"
+msgstr ""
+
+#: includes/class-hctpc-settings-tabs.php:414
+msgid "Images"
+msgstr "Obrázky"
+
+#: includes/class-hctpc-settings-tabs.php:420
+msgid "Number of Images"
+msgstr ""
+
+#: includes/class-hctpc-settings-tabs.php:423
+msgid "Set a number of images to display simultaneously as a captcha question."
+msgstr ""
+
+#: includes/class-hctpc-settings-tabs.php:433
+msgid "Enlarge Images"
+msgstr ""
+
+#: includes/class-hctpc-settings-tabs.php:434
+msgid "Enable to enlarge captcha images on mouseover."
+msgstr ""
+
+#: includes/class-hctpc-settings-tabs.php:439
+msgid "Reload Button"
+msgstr ""
+
+#: includes/class-hctpc-settings-tabs.php:440
+msgid "Enable to display reload button for captcha."
+msgstr ""
+
+#: includes/class-hctpc-settings-tabs.php:443
+msgid "Captcha Title"
+msgstr ""
+
+#: includes/class-hctpc-settings-tabs.php:446
+msgid "Required Symbol"
+msgstr ""
+
+#: includes/class-hctpc-settings-tabs.php:449
+msgid "Advanced Protection"
+msgstr ""
+
+#: includes/class-hctpc-settings-tabs.php:450
+msgid "Enable to display captcha when the website page is loaded."
+msgstr ""
+
+#: includes/class-hctpc-settings-tabs.php:455
+msgid "General"
+msgstr ""
+
+#: includes/class-hctpc-settings-tabs.php:458
+msgid "Enable Captcha for"
+msgstr ""
+
+#: includes/class-hctpc-settings-tabs.php:534
+msgid "Enable to activate a time limit requeired to complete captcha."
+msgstr ""
+
+#: includes/class-hctpc-settings-tabs.php:545
+msgid "Time Limit"
+msgstr ""
+
+#: includes/class-hctpc-settings-tabs.php:552
+msgid "Time Limit Thershold"
+msgstr ""
+
+#: includes/class-hctpc-settings-tabs.php:555
+msgid "sec"
+msgstr ""
+
+#: includes/class-hctpc-settings-tabs.php:586
+msgid "This option is available only for network or for main blog"
+msgstr "Tato možnost je k dispozici pouze pro síť nebo pro hlavní blog"
+
+#: includes/class-hctpc-settings-tabs.php:593
+msgid "Hide from Registered Users"
+msgstr ""
+
+#: includes/class-hctpc-settings-tabs.php:610
+msgid "Messages Settings"
+msgstr ""
+
+#: includes/class-hctpc-settings-tabs.php:615
+msgid "Captcha Field is Empty"
+msgstr ""
+
+#: includes/class-hctpc-settings-tabs.php:616 includes/helpers.php:31
+msgid "Please complete the captcha."
+msgstr ""
+
+#: includes/class-hctpc-settings-tabs.php:619
+msgid "Captcha is Incorrect"
+msgstr ""
+
+#: includes/class-hctpc-settings-tabs.php:620 includes/helpers.php:32
+msgid "Please enter correct captcha value."
+msgstr ""
+
+#: includes/class-hctpc-settings-tabs.php:623
+#: includes/class-hctpc-settings-tabs.php:627
+msgid "Time Limit Exceeded"
+msgstr ""
+
+#: includes/class-hctpc-settings-tabs.php:624
+#: includes/class-hctpc-settings-tabs.php:628 includes/helpers.php:33
+#: includes/helpers.php:34
+msgid "Time limit exceeded. Please complete the captcha once again."
+msgstr ""
+
+#: includes/class-hctpc-settings-tabs.php:629
+msgid "This message will be displayed above the captcha field."
+msgstr ""
+
+#: includes/class-hctpc-settings-tabs.php:632
+msgid "Whitelisted IP"
+msgstr ""
+
+#: includes/class-hctpc-settings-tabs.php:633 includes/helpers.php:35
+msgid "Your IP address is Whitelisted."
+msgstr ""
+
+#: includes/class-hctpc-settings-tabs.php:634
+msgid "This message will be displayed instead of the captcha field."
+msgstr ""
+
+#: includes/class-hctpc-settings-tabs.php:742
+msgid ""
+"The image packages list is empty. Please restore default settings or re-"
+"install the plugin to fix this error."
+msgstr ""
+
+#: includes/class-hctpc-settings-tabs.php:790
+msgid "Activate"
+msgstr ""
+
+#: includes/class-hctpc-settings-tabs.php:792
+msgid "Install Now"
+msgstr "Instalovat nyní"
+
+#: includes/class-hctpc-whitelist.php:43
+msgid "All dates"
+msgstr ""
+
+#: includes/class-hctpc-whitelist.php:44
+msgid "Last 24 hours"
+msgstr ""
+
+#: includes/class-hctpc-whitelist.php:45
+msgid "Last week"
+msgstr ""
+
+#: includes/class-hctpc-whitelist.php:46
+msgid "Last month"
+msgstr ""
+
+#: includes/class-hctpc-whitelist.php:47
+msgid "Last year"
+msgstr ""
+
+#: includes/class-hctpc-whitelist.php:80
+msgid "Add New"
+msgstr ""
+
+#: includes/class-hctpc-whitelist.php:104
+msgid "IP to whitelist"
+msgstr ""
+
+#: includes/class-hctpc-whitelist.php:111
+msgid "My IP"
+msgstr "Má IP adresa"
+
+#: includes/class-hctpc-whitelist.php:116
+msgid "Allowed formats"
+msgstr "Přípustné formáty"
+
+#: includes/class-hctpc-whitelist.php:118
+msgid "Allowed diapason"
+msgstr ""
+
+#: includes/class-hctpc-whitelist.php:121
+msgid "Add IP to whitelist"
+msgstr "Přidat IP adresu na seznam povolených"
+
+#: includes/class-hctpc-whitelist.php:127
+msgid "Search item"
+msgstr ""
+
+#: includes/class-hctpc-whitelist.php:182
+msgid "Nothing found"
+msgstr "Nic nenalezeno"
+
+#: includes/class-hctpc-whitelist.php:182
+msgid "No IP in the whitelist"
+msgstr "Na seznamu povolených zatím není žádná IP adresa"
+
+#: includes/class-hctpc-whitelist.php:189
+msgid "IP Address"
+msgstr ""
+
+#: includes/class-hctpc-whitelist.php:244
+msgid "Delete"
+msgstr ""
+
+#: includes/class-hctpc-whitelist.php:348
+msgid "Filter"
+msgstr ""
+
+#: includes/class-hctpc-whitelist.php:394
+msgid "IP added to the whitelist successfully."
+msgstr ""
+
+#: includes/class-hctpc-whitelist.php:396
+msgid "Some errors occurred."
+msgstr ""
+
+#: includes/class-hctpc-whitelist.php:398
+msgid "IP is already in the whitelist."
+msgstr ""
+
+#: includes/class-hctpc-whitelist.php:401
+msgid "Invalid IP. See allowed formats."
+msgstr ""
+
+#: includes/class-hctpc-whitelist.php:412
+#, php-format
+msgid "%s IP was deleted successfully"
+msgid_plural "%s IPs were deleted successfully"
+msgstr[0] "%s IP adresa byla úspěšně odstraněna"
+msgstr[1] "%s IP adresy byly úspěšně odstraněny"
+msgstr[2] "%s IP adres bylo úspěšně odstraněno"
+
+#: includes/class-hctpc-whitelist.php:418
+#: includes/class-hctpc-whitelist.php:430
+msgid "Some errors occurred"
+msgstr ""
+
+#: includes/class-hctpc-whitelist.php:424
+msgid "One IP was deleted successfully"
+msgstr "Jedna IP adresa byla úspěšně odstraněna"
+
+#: includes/class-hctpc-whitelist.php:433
+msgid "You have not entered any value."
+msgstr ""
+
+#: includes/class-hctpc-whitelist.php:436
+msgid "You have not entered any value in to the search form."
+msgstr ""
+
+#: includes/class-hctpc-whitelist.php:438
+msgid "Search results for"
+msgstr "Výsledky hledání pro"

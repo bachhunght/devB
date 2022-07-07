@@ -1,0 +1,60 @@
+[09-Feb-2020 21:33:35 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/aussec/public_html/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/aussec/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[10-Feb-2020 02:24:23 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/aussec/public_html/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/aussec/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[14-Feb-2020 14:28:07 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/aussec/public_html/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/aussec/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[16-Feb-2020 04:00:19 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/aussec/public_html/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/aussec/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[19-Feb-2020 00:19:22 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/aussec/public_html/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/aussec/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[22-Feb-2020 13:59:03 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/aussec/public_html/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/aussec/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[23-Feb-2020 08:07:45 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/aussec/public_html/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/aussec/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[24-Feb-2020 07:38:11 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/aussec/public_html/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/aussec/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[24-Feb-2020 09:40:05 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/aussec/public_html/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/aussec/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[26-Feb-2020 13:33:41 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/aussec/public_html/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/aussec/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[07-Apr-2020 03:03:57 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/aussec/public_html/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/aussec/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[11-Apr-2020 08:42:56 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/aussec/public_html/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/aussec/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[09-May-2020 19:27:17 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/aussec/public_html/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/aussec/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[10-May-2020 02:06:21 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/aussec/public_html/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/aussec/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[24-May-2020 08:13:24 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/aussec/public_html/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/aussec/public_html/wp-includes/ID3/module.audio.ac3.php on line 18

@@ -1,0 +1,208 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4665:" Selling FAQ; Redfin Commission; Reduced Listing Fee When You Sell and Buy with Redfin; Selling Benefits; Schedule A Listing Consultation With Redfin; What Can You Make From Selling Your Home; See all 8 articles Owner Dashboard . See how much you could save with Redfin. They can then pass the savings along to the seller. Because this Redfin review is aimed to give you all the details you need to know about Redfin, we have decided to include the details on selling a home with Redfin as well. Buying a home means finding the right house and a helpful real estate agent to guide you through the less-than-easy process. Redfin charges around 4.5% in commission, versus the industry average of just over 5%. We moved from San Francisco to Seattle this year. Redfin and other discount brokerages have a very different business model than your traditional Realtor. Redfin.com features all the broker-listed homes for sale, as well as for-sale-by-owner properties that don't pay brokers a commission. When you sell with a Redfin Agent, you get full service at every step and better technology for less than the usual listing fee. The only other markets with a higher percentage of homes selling above list price were in California: Oakland, San Francisco and San Jose. Using Redfin only works if your house can sell itself. Selling with Redfin. It looks like… How Redfin works. When you're selling with RedFin, the company makes use of technology to handle what used to be manual and more labor-intensive (dealing with listings, scheduling showings – all that paperwork!). Owner Estimate FAQ; Edit Your Home Facts; Public Records ; Upload Your Home’s Photos You cannot simultaneously have an open offer on another property. SimpleShowing. ... Tour one home or 100—your local Redfin Agent will guide you through the process to get you the right home at the right price. How RedFin Changes the Game. Selling your home to Redfin. Has anyone used Redfin? Under the agreement, Redfin users looking to sell their home will see Opendoor as an option for selling, in addition to listing their home on Redfin. Good or bad experience? Comparison chart for savings when you sell a home with SimpleShowing, Redfin or a traditional real estate brokerage. If you are a buyer or seller interested in using these sites’ valuation tools, you may be wondering: Whose estimates are more accurate? I'm going through the process of selling a home with Redfin right now. Buy with a Redfin Agent and we'll give part of our commission to you. Learn More *Fees subject to change, minimums apply. The home sale proceeds calculator uses the costs of selling a home in your area to estimate how much you could make when you sell your home. Learn why selling your home with a Redfin Agent can get you more money on average with a listing fee as low as 1%. Selling home with Redfin. Along comes a company like RedFin. Our agent, Chris **, came to our home once to provide us with comps. share. Redfin.com is built to do both. For example; sending your printed flyers to promote your home, allowing easy booking of appointments, and 3D walkthrough tours. * Selling your home to Redfin. Either way, you'll get second-to-none service and could save thousands.† If you’re thinking about selling your home, the first step in the process is finding a real estate agent to represent you. Tucked inside of Redfin’s initial public offering filing with the Securities and Exchange Commission, the online real estate company revealed it’s testing out the home buying and selling … Is my home eligible for RedfinNow? Depending on the sale price of your home, your listing fee could end up being more than 2%. Two of the more popular online resources for analyzing home values are Zillow and Redfin, both Seattle-based companies.. One of the first things you’ll want to determine if you’re buying or selling a home is its true value. Buyer’s agent fee not included. 16 comments. Redfin, a reduced-commission online real estate brokerage, is now offering more than just listings and agents. How to take home photos for your cash offer; What will you use my home photos for? Selling FAQ; Redfin Commission; Reduced Listing Fee When You Sell and Buy with Redfin; Selling Benefits; Schedule A Listing Consultation With Redfin; What Can You Make From Selling Your Home; See all 8 articles Owner Dashboard . At SimpleShowing, we strive to give sellers a break and offer an affordable listing fee. He was advertised … The experience has so far been extremely positive - I would do it again in a heartbeat based on what I know so far. Savings displayed are averages and vary by transaction. ";s:7:"keyword";s:26:"selling a home with redfin";s:5:"links";s:3900:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=How-to-Stuff-a-Wild-Bikini'>How To Stuff A Wild Bikini</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lunch-time-or-lunchtime-results'>Lunch Time Or Lunchtime Results</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=buzios-brazil-real-estate-for-sale'>Buzios Brazil Real Estate For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=breakfast-casserole-with-potatoes-and-ham'>Breakfast Casserole With Potatoes And Ham</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-idaho-undergraduate-courses'>University Of Idaho Undergraduate Courses</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=public-interest-groups-examples-in-india'>Public Interest Groups Examples In India</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ge-bottom-freezer-french-door-refrigerator'>Ge Bottom Freezer French Door Refrigerator</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ikea-dining-table-set-singapore'>Ikea Dining Table Set Singapore</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=baby-boy-nursery-ideas-grey'>Baby Boy Nursery Ideas Grey</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=silver-bedroom-set-with-lights'>Silver Bedroom Set With Lights</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=are-the-duke-and-duchess-of-kent-still-married'>Are The Duke And Duchess Of Kent Still Married</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=307-hanover-st-boston-ma-02113'>307 Hanover St Boston Ma 02113</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ground-beef-and-potato-recipes-quick'>Ground Beef And Potato Recipes Quick</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kerala-house-plans-pdf-free-download'>Kerala House Plans Pdf Free Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=easiest-way-to-clean-an-oven'>Easiest Way To Clean An Oven</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-food-cities-in-the-world-2019'>Best Food Cities In The World 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cost-of-kitchen-cabinets-installed'>Cost Of Kitchen Cabinets Installed</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=leather-lounge-chair-and-ottoman'>Leather Lounge Chair And Ottoman</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dollar-tree-fall-decor-2018'>Dollar Tree Fall Decor 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=castles-in-the-us-for-vacation'>Castles In The Us For Vacation</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=indian-temples-photos-with-name'>Indian Temples Photos With Name</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=www-apartmenttherapy-com-small-cool'>Www Apartmenttherapy Com Small Cool</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philips-80ct-christmas-led-c9-faceted-string-lights-multicolored'>Philips 80ct Christmas Led C9 Faceted String Lights Multicolored</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-a-vacuum-pump-from-a-refrigerator-compressor'>How To Make A Vacuum Pump From A Refrigerator Compressor</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-find-the-root-of-a-word'>How To Find The Root Of A Word</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=positive-and-negative-feedback-psychology'>Positive And Negative Feedback Psychology</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-british-columbia-requirements'>University Of British Columbia Requirements</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=romaine-lettuce-nutrition-facts-100g'>Romaine Lettuce Nutrition Facts 100g</a>,
+";s:7:"expired";i:-1;}

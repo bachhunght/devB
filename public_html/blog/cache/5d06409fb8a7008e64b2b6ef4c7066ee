@@ -1,0 +1,230 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3950:"Lowe's return policy has a default window of 90 days to decide on a cash refund or direct exchange. I also have some insider return policy tips […] But you have to know that Lowes has some policy about the returning back the sold item. Item must be received back within two weeks of customer receiving return label. (Deposit is waived for house account holders.) Errors will be corrected where discovered, and Lowe's reserves the right to revoke any stated offer and to correct any errors, inaccuracies or omissions including after an order … Please Note the List of Items Below That Are Non-Returnable: Special Order items QUALITY SATISFACTION With Lowe’s Special Order program, you can shop our virtually endless selection of appliances, hardware, tools, lighting, home décor, kitchen and bath products and more — online or in our stores. All special orders are subject to a minimum 25% Deposit at the time of order. NO RETURNS will be accepted on special order or non-stock merchandise. If you’re not completely satisfied, you may return special orders within the allotted time frame of 30 or 90 days. (Deposit is waived for house account holders.) Shipped/delivered items that are being returned to a store are subject to the same terms as listed in the return policy above. View the return policy to learn about your options if you need to modify or refund your plumbing supplies order. Our returns policy is in addition to your rights under the Australian Consumer Law because we want you to be pleased with your purchase. We will accept cancellations for items that we normally keep in inventory. But once you dig into it a little bit you realize that it has some nuances to it that are worth knowing, especially if you are a big DIY’er and shop at Lowe’s regularly. We will gladly special order your item should we not have it as a regularly stocked product, subject to the following policies. Prices and availability of products and services are subject to change without notice. Please be aware that a "NEW" policy is in place. Please allow 7-10 days for processing your credit once your return shipment is received. Home. In addition to the thousands of in-stock items in our stores, there are thousands more available through Special Order. Please visit your local Lowe's to make the return. IN-STORE SPECIAL ORDER POLICY. About Lowes Return Policy Lowe's in Prattville is AWFUL. The manager is full of ****. (Deposit is waived for house account holders.) Using the bellowed mentioned information then you easily return or exchange the purchased items. Customer Service.  Our local stores do not honor online pricing. If you go to Lowes on a Saturday or Sunday morning, that's where you see lots of … We know that you are one of the smart customers of the Lowes and easily return the purchased item by using the here provided information. Item must be received back within two weeks of customer receiving return label. Didn't Receive a Prepaid Return Slip With Your Lowes.com Order? With Lowe’s Special Order program, you can shop our virtually endless selection of appliances, hardware, tools, lighting, home décor, kitchen and bath products and more — online or in our stores. (Updated 9/13/19) On the surface, the Lowe’s return policy seems pretty straight forward. Returns and Cancellations Branch return policy . Special Order arrival times vary by manufacturer and product. In addition to the thousands of items in stock in our stores, there are thousands more available through Special Order. Sale of any products or services is expressly conditioned on Buyer’s assent to Seller’s Terms and Conditions of Sale described on its website at www.ferguson.com. Remember that your item must be in “like-new” condition, and if you paid in cash, you’ll need your receipt to get a refund. In case you know the process of how to return your purchased item, then you apply it and return your purchased item. ";s:7:"keyword";s:33:"lowes special order return policy";s:5:"links";s:6910:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=have-ikea-bed-sizes-changed'>Have Ikea Bed Sizes Changed</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=humble-pie-30-days-in-the-hole'>Humble Pie 30 Days In The Hole</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-eat-avocado-for-breakfast'>How To Eat Avocado For Breakfast</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mendocino-national-forest-highest-peak'>Mendocino National Forest Highest Peak</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=family-room-home-addition-plans'>Family Room Home Addition Plans</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=foot-locker-vintage-faire-mall'>Foot Locker Vintage Faire Mall</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=car-wash-with-steam-cleaner-near-me'>Car Wash With Steam Cleaner Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=words-that-start-with-phil'>Words That Start With Phil</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=italian-marble-dining-table-singapore'>Italian Marble Dining Table Singapore</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=can-you-run-warm-water-through-a-pressure-washer'>Can You Run Warm Water Through A Pressure Washer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=melvin-name-meaning-in-english'>Melvin Name Meaning In English</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=home-cooking-hema-subramanian-wiki'>Home Cooking Hema Subramanian Wiki</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wrong-turn-at-tahoe-ending-explained'>Wrong Turn At Tahoe Ending Explained</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=plain-blue-wallpaper-for-walls'>Plain Blue Wallpaper For Walls</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-grow-haworthia-from-leaf'>How To Grow Haworthia From Leaf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=2-piece-wall-art-amazon'>2 Piece Wall Art Amazon</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sydney-olympic-park-aquatic-centre-food'>Sydney Olympic Park Aquatic Centre Food</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=which-weber-charcoal-grill-to-buy'>Which Weber Charcoal Grill To Buy</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=30-day-declutter-cleaning-challenge-printable'>30 Day Declutter Cleaning Challenge Printable</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=does-squaw-valley-have-half-day-tickets'>Does Squaw Valley Have Half Day Tickets</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=great-british-bake-off-recipes'>Great British Bake Off Recipes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=south-shore-platform-queen-bed-assembly-instructions-pdf'>South Shore Platform Queen Bed Assembly Instructions Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cheap-rural-property-in-scotland'>Cheap Rural Property In Scotland</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=round-glass-dining-table-and-chairs-clearance'>Round Glass Dining Table And Chairs Clearance</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=large-living-room-design-ideas'>Large Living Room Design Ideas</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-adjust-temperature-on-lg-bottom-freezer-refrigerator'>How To Adjust Temperature On Lg Bottom Freezer Refrigerator</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=holland-bar-stool-table-tops'>Holland Bar Stool Table Tops</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chalet-host-jobs-no-experience'>Chalet Host Jobs No Experience</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=slipcover-for-sectional-with-attached-cushions'>Slipcover For Sectional With Attached Cushions</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hand-painted-wall-art-india'>Hand Painted Wall Art India</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=symptoms-of-eating-old-cooked-chicken'>Symptoms Of Eating Old Cooked Chicken</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=muhammad-ali-vs-mike-tyson'>Muhammad Ali Vs Mike Tyson</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-liberation-of-the-philippines-summary'>The Liberation Of The Philippines Summary</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=antique-sideboards-60-inch-wide'>Antique Sideboards 60 Inch Wide</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=alpine-plants-for-green-roofs'>Alpine Plants For Green Roofs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=earl-grey-tea-with-milk'>Earl Grey Tea With Milk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=magnolia-table-cookbook-volume-2'>Magnolia Table Cookbook Volume 2</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lennar-homes-atlantic-beach-fl'>Lennar Homes Atlantic Beach Fl</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-wallpaper-for-narrow-hallway'>Best Wallpaper For Narrow Hallway</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=are-liberty-and-freedom-synonyms'>Are Liberty And Freedom Synonyms</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=big-lots-3-piece-breakfast-set'>Big Lots 3 Piece Breakfast Set</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=squaw-valley-in-the-fall'>Squaw Valley In The Fall</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=folding-camping-table-with-adjustable-legs'>Folding Camping Table With Adjustable Legs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=malaysia-international-furniture-fair-2020it-fair-malaysia-2019-mid-valley'>Malaysia International Furniture Fair 2020it Fair Malaysia 2019 Mid Valley</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=indian-breakfast-ideas-for-4-year-old'>Indian Breakfast Ideas For 4 Year Old</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bank-of-america-foreclosure-listings'>Bank Of America Foreclosure Listings</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=paneer-butter-masala-in-tamil-home-cooking'>Paneer Butter Masala In Tamil Home Cooking</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=unsw-fees-for-domestic-students'>Unsw Fees For Domestic Students</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=no-one-is-too-small-to-make-a-difference-pdf-download'>No One Is Too Small To Make A Difference Pdf Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-yellow-paint-colors-for-living-room'>Best Yellow Paint Colors For Living Room</a>,
+";s:7:"expired";i:-1;}

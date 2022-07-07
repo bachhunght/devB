@@ -1,0 +1,260 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4409:"Ecorecreo, Montreal with kids: "Our experience with Ecorecreo involved renting a quadricycle for our family to use and explore the Port area of Montreal. Try out a unique experience in Montreal by visiting the quays of the Old Port of Montreal aboard our quadricycles or pedal boats. A unique activity in the picturesque setting of Old Montreal, on the shore of the Saint Lawrence River. With a wide selection of fun, innovative and environmentally friendly products, Écorécréo offers a safe and pleasant way to discover the Old Port’s various features. Founded more than 15 years ago, Ecorecreo can be found in the Old Port of Montreal, the Parc Jean-Drapeau. Bored with walking? quadricycle-vieux-port-de-montreal-2 About Écorécréo Founded more than 15 years ago, Écorécréo can be found on several tourist attractions in Quebec. No need to balance, the device does it for you! No need to balance, the device does it for you! Écorécréo rents out various recreational equipment and vehicles, including quadricycles, pedalos, kayaks, Segways and electrical bikes. Here are some new and lively ways to get around the Old Port and explore its many treasures. Thanks to its unique waterfront location and picturesque promenade, you’ll see something new and discover fresh points of view with … The Old-Port of Montreal skating rink Discover one of the most beautiful ice rinks in Montreal with its breathtaking view of the historic district and its fun programming. Discover this popular site from a new angle and take a tour of the Old Port of Montreal in Quadricycle or Pedalo to admire the most beautiful views of the City of Montreal. Écorécréo du Vieux-Port de Montréal 10% discount on equipment rentals. An original way to discover the Old Port! This summer, discover the most beautiful spots of the Old Port of Montréal by Segway. Then, take a La Grande Roue de Montréal brings you an unforgettable experience, in the comfort of a climate-controlled gondola which is air-conditioned in the summer and temperated in the winter.  Old Port skating rink. These top 10 things to do in Old Montreal and the Old Port will keep you busy for days. These top 10 things to do in Old Montreal and the Old Port will keep you busy for days. Safe and fun, the Segway is an electric vehicle on wheels on which you stand. Founded more than 15 years ago, Écorécréo can be found in the Old Port of Montréal, at Parc Jean-Drapeau and at Parc Lafontaine. The Old Port, located near the Montreal downtown area, is the perfect place for dining, people watching, relaxing, shopping, and enjoying sunny days at the Clock Tower Beach. Founded more than 15 years ago, Ecorecreo can be found in the Old Port of Montreal, the Parc Jean-Drapeau. Itching to be active outdoors, but don’t have the right equipment? Ecorecreo offers various recreational equipment and vehicles, including Segways, quadricycles, pedalboats and electric bikes. Ride with family or friends on a European inspired multi-place vehicule to explore the Old Port of Montreal's nooks and crannies in a dynamic way. Whether you are with friends, family or that special someone, you’ll have a blast in these eco-friendly pedal boats! Discover the Old Port of Montreal like never before with our Segway Tour and our Hoverboard tour. Whether you are looking for an activity to do with family or friends, you are guaranteed to have a good time aboard one of our quadricycles of 3 or 6 places. A must for your winter outings. Ecorecreo offers various recreational equipment and vehicles, including Segways, quadricycles, pedalboats and electric bikes. Inspired by the great European cities, these multi-place vehicules allow you to visit the Old Port of Montreal in a dynamic way. Let yourself be charmed by the Old Port of Montreal and Parc Jean-Drapeau! by Alexandra, Miss Teen Monteregie 2017 On a Saturday evening in summer, fashion abounds in the Old Port of Montreal. Fun for the whole family! Founded more than 15 years ago, Ecorecreo can be found in the Old Port of Montreal, the Parc Jean-Drapeau. pedalo-vieux-port-de-montreal About Écorécréo Founded more than 15 years ago, Écorécréo rents various recreational equipment including quadricycles, pedal boats, kayaks, Segways, ice … Écorécréo rents out various recreational equipment and vehicles, including quadricycles, pedalos, kayaks, Segways and electrical bikes. ";s:7:"keyword";s:33:"écorécréo old port of montreal";s:5:"links";s:10740:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-south-florida-application'>University Of South Florida Application</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=a-hidden-life-on-netflix'>A Hidden Life On Netflix</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=antique-coffee-tables-with-claw-feet'>Antique Coffee Tables With Claw Feet</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=glass-table-design-for-office'>Glass Table Design For Office</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=steam-clean-car-interior-price'>Steam Clean Car Interior Price</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hepa-vacuum-rental-for-lead'>Hepa Vacuum Rental For Lead</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=grey-and-yellow-bathroom-wall-decor'>Grey And Yellow Bathroom Wall Decor</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wall-paint-design-ideas-with-tape'>Wall Paint Design Ideas With Tape</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=concise-oxford-english-dictionary-download'>Concise Oxford English Dictionary Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=scratch-and-dent-appliances-miami'>Scratch And Dent Appliances Miami</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-bed-slats'>How To Make Bed Slats</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=public-toilet-floor-plan-dimensions'>Public Toilet Floor Plan Dimensions</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cost-to-convert-porch-to-room'>Cost To Convert Porch To Room</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-to-put-with-tandoori-chicken'>What To Put With Tandoori Chicken</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-winterize-a-salt-water-pool'>How To Winterize A Salt Water Pool</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-balance-a-bedroom-with-only-one-night-stand'>How To Balance A Bedroom With Only One Night Stand</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-plague-dogs-full-movie'>The Plague Dogs Full Movie</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=are-hybrid-foods-bad-for-you'>Are Hybrid Foods Bad For You</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=purple-russian-tomato-growing-tips'>Purple Russian Tomato Growing Tips</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=things-to-do-in-ottawa-in-april'>Things To Do In Ottawa In April</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=diners-drive-ins-and-dives-arkansas-2018'>Diners Drive Ins And Dives Arkansas 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=melissa-and-doug-star-diner-restaurant-play-set'>Melissa And Doug Star Diner Restaurant Play Set</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=national-honor-society-middle-school'>National Honor Society Middle School</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=baked-spaghetti-with-cream-cheese'>Baked Spaghetti With Cream Cheese</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-can-i-buy-r32-refrigerant'>Where Can I Buy R32 Refrigerant</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=48-inch-dog-crate-tray'>48 Inch Dog Crate Tray</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=health-benefits-of-walnuts-dr-axe'>Health Benefits Of Walnuts Dr Axe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ikea-plastic-cam-lock-removal'>Ikea Plastic Cam Lock Removal</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=furniture-store-in-san-fernando-pampanga'>Furniture Store In San Fernando Pampanga</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=jackson-hole-heli-skiing-prices'>Jackson Hole Heli Skiing Prices</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=center-for-the-arts-crested-butte'>Center For The Arts Crested Butte</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-to-wear-in-prague-in-november'>What To Wear In Prague In November</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hotel-lobby-floor-plan-design'>Hotel Lobby Floor Plan Design</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=furniture-design-images-download-free'>Furniture Design Images Download Free</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-grow-flowers-in-pots'>How To Grow Flowers In Pots</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=jason-goodwin-william-and-mary'>Jason Goodwin William And Mary</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=books-like-the-magnolia-story'>Books Like The Magnolia Story</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=outdoor-dog-kennels-for-sale-cheap'>Outdoor Dog Kennels For Sale Cheap</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=indoor-house-plant-nursery-near-me'>Indoor House Plant Nursery Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=round-industrial-coffee-table-with-wheels'>Round Industrial Coffee Table With Wheels</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=barbecue-food-near-me-bbq'>Barbecue Food Near Me Bbq</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sample-resume-for-kitchen-helper'>Sample Resume For Kitchen Helper</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=real-estate-referral-marketing-ideas'>Real Estate Referral Marketing Ideas</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cheap-posters-uk-free-delivery'>Cheap Posters Uk Free Delivery</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=when-does-at-home-ellenton-open'>When Does At Home Ellenton Open</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lazy-boy-club-chair-recliner'>Lazy Boy Club Chair Recliner</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=current-editor-of-macquarie-dictionary-susan'>Current Editor Of Macquarie Dictionary Susan</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=top-100-fast-casual-restaurants'>Top 100 Fast Casual Restaurants</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=307-hanover-st-boston-ma-02113'>307 Hanover St Boston Ma 02113</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=types-of-tourism-destination-pdf'>Types Of Tourism Destination Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pictures-of-the-crown-jewels'>Pictures Of The Crown Jewels</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=carpenter-work-meaning-in-tamil'>Carpenter Work Meaning In Tamil</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-idaho-football-rumors'>University Of Idaho Football Rumors</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=vegetables-and-vitamins-chart-pdf'>Vegetables And Vitamins Chart Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philips-tv-software-update-download'>Philips Tv Software Update Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=logan-full-movie-in-hindi-hd'>Logan Full Movie In Hindi Hd</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=benefits-of-eating-meat-scholarly-articles'>Benefits Of Eating Meat Scholarly Articles</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=atom-symbol-on-plastic-container'>Atom Symbol On Plastic Container</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=real-simple-slow-cooker-chicken'>Real Simple Slow Cooker Chicken</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=house-simple-proof-of-funds'>House Simple Proof Of Funds</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-many-containers-can-be-defined-in-a-task-definition-in-ecs'>How Many Containers Can Be Defined In A Task Definition In Ecs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=samsung-4e-error-code-dishwasher'>Samsung 4e Error Code Dishwasher</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=niagara-county-community-college-address'>Niagara County Community College Address</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=2-wire-pressure-washer-hose'>2 Wire Pressure Washer Hose</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-grow-plants-faster-in-pots'>How To Grow Plants Faster In Pots</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=diy-makeup-brush-holder-with-lid'>Diy Makeup Brush Holder With Lid</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=101-barrington-road-schaumburg-il'>101 Barrington Road Schaumburg Il</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cabinet-maker-apprenticeship-near-me'>Cabinet Maker Apprenticeship Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=michaels-black-friday-2019-cricut'>Michaels Black Friday 2019 Cricut</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=side-by-side-refrigerator-reviews'>Side By Side Refrigerator Reviews</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sonos-beam-costco-black-friday'>Sonos Beam Costco Black Friday</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=250w-pulse-start-metal-halide-ballast'>250w Pulse Start Metal Halide Ballast</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=activities-for-1-year-olds'>Activities For 1 Year Olds</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=free-garden-bench-plans-woodworking'>Free Garden Bench Plans Woodworking</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=homebody-joanna-gaines-pdf-download'>Homebody Joanna Gaines Pdf Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=blue-hd-wallpapers-1080p-for-mobile'>Blue Hd Wallpapers 1080p For Mobile</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=toddler-boy-room-ideas-on-a-budgetis-david-gregory-still-with-cnn'>Toddler Boy Room Ideas On A Budgetis David Gregory Still With Cnn</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-design-front-yard-landscaping'>How To Design Front Yard Landscaping</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-do-you-say-hotel-in-italian'>How Do You Say Hotel In Italian</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=who-chooses-title-company-in-california'>Who Chooses Title Company In California</a>,
+";s:7:"expired";i:-1;}

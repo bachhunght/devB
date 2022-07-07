@@ -1,0 +1,21 @@
+
+---Downloaded files---
+The import files for: Default were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://www.leontyna.com.au/dev
+Data file = /home/leontyna/public_html/dev/wp-content/themes/mrtailor/inc/demo/mrtailor.default.xml
+Widget file = not defined!
+Customizer file = /home/leontyna/public_html/dev/wp-content/themes/mrtailor/inc/demo/mrtailor-export.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+---Importing customizer settings---
+Error: The customizer import file is not in a correct format. Please make sure to use the correct customizer import file.
+
+---pt-ocdi/after_import---
+

@@ -1,0 +1,231 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4730:"Take a few moments to ensure you’re choosing the right size table for your billiard or game room. Follow the steps below to accurately calculate the minimum room size you need for your table and cue. Whether it's the ideal room size, the table dimensions, we've got the guide you need. Snooker, or English billiards, are games played on larger 12’ snooker tables while Carom billiards refers to a games on Carom tables without pockets. That's 224 x 21cm. Shorter cues can be used to accommodate rooms with awkward corners or where space is at a premium. UK Pool Table Room Size - 90% of pool tables supplied in the UK are 7' x 4' overall size - giving you a playing area of 6' x 3', this is the size you would play on in a pub. When determining the size of your pool table, it's important to consider the hidden calculation -- the surrounding space you will need in the room and around the table itself -- so that you will have adequate space to actually play the game. We have included additional room size pool table options to ensure you order the right size for your chosen space. Simply use the chart below to determine the minimum space requirements needed for a particular table and cue combination. The pool table Room Size Chart below should be used as a guide only. Full size cues are generally 57” (145cm) and so the recommended minimum clearance around any table is 5’ (152cm). Some of our more exotic pool tables can come in sizes right up to 12 ft which are specifically designed for those customers who are interested in playing billiards or snooker. Measure the length of the cue you will use and double it. Room Size – 5.79m x 4.42m. Garden Snooker Room B 38m² / 70mm / 8 x 5 m £ 9,350.00 Our 8 x 5m luxury garden room is the perfect size to house a snooker/pool table and small bar, create a home cinema, garden table tennis room or any other hobby room that requires lots of space. Obviously, the closer to full size, the closer the experience to that of professional snooker players. A billiard table or billiards table is a bounded table on which cue sports are played. Now that’s for the table itself, without taking into account the added area … All our Pool Tables are slate bedded with a 20mm Brazilian slate; Coin Operated Pool Tables … Perfect room size using a full size cue for all shots = 17 foot 9 inches x 13 foot 9 inches - (Size shown allows an additional three inches of room on all sides when using a full size snooker cue). Room Sizes Required. Table Size - 1240 x 2150 mm. You may ask. Room Size – 5.18m x 4.11m. Billard table diagram with bags and packing tips pool table length billiard dimensions in meters full size e billiard table size in cm pool dimensions metric feet sizes 7 foot billiards pool table dimensions drawings. However, there are still ways to enjoy your pool table if your room is not quite large enough. Full size cues are generally 57” (145cm) and so the recommended minimum clearance around any table is 5’ (152cm). Pool Tables. 3/4 Size Snooker Table – 2.74m x 1.37m. Danny Townsend is a billiards & pool table builder, restoration expert, relocation & moving specialist who can provide new billiard, snooker and pool tables and reconditioned tables or recondition your 2nd hand table for you anywhere in Sydney, Newcastle, Central Coast & beyond. Room Size - 3600 x 4600 mm.  Standard 7ft Pool Table – 1,2m x 2,1m. Smaller cues for tight areas in the room or children available in 36, 42, 48, 52 and 57 inch sizes. Standard size pool tables, along with the playing surface dimensions (measured between the noses of the cushions) are: 12-ft (snooker): 140″ (356.9 cm) x 70″ (177.8 cm) 10-ft … A 4½-foot-by-9-foot table needs 14½ by 19 feet of floor space or more; this provides 10 feet, centered, for the width and length. Height is 32inch but could vary by ½inch when levelling table (81.3cm give or take 1cm) For delivery into a room with limited space/access, the longest piece of table is typically 7ft 4 long x 8” wide depending on style of table. Pool is a general name for games on six-pocket tables of various lengths (7’, 8’, 9’) that include popular games such as Eight-ball, Nine-ball, and straight pool. Most shots are made on an angle with the … The snooker table size will determine the dimensions and a full size table is 12 feet by 6 feet. Shorter cues can be used to accommodate rooms with awkward corners or where space is at a premium. Whether it's the ideal room size, the table dimensions, we've got the guide you need. However, choose a table too big for your room and shots from close to the edge of the table will be impossible. Picking the right size pool table for your room can be a struggle. ";s:7:"keyword";s:37:"room size for snooker table in meters";s:5:"links";s:6719:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-telescoping-pressure-washer-wand'>Best Telescoping Pressure Washer Wand</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=htc-desire-10-pro-battery'>Htc Desire 10 Pro Battery</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=salad-with-chicken-and-avocado'>Salad With Chicken And Avocado</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=road-conditions-to-loveland-ski-area'>Road Conditions To Loveland Ski Area</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=What-to-do-with-swede'>What To Do With Swede</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=great-green-wall-africa-2018'>Great Green Wall Africa 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-eat-spinach-for-weight-loss'>How To Eat Spinach For Weight Loss</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philips-eesl-street-light-price'>Philips Eesl Street Light Price</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=landscape-architecture-salary-per-month'>Landscape Architecture Salary Per Month</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=furniture-row-in-chattanooga-tn'>Furniture Row In Chattanooga Tn</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-is-academy-of-art-university-known-for'>What Is Academy Of Art University Known For</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=please-find-below-the-information-you-need'>Please Find Below The Information You Need</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=new-haven-indiana-italian-restaurants'>New Haven Indiana Italian Restaurants</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dining-chair-covers-set-of-4'>Dining Chair Covers Set Of 4</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=crested-butte-news-car-accident'>Crested Butte News Car Accident</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=10-benefits-of-green-vegetables'>10 Benefits Of Green Vegetables</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=free-hotel-plans-and-designs'>Free Hotel Plans And Designs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-british-columbia-requirements'>University Of British Columbia Requirements</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=black-windsor-chairs-set-of-4'>Black Windsor Chairs Set Of 4</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=barbecue-food-near-me-bbq'>Barbecue Food Near Me Bbq</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philips-illuminate-starter-kit-icicle'>Philips Illuminate Starter Kit Icicle</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=saryn-prime-fashion-frame-reddit'>Saryn Prime Fashion Frame Reddit</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=Take-a-Girl-Like-You'>Take A Girl Like You</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chicken-tikka-marinade-sanjeev-kapoor'>Chicken Tikka Marinade Sanjeev Kapoor</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philips-hue-adore-mirror-review'>Philips Hue Adore Mirror Review</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=selling-your-home-to-opendoor'>Selling Your Home To Opendoor</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=samsung-washing-machine-fuse-location'>Samsung Washing Machine Fuse Location</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=high-tech-kitchen-gadgets-2018'>High Tech Kitchen Gadgets 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=frameless-tempered-glass-wall-art'>Frameless Tempered Glass Wall Art</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=suicide-squad-full-movie-in-hindi-watch-online'>Suicide Squad Full Movie In Hindi Watch Online</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-cordless-stick-vacuum-2018'>Best Cordless Stick Vacuum 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hi-touch-office-supplies-login'>Hi Touch Office Supplies Login</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=deliver-us-from-evil-2014-123movies'>Deliver Us From Evil 2014 123movies</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=west-elm-performance-washed-canvas-review'>West Elm Performance Washed Canvas Review</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=simple-baby-back-ribs-in-oven'>Simple Baby Back Ribs In Oven</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-draw-a-shadow-of-an-object'>How To Draw A Shadow Of An Object</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=las-meninas-the-maids-of-honor'>Las Meninas The Maids Of Honor</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cheap-houses-for-rent-in-houston-tx'>Cheap Houses For Rent In Houston Tx</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=juice-brand-owned-by-coca-cola'>Juice Brand Owned By Coca Cola</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-console-gaming-chair-2019'>Best Console Gaming Chair 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-to-eat-with-quinoa-for-dinner'>What To Eat With Quinoa For Dinner</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-eat-cereal-wikihow'>How To Eat Cereal Wikihow</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=june-mountain-lift-ticket-prices'>June Mountain Lift Ticket Prices</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=a-moveable-feast-with-fine-cooking-season-5'>A Moveable Feast With Fine Cooking Season 5</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=super-mario-maker-2-gamestop'>Super Mario Maker 2 Gamestop</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sample-comments-on-student-papers'>Sample Comments On Student Papers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ritz-carlton-lake-tahoe-suites'>Ritz Carlton Lake Tahoe Suites</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=used-espresso-machine-for-sale-craigslist'>Used Espresso Machine For Sale Craigslist</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=solid-wood-white-queen-headboard'>Solid Wood White Queen Headboard</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=Words-I-Use-When-I-Write'>Words I Use When I Write</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lg-washer-dryer-combo-nz'>Lg Washer Dryer Combo Nz</a>,
+";s:7:"expired";i:-1;}

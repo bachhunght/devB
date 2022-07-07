@@ -1,0 +1,232 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3862:"In 1952, HM The Queen granted the University of Southampton a Royal Charter to award degrees in its own right, conferring full university status. The student cohort is extremely international and is made up of more than 125 nationalities. We work closely with all main UK Universities, HESA and UCAS to gather the relevant data into one place. One of the oldest and most prestigious universities in the world, the University of Oxford attracts top scholars and students to its 44 colleges and halls. Imperial College London is consistently ranked among the best universities in the world for science, technology, engineering, medicine and business. Everything you need to know about University of Southampton; from its 2019 ranking to student reviews, stats and figures, free prospectuses, open day info, and more. 102 . The value of University of Southampton research projects funded by the Engineering and Physical Sciences Research Council (EPSRC) currently stands at £231m, making us seventh in the UK for total value of EPSRC grants.  35th by The Guardian University Guide 2018, with 6 of our subject areas in the top 10; 26th by the Complete University Guide 2018, with 9 of our subject areas in the top 10; 21st by the The Times and Sunday Times Good University Guide 2017, with 11 of our subject areas in the top 10 In 2018, following decades of growth in both facilities and student numbers, the decision was made to drop Southampton from its name to become simply Solent University. It is the only global university performance table to judge research-intensive universities across all of their core missions: teaching, research, knowledge transfer and international outlook. The Times Higher Education World University Rankings 2018 list the top 1,000 universities in the world, making it our biggest international league table to date. The news follows the 2019 Complete University Guide ranking Southampton in the top 20 universities in the UK and the Guardian University Guide 2019 ranking the university as the 23rd best UK university, an improvement of 12 places on last year. The University of Southampton is a truly international university with a global reputation for leading-edge research and innovation. The 2017 U.S. News and World Report ranks Southampton 97th in the world and 10th in the UK. Top 5 universities in the UK 1. In the 2018/19 international university rankings, Southampton ranked 96th (QS World University Rankings), 118th (Times Higher Education World University Rankings), 125th (CWTS Leiden Ranking) and 101-150 (Academic Ranking of World Universities). Part of the exclusive Russell Group, often likened to the UK equivalent of the Ivy League, the University of Southampton has been consistently rated in top 15 research universities in the UK and was ranked 14th in the Complete University Guide 2016. Visit epsrc.ukri.org It was formed in 1907 from a merger of three colleges in London and now has 16,000 students and 8,000 staff. We help students around the world to research courses, universities and colleges. ... 2018. The University of Southampton offers undergraduate, postgraduate and foundation year courses in various disciplines. The University of Southampton is changing the world for the better, working with industry, governments and research institutions to make a global impact. Our rankings by the three main UK university league tables. The university is a founding member of the Russell Group of research-intensive universities. QS World University Rankings is one of the top international rankings measuring the popularity and performance of universities all over the world. Our independent UK University League Tables and Rankings 2020 provide you with a helpful guide to which university is best for you, overall and by subject. View cost of attendance, scholarships, and other crucial details. ";s:7:"keyword";s:38:"university of southampton ranking 2018";s:5:"links";s:7040:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=call-the-midwife-season-8-episode-2'>Call The Midwife Season 8 Episode 2</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=who-invented-the-color-tv'>Who Invented The Color Tv</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mountain-bike-trails-near-me'>Mountain Bike Trails Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=10-seater-dining-table-price-philippines'>10 Seater Dining Table Price Philippines</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-georgia-application-deadline'>University Of Georgia Application Deadline</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=easy-chicken-fried-steak-recipe'>Easy Chicken Fried Steak Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=i-80-road-conditions-tahoe'>I 80 Road Conditions Tahoe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pros-and-cons-of-deep-frying'>Pros And Cons Of Deep Frying</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=are-professional-organizers-worth-it'>Are Professional Organizers Worth It</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=green-bean-recipes-for-christmas-dinner'>Green Bean Recipes For Christmas Dinner</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=tutu-restaurant-lafayette-ca-menu'>Tutu Restaurant Lafayette Ca Menu</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ikea-malm-bedside-table-oak'>Ikea Malm Bedside Table Oak</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-fix-simplehuman-mirror'>How To Fix Simplehuman Mirror</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=barnes-and-noble-website-problems'>Barnes And Noble Website Problems</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=set-of-2-recliner-chairs'>Set Of 2 Recliner Chairs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-wallpaper-around-bathroom-fixtures'>How To Wallpaper Around Bathroom Fixtures</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=land-of-leather-corner-sofas'>Land Of Leather Corner Sofas</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-sausage-egg-cheese-casserole'>Best Sausage Egg Cheese Casserole</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=all-i-see-is-you-ending-spoiler'>All I See Is You Ending Spoiler</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-grow-mustard-seeds-in-cotton'>How To Grow Mustard Seeds In Cotton</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=second-hand-dining-table-and-chairs-for-sale'>Second Hand Dining Table And Chairs For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-interior-design-courses-online'>Best Interior Design Courses Online</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=grey-living-room-ideas-pinterest'>Grey Living Room Ideas Pinterest</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=volunteers-of-america-50-off-day'>Volunteers Of America 50 Off Day</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=age-of-consent-new-york'>Age Of Consent New York</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sun-certified-java-programmer-exam-fees-in-india-2019'>Sun Certified Java Programmer Exam Fees In India 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lifetime-folding-picnic-table-costco'>Lifetime Folding Picnic Table Costco</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=portable-reclining-chair-for-disabled'>Portable Reclining Chair For Disabled</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=big-sky-conference-football-2019'>Big Sky Conference Football 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-many-gallons-in-a-4-person-hot-tub'>How Many Gallons In A 4 Person Hot Tub</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bimba-y-lola-uk-online'>Bimba Y Lola Uk Online</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ikea-dining-table-set-singapore'>Ikea Dining Table Set Singapore</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lazy-boy-chairs-tafelberg-furnishers'>Lazy Boy Chairs Tafelberg Furnishers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mid-century-modern-furniture-plans-free'>Mid Century Modern Furniture Plans Free</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=zone-5-planting-schedule-2019'>Zone 5 Planting Schedule 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=walking-with-the-enemy-123movies'>Walking With The Enemy 123movies</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=texas-bbq-sauce-recipe-without-ketchup'>Texas Bbq Sauce Recipe Without Ketchup</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=canyon-furniture-bunk-bed-assembly-instructions'>Canyon Furniture Bunk Bed Assembly Instructions</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=barbara-walters-2020-new-years'>Barbara Walters 2020 New Years</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lane-altavista-virginia-serial-number-lookup'>Lane Altavista Virginia Serial Number Lookup</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cheap-carpet-tiles-near-me'>Cheap Carpet Tiles Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=black-southern-potato-salad-recipe'>Black Southern Potato Salad Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=things-to-do-in-prague-in-december-tripadvisor'>Things To Do In Prague In December Tripadvisor</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pinch-of-nom-recipes-slimming-world'>Pinch Of Nom Recipes Slimming World</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=williams-sonoma-cooking-classes-near-me'>Williams Sonoma Cooking Classes Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=preaching-to-the-perverted-full-movie-youtube'>Preaching To The Perverted Full Movie Youtube</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=things-to-do-in-steamboat-springs-this-weekend'>Things To Do In Steamboat Springs This Weekend</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=insidious-2-full-movie-dailymotion'>Insidious 2 Full Movie Dailymotion</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=costco-membership-promo-code-2019'>Costco Membership Promo Code 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=top-chef-season-1-episode-5'>Top Chef Season 1 Episode 5</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=quotes-on-healthy-and-junk-food'>Quotes On Healthy And Junk Food</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=omaha-ne-events-next-14-days'>Omaha Ne Events Next 14 Days</a>,
+";s:7:"expired";i:-1;}

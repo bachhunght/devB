@@ -1,0 +1,225 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4735:"Babylon's Online Thesaurus will help you to improve your communication skills:. More than just a list of synonyms, this unique thesaurus draws distinctions between similar words and helps you choose just the word you need. Online English Thesaurus from Collins: More than 500,000 synonyms and antonyms - With definitions, meanings, phrases, and examples. Listen to a word's pronunciation and then drag the audio icon to the image of the matching word. Dictionary.com is the world’s leading online source for English definitions, synonyms, word origins and etymologies, audio pronunciations, example sentences, slang phrases, idioms, word games, legal and medical terms, Word of the Day and more. Developed from Merriam-Webster dictionary, the most trustworthy authority on American English. Listen to the audio pronunciation in the Cambridge English Dictionary. Find the word you're looking for! Whether simply for the love of words… For over 20 years, Dictionary.com has been helping millions of people improve their use of the English language with its free digital services. Pronunciation guide for English and Academic English Dictionaries at OxfordLearnersDictionaries.com. Learn how to pronounce words in English and get help with English pronunciation from the Oxford Advanced Learner's Dictionary and the Oxford Learner's Dictionary of Academic English. Well, you've come to the right place. Explore synonyms, derivations, hypernyms, and hyponym. | Meaning, pronunciation, translations and examples. Learn more. Macmillan Thesaurus was developed at the same time as Macmillan Dictionary.These two resources work together to provide exactly the help you need. Tips to improve your English pronunciation: Here are 4 tips that should help you perfect your pronunciation of 'thesaurus' : Break 'thesaurus' down into sounds : [THI] + [SAW] + [RUHS] - say it out loud and exaggerate the sounds until you can consistently produce them. Developed from Merriam-Webster dictionary, the most trustworthy authority on American English. Babylon's Online Thesaurus will help you to improve your communication skills:. *WordWeb free version is fully functional, and free if you satisfy the licensing conditions. Thesaurus and word tools for your creative needs. Tim's Pronunciation Workshop. Children's, Intermediate and Advanced Online English Dictionary & Thesaurus. Broaden your vocabulary and improve your writing skills. Dictionary, Thesaurus, and Translations. Thesaurus definition is - a book of words or of information about a particular field or set of concepts; especially : a book of words and their synonyms. ... Collins English Pocket Thesaurus. Free online Dictionary including thesaurus, children's and intermediate dictionary by Wordsmyth. This is the British English pronunciation of thesaurus. Did You Know? The program has a full dictionary and thesaurus for American, British, Canadian, Australian, Indian, and global English. Find the most suitable word to phrase your ideas. Get WordWeb Pro to add full audio and many additional features, including the option to add Oxford, Chambers and Collins dictionaries. Definition and synonyms of thesaurus from the online English dictionary from Macmillan Education. The main source of TheFreeDictionary's general English dictionary is Houghton Mifflin's premier dictionary, the American Heritage® Dictionary of the English Language, Fifth Edition.This authoritative work is the largest of the American Heritage® dictionaries and contains over 200,000 boldface terms and more than 33,000 written examples. The main source of TheFreeDictionary's general English dictionary is Houghton Mifflin's premier dictionary, the American Heritage® Dictionary of the English Language, Fifth Edition.This authoritative work is the largest of the American Heritage® dictionaries and contains over 200,000 boldface terms and more than 33,000 written examples. Translator. Work offline without using Internet. You can switch from British English to American English and vice versa using the link at the end of each entry. For over 20 years, Dictionary.com has been helping millions of people improve their use of the English language with its free digital services. thesaurus pronunciation. All content on this website, including dictionary, thesaurus, literature, geography, and other reference data is for informational purposes only. • EnglishTenses to learn English tenses • Education first: English grammar • Internet grammar of English • Common errors by Paul Brians • British Council: English course, grammar, textss (+ audio) • Oxford guide to English grammar, by John Eastwood (2002) • English grammar, a university course, by Angela Downing & Philip Locke (2006) ";s:7:"keyword";s:37:"thesaurus pronunciation in uk english";s:5:"links";s:6075:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=modesto-mall-shooting-8-25-19'>Modesto Mall Shooting 8 25 19</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=who-owns-the-financial-times'>Who Owns The Financial Times</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=free-nature-coloring-pages-for-adults'>Free Nature Coloring Pages For Adults</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=free-belly-dance-classes-near-me'>Free Belly Dance Classes Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=super-mario-maker-2-gamestop'>Super Mario Maker 2 Gamestop</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=silver-bedroom-set-with-lights'>Silver Bedroom Set With Lights</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=baked-eggplant-and-zucchini-parmesan'>Baked Eggplant And Zucchini Parmesan</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-new-brunswick-acceptance-rate'>University Of New Brunswick Acceptance Rate</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=back-case-meaning-in-tamil'>Back Case Meaning In Tamil</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=1-gallon-cordless-shop-vac'>1 Gallon Cordless Shop Vac</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=different-types-of-tea-and-their-benefits'>Different Types Of Tea And Their Benefits</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=home-bargains-plastic-storage-units'>Home Bargains Plastic Storage Units</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-cook-papaya-leaves'>How To Cook Papaya Leaves</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ashley-furniture-clearance-bedroom-sets'>Ashley Furniture Clearance Bedroom Sets</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=doterra-lavender-uses-and-benefits'>Doterra Lavender Uses And Benefits</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=zucchini-noodles-recipe-with-chicken'>Zucchini Noodles Recipe With Chicken</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dollar-general-digital-coupon-scenarios'>Dollar General Digital Coupon Scenarios</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pressure-washer-pump-shaft-key'>Pressure Washer Pump Shaft Key</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=great-green-wall-africa-2018'>Great Green Wall Africa 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=easy-to-care-for-air-purifying-plants'>Easy To Care For Air Purifying Plants</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=led-light-bulb-for-enclosed-fixture-lowes'>Led Light Bulb For Enclosed Fixture Lowes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=samsung-digital-inverter-washing-machine'>Samsung Digital Inverter Washing Machine</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-to-do-in-bear-valley-in-winter'>What To Do In Bear Valley In Winter</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=oil-paintings-for-sale-amazon'>Oil Paintings For Sale Amazon</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=oxford-dictionary-of-idioms-and-phrases-free-download'>Oxford Dictionary Of Idioms And Phrases Free Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=call-the-midwife-season-8-episode-1-recap'>Call The Midwife Season 8 Episode 1 Recap</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=nicol-bolas-dragon-god-japanese'>Nicol Bolas Dragon God Japanese</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-brain-supplements-for-adults'>Best Brain Supplements For Adults</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=calories-in-a-medium-egg-white'>Calories In A Medium Egg White</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=1950s-dining-table-and-chairs'>1950s Dining Table And Chairs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=working-at-container-store-corporate'>Working At Container Store Corporate</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wooden-bero-with-dressing-table'>Wooden Bero With Dressing Table</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-to-buy-japanese-cooking-ingredients'>Where To Buy Japanese Cooking Ingredients</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=good-fortune-plants-for-front-door'>Good Fortune Plants For Front Door</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lee-canyon-opening-day-2019'>Lee Canyon Opening Day 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=suny-college-of-optometry-cat-experiments'>Suny College Of Optometry Cat Experiments</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pan-fried-chicken-thighs-recipe'>Pan Fried Chicken Thighs Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=menards-exterior-french-doors-with-frame'>Menards Exterior French Doors With Frame</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=growing-peas-in-greenhouse-uk'>Growing Peas In Greenhouse Uk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-prune-cherry-tomato-plants'>How To Prune Cherry Tomato Plants</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=beni-shoga-where-to-buy'>Beni Shoga Where To Buy</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=largest-cheese-factory-in-the-us'>Largest Cheese Factory In The Us</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=comfy-chairs-for-bedroom-cheap'>Comfy Chairs For Bedroom Cheap</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=%C3%A9cor%C3%A9cr%C3%A9o-old-port-of-montreal'>écorécréo Old Port Of Montreal</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bosch-easyaquatak-120-high-pressure-washer'>Bosch Easyaquatak 120 High Pressure Washer</a>,
+";s:7:"expired";i:-1;}

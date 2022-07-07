@@ -1,0 +1,205 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2485:"I love this delicious salad for the fact that it is an ideal low-carb salad. Skinny Chicken and Avocado Caesar Salad. Meanwhile, toss the onion, lettuce, coriander and avocados in the Caesar dressing and pile onto a large platter. This Chicken Avocado Corn Salad is the answer to your sick-of-ordinary-salads prayers. Heat a non stick grilling pan/skillet with a drizzle of olive oil and fry chicken until golden on both sides. There’s no need to marinate the chicken because this is a … A popular reader favourite, this Honey Mustard Chicken Salad has been remade all over the world time and time again! Honey Mustard Chicken Salad With Bacon, Avocado and a crazy good 5 ingredient dressing that doubles as a marinade! Whole30 friendly and a great way … Cover and cook for 5 mins more until the chicken is cooked and the tomatoes are warm and starting to soften. Rub the chicken breast with the garlic powder, parsley flakes and salt. Top with small handfuls of the beans and scatter with the tomatoes. This salad is made with spiced chicken breasts that can be grilled on a grill, pan, or griddle. Grilled Chicken Avocado Salad is a great salad for spring and summer! This quick and easy chicken salad is made with the breast meat of a Rotisserie chicken, avocado, fresh tomatoes, basil and lemon juice. Avocado Chicken Salad(no mayo) It was easy to replace the mayonnaise in this avocado chicken salad recipe with avocado because avocados have a creamy texture when mashed. Chock full of tasty chicken, sweet corn, creamy avocado, lime, and chili powder, this is a great dish to share — though you might just want to keep it all for yourself! A salad that’s a meal in itself, this is THE ultimate in chicken salad recipes. Add some greens, tomatoes, avocados, top it with a skinny dressing and call it a lunch! It is so filling and easy to make too. This weight loss salad is healthy, vibrant, delicious and nutrient-dense. Cherry tomatoes, cucumbers, onions, and avocado are tossed in a fresh and tangy dressing to create a perfect pairing for any time of the day. It’s made with chopped lettuce, cucumber, red onions, sliced avocado topped and grilled chicken and dressed with an easy lemon-olive oil dressing.Definitely, this flavourful protein packed salad is … Slice the warm chicken and pile on top.  However, not all avocados are the same and fat content and carb content vary depending on the variety. You can use boneless skin-less chicken thighs or breasts. ";s:7:"keyword";s:30:"salad with chicken and avocado";s:5:"links";s:3321:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=vietnam-veterans-of-america-detroit'>Vietnam Veterans Of America Detroit</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=oval-above-ground-pools-with-deep-end'>Oval Above Ground Pools With Deep End</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=tom-hughes-and-jenna-coleman'>Tom Hughes And Jenna Coleman</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dyar-al-sham-international-city-maps'>Dyar Al Sham International City Maps</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=synonyms-for-useful-and-effective'>Synonyms For Useful And Effective</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=zabiha-halal-food-near-me'>Zabiha Halal Food Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-repair-double-hung-sash-windows'>How To Repair Double Hung Sash Windows</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=used-wooden-stools-for-sale'>Used Wooden Stools For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=empty-frames-on-wall-online'>Empty Frames On Wall Online</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=setting-wifi-mikrotik-dengan-winbox'>Setting Wifi Mikrotik Dengan Winbox</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-long-does-ntn-report-take'>How Long Does Ntn Report Take</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=beauty-and-the-beast-2017-cast'>Beauty And The Beast 2017 Cast</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=smart-tiles-peel-and-stick-backsplash'>Smart Tiles Peel And Stick Backsplash</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=waterproof-wall-stickers-for-kitchen'>Waterproof Wall Stickers For Kitchen</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=does-a-room-have-to-be-empty-to-lay-carpet'>Does A Room Have To Be Empty To Lay Carpet</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wayfair-labor-day-sale-2018'>Wayfair Labor Day Sale 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-can-i-buy-margarita-mix-uk'>Where Can I Buy Margarita Mix Uk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=buffalo-cauliflower-air-fryer-vegan'>Buffalo Cauliflower Air Fryer Vegan</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=Steak-for-chicken-fried-steak'>Steak For Chicken Fried Steak</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-finish-a-garage-interior'>How To Finish A Garage Interior</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=small-bookshelf-cabinet-with-doors'>Small Bookshelf Cabinet With Doors</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=download-microsoft-office-2016-free'>Download Microsoft Office 2016 Free</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=advantages-and-disadvantages-of-factory-system'>Advantages And Disadvantages Of Factory System</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=coffee-shops-near-me-with-free-wifi'>Coffee Shops Near Me With Free Wifi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=warp-drive-in-a-sentence'>Warp Drive In A Sentence</a>,
+";s:7:"expired";i:-1;}

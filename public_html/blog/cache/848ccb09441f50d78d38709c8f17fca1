@@ -1,0 +1,215 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:5160:"The statue depicts Laocoön, the priest of Apollo from the city of Troy, and his two sons. The title of the work refers to the well-known Hellenistic sculpture of the Trojan priest Laocoön and his two sons, their bodies trapped in the grip of pythons sent by the gods. The monumental statue of ‘Laocoon and His Sons’ depicts the horrible scene of sufferings of the helpless Trojan priest and his two sons, based on Virgil’s Aeneid. Athanadoros, Hagesandros, and Polydoros of Rhodes, Laocoön and his Sons, early first century C.E., marble, 7'10 1/2" high (Vatican Museums) Speakers: Dr. Steven Zucker & Dr. Beth Harris From the discussion, it is evident that the sculptures change the history. Trojan priest Laocoön and his two sons are attacked at an altar by giant snakes. It reflects a mythological story- a Trojan priest and his sons fight with the snakes sent by the God of the seas, Poseidon. Here, we unearth the fascinating history of 'Laocoon and His Sons,' a Hellenistic sculpture discovered in 1506. The original statue has a complicated history of restorations. The Statue of Laocoon is very interesting sculpture, located near the Odessa Archaeological Museum.  The creation of the sculpture is attributed to three artists, but there is no definite recorded date … The date of the Laocoon is controversial, some scholars arguing for the late … He and his two sons were then strangled by two giant snakes which swam ashore, while Laocoon was officiating at the altar of Neptune. Laocoon's head is turned back with a grimace of pain in which are mixed Laocoon's horror for the death of his sons, the exertion of his struggle, and awareness of his own imminent death. Such an important sculpture could not escape the notice of Pope Julius II (1503-1513) who bought it immediately and had it displayed in the Statues Courtyard (Cortile delle Statue), making it the centrepiece of the collection. Laocoön, in Greek legend, a seer and a priest of the god Apollo; he was the son of Agenor of Troy or, according to some, the brother of Anchises (the father of the hero Aeneas). The Laocoon group. Rome, Vatican Museums, ... and his two sons are locked in the coils of two serpents, on the steps of an altar. Laocoon and his sons, is a sculpture created by Baccio Bandinelli between 1520-1525, yet the exact date is a mystery. It is a copy of the original sculpture in the Vatican. No. They are locked in the death […] ... As it can be seen above, the Laocoon and his sons sculpture is not just like any other piece of work but on the contrary is unique and influential. Laocoön, in Greek legend, a seer and a priest of the god Apollo; he was the son of Agenor of Troy or, according to some, the brother of Anchises (the father of the hero Aeneas). Rome, Vatican Museums, ... and his two sons are locked in the coils of two serpents, on the steps of an altar. Pliny said it was the work of three sculptors from Rhodes, Hagesandros, Polydoros, and Athenodoros. There has been much debate over the date of the statue, which would seem to have been made around 40-30 B.C. In the sculpture, one of the sons is detailed as break free from the snakes and looking across to see his … To his right, the younger son is completely enwrapped by the coils of the second serpent. Like all Hellenistic works, the Laocoön statue showcases an interest in the realistic and dramatic depiction of movement. title: Frieze Sculptures of the Parthenon date: 450 BCE function: thought to depict a historical event (Panathenaic Festival) rather than mythological, temple decoration ... Laocoon and his sons date: 90 BCE function: shows the Trojan priest being strangle by serpents sent by gods who favored the Greeks materials: marble In the Laokoon Lessing attempted to fundamentally define the separate functions of… Read More; legend of Laocoön A collage featuring the statue of "Laocoön and his Sons" from the Vatican. The statue of Laocoön and His Sons (Italian: Gruppo del Laocoonte), also called the Laocoön Group, has been one of the most famous ancient sculptures ever since it was excavated in Rome in 1506 and placed on public display in the Vatican, where it remains. 1059. The story of Laocoön has been the subject of numerous artists, both in ancient and in more contemporary times. The date of the Laocoon is controversial, some scholars arguing for the late … There are various deliberations about whether Laocoon's arm should be bent or (as it is now) straight. Laocoon was the Trojan priest who warned the citizens of Troy against bringing the Greeks' wooden horse into the city. Laocoon was the son of Priam… Laocoön offended Apollo by breaking his oath of celibacy and begetting children or by having sexual intercourse with his The Laocoon and His Sons (also referred to as The Laocoon Group) is a sculpture based on Greek mythology. UNCOILING THE LAOCOON: REVEALING THE STATUE GROUP’S SIGNIFICANCE IN AUGUSTAN ROME by ... works of art features the Trojan priest Laocoon and his two sons entwined in a serpentine ... After determining a date for the statue group through evidence provided by a comparison with sculptures … ";s:7:"keyword";s:35:"laocoon and his sons sculpture date";s:5:"links";s:4703:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=industrial-hoover-hire-for-dust'>Industrial Hoover Hire For Dust</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=recipe-for-shrimp-stir-fry-with-rice'>Recipe For Shrimp Stir Fry With Rice</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=small-townhouse-interior-design-philippines'>Small Townhouse Interior Design Philippines</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=buffalo-fried-cauliflower-air-fryer'>Buffalo Fried Cauliflower Air Fryer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=detroit-restaurant-week-fall-2019'>Detroit Restaurant Week Fall 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wall-fixing-steel-almirah-designs'>Wall Fixing Steel Almirah Designs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=starting-a-farm-in-ontario'>Starting A Farm In Ontario</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bed-bath-and-beyond-near-me-now'>Bed Bath And Beyond Near Me Now</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=isle-royale-extended-weather-forecast'>Isle Royale Extended Weather Forecast</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=walmart-miami-beach-near-collins-avenue'>Walmart Miami Beach Near Collins Avenue</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=why-are-agents-moving-to-compass'>Why Are Agents Moving To Compass</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ikea-deck-tiles-on-dirt'>Ikea Deck Tiles On Dirt</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=black-friday-2019-skis-sale'>Black Friday 2019 Skis Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-to-do-with-cherokee-purple-tomatoes'>What To Do With Cherokee Purple Tomatoes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=michigan-state-park-camping-fees'>Michigan State Park Camping Fees</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=push-pin-travel-map-michaels'>Push Pin Travel Map Michaels</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=Every-Rose-Has-Its-Thorn'>Every Rose Has Its Thorn</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=aluminium-french-doors-with-side-windows'>Aluminium French Doors With Side Windows</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-propagate-areca-palm-plants'>How To Propagate Areca Palm Plants</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=frigidaire-refrigerator-temperature-control-problems'>Frigidaire Refrigerator Temperature Control Problems</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-many-people-died-building-the-mackinac-bridge'>How Many People Died Building The Mackinac Bridge</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=welcome-to-our-patio-signs'>Welcome To Our Patio Signs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ashley-furniture-employee-discount-code'>Ashley Furniture Employee Discount Code</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lokal-u-bile-kuzelky-menu'>Lokal U Bile Kuzelky Menu</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=main-course-recipes-for-dinner-parties'>Main Course Recipes For Dinner Parties</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-way-to-make-money-in-the-food-business'>Best Way To Make Money In The Food Business</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=which-pier-one-stores-are-closing-2019'>Which Pier One Stores Are Closing 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=plastic-pots-for-plants-wholesale'>Plastic Pots For Plants Wholesale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=above-ground-pool-landscaping-with-rocks'>Above Ground Pool Landscaping With Rocks</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bay-area-ski-bus-schedule'>Bay Area Ski Bus Schedule</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=classic-pasta-salad-with-mayo'>Classic Pasta Salad With Mayo</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bed-headboard-design-in-india'>Bed Headboard Design In India</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-is-the-philosophy-of-art-apex'>What Is The Philosophy Of Art Apex</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wayfair-address-and-phone-number'>Wayfair Address And Phone Number</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=menards-3-day-sale-2019'>Menards 3 Day Sale 2019</a>,
+";s:7:"expired";i:-1;}

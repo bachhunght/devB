@@ -1,0 +1,8 @@
+[27-Feb-2022 12:28:05 UTC] PHP Fatal error:  Uncaught Error: Interface 'Requests_Transport' not found in /home/australiana/public_html/wp-includes/Requests/Transport/cURL.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/australiana/public_html/wp-includes/Requests/Transport/cURL.php on line 15
+[27-Feb-2022 12:28:06 UTC] PHP Fatal error:  Uncaught Error: Interface 'Requests_Transport' not found in /home/australiana/public_html/wp-includes/Requests/Transport/fsockopen.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/australiana/public_html/wp-includes/Requests/Transport/fsockopen.php on line 15

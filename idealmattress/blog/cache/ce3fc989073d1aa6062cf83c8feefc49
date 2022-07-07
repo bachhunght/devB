@@ -1,0 +1,221 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:5501:"Jackson Hole Real Estate JH Property Group is a comprehensive real estate site offering area information , market information , tax information , ranch real estate in Wyoming or Idaho, homes for sale in Jackson Hole and surrounding areas, apartments for rent , or ski in ski out condos . Homes listings include vacation homes, apartments, penthouses, luxury retreats, lake homes, ski chalets, villas, and many more lifestyle options. The condo, itself, is very comfortable and well equipped. Jackson Hole Mountain Resort has world class skiing and snowboarding for all ability levels.  Zillow has 21 homes for sale in Breckenridge CO matching Ski In Ski Out. We have 350 luxury homes for sale in Jackson Hole, and 36,242 homes in all of United States. On-the-water property, a mountain view or a log cabin for a getaway: you’ll find it here. View listing photos, review sales history, and use our detailed real estate filters to find the perfect place. There is ski resort real estate—and then for those who want to get away from it all, there are prime mountain homes far from the madding crowd, cross-country skiing trails, and Alpine chalets alone on the mountain slope, where all that fresh, white powder awaits. Whether you’re relocating to Jackson Hole, or want to buy a vacation home, primary residence, second home, resort property, condo, townhome, land, horse property, Teton view home, golf estate or ski-in/ski-out home, you’ll find all Jackson, Wilson, and Teton Village real estate listed for sale here. Ski-In Ski-Out. Ski-In Ski-Out Located in Teton Village, at the base of Jackson Hole Mountain Resort, Caldera House is a premier boutique hotel with the amenities of a 5-star hotel and the intimacy of a private residence. Best Jackson Hole Resorts on Tripadvisor: Find traveler reviews, candid photos, and prices for 8 resorts in Jackson Hole, Wyoming, United States. We have 261 luxury homes for sale in Jackson Hole, and 30,311 homes in all of United States. Teton Village offers visitors and residents a true resort experience, with skiing and riding, shopping and dining out your back door. With accommodations at Jackson Hole Mountain Resort, we offer the finest in luxury lodging for our guests. Jackson Hole Wyoming real estate offers a wide array of properties to choose from. Clear Creek Group - Ski In Ski Out in Jackson Hole. We have 87 luxury homes for sale in Jackson, and 189 homes in all of Wyoming. Teri McCarthy is the Broker/Owner of Jackson Wyoming Real Estate. Zillow has 3 homes for sale in Jackson WY matching Ski Out. Ski-In Ski-Out Located in Teton Village, at the base of Jackson Hole Mountain Resort, Caldera House is a premier boutique hotel with the amenities of a 5-star hotel and the intimacy of a private residence. (Word of advice: Put the Jackson Hole Ski Patrol number into your smartphone — (307) 739-2650. Teri holds the designations of CRS (Certified Residential Specialist) and RSPS (Resort and Second Home Specialist) matching buyers and sellers with Jackson Hole properties since 1989. Homes listings include vacation homes, apartments, penthouses, luxury retreats, lake homes, ski chalets, villas, and many more lifestyle options. We had a great stay in Teton Village. Located at the base of the world famous Jackson Hole Mountain Resort is Teton Village Wyoming. Book your ski vacation or summer adventure now. The condo is located right at the base of Jackson Hole ski resort and you can practically ski right into the side entrance. We've stayed in the town of Jackson and found it charming but we live near our home resort of Crested Butte year round and so didn't worry about driving a bit to ski … Jackson Hole Real Estate JH Property Group is a comprehensive real estate site offering area information , market information , tax information , ranch real estate in Wyoming or Idaho, homes for sale in Jackson Hole and surrounding areas, apartments for rent , or ski in ski out condos . Jackson Hole is known for its off-piste skiing, which takes you into areas that are not as heavily-skied as you seek fresh powder. Jackson Hole, WY Real Estate & Homes for Sale Homes for sale in Jackson Hole, WY have a median listing price of $1,275,000 and a price per square foot of $666. Granite Ridge Cabins & Lodges. Our organization is comprised of experienced, successful and dedicated full-time real estate professionals, and our collection of properties is unsurpassed and includes some of the most unique and sought-after real estate in the world. Residential - Single Family Under the Tram at Jackson Hole Mountain Resort, this very rare, custom five bedroom, four and a half bath ski-in ski-out home is set on perhaps the most coveted location in Teton Village. Within Teton Village you can find all types of ski in ski out real estate, from condominiums to town homes and single family homes. JH Property Group is a comprehensive real estate site offering area information, market information, tax information, ranch real estate in Wyoming or Idaho, homes for sale in Jackson Hole and surrounding areas, apartments for rent, or ski in ski out condos. View 230 homes for sale in Jackson, WY at a median listing price of $1139000. From 2 – 5 bedrooms Granite Ridge Cabins and Lodges can accommodate the needs of just about any sized party. As a Jackson Hole Real Estate Agent, a resident for more than 25 years, and publisher of local lifestyle magazines, I have an unmatched understanding of Jackson Hole Property for Sale. ";s:7:"keyword";s:39:"jackson hole ski in ski out real estate";s:5:"links";s:5611:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=construction-and-working-of-light-emitting-diode-pdf'>Construction And Working Of Light Emitting Diode Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=gubi-beetle-chair-replica-uk'>Gubi Beetle Chair Replica Uk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kitchen-interview-questions-and-answers'>Kitchen Interview Questions And Answers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lake-of-the-clouds-cabin-porcupine-mountains'>Lake Of The Clouds Cabin Porcupine Mountains</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=farm-seed-store-near-me'>Farm Seed Store Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-clear-a-garden'>How To Clear A Garden</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-complete-cooking-for-two-cookbook-spiral-bound'>The Complete Cooking For Two Cookbook Spiral Bound</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=peter-grosz-living-with-yourself'>Peter Grosz Living With Yourself</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bon-appetit-beef-stew-with-red-wine'>Bon Appetit Beef Stew With Red Wine</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=top-fast-food-restaurants-2019'>Top Fast Food Restaurants 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=white-swivel-chair-with-arms'>White Swivel Chair With Arms</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-restaurants-edinburgh-west-end'>Best Restaurants Edinburgh West End</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=are-hummingbirds-good-for-gardens'>Are Hummingbirds Good For Gardens</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=When-are-lilies-in-season'>When Are Lilies In Season</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=gordon-ramsay-ultimate-cookery-course-book'>Gordon Ramsay Ultimate Cookery Course Book</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-fish-for-back-to-the-roots-water-garden'>Best Fish For Back To The Roots Water Garden</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wayfair-peel-and-stick-wallpaper'>Wayfair Peel And Stick Wallpaper</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=800-sq-ft-apartment-design'>800 Sq Ft Apartment Design</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=crate-box-meaning-in-hindi'>Crate Box Meaning In Hindi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=farmhouse-rules-devils-on-the-water'>Farmhouse Rules Devils On The Water</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=homewood-city-schools-substitute-teacher-pay'>Homewood City Schools Substitute Teacher Pay</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=easy-outdoor-christmas-decorating-ideas'>Easy Outdoor Christmas Decorating Ideas</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=eggplant-and-italian-sausage-recipes'>Eggplant And Italian Sausage Recipes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=steak-diane-recipe-without-alcohol'>Steak Diane Recipe Without Alcohol</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=black-windsor-chairs-set-of-4'>Black Windsor Chairs Set Of 4</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=coldwell-banker-new-logo-pdf'>Coldwell Banker New Logo Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-westminster-student-hub'>University Of Westminster Student Hub</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=small-one-bedroom-apartment-floor-plans'>Small One Bedroom Apartment Floor Plans</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bank-of-america-careers-login'>Bank Of America Careers Login</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lexington-furniture-in-houston-tx'>Lexington Furniture In Houston Tx</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pier-one-imports-return-policy-no-receipt'>Pier One Imports Return Policy No Receipt</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-does-halloween-mean-in-the-bible'>What Does Halloween Mean In The Bible</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=king-headboard-and-frame-wood'>King Headboard And Frame Wood</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=queen-of-the-night-lyrics-hey-violet-meaning'>Queen Of The Night Lyrics Hey Violet Meaning</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=woodland-shoes-price-in-india-2019'>Woodland Shoes Price In India 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=does-ego-make-a-pressure-washer'>Does Ego Make A Pressure Washer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=broccoli-cheese-casserole-with-ritz-crackers'>Broccoli Cheese Casserole With Ritz Crackers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=great-british-bake-off-2020-contestants'>Great British Bake Off 2020 Contestants</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kroger-carpet-cleaner-rental-reviews'>Kroger Carpet Cleaner Rental Reviews</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=peace-lily-drooping-but-soil-is-moist'>Peace Lily Drooping But Soil Is Moist</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-hot-dogs-in-the-oven'>How To Make Hot Dogs In The Oven</a>,
+";s:7:"expired";i:-1;}

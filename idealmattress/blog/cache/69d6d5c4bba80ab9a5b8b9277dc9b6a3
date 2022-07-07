@@ -1,0 +1,272 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4817:"Or geospatial analysis? Introduction: Promises and Perils of Digital History tep back in time and open the pages of the inaugural issue of Wired magazine from the spring of 1993, and prophecies of an optimistic digital future call … 2, Summer 2017 Doing Sport History in the Digital Present ... and the Promise and Perils of Digital Visualization. Posted on April 15, 2013 by Curtis Harris. I recently had occasion to reflect on the dualistic nature of technology firsthand when faced with the dilemma of … Brad Smith, President of Microsoft, wrote this book with Carole Ann Browne, about all the wonderful things Microsoft has done in the realm of the digital revolution. The conclusions of the authors are that electronic voting systems, when evaluated correctly using risk analysis, pose fewer issues than digital scan or paper balloting systems, but that public debate has … A day we’ve long anticipated has finally arrived. Spurred by technological advances, economic imperatives, and governmental policies, information technologies are rapidly being applied to health care in an effort to improve access, enhance quality, and decrease costs. Examining the evidence I have laid out, I would venture this definition: Digital history is a sub-field of history that uses new technologies and methodological approaches to promote interdisciplinary collaboration, ... “Promises and Perils. The Perils and Promise of Digital History Review: Sports Blog Nation. I recently had occasion to reflect on the dualistic nature of technology firsthand when faced with the dilemma of … Stephan Risi, SHASS Digital Humanities Lab April 9, 2019 "Computation and the Practice of 21st-Century History" William Turkel, University of Western Ontario. Since the dawn of recorded history (and likely before), pundits and pontificators have warned of the promise and peril of new technologies. According to Wikipedia, digital literacy “refers to an individual’s ability to find, evaluate and compose clear information through writing and other medium in digital form” and “it is evaluated by an individual’s grammar, composition, typing skills and ability to produce writings, images and designs using technology.” Digital literacy is coined from the words, digital and literacy. PROMISES AND PERILS OF DIGITAL HISTORY Stephan Risi, Visiting Scholar, SHASS Digital Humanities Lab What digital tools will reshape the discipline of history? The Future of the Discipline Promises and Perils of Transnational History. DSCMs facilitate a style of collaboration in which work output can flow sideways (and privately) between collaborators, rather than always up and down (and publicly) via a central repository. This article chronicles the recent history of the debate in the United States over digital paywalls, a model often hailed as newspapers’ savior. Querying the Infinite Archive: The Promises and Perils of Digital History. The Perils and Promise of Digital History Digital Narratives and the Narrating Narrators Who Narrate Them. We show how this debate has evolved from emphasizing industry-wide adoption to focusing on individual experiments. Home > Publications & Directories > Perspectives on History > Issues > December 2012 > The Future of the Discipline > Promises and Perils of Transnational History. Vol. This article chronicles the recent history of the debate in the United States over ... Salvation or Folly? Posted on April 8, 2013 by Curtis Harris. (UN)SUSTAINABLE POLITICS IN A CHANGING WORLD - PSA 69th Annual International Conference 15-17 April 2019 Nottingham Trent University Panel title: (Un)sustainable citizenship: promises and perils of digital participation Panel chairs: Emiliana De Blasio and Donatella Selva After decades since the first implementation of e-government and e-democracy models, the time has come … Today, the new book that Carol Ann Browne and I have written, Tools and Weapons: The Promise and the Peril of the Digital … From this perspective, progress is easy to calibrate. MIT HiSTORY SERIES ON DIGITAL HUMANITIES | 2 April 3, 2019.  A more appropriate and less misleading title would have been: Tools and Weapons, How Microsoft has delivered the Promise and saved the world from the Perils of the Digital Age. ... history of HIV and STI testing, barriers to testing (such as homelessness, residential instability, or discrimination), sources of support, and personal values. Comments on the readings out of Digital History: A Guide to Gathering, Preserving, and, Presenting the Past on the Web, by Dan Cohen and Roy Rosenzweig, and on … Will it be topic models? The promises and perils of mining git Abstract: We are now witnessing the rapid growth of decentralized source code management (DSCM) systems, in which every developer has her own repository. ";s:7:"keyword";s:38:"promises and perils of digital history";s:5:"links";s:12448:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=e14-led-bulb-100w-equivalent'>E14 Led Bulb 100w Equivalent</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-grow-spinach-indoors'>How To Grow Spinach Indoors</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chocolate-and-vanilla-panna-cotta'>Chocolate And Vanilla Panna Cotta</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=job-applications-online-near-me'>Job Applications Online Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-ask-for-referrals-from-existing-clients'>How To Ask For Referrals From Existing Clients</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mirror-side-table-with-drawer'>Mirror Side Table With Drawer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=40000-psi-pressure-washer-rental'>40000 Psi Pressure Washer Rental</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=washing-machine-repair-east-london'>Washing Machine Repair East London</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=senior-management-performance-appraisal-examples'>Senior Management Performance Appraisal Examples</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-canning-recipes-for-gifts'>Best Canning Recipes For Gifts</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-chicken-tacos-with-leftover-chicken'>How To Make Chicken Tacos With Leftover Chicken</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-did-the-pilgrims-eat-everyday'>What Did The Pilgrims Eat Everyday</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-is-johnny-iuzzini-doing-now'>What Is Johnny Iuzzini Doing Now</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=black-and-white-architecture-art'>Black And White Architecture Art</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-to-eat-with-pork-chops-for-dinner'>What To Eat With Pork Chops For Dinner</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=honor-10-lite-6gb-ram-128gb-price-in-india'>Honor 10 Lite 6gb Ram 128gb Price In India</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=samsung-washing-machine-dust-filter'>Samsung Washing Machine Dust Filter</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=thomasville-fabric-sectional-with-ottoman-1355974'>Thomasville Fabric Sectional With Ottoman 1355974</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pirates-of-the-caribbean-2-download'>Pirates Of The Caribbean 2 Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=century-21-brand-guidelines-2019-pdf'>Century 21 Brand Guidelines 2019 Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rise-of-ottoman-empire-movie'>Rise Of Ottoman Empire Movie</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=surface-mount-led-lights-12v'>Surface Mount Led Lights 12v</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=veedu-other-names-in-tamil'>Veedu Other Names In Tamil</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=honda-gx340-pressure-washer-parts'>Honda Gx340 Pressure Washer Parts</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ski-big-3-season-pass'>Ski Big 3 Season Pass</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bring-me-home-song-les-miserables'>Bring Me Home Song Les Miserables</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-far-is-owensboro-ky-from-me'>How Far Is Owensboro Ky From Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=peaky-blinders-season-3-episode-1'>Peaky Blinders Season 3 Episode 1</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=black-panther-full-movie-download-in-hindi-480p'>Black Panther Full Movie Download In Hindi 480p</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wood-storage-cabinet-with-drawers'>Wood Storage Cabinet With Drawers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=karcher-1800-psi-pressure-washer-parts'>Karcher 1800 Psi Pressure Washer Parts</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=are-spider-plants-toxic-to-cats'>Are Spider Plants Toxic To Cats</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-to-order-at-open-bar'>What To Order At Open Bar</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=i-still-see-you-sequel'>I Still See You Sequel</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=buffalo-cauliflower-tacos-air-fryer'>Buffalo Cauliflower Tacos Air Fryer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pork-afritada-recipe-del-monte'>Pork Afritada Recipe Del Monte</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=description-of-a-beautiful-house-essay'>Description Of A Beautiful House Essay</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-is-a-master-butcher'>What Is A Master Butcher</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=construction-and-working-of-light-emitting-diode-pdf'>Construction And Working Of Light Emitting Diode Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rhyan-bed-west-elm-reviews'>Rhyan Bed West Elm Reviews</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lightweight-upright-vacuum-cleaners-for-the-elderly'>Lightweight Upright Vacuum Cleaners For The Elderly</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-organize-kitchen-cabinets-youtube'>How To Organize Kitchen Cabinets Youtube</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-lettuce-bad-for-you'>Is Lettuce Bad For You</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=free-online-movie-streaming-sites'>Free Online Movie Streaming Sites</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hyatt-resort-at-squaw-creek'>Hyatt Resort At Squaw Creek</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=darvin-barrel-chair-and-ottoman'>Darvin Barrel Chair And Ottoman</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=most-popular-indian-food-in-the-world'>Most Popular Indian Food In The World</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=above-ground-pool-sand-filter-installation'>Above Ground Pool Sand Filter Installation</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-long-do-celosia-plants-last'>How Long Do Celosia Plants Last</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=accidents-in-south-jersey-today'>Accidents In South Jersey Today</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=farm-city-week-buyers-list'>Farm City Week Buyers List</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=used-espresso-machine-for-sale-craigslist'>Used Espresso Machine For Sale Craigslist</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=leaving-neverland-part-2-release-date'>Leaving Neverland Part 2 Release Date</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lowes-credit-card-limit-increase-online'>Lowes Credit Card Limit Increase Online</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=portes-du-soleil-opening-dates'>Portes Du Soleil Opening Dates</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fallout-4-ivy-companion-mod'>Fallout 4 Ivy Companion Mod</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pleasant-view-gardens-floor-plans'>Pleasant View Gardens Floor Plans</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-aisle-is-soy-sauce-in-at-kroger'>What Aisle Is Soy Sauce In At Kroger</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wood-bathroom-cabinets-over-toilet'>Wood Bathroom Cabinets Over Toilet</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=miracle-garden-closing-date-2020'>Miracle Garden Closing Date 2020</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lowes-flyer-april-25-2019'>Lowes Flyer April 25 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=high-pressure-car-washer-for-service-station'>High Pressure Car Washer For Service Station</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=honey-i-shrunk-the-kids-series'>Honey I Shrunk The Kids Series</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=words-that-start-with-dis'>Words That Start With Dis</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=oliver-coopersmith-homes-under-the-hammer'>Oliver Coopersmith Homes Under The Hammer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=junior-bake-off-2019-recipes'>Junior Bake Off 2019 Recipes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=acrylic-console-table-with-drawers'>Acrylic Console Table With Drawers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=marshalls-440-jersey-city-hours'>Marshalls 440 Jersey City Hours</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=free-sample-books-for-interior-designers'>Free Sample Books For Interior Designers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-property-selling-app-in-india'>Best Property Selling App In India</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=houses-for-rent-in-naperville-il-craigslist'>Houses For Rent In Naperville Il Craigslist</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=weather-park-city-ut-usa'>Weather Park City Ut Usa</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=data-structure-for-connection-pool'>Data Structure For Connection Pool</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=high-seat-chairs-for-seniors'>High Seat Chairs For Seniors</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=please-find-below-the-information-you-need'>Please Find Below The Information You Need</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=restaurants-near-park-mgm-las-vegas'>Restaurants Near Park Mgm Las Vegas</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=live-webcam-caberfae-peaks-cadillac-michigan'>Live Webcam Caberfae Peaks Cadillac Michigan</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=Father-of-the-Bride-Part-II'>Father Of The Bride Part II</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=2x4-picnic-table-plans-free'>2x4 Picnic Table Plans Free</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=leather-and-fabric-combination-sofa'>Leather And Fabric Combination Sofa</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=4-inch-vs-6-inch-recessed-lighting-2017'>4 Inch Vs 6 Inch Recessed Lighting 2017</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=urban-agriculture-grow-your-own-tree'>Urban Agriculture Grow Your Own Tree</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=52-weeks-to-an-organized-home-and-life-workbook'>52 Weeks To An Organized Home And Life Workbook</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=buffalo-cauliflower-tacos-air-fryer'>Buffalo Cauliflower Tacos Air Fryer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=security-gates-for-doors-and-windows'>Security Gates For Doors And Windows</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pruning-a-large-schefflera-tree'>Pruning A Large Schefflera Tree</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=oprah-winfrey-email-address-2018'>Oprah Winfrey Email Address 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mexican-feather-grass-home-depot'>Mexican Feather Grass Home Depot</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=german-beer-garden-near-me'>German Beer Garden Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=similarities-between-vascular-and-nonvascular-plants'>Similarities Between Vascular And Nonvascular Plants</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=modern-kitchen-designs-photo-gallery'>Modern Kitchen Designs Photo Gallery</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=home-goods-consignment-stores-near-me'>Home Goods Consignment Stores Near Me</a>,
+";s:7:"expired";i:-1;}

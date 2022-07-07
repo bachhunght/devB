@@ -1,0 +1,241 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4880:"If you don't want to use the @Test(priority = ) option in TestNG, you can make use of the javaassist library and TestNG's IMethodInterceptor to prioritize the tests according to the order by which the test methods are defined in the test class. Here is a quick overview of the annotations available in TestNG. Share this post... Share on Facebook Share on Facebook Share on LinkedIn Share on LinkedIn Pin it Share on Pinterest Tweet Share on Twitter Share on WhatsApp Share on … Create a java class file name TestngAnnotation.java in C:\>TestNG_WORKSPACE to test annotations. What are the different Annotations available in TestNG Framework. i.e. The main confusion here is with @Test annotation and tag. It is important for all testers to understand the annotations used while working with TestNG. In order to achive, we use need to add annotation as @Test(priority=??). While writing our first testcase with TestNG, we had seen the usage of @Test, @BeforeTest and @AfterTest annotations. Test Case Priority in TestNG. In TestNg bydefault the preserve-order attribute will be set to 'true', this means, TestNG will run your tests in the order they are found in the XML file. You can run a single or multiple test cases in your TestNG code. TestNG – Configuration Annotations This example shows you a list of the configuration annotations supported in TestNG. We will try to execute the below example, by taking three classes.  You could learn complete TestNG Tutorial here. Consider that you are executing above code from testng.xml file. TestNG - Basic Annotations - The traditional way to indicate test methods in JUnit 3 is by … All though these are the most frequently used annotations but who know how far you will go with your framework and may like to use other useful TestNG annotations. When there are multiple test cases, we want to execute test cases in order. The default value will be zero for priority. It is just important to note for now that annotations in TestNG … It explains the order of the methods called. If you need to modify another TestNG annotation (a configuration annotation, @Factory or @DataProvider), use an IAnnotationTransformer2. If you want your classes / methods to be run in an unpredictable order, then we should go for preserve-order attribute in testng. TestNG – Hello World Example Getting started with TestNG, create a simple test case and how to execute it. Annotations will be discussed later in the section named "Annotations used in TestNG,"so it is perfectly ok if you do not understand the above example just yet. What is TestNG and different annotations in TestNG? So it now each annotation will make sense. TestNG Annotation: In our previous articles, we have discussed various basic things about TestNG framework as we have mentioned earlier that TestNg support various annotation to handle multiple operations. If you don't mention the priority, it will take all the This chapter explains the execution procedure of methods in TestNG. TestNG is a Testing framework, that covers different types of test designs like a unit test, functional test, end to end test, UI test and integration test. A very early and quick example is the one shown below. TestNG makes use of these annotations to provide several features to the user so that they can able to build a robust testing framework. In TestNG "Priority" is used to schedule the test cases. And the way we write testng file tag sequence in that file is methods . Like First we need to execute a test case "Registration" before login. Benefits of using TestNg with Selenium. Before that, I would like you to give a small idea on the Annotations hierarchy or Annotations levels in TestNG. To put it simply, TestNG annotations are lines of code that are inserted in the program/ business logic to control how the methods below are to be run. The test methods doesn’t need to … TestNG supports many annotations and the philosophy behind using annotations is to bring the Test methods closer to any normal java method. Using annotations makes code easier to read, understand, and they also allow test cases to be grouped for efficiency. How to use TestNG with Selenium? @Test: Marks a class or a method as a part of the test. TestNG Annotations and Execution sequence and Order of execution in TestNG without using priority and Execution Order of TestNG Annotations and Execution Sequence of Annotations in TestNG Example of annotations sequence. In TestNG, we can use the following annotations to do the configuration for your test class, like setup / clean a database, preparing the dummy data, deploy / shut down the server and etc. You could practically use them to execute a set of code for setting up variables or for cleaning up configurations after the execution of tests in a project. TestNG Annotations: In this post, we see the list of TestNG Annotations. ";s:7:"keyword";s:37:"testng annotations order with example";s:5:"links";s:8379:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wood-and-leather-dining-chair'>Wood And Leather Dining Chair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chicken-tikka-masala-gravy-recipe'>Chicken Tikka Masala Gravy Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=whole-duck-meat-near-me'>Whole Duck Meat Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=south-indian-menu-card-pdf'>South Indian Menu Card Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=deloitte-touche-tohmatsu-new-zealand'>Deloitte Touche Tohmatsu New Zealand</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-cook-pasta-with-vegetables'>How To Cook Pasta With Vegetables</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-much-does-it-cost-to-fix-a-freon-leak-in-a-refrigerator'>How Much Does It Cost To Fix A Freon Leak In A Refrigerator</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wedding-chairs-for-bride-and-groom'>Wedding Chairs For Bride And Groom</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=international-swimming-pool-and-spa-code-section-609'>International Swimming Pool And Spa Code Section 609</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hitachi-refrigerator-with-water-dispenser'>Hitachi Refrigerator With Water Dispenser</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=great-british-bake-off-elimination'>Great British Bake Off Elimination</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mountain-high-resort-24510-ca-2-wrightwood-ca-92397'>Mountain High Resort 24510 Ca 2 Wrightwood Ca 92397</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=noah-webster-1828-dictionary-free-download'>Noah Webster 1828 Dictionary Free Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=why-is-synthetic-rubber-preferred-to-natural-rubber'>Why Is Synthetic Rubber Preferred To Natural Rubber</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-propagate-english-ivy'>How To Propagate English Ivy</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=urban-dictionary-unblocked-at-school'>Urban Dictionary Unblocked At School</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=population-of-medicine-hat-2018'>Population Of Medicine Hat 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=Path-in-the-Wheat-at-Pourville'>Path In The Wheat At Pourville</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=healthy-eating-early-years-activities'>Healthy Eating Early Years Activities</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=tom-hughes-and-jenna-coleman'>Tom Hughes And Jenna Coleman</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=potato-salad-with-bacon-and-cheese'>Potato Salad With Bacon And Cheese</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lean-to-utility-room-ideas'>Lean To Utility Room Ideas</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-breakfast-saigon-district-1'>Best Breakfast Saigon District 1</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=genuine-leather-recliner-with-ottoman'>Genuine Leather Recliner With Ottoman</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=when-was-sitting-down-invented'>When Was Sitting Down Invented</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=italian-restaurants-in-richmond-hill'>Italian Restaurants In Richmond Hill</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=snap-on-pressure-washer-gun'>Snap On Pressure Washer Gun</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-edinburgh-ranking-computer-science'>University Of Edinburgh Ranking Computer Science</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=courtyard-marriott-edinburgh-phone-number'>Courtyard Marriott Edinburgh Phone Number</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=2-door-wardrobe-with-mirror-ikea'>2 Door Wardrobe With Mirror Ikea</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=easy-chocolate-desserts-to-impress'>Easy Chocolate Desserts To Impress</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=beautiful-flowers-videos-hd-download'>Beautiful Flowers Videos Hd Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philips-55-inch-smart-tv-price'>Philips 55 Inch Smart Tv Price</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-cut-zinnias-off-plant'>How To Cut Zinnias Off Plant</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=types-of-linen-and-their-uses'>Types Of Linen And Their Uses</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=clopay-garage-doors-home-depot'>Clopay Garage Doors Home Depot</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ikea-hemnes-cabinet-with-2-doors'>Ikea Hemnes Cabinet With 2 Doors</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=eggs-in-a-basket-sandwich'>Eggs In A Basket Sandwich</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=The-Story-of-My-Life'>The Story Of My Life</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=are-you-the-one-season-8-watch-online'>Are You The One Season 8 Watch Online</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=friends-season-1-episode-5'>Friends Season 1 Episode 5</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=liberty-furniture-morgan-creek-console-table-with-stools'>Liberty Furniture Morgan Creek Console Table With Stools</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=molten-chocolate-cake-near-me'>Molten Chocolate Cake Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=master-bedroom-with-bathroom-and-walk-in-closet-floor-plans'>Master Bedroom With Bathroom And Walk In Closet Floor Plans</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=locking-storage-cabinet-living-room'>Locking Storage Cabinet Living Room</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cm-to-feet-and-inches'>Cm To Feet And Inches</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philips-hue-light-strip-plus'>Philips Hue Light Strip Plus</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cute-desk-chairs-with-wheels'>Cute Desk Chairs With Wheels</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=continental-breakfast-ideas-for-100'>Continental Breakfast Ideas For 100</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=squaw-valley-new-years-eve-2019'>Squaw Valley New Years Eve 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=karcher-pressure-washer-parts-diagram'>Karcher Pressure Washer Parts Diagram</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=samsung-wobble-washing-machine-10kg'>Samsung Wobble Washing Machine 10kg</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-lucky-bamboo-toxic-to-cats'>Is Lucky Bamboo Toxic To Cats</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=difference-between-son-of-man-and-son-of-god'>Difference Between Son Of Man And Son Of God</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=m22-threaded-trigger-gun-for-gas-and-electric-pressure-washers'>M22 Threaded Trigger Gun For Gas And Electric Pressure Washers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chicken-dum-biryani-recipe-in-hindi'>Chicken Dum Biryani Recipe In Hindi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-toronto-engineering-ranking'>University Of Toronto Engineering Ranking</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bed-bath-and-beyond-registry-gifts'>Bed Bath And Beyond Registry Gifts</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=king-size-bed-with-storage-underneath'>King Size Bed With Storage Underneath</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-power-of-punctuation-editing-exercise'>The Power Of Punctuation Editing Exercise</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kids-party-ideas-for-boys'>Kids Party Ideas For Boys</a>,
+";s:7:"expired";i:-1;}

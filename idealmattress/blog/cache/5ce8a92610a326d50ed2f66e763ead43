@@ -1,0 +1,254 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2396:"This setting is called Fields and Furrows. For this quilt I had predetermined the layout - a traditional Log Cabin Quilt layout called Fields and Furrows; diagonal lines created by the use of light and dark fabric (which look like the rows in a freshly plowed field), and so I set out to make Log Cabin Blocks with light/solid and dark/printed fabric. Be creative and play around!. Honey Buns. Log Cabin – Field and Furrows An interesting variation on a Log Cabin quilt pattern! The blocks are oriented so that the lights and darks are always in contact with themselves, creating a diagonal across the quilt top reminiscent of furrows in a freshly plowed field (most of these traditional quilts were developed in rural and agricultural communities, after all). Vortex. Fields and Furrows ~ Log Cabin Quilt Quilt measures 48 inches x 48 inches. I’m sure no self-respecting farmer would want furrows that look like this. Log Cabin Straight Setting This is a simple layout, with all the blocks oriented in the same direction, but surprisingly elegant.  By taking one honey bun you are able to make 21 Log Cabin Blocks. This large log cabin quilt in Fields and Furrows style was bought by the donor in the early 1990s at Dolgellau cattle market in North Wales for about £52.00. There are lots of different ways to arrange Log Cabin blocks into a quilt. Log Cabin Straight Furrows Fabrics Pattern originated in England and was created to emulate rows of crops in the field. She took it to the quilt documentation day organised by The Quilters’ Guild as part of the British Heritage Quilt project at Shrewsbury in the mid 1990s. Jenny shows us how easy the Log Cabin Quilt Block is using honey bun or jelly roll strips. Each Log Cabin pattern offers a unique look quite different from all the others. Many of the traditional log cabin quilt layouts look totally different with this block. In America we have used and developed this … The colorful “logs” in our Log Cabin Barn Raising quilt are made of a mix of traditional calico fabric in shades of blue with pops pink, yellow and green. Jelly Rolls. With a traditional log cabin block, this layout would be called field and furrows or straight furrows. Bad Farmer. And a picture post. Also great for stair step pattern, fields and furrows, bow tie, and more!! Here are five of the most popular patterns for basic Log Cabin quilt blocks. ";s:7:"keyword";s:34:"fields and furrows log cabin quilt";s:5:"links";s:10000:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=search-girl-name-by-meaning'>Search Girl Name By Meaning</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=whistler-bike-park-a-line'>Whistler Bike Park A Line</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chilli-chicken-gravy-recipe-malayalam'>Chilli Chicken Gravy Recipe Malayalam</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-that-lunch-meme-anime'>Is That Lunch Meme Anime</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=boy-scouts-of-america-name-change'>Boy Scouts Of America Name Change</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=williams-sonoma-india-pvt-ltd'>Williams Sonoma India Pvt Ltd</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-haunting-of-molly-hartley-the-final'>The Haunting Of Molly Hartley The Final</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=high-back-swivel-vanity-stool'>High Back Swivel Vanity Stool</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ikea-glider-chair-and-ottoman'>Ikea Glider Chair And Ottoman</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=great-taste-of-the-midwest-attendance'>Great Taste Of The Midwest Attendance</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sofa-upholstery-fabric-manufacturers-in-india'>Sofa Upholstery Fabric Manufacturers In India</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-are-shadows-formed-powerpoint'>How Are Shadows Formed Powerpoint</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mats-to-put-under-swimming-pool'>Mats To Put Under Swimming Pool</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-to-buy-kabocha-squash'>Where To Buy Kabocha Squash</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=scottish-borders-points-of-interest'>Scottish Borders Points Of Interest</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=roommates-white-brick-peel-and-stick-wallpaper'>Roommates White Brick Peel And Stick Wallpaper</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-ice-cream-parlour-near-me'>Best Ice Cream Parlour Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=high-pressure-car-washer-for-service-station'>High Pressure Car Washer For Service Station</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=girl-names-starting-with-po'>Girl Names Starting With Po</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-grow-garlic-in-a-plastic-bottle'>How To Grow Garlic In A Plastic Bottle</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ryobi-2300-electric-pressure-washer'>Ryobi 2300 Electric Pressure Washer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=2x4-drop-ceiling-light-fixtures'>2x4 Drop Ceiling Light Fixtures</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chocolate-panna-cotta-recipe-uk'>Chocolate Panna Cotta Recipe Uk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=solid-green-spider-plant-care'>Solid Green Spider Plant Care</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-pretoria-courses-and-requirements'>University Of Pretoria Courses And Requirements</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rio-beach-hi-boy-high-seat-17-folding-beach-chair-with-canopy'>Rio Beach Hi Boy High Seat 17 Folding Beach Chair With Canopy</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=diners-drive-ins-and-dives-fish-tacos'>Diners Drive Ins And Dives Fish Tacos</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=home-cooking-hema-subramanian-wiki'>Home Cooking Hema Subramanian Wiki</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-choose-an-accent-wall-in-living-room'>How To Choose An Accent Wall In Living Room</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=project-62-customer-service-phone-number'>Project 62 Customer Service Phone Number</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=200-years-of-alabama-agriculture-facts'>200 Years Of Alabama Agriculture Facts</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=baked-bbq-chicken-legs-in-glass-dish'>Baked Bbq Chicken Legs In Glass Dish</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=175-watt-metal-halide-bulb'>175 Watt Metal Halide Bulb</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-lovers-on-the-bridge-quotes'>The Lovers On The Bridge Quotes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=diners-drive-ins-and-dives-season-30-episode-10'>Diners Drive Ins And Dives Season 30 Episode 10</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=washing-machine-exchange-offer-dubai'>Washing Machine Exchange Offer Dubai</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=72-round-dining-table-with-lazy-susan'>72 Round Dining Table With Lazy Susan</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=most-visited-places-in-the-world-2019'>Most Visited Places In The World 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lighting-shop-in-ang-mo-kio'>Lighting Shop In Ang Mo Kio</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=vintage-room-ideas-for-teenage'>Vintage Room Ideas For Teenage</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=list-of-marketing-awards-2018'>List Of Marketing Awards 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lg-ice-maker-parts-diagram'>Lg Ice Maker Parts Diagram</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-indian-restaurant-in-san-jose'>Best Indian Restaurant In San Jose</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=10x10-l-shaped-kitchen-designs'>10x10 L Shaped Kitchen Designs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-pronounce-solanum-tuberosum'>How To Pronounce Solanum Tuberosum</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=good-and-cheap-cookbook-pdf'>Good And Cheap Cookbook Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=edina-realty-rochester-mn-townhomes'>Edina Realty Rochester Mn Townhomes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-duck-meat-red-meat'>Is Duck Meat Red Meat</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=home-decor-companies-in-bangalore'>Home Decor Companies In Bangalore</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=teak-wood-dining-table-8-seater'>Teak Wood Dining Table 8 Seater</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=carrot-juice-benefits-for-cancer'>Carrot Juice Benefits For Cancer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=have-ikea-bed-sizes-changed'>Have Ikea Bed Sizes Changed</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=in-the-shadow-of-the-moon-imdb'>In The Shadow Of The Moon Imdb</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=brown-university-computer-science-ranking'>Brown University Computer Science Ranking</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=used-windows-for-sale-ontario'>Used Windows For Sale Ontario</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kinds-of-curtains-with-pictures'>Kinds Of Curtains With Pictures</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-cook-lettuce-indian-style'>How To Cook Lettuce Indian Style</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=jaquar-bathroom-fittings-catalogue-with-price-list-2018-pdf-india'>Jaquar Bathroom Fittings Catalogue With Price List 2018 Pdf India</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-do-landscaping-on-your-own'>How To Do Landscaping On Your Own</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chicken-carrots-green-beans-recipe'>Chicken Carrots Green Beans Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-east-london-mba'>University Of East London Mba</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=udupi-upma-recipe-in-malayalam'>Udupi Upma Recipe In Malayalam</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-remove-gamey-taste-from-meat'>How To Remove Gamey Taste From Meat</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=things-to-do-in-breckenridge-this-week'>Things To Do In Breckenridge This Week</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=300-sq-ft-apartment-for-rent'>300 Sq Ft Apartment For Rent</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=close-my-eyes-movie-download-300mb'>Close My Eyes Movie Download 300mb</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=coffee-shops-near-me-with-free-wifi'>Coffee Shops Near Me With Free Wifi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wipro-led-bulb-service-center-near-me'>Wipro Led Bulb Service Center Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-is-your-place-meaning-in-malayalam'>Where Is Your Place Meaning In Malayalam</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=flight-behavior-chapter-12-summary'>Flight Behavior Chapter 12 Summary</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=godrej-4-door-steel-almirah-price-list'>Godrej 4 Door Steel Almirah Price List</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=honey-cornbread-ice-cream-cold-stone'>Honey Cornbread Ice Cream Cold Stone</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pork-stir-fry-sauce-recipe-easy'>Pork Stir Fry Sauce Recipe Easy</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=macy-promo-code-jan-2019'>Macy Promo Code Jan 2019</a>,
+";s:7:"expired";i:-1;}

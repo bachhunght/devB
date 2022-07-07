@@ -1,0 +1,207 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2842:"A student must complete at least 30 credit hours in General Education to receive a BSIT degree. What You’ll Learn. Bachelor of Science (Hons) Information TechnologyAwarded by: Teesside University, UK. Bachelor of Science in Information Technology(BSC-IT) School of Science & ICT. The Bachelor of Science in Information Technology degree program is designed to provide students with the knowledge and skills needed to critically plan, develop, implement, and manage information technology solutions in organizations to meet the needs of users, while understanding the importance of critical thinking, teamwork, and problem-solving. The program is for you if: You are interested in a program that responds to emerging trends in the next generation of information technologies. Bachelor of Science: Information Technology Degree Overview. Individuals wishing to enroll in the Bachelor of Science in Information Technology degree must apply and be admitted to the University. Oct 21, 2019 In Bachelor of Science (BS) programs in information technology (IT), … Enquire More Apply Now. Note.  Through our Bachelor of Science in Information Technology, you’ll learn the specialized skills required to navigate networking, data management, software development and cybersecurity. In support of the university’s mission, the Bachelor of Science in Information Technology (BSIT) program in the Forbes School of Business & Technology™ develops IT professionals through experienced faculty who design and deliver a current, relevant, and real-world curriculum. Bachelor of Science in Information Technology BS IT-EC (Enterprise Computing) BSIT - Bachelor of Science in Information Technology program will provide students with knowhow to develop reliable, scalable and secure enterprise systems. If the world of IT is calling your name, enrol now for a Bachelor of Science in Information Technology. Domestic applicants apply for the Bachelor of Science in Information Technology Diploma in Information Technology Professional Practice (), which includes an industry training year and provides comprehensive preparation for a career in information technology. Accelerated Master of Science in Information Technology Option. You’ll take just one 5-week course at a time, so you can balance work and life on the path to your degree. HomeProgrammesTechnology Bachelor of Science (Hons) Information Technology. A Bachelor of Information Technology (abbreviations BIT, BInfTech, B.Tech (IT) or BE (IT)) is an undergraduate academic degree that generally requires three to five years of study. All admission materials must be submitted directly to the admissions office (with exception of transcripts) by the application deadline (if applicable). Concordia’s IT program is designed for creative problem-solvers who can leverage technology to … ";s:7:"keyword";s:45:"bachelor of science in information technology";s:5:"links";s:3561:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=black-and-white-architecture-drawings'>Black And White Architecture Drawings</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=crate-and-barrel-windsor-chair'>Crate And Barrel Windsor Chair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-pronounce-clare-smyth'>How To Pronounce Clare Smyth</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-black-pepper-a-nightshade'>Is Black Pepper A Nightshade</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=folding-patio-set-with-umbrella'>Folding Patio Set With Umbrella</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=largest-restaurant-chains-in-usa'>Largest Restaurant Chains In Usa</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=north-lake-tahoe-things-to-do'>North Lake Tahoe Things To Do</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=target-christmas-clearance-markdown-schedule'>Target Christmas Clearance Markdown Schedule</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=environmental-scientists-and-specialists-jobs'>Environmental Scientists And Specialists Jobs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=national-society-of-black-engineers-scholarship'>National Society Of Black Engineers Scholarship</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-far-is-steamboat-springs-from-fort-collins'>How Far Is Steamboat Springs From Fort Collins</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=land-of-leather-corner-sofas'>Land Of Leather Corner Sofas</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-ikea-coming-to-chennai'>Is Ikea Coming To Chennai</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lazy-boy-club-chair-recliner'>Lazy Boy Club Chair Recliner</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=stylish-living-room-ideas-modern-mix'>Stylish Living Room Ideas Modern Mix</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=13-reasons-why-season-3-episode-1'>13 Reasons Why Season 3 Episode 1</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=master-of-fine-arts-eligibility'>Master Of Fine Arts Eligibility</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=iphone-xr-price-in-malaysia-switch'>Iphone Xr Price In Malaysia Switch</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=country-kitchen-chair-cushions-with-ties'>Country Kitchen Chair Cushions With Ties</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-to-buy-kohler-parts'>Where To Buy Kohler Parts</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=colors-that-go-with-charcoal-gray'>Colors That Go With Charcoal Gray</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=study-table-for-sale-in-dubai'>Study Table For Sale In Dubai</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-is-a-high-volume-restaurant'>What Is A High Volume Restaurant</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=parts-of-a-desk-drawer'>Parts Of A Desk Drawer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=eggs-in-a-basket-sandwich'>Eggs In A Basket Sandwich</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=problems-with-buying-local-food'>Problems With Buying Local Food</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mac-and-cheese-beer-pairing'>Mac And Cheese Beer Pairing</a>,
+";s:7:"expired";i:-1;}

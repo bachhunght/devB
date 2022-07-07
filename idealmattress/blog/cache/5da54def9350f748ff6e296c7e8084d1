@@ -1,0 +1,212 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3731:"By occupation the key data recorded by 2011 Census were 64,698 Business Brokers, Property Managers, Principals, Real Estate Agents and Representatives. ABS’ publication Counts of Australian Businesses, including Entries and Exits, Jun 2009 to Jun 2013 recorded 35,019 real estate services businesses as at June 2013. Looking for real estate agents or brokers? Brokers and agents are licensed by the state to negotiate sales agreements and manage the documentation required for closing real estate transactions. Number of Agents. Over 2 Million List of Real Estate Agents and Realtors by State with Direct Business Emails, Phone, Fax, Contact Name etc. U.S. News analyzed millions of home sales to identify the top performing agents and Realtors® near you. RE/MAX is Canada's #1 Real Estate Brand. This can be helpful when setting buying expectations, finding the right property, and negotiating the right price for a home. The MLS® mark and associated logos identify professional services rendered by REALTOR® members of CREA to effect the purchase, sale and lease of real estate as part of a cooperative selling system. Search & Find a real estate agent near me. Browse the directory of real estate professionals at realtor.com(R). By occupation the key data recorded by 2011 Census were 64,698 Business Brokers, Property Managers, Principals, Real Estate Agents and Representatives. 5. Buy or sell your property with a RE/MAX real estate agent. Visit this page to find an Agent. In almost every state, a real estate agent must work for or be affiliated with a real estate broker (an individual or a brokerage firm), who is more experienced and licensed to a higher degree. Real estate statistics give buyers and agents data-based insight into the constantly shifting housing market. Residential real estate. 3. Your RE/MAX agent is a trained professional with deep knowledge of the housing market. Residential real estate may contain either a single family or multifamily structure that is available for occupation or for non-business purposes. Find the Best Real Estate Agent for You. Since 2000, the number of real estate agents in Florida has nearly tripled from 67,000 to more than 180,000. Residences can be classified by and how they are connected to neighbouring residences and land. Real estate brokers & sales agents are most often employed by the Lessors of real estate, and offices of real estate agents and brokers industry. Best Real Estate Agents in Guelph, ON - Kelly Caldwell, Adam Stewart-Guelph Real Estate, GoWylde Team, Glenda Moase Guelph, Beth And Ryan Waller Home Group Realty, Anita Orosz - RE/MAX Real Estate Centre, Angela Crawford - Coldwell Banker Neumann Real Estate, Michael Ireland - Coldwell Banker Neumann Real Estate, The Gia Team Guelph Real Estate Agents, Trudy Dickinson - Royal … For the most accurate look at the current real estate … With realestate.com.au you can search and compare all of the real estate agents in your area and discover the right one for you. ABS’ publication Counts of Australian Businesses, including Entries and Exits, Jun 2009 to Jun 2013 recorded 35,019 real estate services businesses as at June 2013. 2. 6. Looking to sell your home? 4. Answer Wiki. Tips on how to find the best real estate brokers, agents and agencies in Vaughan ON. We offer you a variety of ways to find a real estate agent in your area!In fact, we have been connecting homebuyers, home sellers, and renters with real estate professionals since 2003, when we became widely known and recognized as The Official Real Estate Agent Directory®. Different types of housing tenure can be used for the same physical type. The median age for real estate agents in the United States is 54. ";s:7:"keyword";s:37:"number of real estate agents by state";s:5:"links";s:4414:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=health-benefits-of-roasted-peanuts'>Health Benefits Of Roasted Peanuts</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=full-size-mattress-and-box-spring-costco'>Full Size Mattress And Box Spring Costco</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=antique-gift-shop-in-bangalore'>Antique Gift Shop In Bangalore</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=second-battle-of-bull-run-documentary'>Second Battle Of Bull Run Documentary</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=eurovision-2020-semi-final-draw'>Eurovision 2020 Semi Final Draw</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=june-lake-weather-15-day-forecast'>June Lake Weather 15 Day Forecast</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mahindra-mounted-combine-harvester-arjun-605-price'>Mahindra Mounted Combine Harvester Arjun 605 Price</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=portes-du-soleil-summer-lift-pass'>Portes Du Soleil Summer Lift Pass</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-secret-garden-movie-2019'>The Secret Garden Movie 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=strawberry-shortcake-berry-bitty-adventures-season-5'>Strawberry Shortcake Berry Bitty Adventures Season 5</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-western-ontario-agriculture'>University Of Western Ontario Agriculture</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=The-Thorn-in-the-Heart'>The Thorn In The Heart</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=modern-kitchen-designs-photo-gallery'>Modern Kitchen Designs Photo Gallery</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=tignes-lift-pass-prices-2019'>Tignes Lift Pass Prices 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=list-of-food-youtube-channels-in-india'>List Of Food Youtube Channels In India</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=roasted-broccoli-and-cauliflower-with-parmesan'>Roasted Broccoli And Cauliflower With Parmesan</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=can-i-put-vinegar-in-my-steam-mop'>Can I Put Vinegar In My Steam Mop</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=paula-deen-chicken-fried-steak'>Paula Deen Chicken Fried Steak</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-morning-show-season-1'>The Morning Show Season 1</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=accent-color-for-gray-and-white-bathroom'>Accent Color For Gray And White Bathroom</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=james-badge-dale-movies-and-tv-shows'>James Badge Dale Movies And Tv Shows</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=karcher-pressure-washer-problems-electric'>Karcher Pressure Washer Problems Electric</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bainbridge-fabric-chaise-lounge-amazon'>Bainbridge Fabric Chaise Lounge Amazon</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=storage-cabinets-with-doors-and-shelves-ikea'>Storage Cabinets With Doors And Shelves Ikea</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=star-wars-mystery-box-target'>Star Wars Mystery Box Target</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=iphone-xr-price-in-malaysia-switch'>Iphone Xr Price In Malaysia Switch</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=when-trumpets-fade-historical-accuracy'>When Trumpets Fade Historical Accuracy</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rubbermaid-slim-jim-23-gallon-blue'>Rubbermaid Slim Jim 23 Gallon Blue</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=zillow-rental-manager-vs-cozy'>Zillow Rental Manager Vs Cozy</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=zabiha-halal-food-near-me'>Zabiha Halal Food Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-great-american-baking-show-season-4-episode-2'>The Great American Baking Show Season 4 Episode 2</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=peas-and-dumplings-with-bisquick'>Peas And Dumplings With Bisquick</a>,
+";s:7:"expired";i:-1;}

@@ -1,0 +1,222 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4605:"If your pool pump is having trouble priming or you're getting air bubbles coming through your returns then this video is for you. Excess air in your pool’s pump and filter is much more than just a nuisance. Why This Happens 2. To keep air bubbles out … Bubbles streaming out of your return could be a result of low water levels in the skimmer. This … The pump is sucking in air. Fairly new pool user. Could it be sucking in air from somewhere? The pump should normally run "air free", that is without air running through the system. It’s a common problem (especially when you open your pool in the spring). What would cause bubbles to continuously flow from the return jets of an in ground pool if you have released air from filter unit? Pool filter pumps are designed to suck in pool water on the suction side and push out filtered pool water on the return side. Air Bubbles in Pool? In pool pump suction side leaks, air and … Air bubbles in swimming pools due to air leaks in swimming pool filtration systems are a mechanical repair issue. A leak that reduces the effectiveness of your pool pump, and makes maintaining consistent water pressure a challenge. Removing air from a pool line involves priming the system with water to enable the pump to push the air out. Reply ... One of the exhaust lines in the pool was shooting out small bubbles. Approximately 8,000 Gallons, Chlorine In-Ground Pool. The other outlets produce no air bubbles. In a standard swimming pool setup the pump pulls the water from the pool and pushes it through the filter and then it will return to the pool or other secondary pumps might push it to a pressure cleaner or through a solar system. If there is only one return pipe, and the chlorinator bubbles are coming from the pipe, I think it could indicates a broken pipe, like the other poster stated. Pool Pumps - Sucking In Air. Air bubbles from one return only. I have some small air bubbles coming out of two of the three jets in my pool (the fourth is a pool cleaner bot and i don't see any bubbles from him). So I have an in ground pool and spa with an overflow waterfall. Pump sucking air or filter blowing bubbles? I have isolated my skimmers, then i have isolated the pool drain.still no pressure and air bubbles are present in the pool return… Not losing any water either. If you notice air bubbles coming out of the pool returns, there may be a problem. My 24′ above ground pool is about 20 years old but usually runs pretty good. Thanks for the reply JohnT, I have main drain and a skimmer, which are controlled by a ball valve in my pool house. Let’s solve this air bubble issue with a few troubleshooting tips. Eliminating Bubbles. If you get to the stage where you think that's all it must be, you could try something radical like: 1: dig up the dirt near the return and see if it's wet. It is the symptom of a problem – one that could be a minor or major fix. There are air bubbles coming out of one of my pool's return outlets. That is an indication you have a leak in your plumbing. Check to see that your pump basket and filter are closed properly. We just reopened the pool this last week, and everything seems to be functioning correctly, but I've noticed that one of the two pool return lines has a light amount of air bubbles coming out. Do you have air bubbles shooting into your pool through your return jets? A pool pump suction side leak means that air is being sucked into the pool-to-pump water lines, usually near the pump itself. (The only situation in which air bubbles are normal would be in a spa or in a pool where there is an ozonator.) I added too much algaecide I believe, and now the filter PSI fluctuates and large bubbles come out of that exhaust line now and then. When running the spa, I no longer consistently get bubbles out of the jets. Air bubbles are coming from the pool return in pool mode. There's obviously an air leak but why doesn't it show up with air bubbles coming out of the other returns? Left unaddressed it will cause other problems as well, and those problems could have minor or major impact. Why Do I Keep Getting Bubbles In My Jets? That’s because air bubbles signify a leak in your pool system. I have no pressure at my Hayward Pro Grid DE filter. Eliminate air bubbles caused by air leaks in pool filter pumps and water return lines by checking all fittings and filter pump lid seals. In addition, if you have air bubbles in your swimming pool, you need to check the pool's filter pump housing drain plugs. Excess air in your pool’s pump and filter is much more than just a nuisance. ";s:7:"keyword";s:35:"air bubbles in only one pool return";s:5:"links";s:5738:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=new-restaurants-coming-to-owensboro-ky'>New Restaurants Coming To Owensboro Ky</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mike-the-tiger-lsu-location'>Mike The Tiger Lsu Location</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=big-cook-little-cook-recipe-cards'>Big Cook Little Cook Recipe Cards</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-telemark-skiing-bad-for-knees'>Is Telemark Skiing Bad For Knees</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=family-pictures-wall-decor-ideas'>Family Pictures Wall Decor Ideas</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=old-doors-for-sale-cheap-near-me'>Old Doors For Sale Cheap Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wall-art-for-living-room-ideas'>Wall Art For Living Room Ideas</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-many-lumens-in-a-8-foot-fluorescent-bulb'>How Many Lumens In A 8 Foot Fluorescent Bulb</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=al-hadheerah-restaurant-dress-code'>Al Hadheerah Restaurant Dress Code</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=money-plant-propagation-in-water'>Money Plant Propagation In Water</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=powell-boone-sofa-bed-brown'>Powell Boone Sofa Bed Brown</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hom-furniture-card-synchrony-bank'>Hom Furniture Card Synchrony Bank</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=red-wine-sauce-for-duck-gordon-ramsay'>Red Wine Sauce For Duck Gordon Ramsay</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dresser-with-built-in-desk'>Dresser With Built In Desk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-brasserie-st-regis-kl-dinner-menu'>The Brasserie St Regis Kl Dinner Menu</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-many-beets-should-i-eat-a-day'>How Many Beets Should I Eat A Day</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=j2ee-tutorial-for-beginners-javatpoint'>J2ee Tutorial For Beginners Javatpoint</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=build-real-estate-and-property-awards'>Build Real Estate And Property Awards</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=harvard-university-mascot-crimson-xviii'>Harvard University Mascot Crimson Xviii</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-legend-of-tarzan-2'>The Legend Of Tarzan 2</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=are-incandescent-light-bulbs-coming-back'>Are Incandescent Light Bulbs Coming Back</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philips-hue-light-strip-replacement-adhesive'>Philips Hue Light Strip Replacement Adhesive</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sur-la-table-classes-ridge-hill'>Sur La Table Classes Ridge Hill</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-pancakes-without-baking-powder-and-eggs'>How To Make Pancakes Without Baking Powder And Eggs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-walmart-good-for-america'>Is Walmart Good For America</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=winged-victory-of-samothrace-replica'>Winged Victory Of Samothrace Replica</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=under-armour-womens-shoes-clearance'>Under Armour Womens Shoes Clearance</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=friends-season-1-episode-5'>Friends Season 1 Episode 5</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=black-and-white-canvas-art-amazon'>Black And White Canvas Art Amazon</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=acacia-wood-outdoor-side-table'>Acacia Wood Outdoor Side Table</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-truth-about-open-door'>The Truth About Open Door</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cincinnati-bearcats-football-preview-2019'>Cincinnati Bearcats Football Preview 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=butter-chicken-recipe-jamie-oliver'>Butter Chicken Recipe Jamie Oliver</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=charities-percentage-of-donation-that-goes-to-charity'>Charities Percentage Of Donation That Goes To Charity</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sarah-j-maas-throne-of-glass'>Sarah J Maas Throne Of Glass</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=stinging-nettle-root-vs-leaf'>Stinging Nettle Root Vs Leaf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=landscape-architecture-salary-per-month'>Landscape Architecture Salary Per Month</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=common-or-garden-crossword-clue'>Common Or Garden Crossword Clue</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=classic-cross-country-skiing-olympics'>Classic Cross Country Skiing Olympics</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=creamy-potato-salad-with-sour-cream'>Creamy Potato Salad With Sour Cream</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=object-oriented-programming-python-for-beginners'>Object Oriented Programming Python For Beginners</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=houses-for-rent-in-roseburg-oregon-pet-friendly'>Houses For Rent In Roseburg Oregon Pet Friendly</a>,
+";s:7:"expired";i:-1;}

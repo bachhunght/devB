@@ -1,0 +1,86 @@
+[Mon, 08 May 2017 12:58:26 +0000] [/wp-admin/admin.php?page=w3tc_general&w3tc_message=59106b71bc9f9] [http://idealmattress.com.au/wp-admin/admin.php?page=w3tc_general] skip processing because of generic constant
+[Mon, 08 May 2017 12:58:28 +0000] [/wp-content/cache/minify/1200407370w3tc_rewrite_test.css] [http://idealmattress.com.au/wp-content/cache/minify/1200407370w3tc_rewrite_test.css] start, can_cache: false
+[Mon, 08 May 2017 12:58:28 +0000] [/wp-admin/admin-ajax.php] [http://idealmattress.com.au/wp-admin/edit.php?post_type=page] skip processing because of generic constant
+[Mon, 08 May 2017 12:58:31 +0000] [/w3tc_rewrite_test1187680350] [http://idealmattress.com.au/w3tc_rewrite_test1187680350] start, can_cache: false
+[Mon, 08 May 2017 12:58:38 +0000] [/wp-admin/admin.php?page=w3tc_dashboard] [http://idealmattress.com.au/wp-admin/admin.php?page=w3tc_general&w3tc_message=59106b71bc9f9] skip processing because of generic constant
+[Mon, 08 May 2017 12:58:40 +0000] [/wp-cron.php?doing_wp_cron=1494248320.3481469154357910156250] [http://idealmattress.com.au/wp-cron.php?doing_wp_cron=1494248320.3481469154357910156250] skip processing because of generic constant
+[Mon, 08 May 2017 12:58:42 +0000] [/wp-content/cache/minify/2000910778w3tc_rewrite_test.css] [http://idealmattress.com.au/wp-content/cache/minify/2000910778w3tc_rewrite_test.css] start, can_cache: false
+[Mon, 08 May 2017 12:58:43 +0000] [/w3tc_rewrite_test88535539] [http://idealmattress.com.au/w3tc_rewrite_test88535539] start, can_cache: false
+[Mon, 08 May 2017 12:58:49 +0000] [/wp-admin/admin-ajax.php?action=w3tc_ajax&_wpnonce=22ba13b78c&w3tc_action=pagespeed_widgetdata] [http://idealmattress.com.au/wp-admin/admin.php?page=w3tc_dashboard] skip processing because of generic constant
+[Mon, 08 May 2017 12:58:49 +0000] [/wp-admin/admin-ajax.php?action=w3tc_ajax&_wpnonce=22ba13b78c&w3tc_action=newrelic_widgetdata_basic] [http://idealmattress.com.au/wp-admin/admin.php?page=w3tc_dashboard] skip processing because of generic constant
+[Mon, 08 May 2017 12:58:54 +0000] [/wp-admin/admin.php?page=w3tc_dashboard] [http://idealmattress.com.au/wp-admin/admin.php?page=w3tc_dashboard] skip processing because of generic constant
+[Mon, 08 May 2017 12:58:57 +0000] [/wp-admin/admin.php?page=w3tc_dashboard&w3tc_note=flush_all] [http://idealmattress.com.au/wp-admin/admin.php?page=w3tc_dashboard] skip processing because of generic constant
+[Mon, 08 May 2017 12:59:02 +0000] [/wp-content/cache/minify/514897286w3tc_rewrite_test.css] [http://idealmattress.com.au/wp-content/cache/minify/514897286w3tc_rewrite_test.css] start, can_cache: false
+[Mon, 08 May 2017 12:59:03 +0000] [/w3tc_rewrite_test1054317432] [http://idealmattress.com.au/w3tc_rewrite_test1054317432] start, can_cache: false
+[Mon, 08 May 2017 12:59:05 +0000] [/wp-admin/admin-ajax.php?action=w3tc_ajax&_wpnonce=22ba13b78c&w3tc_action=pagespeed_widgetdata] [http://idealmattress.com.au/wp-admin/admin.php?page=w3tc_dashboard&w3tc_note=flush_all] skip processing because of generic constant
+[Mon, 08 May 2017 12:59:05 +0000] [/wp-admin/admin-ajax.php?action=w3tc_ajax&_wpnonce=22ba13b78c&w3tc_action=newrelic_widgetdata_basic] [http://idealmattress.com.au/wp-admin/admin.php?page=w3tc_dashboard&w3tc_note=flush_all] skip processing because of generic constant
+[Mon, 08 May 2017 12:59:08 +0000] [/wp-cron.php?doing_wp_cron=1494248348.6259169578552246093750] [http://idealmattress.com.au/wp-cron.php?doing_wp_cron=1494248348.6259169578552246093750] skip processing because of generic constant
+[Mon, 08 May 2017 12:59:11 +0000] [/wp-admin/admin.php?page=w3tc_cdn] [http://idealmattress.com.au/wp-admin/admin.php?page=w3tc_dashboard&w3tc_note=flush_all] skip processing because of generic constant
+[Mon, 08 May 2017 12:59:13 +0000] [/wp-content/cache/minify/1859488374w3tc_rewrite_test.css] [http://idealmattress.com.au/wp-content/cache/minify/1859488374w3tc_rewrite_test.css] start, can_cache: false
+[Mon, 08 May 2017 12:59:15 +0000] [/w3tc_rewrite_test1063434801] [http://idealmattress.com.au/w3tc_rewrite_test1063434801] start, can_cache: false
+[Mon, 08 May 2017 12:59:30 +0000] [/] [-] start, can_cache: true
+[Mon, 08 May 2017 12:59:30 +0000] [/] [-] no cache entry for idealmattress.com.au/_index.html
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] storing cached page: true original  true reason 
+[Mon, 08 May 2017 12:59:38 +0000] [/wp-content/cache/minify/eff97.js] [http://idealmattress.com.au/] start, can_cache: true
+[Mon, 08 May 2017 12:59:38 +0000] [/wp-content/cache/minify/d5cc3.js] [http://idealmattress.com.au/] start, can_cache: true
+[Mon, 08 May 2017 12:59:39 +0000] [/wp-content/cache/minify/c82e1.js] [http://idealmattress.com.au/] start, can_cache: true
+[Mon, 08 May 2017 12:59:39 +0000] [/wp-content/cache/minify/01b8b.js] [http://idealmattress.com.au/] start, can_cache: true
+[Mon, 08 May 2017 12:59:39 +0000] [/wp-content/cache/minify/63c68.js] [http://idealmattress.com.au/] start, can_cache: true
+[Mon, 08 May 2017 12:59:39 +0000] [/wp-content/cache/minify/eff97.js] [http://idealmattress.com.au/] no cache entry for idealmattress.com.au/wp-content/cache/minify/eff97.js/_index.html
+[Mon, 08 May 2017 12:59:39 +0000] [/wp-content/cache/minify/d5cc3.js] [http://idealmattress.com.au/] no cache entry for idealmattress.com.au/wp-content/cache/minify/d5cc3.js/_index.html
+[Mon, 08 May 2017 12:59:39 +0000] [/wp-content/cache/minify/c82e1.js] [http://idealmattress.com.au/] no cache entry for idealmattress.com.au/wp-content/cache/minify/c82e1.js/_index.html
+[Mon, 08 May 2017 12:59:39 +0000] [/wp-content/cache/minify/96ab8.css] [http://idealmattress.com.au/] start, can_cache: true
+[Mon, 08 May 2017 12:59:39 +0000] [/wp-content/cache/minify/01b8b.js] [http://idealmattress.com.au/] no cache entry for idealmattress.com.au/wp-content/cache/minify/01b8b.js/_index.html
+[Mon, 08 May 2017 12:59:39 +0000] [/wp-content/cache/minify/63c68.js] [http://idealmattress.com.au/] no cache entry for idealmattress.com.au/wp-content/cache/minify/63c68.js/_index.html
+[Mon, 08 May 2017 12:59:39 +0000] [/wp-content/cache/minify/96ab8.css] [http://idealmattress.com.au/] no cache entry for idealmattress.com.au/wp-content/cache/minify/96ab8.css/_index.html
+[Mon, 08 May 2017 12:59:47 +0000] [/wp-content/cache/minify/63c68.js] [http://idealmattress.com.au/] storing cached page - not a cached content
+[Mon, 08 May 2017 12:59:47 +0000] [/wp-content/cache/minify/d5cc3.js] [http://idealmattress.com.au/] storing cached page - not a cached content
+[Mon, 08 May 2017 12:59:48 +0000] [/wp-content/cache/minify/eff97.js] [http://idealmattress.com.au/] storing cached page - not a cached content
+[Mon, 08 May 2017 12:59:48 +0000] [/wp-content/cache/minify/c82e1.js] [http://idealmattress.com.au/] storing cached page - not a cached content
+[Mon, 08 May 2017 12:59:48 +0000] [/wp-content/cache/minify/01b8b.js] [http://idealmattress.com.au/] storing cached page - not a cached content
+[Mon, 08 May 2017 12:59:51 +0000] [/wp-content/cache/minify/96ab8.css] [http://idealmattress.com.au/] storing cached page - not a cached content
+[Mon, 08 May 2017 12:59:51 +0000] [/] [http://idealmattress.com.au/] start, can_cache: true
+[Mon, 08 May 2017 12:59:51 +0000] [/?wc-ajax=get_refreshed_fragments] [http://idealmattress.com.au/] start, can_cache: false
+[Mon, 08 May 2017 12:59:53 +0000] [/?wc-ajax=get_refreshed_fragments] [http://idealmattress.com.au/] storing cached page: false original false reason Requested method is POST
+[Mon, 08 May 2017 13:00:13 +0000] [/] [-] start, can_cache: true
+[Mon, 08 May 2017 13:00:14 +0000] [/wp-content/cache/minify/96ab8.css] [http://idealmattress.com.au/] start, can_cache: true
+[Mon, 08 May 2017 13:00:14 +0000] [/wp-content/cache/minify/96ab8.css] [http://idealmattress.com.au/] no cache entry for idealmattress.com.au/wp-content/cache/minify/96ab8.css/_index.html
+[Mon, 08 May 2017 13:00:14 +0000] [/wp-content/cache/minify/01b8b.js] [http://idealmattress.com.au/] start, can_cache: true
+[Mon, 08 May 2017 13:00:14 +0000] [/wp-content/cache/minify/01b8b.js] [http://idealmattress.com.au/] no cache entry for idealmattress.com.au/wp-content/cache/minify/01b8b.js/_index.html
+[Mon, 08 May 2017 13:00:17 +0000] [/wp-content/cache/minify/01b8b.js] [http://idealmattress.com.au/] storing cached page - not a cached content
+[Mon, 08 May 2017 13:00:18 +0000] [/wp-admin/admin-ajax.php] [http://idealmattress.com.au/wp-admin/admin.php?page=w3tc_cdn] skip processing because of generic constant
+[Mon, 08 May 2017 13:00:21 +0000] [/wp-content/cache/minify/96ab8.css] [http://idealmattress.com.au/] storing cached page - not a cached content
+[Mon, 08 May 2017 13:00:23 +0000] [/?wc-ajax=get_refreshed_fragments] [http://idealmattress.com.au/] start, can_cache: false
+[Mon, 08 May 2017 13:00:24 +0000] [/?wc-ajax=get_refreshed_fragments] [http://idealmattress.com.au/] storing cached page: false original false reason Requested method is POST
+[Mon, 08 May 2017 13:00:28 +0000] [/wp-admin/admin-ajax.php] [http://idealmattress.com.au/wp-admin/edit.php?post_type=page] skip processing because of generic constant
+[Mon, 08 May 2017 13:00:29 +0000] [/wp-cron.php?doing_wp_cron=1494248429.6438190937042236328125] [http://idealmattress.com.au/wp-cron.php?doing_wp_cron=1494248429.6438190937042236328125] skip processing because of generic constant
+[Mon, 08 May 2017 13:00:53 +0000] [/] [-] start, can_cache: true
+[Mon, 08 May 2017 13:00:53 +0000] [/wp-content/cache/minify/96ab8.css] [http://idealmattress.com.au/] start, can_cache: true
+[Mon, 08 May 2017 13:00:53 +0000] [/wp-content/cache/minify/96ab8.css] [http://idealmattress.com.au/] no cache entry for idealmattress.com.au/wp-content/cache/minify/96ab8.css/_index.html
+[Mon, 08 May 2017 13:00:53 +0000] [/wp-content/cache/minify/eff97.js] [http://idealmattress.com.au/] start, can_cache: true
+[Mon, 08 May 2017 13:00:53 +0000] [/wp-content/cache/minify/01b8b.js] [http://idealmattress.com.au/] start, can_cache: true
+[Mon, 08 May 2017 13:00:53 +0000] [/wp-content/cache/minify/eff97.js] [http://idealmattress.com.au/] no cache entry for idealmattress.com.au/wp-content/cache/minify/eff97.js/_index.html
+[Mon, 08 May 2017 13:00:53 +0000] [/wp-content/cache/minify/01b8b.js] [http://idealmattress.com.au/] no cache entry for idealmattress.com.au/wp-content/cache/minify/01b8b.js/_index.html
+[Mon, 08 May 2017 13:00:53 +0000] [/wp-content/cache/minify/d5cc3.js] [http://idealmattress.com.au/] start, can_cache: true
+[Mon, 08 May 2017 13:00:53 +0000] [/wp-content/cache/minify/d5cc3.js] [http://idealmattress.com.au/] no cache entry for idealmattress.com.au/wp-content/cache/minify/d5cc3.js/_index.html
+[Mon, 08 May 2017 13:00:59 +0000] [/wp-content/cache/minify/d5cc3.js] [http://idealmattress.com.au/] storing cached page - not a cached content
+[Mon, 08 May 2017 13:00:59 +0000] [/wp-content/cache/minify/eff97.js] [http://idealmattress.com.au/] storing cached page - not a cached content
+[Mon, 08 May 2017 13:01:00 +0000] [/wp-content/cache/minify/01b8b.js] [http://idealmattress.com.au/] storing cached page - not a cached content
+[Mon, 08 May 2017 13:01:01 +0000] [/wp-content/cache/minify/63c68.js] [http://idealmattress.com.au/] start, can_cache: true
+[Mon, 08 May 2017 13:01:01 +0000] [/wp-content/cache/minify/63c68.js] [http://idealmattress.com.au/] no cache entry for idealmattress.com.au/wp-content/cache/minify/63c68.js/_index.html
+[Mon, 08 May 2017 13:01:02 +0000] [/wp-content/cache/minify/96ab8.css] [http://idealmattress.com.au/] storing cached page - not a cached content
+[Mon, 08 May 2017 13:01:03 +0000] [/wp-content/cache/minify/63c68.js] [http://idealmattress.com.au/] storing cached page - not a cached content
+[Mon, 08 May 2017 13:01:04 +0000] [/wp-content/cache/minify/c82e1.js] [http://idealmattress.com.au/] start, can_cache: true
+[Mon, 08 May 2017 13:01:04 +0000] [/wp-content/cache/minify/c82e1.js] [http://idealmattress.com.au/] no cache entry for idealmattress.com.au/wp-content/cache/minify/c82e1.js/_index.html
+[Mon, 08 May 2017 13:01:05 +0000] [/wp-content/cache/minify/c82e1.js] [http://idealmattress.com.au/] storing cached page - not a cached content
+[Mon, 08 May 2017 13:01:10 +0000] [/] [http://idealmattress.com.au/] start, can_cache: true
+[Mon, 08 May 2017 13:01:17 +0000] [/wp-admin/admin-ajax.php] [http://idealmattress.com.au/wp-admin/admin.php?page=w3tc_cdn] skip processing because of generic constant
+[Mon, 08 May 2017 13:01:38 +0000] [/] [http://idealmattress.com.au/] start, can_cache: true
+[Mon, 08 May 2017 13:01:39 +0000] [/?wc-ajax=get_refreshed_fragments] [http://idealmattress.com.au/] start, can_cache: false
+[Mon, 08 May 2017 13:01:41 +0000] [/?wc-ajax=get_refreshed_fragments] [http://idealmattress.com.au/] storing cached page: false original false reason Requested method is POST
+[Mon, 08 May 2017 13:01:58 +0000] [/wp-admin/admin.php?page=w3tc_general] [http://idealmattress.com.au/wp-admin/admin.php?page=w3tc_cdn] skip processing because of generic constant
+[Mon, 08 May 2017 13:01:59 +0000] [/wp-cron.php?doing_wp_cron=1494248519.3147799968719482421875] [http://idealmattress.com.au/wp-cron.php?doing_wp_cron=1494248519.3147799968719482421875] skip processing because of generic constant
+[Mon, 08 May 2017 13:02:02 +0000] [/wp-content/cache/minify/772005196w3tc_rewrite_test.css] [http://idealmattress.com.au/wp-content/cache/minify/772005196w3tc_rewrite_test.css] start, can_cache: false
+[Mon, 08 May 2017 13:02:04 +0000] [/w3tc_rewrite_test916043995] [http://idealmattress.com.au/w3tc_rewrite_test916043995] start, can_cache: false
+[Mon, 08 May 2017 13:02:28 +0000] [/wp-admin/admin-ajax.php] [http://idealmattress.com.au/wp-admin/edit.php?post_type=page] skip processing because of generic constant
+[Mon, 08 May 2017 13:02:34 +0000] [/wp-admin/admin.php?page=w3tc_general] [http://idealmattress.com.au/wp-admin/admin.php?page=w3tc_general] skip processing because of generic constant

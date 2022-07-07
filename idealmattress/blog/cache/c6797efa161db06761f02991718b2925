@@ -1,0 +1,228 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2641:"Tutorial showing the difference between over watering and under watering plants. Jul 20, 2011 #1 I've seen threads about this before.  I use a 400w hps on a 18/6 light cycle. but not always. Now, let’s take a … However the stems look very droopy as well as red towards the end of each light cycle … save hide report. Skip navigation Sign in. Please help. ... Look at marijuana plants during night cylce. 438 18. If you're sure its not caused by under- or overwatering, than it might be this: some plants tend to droop towards the end of the lightcycle, it basicly means they cant proces anymore light that day. During the dark cycle, cannabis plants are not photosynthesising, and continue to respire at a constant rate; they do not just begin to respire when the lights go out. When switching light cycles from vegetative to flowering, first give plants 36 hours of darkness. Plants are drooping, can't figure out why. When your plants switch from the vegetation to the flowering stage, the growth will eventually get slower. They droop at the end of the day look great in the morning 18/6. Are your leaves droopy? The Calvin Cycle, which is light-independent, processes all that stored up solar energy into carbohydrates. Thanks to everyone in advance! I'm assuming this end-of-day drooping happens whether you've watered recently or not. To harvest outdoor plants early, cut the time light reaches the plants to 12 hours each day. But there’s a catch. FFOF, Flora nova nutrients. They were just watered good 4 days ago. This is a soil grow about 2 weeks in from 6" clones, using overdriven T5 X 8 6500K and several CFLs 9000Lumes. Please help. They have been on 12/12 for 6 days. Thread starter ... (the wilting might be exaggerated by the fact that they are near the end of their 20 hour light cycle and are not as eager for light as usual): Let me know if pictures with a CFL lighting source would make it easier to see things. A 12-12 cycle (12 hours of light and 12 hours of darkness) is ideal. Especially the lower leaves of the 2 indica plants. Now, let’s take a closer look at marijuana’s four flowering phases: 75% Upvoted. Let’s discuss how you can take care of your flowering cannabis and grow the best yield ever. Its normal. My thought is everything has to be perfect for a plant to use all that CO2. Remove the flowers and use them for best flavor. If it droops a little right before the lights go off. AndyBotwin Weed Whisperer. Nor will they produce as much THC or weight. Leaves drooping towards end of light cycle. You’ll need to ensure your plants receive absolutely no light for 12 uninterrupted hours. ";s:7:"keyword";s:37:"plants drooping at end of light cycle";s:5:"links";s:6426:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=side-dishes-fried-pork-chops'>Side Dishes Fried Pork Chops</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-open-supra-lockbox-shackle'>How To Open Supra Lockbox Shackle</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cheap-mansions-for-sale-in-nj'>Cheap Mansions For Sale In Nj</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kootenay-national-park-in-may'>Kootenay National Park In May</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-great-american-baking-show-season-4-episode-2'>The Great American Baking Show Season 4 Episode 2</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=whirlpool-authorized-service-near-me'>Whirlpool Authorized Service Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=river-cottage-season-1-episode-4'>River Cottage Season 1 Episode 4</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=4-foot-folding-table-costco'>4 Foot Folding Table Costco</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pressure-washer-service-near-me'>Pressure Washer Service Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=minimum-salary-for-filipino-maid-in-dubai-2019'>Minimum Salary For Filipino Maid In Dubai 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=campfire-tales-1997-full-movie-free-online'>Campfire Tales 1997 Full Movie Free Online</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=st-christopher-patron-saint-of-athletes'>St Christopher Patron Saint Of Athletes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=washing-machine-exchange-offer-dubai'>Washing Machine Exchange Offer Dubai</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=badger-pass-ski-resort-reviews'>Badger Pass Ski Resort Reviews</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ebay-chairs-for-living-room'>Ebay Chairs For Living Room</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fairmont-chateau-lake-louise-skating-banff'>Fairmont Chateau Lake Louise Skating Banff</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-plague-dogs-full-movie'>The Plague Dogs Full Movie</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=youtob-led-flush-mount-ceiling-light'>Youtob Led Flush Mount Ceiling Light</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=which-refrigerants-are-being-phased-out'>Which Refrigerants Are Being Phased Out</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=work-of-art-meaning-sarcastic'>Work Of Art Meaning Sarcastic</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=museum-of-illusions-new-york'>Museum Of Illusions New York</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-get-better-at-nordic-skiing'>How To Get Better At Nordic Skiing</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-take-shatavari-to-get-pregnant'>How To Take Shatavari To Get Pregnant</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=side-effects-of-eating-too-much-celery'>Side Effects Of Eating Too Much Celery</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=spicy-potato-salad-with-bacon'>Spicy Potato Salad With Bacon</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=benefits-of-eating-meat-scholarly-articles'>Benefits Of Eating Meat Scholarly Articles</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kung-fu-panda-3-full-movie-dailymotion'>Kung Fu Panda 3 Full Movie Dailymotion</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=master-of-fine-arts-eligibility'>Master Of Fine Arts Eligibility</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wooden-storage-bench-for-bedroom'>Wooden Storage Bench For Bedroom</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=store-bought-eggnog-and-rum'>Store Bought Eggnog And Rum</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=comfy-chairs-for-bedroom-cheap'>Comfy Chairs For Bedroom Cheap</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=most-popular-cuisine-in-the-world'>Most Popular Cuisine In The World</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=betty-crocker-loose-leaf-cookbook'>Betty Crocker Loose Leaf Cookbook</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=5ft-french-doors-with-side-panels'>5ft French Doors With Side Panels</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cool-ideas-for-new-home-construction'>Cool Ideas For New Home Construction</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=home-bargains-plastic-storage-units'>Home Bargains Plastic Storage Units</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=when-do-monstera-leaves-split'>When Do Monstera Leaves Split</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wayfair-cyber-monday-2019-code'>Wayfair Cyber Monday 2019 Code</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=home-design-3d-import-objects'>Home Design 3d Import Objects</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-decorate-room-with-simple-things'>How To Decorate Room With Simple Things</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=modern-l-shaped-desk-white'>Modern L Shaped Desk White</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=abstract-painting-images-for-beginners'>Abstract Painting Images For Beginners</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-grow-flowers-in-pots'>How To Grow Flowers In Pots</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=troy-bilt-pressure-washer-pumps'>Troy Bilt Pressure Washer Pumps</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=salt-lake-city-utah-weather'>Salt Lake City Utah Weather</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=domain-driven-design-in-practice'>Domain Driven Design In Practice</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=healthy-guacamole-recipe-without-cilantro'>Healthy Guacamole Recipe Without Cilantro</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-fish-and-chips-edinburgh-2018'>Best Fish And Chips Edinburgh 2018</a>,
+";s:7:"expired";i:-1;}

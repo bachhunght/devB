@@ -1,0 +1,259 @@
+[11-Apr-2020 18:24:11 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/ideammat/public_html/wp-includes/functions.php on line 8
+[11-Apr-2020 18:24:11 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/ideammat/public_html/wp-includes/functions.php on line 8
+[11-Apr-2020 18:24:11 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/ideammat/public_html/wp-includes/functions.php on line 8
+[10-Apr-2022 05:09:25 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[10-Apr-2022 05:09:25 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[10-Apr-2022 05:09:25 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[10-Apr-2022 05:09:25 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[10-Apr-2022 05:09:30 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[10-Apr-2022 05:09:30 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[10-Apr-2022 05:09:30 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[10-Apr-2022 05:09:30 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[10-Apr-2022 05:11:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/ideammat/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ideammat/public_html/wp-includes/template-canvas.php on line 12
+[10-Apr-2022 05:12:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/ideammat/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ideammat/public_html/wp-includes/template-canvas.php on line 12
+[11-Apr-2022 17:24:44 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[11-Apr-2022 17:24:44 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[11-Apr-2022 17:24:44 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[11-Apr-2022 17:24:44 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[11-Apr-2022 17:24:51 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[11-Apr-2022 17:24:51 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[11-Apr-2022 17:24:51 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[11-Apr-2022 17:24:51 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[11-Apr-2022 17:28:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/ideammat/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ideammat/public_html/wp-includes/template-canvas.php on line 12
+[11-Apr-2022 17:28:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/ideammat/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ideammat/public_html/wp-includes/template-canvas.php on line 12
+[15-Apr-2022 02:40:42 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[15-Apr-2022 02:40:42 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[15-Apr-2022 02:40:42 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[15-Apr-2022 02:40:42 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[15-Apr-2022 02:41:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/ideammat/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ideammat/public_html/wp-includes/template-canvas.php on line 12
+[15-Apr-2022 06:53:22 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[15-Apr-2022 06:53:22 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[15-Apr-2022 06:53:22 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[15-Apr-2022 06:53:22 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[15-Apr-2022 06:53:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/ideammat/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ideammat/public_html/wp-includes/template-canvas.php on line 12
+[16-Apr-2022 06:29:15 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[16-Apr-2022 06:29:15 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[16-Apr-2022 06:29:15 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[16-Apr-2022 06:29:15 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[16-Apr-2022 06:29:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/ideammat/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ideammat/public_html/wp-includes/template-canvas.php on line 12
+[16-Apr-2022 14:35:59 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[16-Apr-2022 14:35:59 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[16-Apr-2022 14:35:59 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[16-Apr-2022 14:35:59 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[16-Apr-2022 14:36:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/ideammat/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ideammat/public_html/wp-includes/template-canvas.php on line 12
+[19-Apr-2022 20:23:03 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[19-Apr-2022 20:23:03 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[19-Apr-2022 20:23:03 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[19-Apr-2022 20:23:03 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[19-Apr-2022 20:25:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/ideammat/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ideammat/public_html/wp-includes/template-canvas.php on line 12
+[20-Apr-2022 06:10:05 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[20-Apr-2022 06:10:05 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[20-Apr-2022 06:10:05 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[20-Apr-2022 06:10:05 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[20-Apr-2022 06:10:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/ideammat/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ideammat/public_html/wp-includes/template-canvas.php on line 12
+[21-Apr-2022 00:42:50 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[21-Apr-2022 00:42:50 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[21-Apr-2022 00:42:50 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[21-Apr-2022 00:42:50 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[21-Apr-2022 00:43:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/ideammat/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ideammat/public_html/wp-includes/template-canvas.php on line 12
+[23-Apr-2022 05:59:18 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[23-Apr-2022 05:59:18 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[23-Apr-2022 05:59:18 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[23-Apr-2022 05:59:18 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[23-Apr-2022 06:00:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/ideammat/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ideammat/public_html/wp-includes/template-canvas.php on line 12
+[23-Apr-2022 23:10:02 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[23-Apr-2022 23:10:02 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[23-Apr-2022 23:10:02 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[23-Apr-2022 23:10:02 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[23-Apr-2022 23:10:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/ideammat/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ideammat/public_html/wp-includes/template-canvas.php on line 12
+[24-Apr-2022 16:05:46 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[24-Apr-2022 16:05:46 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[24-Apr-2022 16:05:46 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[24-Apr-2022 16:05:46 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[24-Apr-2022 16:07:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/ideammat/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ideammat/public_html/wp-includes/template-canvas.php on line 12
+[27-Apr-2022 04:25:19 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[27-Apr-2022 04:25:19 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[27-Apr-2022 04:25:19 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[27-Apr-2022 04:25:19 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[27-Apr-2022 04:26:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/ideammat/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ideammat/public_html/wp-includes/template-canvas.php on line 12
+[27-Apr-2022 10:29:53 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[27-Apr-2022 10:29:53 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[27-Apr-2022 10:29:53 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[27-Apr-2022 10:29:53 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[27-Apr-2022 10:30:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/ideammat/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ideammat/public_html/wp-includes/template-canvas.php on line 12
+[27-Apr-2022 18:28:07 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[27-Apr-2022 18:28:07 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[27-Apr-2022 18:28:07 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[27-Apr-2022 18:28:07 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[27-Apr-2022 18:28:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/ideammat/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ideammat/public_html/wp-includes/template-canvas.php on line 12
+[28-Apr-2022 16:16:51 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[28-Apr-2022 16:16:51 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[28-Apr-2022 16:16:51 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[28-Apr-2022 16:16:51 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[28-Apr-2022 16:17:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/ideammat/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ideammat/public_html/wp-includes/template-canvas.php on line 12
+[29-Apr-2022 06:07:55 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[29-Apr-2022 06:07:55 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[29-Apr-2022 06:07:55 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[29-Apr-2022 06:07:55 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[29-Apr-2022 06:09:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/ideammat/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ideammat/public_html/wp-includes/template-canvas.php on line 12
+[29-Apr-2022 18:58:37 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[29-Apr-2022 18:58:37 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[29-Apr-2022 18:58:37 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[29-Apr-2022 18:58:37 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[29-Apr-2022 18:59:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/ideammat/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ideammat/public_html/wp-includes/template-canvas.php on line 12
+[03-May-2022 05:09:20 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[03-May-2022 05:09:20 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[03-May-2022 05:09:20 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[03-May-2022 05:09:20 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[03-May-2022 05:10:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/ideammat/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ideammat/public_html/wp-includes/template-canvas.php on line 12
+[03-May-2022 07:48:29 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[03-May-2022 07:48:29 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[03-May-2022 07:48:29 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[03-May-2022 07:48:29 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[03-May-2022 07:49:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/ideammat/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ideammat/public_html/wp-includes/template-canvas.php on line 12
+[04-May-2022 01:49:37 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[04-May-2022 01:49:37 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[04-May-2022 01:49:37 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[04-May-2022 01:49:37 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[04-May-2022 01:52:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/ideammat/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ideammat/public_html/wp-includes/template-canvas.php on line 12
+[05-May-2022 01:35:22 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[05-May-2022 01:35:22 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[05-May-2022 01:35:22 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[05-May-2022 01:35:22 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[05-May-2022 01:36:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/ideammat/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ideammat/public_html/wp-includes/template-canvas.php on line 12
+[06-May-2022 20:31:03 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[06-May-2022 20:31:03 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[06-May-2022 20:31:03 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[06-May-2022 20:31:03 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[06-May-2022 20:32:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/ideammat/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ideammat/public_html/wp-includes/template-canvas.php on line 12
+[07-May-2022 04:03:35 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[07-May-2022 04:03:35 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[07-May-2022 04:03:35 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[07-May-2022 04:03:35 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[07-May-2022 04:04:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/ideammat/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ideammat/public_html/wp-includes/template-canvas.php on line 12
+[07-May-2022 19:29:54 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[07-May-2022 19:29:54 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[07-May-2022 19:29:54 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[07-May-2022 19:29:54 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[07-May-2022 19:30:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/ideammat/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ideammat/public_html/wp-includes/template-canvas.php on line 12
+[10-May-2022 03:26:05 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[10-May-2022 03:26:05 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[10-May-2022 03:26:05 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[10-May-2022 03:26:05 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[10-May-2022 03:27:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/ideammat/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ideammat/public_html/wp-includes/template-canvas.php on line 12
+[11-May-2022 02:34:59 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[11-May-2022 02:34:59 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[11-May-2022 02:34:59 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[11-May-2022 02:34:59 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[11-May-2022 02:35:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/ideammat/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ideammat/public_html/wp-includes/template-canvas.php on line 12
+[11-May-2022 04:59:10 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[11-May-2022 04:59:10 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[11-May-2022 04:59:10 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[11-May-2022 04:59:10 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[11-May-2022 04:59:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/ideammat/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ideammat/public_html/wp-includes/template-canvas.php on line 12
+[11-May-2022 05:39:04 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[11-May-2022 05:39:04 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[11-May-2022 05:39:04 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[11-May-2022 05:39:04 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[11-May-2022 05:41:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/ideammat/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ideammat/public_html/wp-includes/template-canvas.php on line 12
+[12-May-2022 10:31:39 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[12-May-2022 10:31:39 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[12-May-2022 10:31:39 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[12-May-2022 10:31:39 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ideammat/public_html/wp-includes/class-wp-http.php on line 11
+[12-May-2022 10:32:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/ideammat/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ideammat/public_html/wp-includes/template-canvas.php on line 12

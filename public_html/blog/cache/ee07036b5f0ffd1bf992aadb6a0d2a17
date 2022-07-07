@@ -1,0 +1,228 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4503:"Refrigerators came a long way until they became a common home appliance known to all. History of Refrigeration China The Chinese cut and store ice for food preservation. Before refrigeration was invented, people stored vegetables and food under ground in a root cellar. Refrigerant History Britain gains its first "fridge mountain" after the EU bans burying old fridges and freezers. Today, refrigerators have grown from more than a luxury and into a common necessity to every household. The History of the Refrigerator: Staying Cool Throughout the Ages. 1842 | Dr. John Gorrie makes ice to cool yellow-fever patients. 1.  1950-1960's the colors that became popular were pink and turquoise (pastel). The first electric refrigerator for domestic use was invented by American Fred W. Wolf and was called the Domelre, or the DOMestic ELectric REfrigerator. John Gorrie designed and built an air-cooling apparatus for treating Yellow Fever patients. 1803 | Thomas Moore coins the term “refrigerator.” 1833 | Frederic Tudor reaches Calcutta with 100 tons of ice from Boston. Later on in other years other colors started to become popular. Before refrigeration was invented, people stored vegetables and food under ground in a root cellar. Before mechanical refrigeration systems were introduced, people had to cool their food using ice and snow, either found locally or brought down from the mountains. in the early 1950's most refrigerator were white. The history of the refrigerator dates back to the ancient times. Refrigeration is the process of cooling a space, substance, or system to lower and/or maintain its temperature below the ambient one (while the removed heat is rejected at a higher temperature). So since everyone had water they could easily measure the time by using the water. ice and snow were stored in caves or dugouts lined with straw or other insulating materials. 1. (n.d.). The History of Sun Clocks and Water Clocks - Obelisks. John Gorrie was a physician… If you’ve ever been without power in your house, you know just how suddenly keeping the food in the refrigerator cold becomes a necessity. History. 1834 | Jacob Perkins, sometimes called the “father of the refrigerator,” patents a cooling cycle using compression. What is the History of the Refrigerator? Rivers and lakes were the main sources of the ice … The History of the Refrigerator: How Our Ancestors Kept Their Cool By David A. Fryxell Premium. The first electric refrigerator for domestic use was invented by American Fred W. Wolf and was called the Domelre, or the DOMestic ELectric REfrigerator. A Brief History Of The Refrigerator. Technology has made the refrigerator both affordable to buy, but also energy-efficient, thanks to Energy Star standards. 2002 White goods mountain. In other words, refrigeration means artificial (human-made) cooling.Heat is removed from a low-temperature reservoir and transferred to a high-temperature reservoir. By 1923, they held 80 percent of the market for electric refrigerators. 3. First known artificial refrigerator was demonstrated by William Cullen at the University of Glasgow – he didn’t use this discovery for any practical purposes. What is the History of the Refrigerator? The refrigerator was first invented by John Gorrie, a doctor who studied tropical diseases. Modern refrigerators come equipped with ice makers, water purifiers, freezers and many other options. Read on to find out how this all came to be. The first refrigerators originated from early scientific experiments and were not practical but in time were perfected and became indispensable in everyday life. 1927 first refrigerator to see widespread use was the General Electric "Monitor-Top" refrigerator. 3. 1930 first built-in refrigerator is launched by Electrolux 1931 Dupont produced commercial quantities of R-12, trademarked as Freon 1931 the first air-cooled refrigerator introduced by Electrolux Chinese cut and store ice. 2. Pour yourself a nice cold drink from the fridge, maybe pop in a couple of ice cubes, and take a moment to toast the 90th anniversary of the first popular home refrigerator—the General Electric “Monitor.” ... Refrigerator History Timeline. History of Refrigeration Timeline - 1748-1904 Share This With more than 57,000 members from over 132 nations, ASHRAE is a diverse organization dedicated to advancing the arts and sciences of heating, ventilation, air conditioning and refrigeration to serve humanity and promote a sustainable world. ";s:7:"keyword";s:36:"history of the refrigerator timeline";s:5:"links";s:6516:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-to-buy-in-paris-souvenirs'>What To Buy In Paris Souvenirs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=delft-university-of-technology-ranking'>Delft University Of Technology Ranking</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-to-buy-spiderman-costume'>Where To Buy Spiderman Costume</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wrong-turn-at-tahoe-2009-hindi-dubbed-movie'>Wrong Turn At Tahoe 2009 Hindi Dubbed Movie</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=condos-for-sale-in-bloomington-mn'>Condos For Sale In Bloomington Mn</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mid-century-modern-lighting-reproductions'>Mid Century Modern Lighting Reproductions</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philanthropy-used-in-a-short-sentence'>Philanthropy Used In A Short Sentence</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=crested-butte-news-car-accident'>Crested Butte News Car Accident</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hd-car-wallpapers-for-mobile'>Hd Car Wallpapers For Mobile</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rooms-to-go-mattress-return-policy'>Rooms To Go Mattress Return Policy</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=basque-restaurants-in-elko-nevada'>Basque Restaurants In Elko Nevada</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=are-sourdough-english-muffins-healthy'>Are Sourdough English Muffins Healthy</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-dip-goes-with-scotch-eggs'>What Dip Goes With Scotch Eggs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=table-talk-restaurant-alexandria-va'>Table Talk Restaurant Alexandria Va</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chilli-con-carne-slow-cooker-recipe-jamie-oliver'>Chilli Con Carne Slow Cooker Recipe Jamie Oliver</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=alabama-farm-city-week-2019'>Alabama Farm City Week 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=gray-faux-fur-hairpin-leg-chair'>Gray Faux Fur Hairpin Leg Chair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=generac-one-wash-parts-diagram'>Generac One Wash Parts Diagram</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-a-woven-headboard'>How To Make A Woven Headboard</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=working-in-a-kitchen-memes'>Working In A Kitchen Memes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=phone-number-for-moments-engraved'>Phone Number For Moments Engraved</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=funding-for-community-garden-projects'>Funding For Community Garden Projects</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hummus-and-pita-co-catering'>Hummus And Pita Co Catering</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=my-soul-to-take-netflix'>My Soul To Take Netflix</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=whistler-bike-park-a-line'>Whistler Bike Park A Line</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mainstays-adjustable-height-barstool-instructions'>Mainstays Adjustable Height Barstool Instructions</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=giving-and-receiving-feedback-ppt'>Giving And Receiving Feedback Ppt</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=why-is-ina-called-barefoot-contessa'>Why Is Ina Called Barefoot Contessa</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-grow-flowers-in-pots'>How To Grow Flowers In Pots</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ladies-cloth-shop-near-me'>Ladies Cloth Shop Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=2-bedroom-houses-for-rent-in-kitchener'>2 Bedroom Houses For Rent In Kitchener</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bacon-egg-and-cheese-biscuit-pull-apart-casserole'>Bacon Egg And Cheese Biscuit Pull Apart Casserole</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kohler-toilet-seat-hinge-replacement-parts'>Kohler Toilet Seat Hinge Replacement Parts</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mens-designer-clothes-for-less'>Mens Designer Clothes For Less</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=black-cherry-tomato-determinate-or-indeterminate'>Black Cherry Tomato Determinate Or Indeterminate</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=damro-bedroom-set-price-list-in-sri-lanka'>Damro Bedroom Set Price List In Sri Lanka</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sample-comments-on-student-papers'>Sample Comments On Student Papers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=solid-wood-tv-stands-made-in-usa'>Solid Wood Tv Stands Made In Usa</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=canadian-art-wholesalers-dixie-road-mississauga-on'>Canadian Art Wholesalers Dixie Road Mississauga On</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hall-design-for-medium-family'>Hall Design For Medium Family</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=can-i-buy-on-shopify'>Can I Buy On Shopify</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=big-little-lies-season-1-episode-3'>Big Little Lies Season 1 Episode 3</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=samsung-front-load-washer-keeps-adding-time'>Samsung Front Load Washer Keeps Adding Time</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=park-city-utah-events-next-14-days'>Park City Utah Events Next 14 Days</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=american-academy-of-pediatrics-guidelines'>American Academy Of Pediatrics Guidelines</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=free-printable-wall-art-watercolor'>Free Printable Wall Art Watercolor</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-many-days-in-whistler-summer'>How Many Days In Whistler Summer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=vada-pav-banane-ki-vidhi-hindi-mein'>Vada Pav Banane Ki Vidhi Hindi Mein</a>,
+";s:7:"expired";i:-1;}

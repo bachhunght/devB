@@ -1,0 +1,5 @@
+[17-Aug-2020 11:50:11 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/leontyna/public_html/wp-content/plugins/hello.php on line 69
+[01-Dec-2020 01:05:57 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/leontyna/public_html/wp-content/plugins/hello.php on line 69
+[01-Dec-2020 01:05:59 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/leontyna/public_html/wp-content/plugins/hello.php on line 69
+[29-Apr-2021 00:30:35 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/leontyna/public_html/wp-content/plugins/hello.php on line 69
+[10-Jul-2021 21:26:43 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/leontyna/public_html/wp-content/plugins/hello.php on line 69

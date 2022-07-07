@@ -1,0 +1,239 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3155:"The Ecolab Hot / Cold Temperature Log is designed to help you document and archive the holding temperature of your hot/cold hold foods. If the temperature of the cooler is above 4oC (40oF), use a stem thermometer to check the temperature of any potentially ©StateFoodSafety.com 2016 Holding Time/Temperature Log . In the temperature danger zone, bacteria can grow on food! Temperature Log: Coolers and Freezers Temperatures should be checked and recorded at the end of each shift. Temperature Log: Hot Holding Units Hot holding units must hold hot food at a temperature at or above 60oC (140oF). 9. Recommend This Product. Contamination risk Failure to properly manage time-temperature in holding areas can lead to food becoming a bacteria incubator, risking not just wasted products, but also foodborne illness. Reheat foods in accordance with the Reheating for Hot Holding SOP. Discard Checked Holding Temp. Effective October 1, 2017, hot and cold holding temperatures for foods that require temperature control to prevent bacterial growth must follow the FDA Food Code. Cold holding 41•F or below. Maintaining a cooler temperature log supports food worker accountability and allows managers to verify that food is being refrigerated at safe temperatures. Add To Cart. Stuffed food products. However gentle the heat that is applied in hot holding, the process will inevitably cause sauces to thicken and proteins to toughen or dry out over time. Limits of Hot Holding. Milk and shelled eggs must be 45oF or below and all other PHFs 41oF or below. Let’s do a quick review of the way temperature abuse happens and how to prevent it or correct it. For hot foods, use a handheld food thermometer to double-check food temperatures. For non-continuous temperature and time monitoring, a minimum hot holding temperature of 130 degrees Fahrenheit for a maximum time of 4 hours, based on information provided by FDA regarding the limitation of growth of Clostridium perfringens to no more than 1 log 10 in food, would be adequate to ensure food safety. This chart offers managers and food workers a simple way to monitor and record walk-in cooler temperatures. Cold holding - 41 F or less. 1-End of Cooking or 2-Exiting Holding or 3-End of Each 4-End of Last Serving Menu Item Process # Entering Holding Unit Entering Serving Unit Serving Perioda Periodb Corrective Action. Cold Holding Food Temperature Log Minimum Cold Holding Temperature 41°F or below Best Practice: Check food temperature every two hours, allow time for corrective action If you would like extra reassurance that food in hot holding is hot enough, you can use a temperature probe as a one-off . Time Temp. Food Code 101 - Hot and Cold Holding Temperature. E.g., the door was open while adding vaccine inventory – temperature out of range for 10 minutes. Use cold-holding equipment or refrigerated counter that can keep cold foods below 5º Celsius. The keys to basic food safety are cooking it to the right temperature and storing it properly. Before filling or refilling product to the holding line, it should be at under 41° F. Keep the lid closed and the temperature set and … ";s:7:"keyword";s:36:"hot and cold holding temperature log";s:5:"links";s:7781:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=stores-going-out-of-business-2020'>Stores Going Out Of Business 2020</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-is-livingstone-countertop-made-of'>What Is Livingstone Countertop Made Of</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=your-food-lab-pav-bhaji'>Your Food Lab Pav Bhaji</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=glass-display-coffee-table-for-millennium-falcon'>Glass Display Coffee Table For Millennium Falcon</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=karcher-k7-display-not-working'>Karcher K7 Display Not Working</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-backcountry-skiing-worth-it'>Is Backcountry Skiing Worth It</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-create-storage-in-an-apartment'>How To Create Storage In An Apartment</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=samosa-chaat-recipe-in-hindi'>Samosa Chaat Recipe In Hindi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pool-line-clogged-with-leaves'>Pool Line Clogged With Leaves</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=architectural-digest-best-kitchens-2019'>Architectural Digest Best Kitchens 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=home-exterior-design-ideas-india'>Home Exterior Design Ideas India</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lowes-friends-and-family-discount'>Lowes Friends And Family Discount</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dubizzle-abu-dhabi-kitchen-items'>Dubizzle Abu Dhabi Kitchen Items</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=can-you-propagate-creeping-jenny-in-water'>Can You Propagate Creeping Jenny In Water</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=boston-conservatory-at-berklee-dance'>Boston Conservatory At Berklee Dance</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-steam-mop-2019-uk'>Best Steam Mop 2019 Uk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=deep-kitchen-drawer-organizer-ikea'>Deep Kitchen Drawer Organizer Ikea</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=craftsman-electric-power-washer-99016'>Craftsman Electric Power Washer 99016</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-get-a-black-pool-clear-water'>How To Get A Black Pool Clear Water</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=history-of-aquaponics-in-india'>History Of Aquaponics In India</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pork-stir-fry-sauce-recipe-easy'>Pork Stir Fry Sauce Recipe Easy</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=easy-creme-brulee-recipe-without-ramekins'>Easy Creme Brulee Recipe Without Ramekins</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philips-hue-table-lamp-wellness'>Philips Hue Table Lamp Wellness</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=precision-metal-art-usa-discount-code'>Precision Metal Art Usa Discount Code</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=leather-lounge-chair-and-ottoman'>Leather Lounge Chair And Ottoman</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=plain-and-simple-in-a-sentence'>Plain And Simple In A Sentence</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=download-zoom-meeting-for-windows'>Download Zoom Meeting For Windows</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=head-first-design-patterns-amazon'>Head First Design Patterns Amazon</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-long-does-ntn-report-take'>How Long Does Ntn Report Take</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=amazon-mattress-in-a-box-reviews'>Amazon Mattress In A Box Reviews</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bissell-steam-mop-on-sale'>Bissell Steam Mop On Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lamb-stir-fry-jamie-oliver'>Lamb Stir Fry Jamie Oliver</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=part-time-jobs-in-manyata-tech-park'>Part Time Jobs In Manyata Tech Park</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=quick-bites-soul-food-owner'>Quick Bites Soul Food Owner</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lg-washing-machine-spare-parts-shop-near-me'>Lg Washing Machine Spare Parts Shop Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=calories-in-green-bell-pepper'>Calories In Green Bell Pepper</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=big-couloir-big-sky-death'>Big Couloir Big Sky Death</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hsn-bertolia-mid-century-modern-coffee-table'>Hsn Bertolia Mid Century Modern Coffee Table</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-do-you-spell-meer'>How Do You Spell Meer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bainbridge-fabric-chaise-lounge-amazon'>Bainbridge Fabric Chaise Lounge Amazon</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=orla-kiely-linear-stem-backpack'>Orla Kiely Linear Stem Backpack</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=whistler-bike-park-a-line'>Whistler Bike Park A Line</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=zuan-yuan-chinese-restaurant-menu-2020'>Zuan Yuan Chinese Restaurant Menu 2020</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=Interior-design-on-a-budget'>Interior Design On A Budget</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-michigan-sustainability-masters'>University Of Michigan Sustainability Masters</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=amazon-wall-decals-for-bedroom'>Amazon Wall Decals For Bedroom</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-southampton-ranking-2018'>University Of Southampton Ranking 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rustic-sisal-farmhouse-bathroom-rug'>Rustic Sisal Farmhouse Bathroom Rug</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lily-of-the-valley-toxidrome'>Lily Of The Valley Toxidrome</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=one-level-townhomes-for-sale-near-me'>One Level Townhomes For Sale Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=furniture-stores-in-dallas-tx'>Furniture Stores In Dallas Tx</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-celery-good-for-diabetics'>Is Celery Good For Diabetics</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=merriam-webster-app-for-kids'>Merriam Webster App For Kids</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=interior-door-store-near-me'>Interior Door Store Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=homewood-city-schools-substitute-teacher-pay'>Homewood City Schools Substitute Teacher Pay</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bab-al-shams-brunch-entertainer'>Bab Al Shams Brunch Entertainer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=download-katalon-studio-for-mac'>Download Katalon Studio For Mac</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=laura-ashley-home-decor-uk'>Laura Ashley Home Decor Uk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=indian-fast-food-recipes-pdf'>Indian Fast Food Recipes Pdf</a>,
+";s:7:"expired";i:-1;}

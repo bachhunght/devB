@@ -1,0 +1,228 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:5333:"Vertical farming is an innovative and sustainable method of growing crops. Urban farming is all about making the most of the space you have. There is a lot of investing hype about vertical farming. Andrew Wade reports. Between the UK’s EU exit and the growing threat of climate change, food security has become a headline topic. You can grow flowers, vegetables, or have your own herb gardens. LettUs Grow co-founder Charlie Guy inspecting produce. GrowUp Urban Farms is committed to feeding people in cities in a way that is positive for communities and the environment, today and in the future. As world populations continue to grow, vertical farming is the future of agriculture: Year-round production, no crop seasons. We produce sustainable fresh fish, salads and herbs in cities using a combination of aquaponic and vertical growing technologies. Vertical farming startup LettUs Grow is one of a number of UK firms developing technology that could help shore up the UK’s food security. So make sure that whatever small scale farm ideas you have are legal in your city before you begin. The goal is to empower as many people as possible to get in the wondrous world of Vertical Farming. It often incorporates controlled-environment agriculture, which aims to optimize plant growth, and soilless farming techniques such as hydroponics, aquaponics, and aeroponics. The products have many advantages over traditionally grown farm products, and even other organic products. The Association for Vertical Farming is an internationally active nonprofit organization of individuals, companies, research institutions and universities focusing on leading and advancing the sustainable growth and development of the vertical farming industry and movement. Welcome to Aponic Vertical Aeroponic Aquaponics. "Vertical farming is not about how much production you can possibly cram into a space.It’s about growing better food closer to market and maximizing your production as a function of the resources … Vertical farming startup LettUs Grow is one of a number of UK firms developing technology that could help shore up the UK’s food security. The panel, hosted by industry commentator blog Agritecture provided a platform for three unique case studies with one overlapping theme: Tales of why vertical farms failed.. Watch the full panel discussion here >>. We talked to an expert and came away with five take-aways for investors. Find out more on this site. The ingenious low-cost vertical farms of Willem Van Cotthem are within reach of everybody. The ingenious low-cost vertical farms of Willem Van Cotthem are within reach of everybody. Between the UK’s EU exit and the growing threat of climate change, food security has become a headline topic. Aponic Ltd have developed and manufacture a vertical soil-less farming system that uses 90% less water than traditional agriculture, runs on rain water and solar power, does not emit harmful run-off into the environment and massively reduces the need for fossil fuels in food production. It is also a … Here we have collected more than 20 creative DIY vertical gardens that are easy for you to implement this spring. Vertical farming is a high-tech, Big Data endeavor. A vital question: "What are the best crops for vertical farming?" Some common choices of structures to house vertical farming systems include buildings, shipping containers, tunnels, and abandoned mine shafts. Vertical Farming Academy is: An open platform where everyone with an internet connection can get access to free information and teaching materials about Vertical Farming The Association for Vertical Farming is an internationally active nonprofit organization of individuals, companies, research institutions and universities focusing on leading and advancing the sustainable growth and development of the vertical farming industry and movement. IGS makes platforms that deliver ideal climates for plants and people, based upon a culture of continuous innovation, brilliant, simple design and a refusal to accept conventional technical thinking. The plunge into the unknown where your own time, capital, and… Vertical Farming Solutions. Vertical farming has become a popular idea, but what is mostly forgotten is that the energy required for the operation and construction of vertical farms largely negates the ecological advantages. Andrew Wade reports.  In simple terms, vertical farming is the growing of plants in layers. "Vertical farming is not about how much production you can possibly cram into a space.It’s about growing better food closer to market and maximizing your production as a function of the resources you invest, such as capital, light, water, energy, and labor." LettUs Grow co-founder Charlie Guy inspecting produce. Many of us look forward to the unmistakable taste of fresh, locally grown vegetables and fruit, especially those that come from our own soil.For those of you who would like to grow food at home but have limited space, don't despair. Insiders get vertical farming updates sent straight to them. Seedlings and cuttings for vertical farming, greenhouse growing, the floral industry, hemp growers and nurseries Learn about our proven, patented growing technology CubicFarms offers a selection of automated growing machines for fresh produce, nutritious … ";s:7:"keyword";s:27:"vertical farming at home uk";s:5:"links";s:6548:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-order-cafe-south-orange-nj'>The Order Cafe South Orange Nj</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=low-carb-recipes-with-ground-beef-and-cauliflower'>Low Carb Recipes With Ground Beef And Cauliflower</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philips-hue-color-starter-kit'>Philips Hue Color Starter Kit</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sofa-with-high-arms-and-back'>Sofa With High Arms And Back</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=uses-of-cotton-in-interior-design'>Uses Of Cotton In Interior Design</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=indian-meal-prep-for-weight-loss'>Indian Meal Prep For Weight Loss</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=3-egg-pavlova-recipe-nz'>3 Egg Pavlova Recipe Nz</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hot-dog-cartoon-black-and-white'>Hot Dog Cartoon Black And White</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=call-the-midwife-season-8-episode-2'>Call The Midwife Season 8 Episode 2</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=aj-and-the-queen-cast'>Aj And The Queen Cast</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=a-treatise-on-electricity-and-magnetism'>A Treatise On Electricity And Magnetism</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=5-panel-paintings-online-india'>5 Panel Paintings Online India</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=small-bayonet-led-dimmable-candle-bulbs'>Small Bayonet Led Dimmable Candle Bulbs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=concordia-university-of-edmonton-shiksha'>Concordia University Of Edmonton Shiksha</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=maisie-dobbs-to-die-but-once'>Maisie Dobbs To Die But Once</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=your-ideas-and-suggestions-are-always-welcome'>Your Ideas And Suggestions Are Always Welcome</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-are-the-objectives-of-gardening'>What Are The Objectives Of Gardening</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=locking-storage-cabinet-living-room'>Locking Storage Cabinet Living Room</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=farmhouse-ideas-on-a-budget'>Farmhouse Ideas On A Budget</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=faux-leather-chair-set-of-2'>Faux Leather Chair Set Of 2</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-often-do-iron-chefs-lose'>How Often Do Iron Chefs Lose</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=victoria-and-albert-costume-collection'>Victoria And Albert Costume Collection</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=euromicro-conference-on-software-engineering-and-advanced-applications-2020'>Euromicro Conference On Software Engineering And Advanced Applications 2020</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=full-size-hd-wallpaper-for-laptop'>Full Size Hd Wallpaper For Laptop</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=honda-gcv160-carburetor-manual-choke'>Honda Gcv160 Carburetor Manual Choke</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=raised-garden-bed-kit-walmart'>Raised Garden Bed Kit Walmart</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=flash-furniture-table-assembly-instructions'>Flash Furniture Table Assembly Instructions</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=information-about-flowers-in-urdu-language'>Information About Flowers In Urdu Language</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=driftwood-coffee-table-with-rectangular-glass-top'>Driftwood Coffee Table With Rectangular Glass Top</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=foot-locker-vintage-faire-mall'>Foot Locker Vintage Faire Mall</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=who-won-baking-championship-2019'>Who Won Baking Championship 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-give-feedback-to-students'>How To Give Feedback To Students</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=melissa-and-doug-pizza-oven'>Melissa And Doug Pizza Oven</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=part-time-indian-cook-in-dubai-silicon-oasis'>Part Time Indian Cook In Dubai Silicon Oasis</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-pronounce-hydrangea-in-english'>How To Pronounce Hydrangea In English</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ikea-doll-bed-used-for-cats'>Ikea Doll Bed Used For Cats</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-biscuits-at-home'>How To Make Biscuits At Home</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=macquarie-dictionary-word-of-the-year-2019'>Macquarie Dictionary Word Of The Year 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=karcher-hard-floor-cleaner-cordless'>Karcher Hard Floor Cleaner Cordless</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=coldwell-banker-property-management-maui'>Coldwell Banker Property Management Maui</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=better-homes-and-gardens-ideas'>Better Homes And Gardens Ideas</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=m-arch-urban-design-syllabus'>M Arch Urban Design Syllabus</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=raised-bed-vs-in-ground-soil'>Raised Bed Vs In Ground Soil</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-get-tactical-nuke-in-modern-warfare'>How To Get Tactical Nuke In Modern Warfare</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=largest-cities-in-canada-by-area'>Largest Cities In Canada By Area</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-backcountry-skiing-worth-it'>Is Backcountry Skiing Worth It</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-find-the-root-of-a-word'>How To Find The Root Of A Word</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=public-parking-near-natural-history-museum'>Public Parking Near Natural History Museum</a>,
+";s:7:"expired";i:-1;}

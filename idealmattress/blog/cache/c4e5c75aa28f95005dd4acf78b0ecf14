@@ -1,0 +1,252 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4551:"One inch is equal to 2.54 centimeters: 1″ = 2.54cm. What is it?  Since the establishment of the metric system in 1790s, the centimeter, meter and other metric units have served as the standard units to measure distance throughout most of the world. Please Help :(P/s: Requirement from Professor: MUST USE ONLY the conversion factor between feet and meters of 0.3048 meter/feet along with 12 inches in a foot and 100 centimeters in a meter. i'm trying to write a C++ program that consists of 3 functions one for input , one for the calculation and one for output . 1 centimeter is equal to 0.0328084 feet: How wide? How tall is 5 feet 8 inches? I'm trying to convert meters to feet & inches. The converter above allows you to quickly convert between feet and inches and metres and centimetres when you need to find out your height in metres and centimetres. To convert cm to inches: Multiply your centimeters value by 0.39370. Quick and easy cm to inches conversion: To convert from meters to feet and inches, multiply the value in meter (175) by 3.28 to get: 1.75 m x 3.28 = 5.74147 feet. The U.S. is the only major country that still uses the customary system of inches, feet… Convert feet and inches to centimeters, inches, meters, etc. For passports and many medical forms you now need to supply your height in metres and centimetres rather than feet and inches. How much? One meter is equal to 100 centimeters: 1m = … The U.S. is the only major country that still uses the customary system of inches, feet, yards and miles to measure distance. Take the decimal part of 5.74147 (0.74147) then multiply it by 12 to turn it into inches. 1 centimeter is equal to 0.0328084 feet: 1 cm = (1/30.48) ft = 0.0328084 ft. If … How many? To convert cm to inches: Multiply your centimeters value by 0.39370. A centimeter is equal to 0.01(or 1E-2) meter. It is equal to 0.3048 m, and used in the imperial system of units and United States customary units. One centimeter is equal to 0.01 meter: 1cm = 0.01m. A quick estimate of inches can be achieved by multiplying the quantity in meters by 40. In the metric system, centi always indicates 1/100th, so a centimeter is 1/100th of a meter. The centimeter practical unit of length for many everyday measurements. The conversion factor for converting from meters to inches is: 1 meter equals 39.37 inches. How long? This number system is a bit easier to grasp than inches and feet, where an inch is 1/12th of a foot. Another example, if he enters in 6 feet 7 inches, he gets 2 meter(s) and 1 centimeter. Centimeters (cm) to feet (ft) conversion calculator and how to convert. It is subdivided into 12 inches. i'm trying to write a C++ program that consists of 3 functions one for input , one for the calculation and one for output . Centimeters to meters conversion. The program is supposed to take feet and inches as input then print the converted value of meters and centimeters back to the user . Feet : A foot (symbol: ft) is a unit of length. One feet is equal to 12 inches: 1ft = 12″ Inches to centimeters conversion. In order to convert meters to inches, you need to multiply by the correct conversion factor. The kick is getting the meter to split properly into feet and inches of course. In the metric system, centi always indicates 1/100th, so a centimeter is 1/100th of a meter. Since the establishment of the metric system in 1790s, the centimeter, meter and other metric units have served as the standard units to measure distance throughout most of the world. But for mine, I get 0 centimeter. Quick and easy cm to inches conversion: How far? Feet to Inches conversion. Need to convert height from centimers, commonly used in most of the world, to feet and inches which are commonly used in the United States? The unit of foot derived from the human foot. This number system is a bit easier to grasp than inches and feet, where an inch is 1/12th of a foot. - Ft, in, cm, m, mm The program is supposed to take feet and inches as input then print the converted value of meters and centimeters back to the user . How to convert centimeters to feet. How to convert centimeters to feet. This is a online length converter, convert meters to feet and inches, feet and inches to meters, include fraction and decimal inches, it also has the calculation formulas and a virtual dynamic ruler to show the corresponding of units, understand your question with the best visualization. Try this easy calculator! The distance d in feet (ft) is equal to the distance d in centimeters (cm) divided by 30.48: ";s:7:"keyword";s:32:"The Making of a Chef' and 'x'='y";s:5:"links";s:9616:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-eat-scones-in-cornwall'>How To Eat Scones In Cornwall</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=manitobah-mukluks-black-friday-sale-2019'>Manitobah Mukluks Black Friday Sale 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=uga-landscape-architecture-career-fair'>Uga Landscape Architecture Career Fair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mattress-factory-in-hopewell-va'>Mattress Factory In Hopewell Va</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=make-sentence-of-garden-for-class-1'>Make Sentence Of Garden For Class 1</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-to-grill-this-weekend'>What To Grill This Weekend</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-is-the-kitchen-brigade-system'>What Is The Kitchen Brigade System</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hgtv-urban-oasis-2019-minneapolis-address'>Hgtv Urban Oasis 2019 Minneapolis Address</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=black-sapote-fruit-for-sale-near-me'>Black Sapote Fruit For Sale Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-vegetables-to-plant-in-december'>What Vegetables To Plant In December</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=south-shore-furniture-platform-bed'>South Shore Furniture Platform Bed</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=white-gloss-coffee-table-ikea'>White Gloss Coffee Table Ikea</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-change-hdb-light-switch'>How To Change Hdb Light Switch</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lane-acclaim-picture-window-table'>Lane Acclaim Picture Window Table</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=4-bedroom-apartments-for-rent-in-doha'>4 Bedroom Apartments For Rent In Doha</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=building-a-modern-dining-table'>Building A Modern Dining Table</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=52-week-declutter-challenge-2020'>52 Week Declutter Challenge 2020</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=extra-long-narrow-sofa-table'>Extra Long Narrow Sofa Table</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lg-refrigerator-double-door-cooling-settings'>Lg Refrigerator Double Door Cooling Settings</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-care-for-cracker-barrel-rocking-chairs'>How To Care For Cracker Barrel Rocking Chairs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=vincent-n-roxxy-watch-online'>Vincent N Roxxy Watch Online</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=earthquake-safe-art-above-bed'>Earthquake Safe Art Above Bed</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-boil-corn-kernels'>How To Boil Corn Kernels</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=scared-to-say-i-love-you-songs'>Scared To Say I Love You Songs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-kitchen-garden-harry-dodson'>The Kitchen Garden Harry Dodson</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=peel-and-stick-wall-tiles'>Peel And Stick Wall Tiles</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=worst-charities-to-donate-to'>Worst Charities To Donate To</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=jackson-hole-square-webcam-cache'>Jackson Hole Square Webcam Cache</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=modern-farmhouse-style-homes-for-sale-near-me'>Modern Farmhouse Style Homes For Sale Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=officemax-toledo-ohio-alexis-road'>Officemax Toledo Ohio Alexis Road</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=toronto-weather-in-april-2019'>Toronto Weather In April 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=do-you-need-two-lamps-on-a-buffet'>Do You Need Two Lamps On A Buffet</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=essential-oils-for-eczema-and-psoriasis'>Essential Oils For Eczema And Psoriasis</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=this-week-with-george-stephanopoulos-roundtable-members-today'>This Week With George Stephanopoulos Roundtable Members Today</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=175-watt-metal-halide-bulb'>175 Watt Metal Halide Bulb</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=second-hand-lg-washing-machine'>Second Hand Lg Washing Machine</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=extra-large-tall-chest-of-drawers'>Extra Large Tall Chest Of Drawers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-an-extra-bedroom-in-your-house'>How To Make An Extra Bedroom In Your House</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ettore-sottsass-most-famous-design'>Ettore Sottsass Most Famous Design</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=1-tsp-black-pepper-calories'>1 Tsp Black Pepper Calories</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=porta-cabin-sizes-in-meters'>Porta Cabin Sizes In Meters</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=l-shaped-bathroom-vanity-suite'>L Shaped Bathroom Vanity Suite</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mobile-home-floor-repair-contractors'>Mobile Home Floor Repair Contractors</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ladder-with-seat-on-top'>Ladder With Seat On Top</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=jackson-hole-heli-skiing-prices'>Jackson Hole Heli Skiing Prices</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cheap-apartments-in-lexington-ma'>Cheap Apartments In Lexington Ma</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=home-office-design-ideas-photos'>Home Office Design Ideas Photos</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=home-depot-hvac-installation-reviews'>Home Depot Hvac Installation Reviews</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=millionaire-shortbread-great-british-baking-show'>Millionaire Shortbread Great British Baking Show</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=early-girl-tomato-vs-roma'>Early Girl Tomato Vs Roma</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cole-and-son-discount-wallpaper'>Cole And Son Discount Wallpaper</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=gardening-shows-on-amazon-prime'>Gardening Shows On Amazon Prime</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=baby-boy-nursery-ideas-grey'>Baby Boy Nursery Ideas Grey</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ikea-hemnes-cabinet-with-2-doors'>Ikea Hemnes Cabinet With 2 Doors</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-oregon-tuition-per-credit'>University Of Oregon Tuition Per Credit</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=operation-market-garden-radio-problems'>Operation Market Garden Radio Problems</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=oregon-state-football-roster-2019'>Oregon State Football Roster 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=great-british-bake-off-2019-cast'>Great British Bake Off 2019 Cast</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chick-fil-a-food-truck-kittery-maine'>Chick Fil A Food Truck Kittery Maine</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lift-and-slide-patio-doors-cost'>Lift And Slide Patio Doors Cost</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-identify-american-chestnut'>How To Identify American Chestnut</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=five-a-day-vegetables-poem'>Five A Day Vegetables Poem</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=narrow-black-metal-console-table'>Narrow Black Metal Console Table</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ina-garten-roast-chicken-lemon'>Ina Garten Roast Chicken Lemon</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-idaho-all-majors'>University Of Idaho All Majors</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=food-network-grilled-eggplant-recipes'>Food Network Grilled Eggplant Recipes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=plants-drooping-at-end-of-light-cycle'>Plants Drooping At End Of Light Cycle</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=growing-bromeliads-outside-in-florida'>Growing Bromeliads Outside In Florida</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=whirlpool-side-by-side-refrigerator-no-ice'>Whirlpool Side By Side Refrigerator No Ice</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=olympic-size-pool-near-me'>Olympic Size Pool Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hot-and-cold-holding-temperature-log'>Hot And Cold Holding Temperature Log</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=richard-brake-night-king-vs-vladimir'>Richard Brake Night King Vs Vladimir</a>,
+";s:7:"expired";i:-1;}

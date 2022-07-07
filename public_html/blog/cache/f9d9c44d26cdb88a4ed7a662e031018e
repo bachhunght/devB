@@ -1,0 +1,214 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3792:"It is located in the historic Old College, the original site of the University. Welcome to Edinburgh! Two of the twelve currently sitting Supreme Court of the United Kingdom justices are graduates of Edinburgh. Gordon Brown, for one. Sociologist… Charles Darwin, Alexander Graham Bell, Thomas Bayes, James Clerk Maxwell and Sir Arthur Conan Doyle are some esteemed personalities who were once students of the University of Edinburgh. Alumni of the University of Edinburgh, Scotland, including alumni of constituent institutions, for example the Royal (Dick) School of Veterinary Studies.. Notes: "Alumni" (see Alumnus) is used here in the (correct) broad sense, to include people who have spent a notable period of their career studying at the institution, not in a narrower, legal sense of having officially "graduated". The University of Edinburgh is a charitable body, registered in Scotland, with registration number SC005336, VAT Registration Number GB 592 9507 00, and is acknowledged by the UK authorities as a “Recognised body” which has been granted degree awarding powers. Henry’s PhD research focuses on the work of Clements Kadalie, South Africa’s first major black trade union leader. There is also me, but I am not at all famous. The University of Edinburgh is the sixth oldest university in the English speaking world and provides a truly unique study experience in Scotland's thriving capital. Daphne Pochin Mould (1920-2014) Photographer, broadcaster, geologist, traveller, pilot and Ireland's first female flight instructor. List of famous alumni from University of Edinburgh Medical School, with photos when available. 16 June 1723, Scottish. Sir Winston Churchill, former Rector of the University (1929–1932) Sir Alexander Fleming, … Alexander Graham Bell. Our alumni network is a strong, well-connected global community of over 16,000 successful business leaders and influencers. List of University of Edinburgh people is a list of notable graduates as well as non-graduate former students, academic staff, and university officials of the University of Edinburgh in Scotland.It also includes those who may be considered alumni by extension, having studied at institutions that later merged with the University of Edinburgh. Located in Scotland’s beautiful and vibrant capital city Over 33,000 students attend the university Notable alumni include Charles Darwin, Great Britain's most successful Olympian Sir Chris Hoy, Mumford &… Alumni Of The University Of Edinburgh. The individual must have either studied at the university (although they may not necessarily have taken a degree), or worked at the university in an academic capacity; others have held fellowships at one of the university's colleges. Alumni in history.  The official page for the University of Edinburgh Alumni and Friends. Calendar Wednesday; Clock 18:00–21:00 ; Navigate; Hosted by the Business School, this event is open to all UEBS alumni as well as alumni from the wider University of Edinburgh alumni network in the Copenhagen area. The University of Edinburgh is renowned for creating various legends that have made an everlasting impression on the world, in several areas of study. University of Edinburgh, coeducational, privately controlled institution of higher education at Edinburgh, one of the most noted of Scotland’s universities. 21 April 1864, German. The University of Edinburgh is a charitable body, registered in Scotland, with registration number SC005336, VAT Registration Number GB 592 9507 00, and is acknowledged by the UK authorities as a “Recognised body” … Prominent graduates from University of Edinburgh include celebrities, politicians, business people, athletes and more. Home; Random; Nearby; Log in; Settings; About Wikipedia; Disclaimers ";s:7:"keyword";s:38:"university of edinburgh notable alumni";s:5:"links";s:4682:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bathroom-wall-decor-dollar-tree'>Bathroom Wall Decor Dollar Tree</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ebay-online-shopping-app-free-download'>Ebay Online Shopping App Free Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=things-to-do-in-victoria-bc-in-january-2019'>Things To Do In Victoria Bc In January 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pressure-washer-for-sale-in-inland-empire'>Pressure Washer For Sale In Inland Empire</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kitchen-wall-decorating-ideas-do-it-yourself'>Kitchen Wall Decorating Ideas Do It Yourself</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=new-york-times-slaw-recipes'>New York Times Slaw Recipes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=decimal-to-inches-conversion-calculator'>Decimal To Inches Conversion Calculator</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-many-tiles-in-a-box'>How Many Tiles In A Box</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=microsoft-system-center-configuration-manager-download'>Microsoft System Center Configuration Manager Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=slow-cooker-chicken-and-biscuits-real-simple'>Slow Cooker Chicken And Biscuits Real Simple</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=next-of-kin-rights-and-responsibilities'>Next Of Kin Rights And Responsibilities</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cardinal-health-job-cuts-2018'>Cardinal Health Job Cuts 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=old-country-buffet-fried-chicken-recipe'>Old Country Buffet Fried Chicken Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=environmental-benefits-of-home-gardening'>Environmental Benefits Of Home Gardening</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hurricane-dorian-national-hurricane-center'>Hurricane Dorian National Hurricane Center</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=shark-lift-away-pro-steam-pocket-mop-accessories'>Shark Lift Away Pro Steam Pocket Mop Accessories</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chicken-dum-biryani-recipe-in-hindi'>Chicken Dum Biryani Recipe In Hindi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pretty-little-liars-season-8'>Pretty Little Liars Season 8</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=royal-dutch-shell-price-target'>Royal Dutch Shell Price Target</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kitchen-in-different-indian-languages'>Kitchen In Different Indian Languages</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=iris-flower-meaning-in-hindi'>Iris Flower Meaning In Hindi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sign-of-life-daily-crossword'>Sign Of Life Daily Crossword</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ikea-integrated-fridge-freezer-review'>Ikea Integrated Fridge Freezer Review</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=catering-assistant-duties-in-school'>Catering Assistant Duties In School</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=new-york-stock-exchange-live'>New York Stock Exchange Live</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bissell-big-green-clean-machine-for-sale'>Bissell Big Green Clean Machine For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-install-glass-tile-border-in-shower'>How To Install Glass Tile Border In Shower</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=2-bedroom-bungalow-floor-plans'>2 Bedroom Bungalow Floor Plans</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=end-table-with-storage-baskets'>End Table With Storage Baskets</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=jackson-hole-lift-ticket-coupon-code'>Jackson Hole Lift Ticket Coupon Code</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-is-a-referral-agent'>What Is A Referral Agent</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=middle-eastern-food-recipes-appetizers'>Middle Eastern Food Recipes Appetizers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mid-century-fabric-rocking-chair'>Mid Century Fabric Rocking Chair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=good-food-channel-co-uk'>Good Food Channel Co Uk</a>,
+";s:7:"expired";i:-1;}

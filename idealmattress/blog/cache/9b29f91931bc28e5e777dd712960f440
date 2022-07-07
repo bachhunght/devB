@@ -1,0 +1,237 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4877:"If your serial number • Select the option "Software updates" in the page. If your serial number does not match, check at a later date for availability. Example DS1Axxxxxxxxxx. Locate the software version that is currently loaded in your product. Connected devices (TV, Home Cinema, Blu-ray player etc): Update can be performed via USB, as well as carried out using an active network connection on the device (check your product’s user manual for more details). Example DS1Axxxxxxxxxx. Find updates. 5. Situation A software update is useful: • when problems occur on the television • to get the latest features Answer To update the software on the TV, follow these steps: 1. Play Pause. Download the software • Insert an empty USB flash drive into a computer. Home. Frequently asked questions about image, sound, channels, software update, internet and Smart TV, remote control, among other topics. while reading this FAQ article, click on 'Support' on the navigation panel above). Published: 2018-08-24 | How to update the software of your Philips TV (via internet)? There are three different software versions in this update. If your serial number does not match, check at a later date for availability. Products. Check the software on the web page • Select the option “Software updates” in the page. Search terms . Will a software update fix my Philips TV issue? This article applies to 5301, 6101 and 6201 models from 2016. Philips TV Firmware Upgrade (w/USB Drive) Check the first three digits of you serial number. Smart Choice in 2018 – Philips TV expands its Smart TV options. Situation A software update is recommended: • to get the latest features • to improve the TV’s functionality Checklist Ensure that: • the TV is connected to the internet Answer To update the software on the TV via internet, follow these steps: 1. When you've coughed up several hundreds of dollars for a brand new TV, the last thing you want to worry about is whether it will get firmware updates over the next few years or become outdated. Philips TV Firmware Upgrade (w/USB Drive) Checking Software ... Cursor right to Update software and press OK. More on the next page SCREEN CAST . • The screen will turn black for 5 to 10 seconds while the TV closes all apps. If your TV successfully detects the firmware upgrade file on your USB drive, it should list it at this stage. Check the current software version on the TV Only update the software if the version mentioned on the website is higher than the software version installed on the TV. Using the Philips TV remote, navigate to "Home/Menu -> Setup -> Software -> Software Update-> USB". 3. 4. Philips TV Firmware Upgrade (w/USB Drive) Checking Software Before loading the software on your TV, verify that the version you are loading is greater than the one that is on your TV. 2. Use Google Assistant to tune into your favorite channel, change the volume, dim the lights, set the temperature and more. If your serial number The Philips Android TV brings great content to you, so you can spend less time browsing and more time watching. 4. How to update the software of your Philips TV (via internet)? Products. Select the file and press OK on the TV remote. Select USB and press OK. ... PHL-0T0HD_192_0 04/06/2018 > Improves Netflix playback. TV Troubleshooting . 6. Video: How to update your Philips Saphi Smart TV software via USB [2018] Subtitles. There are two different software versions in this update. Check the current software version on the TV Only update the software if the version mentioned on the website is higher than the software version installed on the TV 5. Sound and vision. Products. Press the OK button and then cursor right to Software information. All of Philips' 2014-2018 Android TVs should get updated to Android 8.0 Oreo. If your serial number does not match, check at a later date for availability. Example DS1Axxxxxxxxxx. And if you’ve lost your drivers, you can download them here too for free. When you've coughed up several hundreds of dollars for a brand new TV, the last thing you want to worry about is whether it will get firmware updates over the next few years or become outdated. Only load the software if your serial number matches. • The software will now be updated. Only load the software if your serial number matches. ... 2018. Cord Cutter. If your serial number Note Make sure that you have selected to correct model of the TV set. Apps: Update via your smartphone/tablet in the Google Play Store or iTunes; Telephones: Update via the Philips Phone Manager software** 5. 1. How can I tell if there is a later version of software for my Philips TV? To get the latest ... How to update your Philips Saphi Smart TV software via internet [2018] How to update the software of your Philips TV (via internet)? Only load the software if your serial number matches. ";s:7:"keyword";s:31:"philips tv software update 2018";s:5:"links";s:7733:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ryobi-pressure-washer-parts-lowes'>Ryobi Pressure Washer Parts Lowes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-walt-disney-company-login'>The Walt Disney Company Login</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sierra-ski-ranch-trail-map'>Sierra Ski Ranch Trail Map</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chef-salary-with-culinary-degree'>Chef Salary With Culinary Degree</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=carne-asada-fries-del-taco'>Carne Asada Fries Del Taco</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mainstays-aluminum-web-folding-chair'>Mainstays Aluminum Web Folding Chair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=free-christmas-wallpapers-and-screensavers-for-windows-10'>Free Christmas Wallpapers And Screensavers For Windows 10</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wall-sticker-with-my-photo'>Wall Sticker With My Photo</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=stephen-king-books-in-order'>Stephen King Books In Order</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=discover-financial-services-human-resources-phone-number'>Discover Financial Services Human Resources Phone Number</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=road-conditions-to-loveland-ski-area'>Road Conditions To Loveland Ski Area</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wood-bed-frame-queen-diy'>Wood Bed Frame Queen Diy</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=spotted-lake-osoyoos-best-time-to-visit'>Spotted Lake Osoyoos Best Time To Visit</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-restaurants-in-warsaw-2019'>Best Restaurants In Warsaw 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=honor-10-lite-carphone-warehouse'>Honor 10 Lite Carphone Warehouse</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=stinging-nettle-root-vs-leaf'>Stinging Nettle Root Vs Leaf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fairfield-inn-atlanta-perimeter-center'>Fairfield Inn Atlanta Perimeter Center</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dupray-neat-steam-cleaner-instructions'>Dupray Neat Steam Cleaner Instructions</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chicken-lollipop-gravy-online-order'>Chicken Lollipop Gravy Online Order</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=st-christopher-patron-saint-of-athletes'>St Christopher Patron Saint Of Athletes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-massachusetts-boston-tuition'>University Of Massachusetts Boston Tuition</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=public-toilet-floor-plan-dimensions'>Public Toilet Floor Plan Dimensions</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=healthy-dinner-ideas-for-kids'>Healthy Dinner Ideas For Kids</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=living-room-chaise-lounge-covers'>Living Room Chaise Lounge Covers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=award-winning-vodka-sauce-recipe'>Award Winning Vodka Sauce Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=competitive-youth-swimming-near-me'>Competitive Youth Swimming Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-many-starbucks-are-there-in-the-world-2019'>How Many Starbucks Are There In The World 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=i-love-you-images-with-name-download'>I Love You Images With Name Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-a-banana-chair'>How To Make A Banana Chair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=marble-or-quartz-dining-table'>Marble Or Quartz Dining Table</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=tekscore-folding-leg-pool-table'>Tekscore Folding Leg Pool Table</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=use-of-landform-in-landscape-design'>Use Of Landform In Landscape Design</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=are-orchids-poisonous-to-cats'>Are Orchids Poisonous To Cats</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=100-days-of-real-food-meal-plan'>100 Days Of Real Food Meal Plan</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ayesha-curry-cookbook-barnes-and-noble'>Ayesha Curry Cookbook Barnes And Noble</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=small-folding-table-near-me'>Small Folding Table Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chocolate-panna-cotta-recipe-uk'>Chocolate Panna Cotta Recipe Uk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=zillow-rentals-las-vegas-nv'>Zillow Rentals Las Vegas Nv</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sierra-at-tahoe-lift-tickets-sports-basementdiamond-peak-ski-resort-map'>Sierra At Tahoe Lift Tickets Sports Basementdiamond Peak Ski Resort Map</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=artificial-christmas-tree-sale-clearance'>Artificial Christmas Tree Sale Clearance</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mrt-ke-chinese-garden-singapore'>Mrt Ke Chinese Garden Singapore</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=watermelon-and-lemon-juice-side-effects'>Watermelon And Lemon Juice Side Effects</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=average-real-estate-commission-austin'>Average Real Estate Commission Austin</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=vada-pav-banane-ki-vidhi-hindi-mein'>Vada Pav Banane Ki Vidhi Hindi Mein</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ikea-wardrobe-trysil-sliding-doors-4-drawers-assembly'>Ikea Wardrobe Trysil Sliding Doors 4 Drawers Assembly</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-logan-on-netflix-or-hulu'>Is Logan On Netflix Or Hulu</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=at-home-realogy-sign-in'>At Home Realogy Sign In</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=easy-pancake-recipe-for-one'>Easy Pancake Recipe For One</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=creme-brulee-recipe-gordon-ramsay'>Creme Brulee Recipe Gordon Ramsay</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hideout-at-the-laylow-waikiki'>Hideout At The Laylow Waikiki</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bosch-washing-machine-spare-parts-price-list'>Bosch Washing Machine Spare Parts Price List</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ashley-furniture-dresser-replacement-parts'>Ashley Furniture Dresser Replacement Parts</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kfc-menu-prices-near-me'>Kfc Menu Prices Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bosch-washing-machine-programs-explained'>Bosch Washing Machine Programs Explained</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=honey-i-shrunk-the-kids-series'>Honey I Shrunk The Kids Series</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-refresh-garden-soil'>How To Refresh Garden Soil</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=blue-lagoon-cafe-menu-iceland'>Blue Lagoon Cafe Menu Iceland</a>,
+";s:7:"expired";i:-1;}

@@ -1,0 +1,221 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2904:"This method returns an unmodifiable view of the specified set. Whenever we create an object using factory it always … We will see some of factory design pattern usage in JDK. Worked with Adobe for about 2 years, Shashi Bhushan has sound knowledge of technologies like Java, Spring/Spring Boot, Hibernate, Jersey, REST APIs, Python, Django, Javascript, React Js, MySQL, DynamoDB, Redis, Kafka etc. He graduated from NIT Allahabad in 2016 and worked for Paytm as a Software Engineer for a year. The Factory Method pattern uses inheritance and relies on a subclass to handle the desired object instantiation. The factory method is just a method, it can be overridden in a subclass, whereas the abstract factory is an object that has multiple factory methods on it. But that can appear in either an Abstract Factory or Factory Method pattern. Factory Method defines a method, which should be used for creating objects instead of direct constructor call (new operator). Calculate Electricity Bill : A Real World Example of Factory Method. If you extending the class with the creation methods, then you are using … Step 2: Create the concrete classes that extends Plan abstract class. This method allows modules to provide users with “read-only” access to internal sets. Factory Method in Java. AngularJS Factory Method makes the development process of AngularJS application more robust. In java 8 to create immutable set, we use java.util.Collections.unmodifiableSet(Set set) method. Factory method to create immutable Map in Java 9 In Java 9 there are some features are added in Java language and factory method for immutable map is one of them. Methods allow us to reuse the code without retyping the code. Factory method is a creational design pattern, i.e., related to object creation. A factory is a simple function which allows us to add some logic to a created object and return the created object. This course is for all those people who want to learn Data Structures and Algorithms from basic to advance level. We don't expect you to have any prior knowledge of Data Structure and Algorithms, but a basic prior knowledge of any programming language ( C++ / Java) will be helpful. A brief trick: if you are extending the factory class you are using Abstract Factory. In Java, every method must be part of some class which is different from languages like C, C++, and Python. He is very passionate about Competitive Programming & Problem … Building things can be tough when you can't anticipate what type of objects you'll need to create or how to create them. Characteristics of immutable map: As the name suggest these map are immutable. Note that this pattern is also known as Factory Method Design Pattern. Creating immutable set in java 8. In Factory pattern, we create object without exposing the creation logic to the client and refer to newly created object using a common interface. ";s:7:"keyword";s:36:"factory method in java geeksforgeeks";s:5:"links";s:5449:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chick-fil-a-food-truck-kittery-maine'>Chick Fil A Food Truck Kittery Maine</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pendant-alarms-for-the-elderly'>Pendant Alarms For The Elderly</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hgtv-dream-home-2019-canada'>Hgtv Dream Home 2019 Canada</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-to-buy-daikon-radish-seeds'>Where To Buy Daikon Radish Seeds</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=restaurants-with-private-rooms-london'>Restaurants With Private Rooms London</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-to-do-with-shady-part-of-garden'>What To Do With Shady Part Of Garden</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=treasure-chest-meaning-in-telugu'>Treasure Chest Meaning In Telugu</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=setting-the-table-ebook-free-download'>Setting The Table Ebook Free Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=types-of-rice-in-maharashtra'>Types Of Rice In Maharashtra</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=spotted-lake-osoyoos-best-time-to-visit'>Spotted Lake Osoyoos Best Time To Visit</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fire-department-pancake-breakfast-near-me'>Fire Department Pancake Breakfast Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=radisson-blu-hotel-apartments-dubai-silicon-oasis'>Radisson Blu Hotel Apartments Dubai Silicon Oasis</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ski-instructor-jobs-southern-hemisphere'>Ski Instructor Jobs Southern Hemisphere</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=omaha-craigslist-farm-and-garden'>Omaha Craigslist Farm And Garden</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=tile-pro-vs-tile-mate'>Tile Pro Vs Tile Mate</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=my-soul-to-take-3d'>My Soul To Take 3d</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=art-van-living-room-ideas'>Art Van Living Room Ideas</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=living-room-chaise-lounge-covers'>Living Room Chaise Lounge Covers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=buy-one-get-one-free-recliner-ashley-furniture'>Buy One Get One Free Recliner Ashley Furniture</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=traditional-polish-food-near-me'>Traditional Polish Food Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fruit-salad-day-for-kindergarten'>Fruit Salad Day For Kindergarten</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=new-dvd-releases-june-4'>New Dvd Releases June 4</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-become-an-urban-planner'>How To Become An Urban Planner</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=blue-and-white-bedroom-50-favorite-bedrooms'>Blue And White Bedroom 50 Favorite Bedrooms</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chicken-tikka-marinade-jamie-oliver'>Chicken Tikka Marinade Jamie Oliver</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=optimal-healing-environment-hospitals-in-florida'>Optimal Healing Environment Hospitals In Florida</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=healthiest-diets-in-the-world-2018'>Healthiest Diets In The World 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=I-love-you-john-images'>I Love You John Images</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=foldable-table-for-sale-philippines'>Foldable Table For Sale Philippines</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lane-altavista-virginia-serial-number-lookup'>Lane Altavista Virginia Serial Number Lookup</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=medicine-hat-to-calgary-driving-time'>Medicine Hat To Calgary Driving Time</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=villa-interior-design-in-hyderabad'>Villa Interior Design In Hyderabad</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=vail-lift-ticket-prices-2019'>Vail Lift Ticket Prices 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=upvc-window-replacement-near-me'>Upvc Window Replacement Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=penumbral-lunar-eclipse-astrological-meaning'>Penumbral Lunar Eclipse Astrological Meaning</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=set-of-3-wall-art'>Set Of 3 Wall Art</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=worst-month-to-sell-a-house'>Worst Month To Sell A House</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=extra-large-cube-storage-bins'>Extra Large Cube Storage Bins</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dutch-braid-vs-french-braid'>Dutch Braid Vs French Braid</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-type-of-commercial-real-estate'>Best Type Of Commercial Real Estate</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wall-collage-ideas-with-clock'>Wall Collage Ideas With Clock</a>,
+";s:7:"expired";i:-1;}

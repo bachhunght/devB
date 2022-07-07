@@ -1,0 +1,2 @@
+[10-Dec-2019 15:16:52 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/aussec/public_html/wp-content/plugins/hello.php on line 60
+[10-Dec-2019 15:16:57 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/aussec/public_html/wp-content/plugins/hello.php on line 60

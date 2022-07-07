@@ -1,0 +1,147 @@
+0000.002 () Opened log file at time: Mon, 08 Mar 2021 08:19:55 +0000 on https://www.australiansecurity.com.au
+0000.003 () UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.47 WP: 5.6.2 PHP: 7.3.27 (litespeed, Linux ded93877.smartservers.com.au 3.10.0-962.3.2.lve1.5.32.el7.x86_64 #1 SMP Fri Feb 28 07:18:51 EST 2020 x86_64) MySQL: 5.7.33 WPLANG: en_US Server: LiteSpeed safe_mode: 0 max_execution_time: 900 memory_limit: 1024M (used: 71.1M | 41M) multisite: N openssl: OpenSSL 1.1.1d  10 Sep 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.168 () Free space on disk containing Updraft's temporary directory: 211486.9 MB
+0000.002 () Opened log file at time: Mon, 08 Mar 2021 08:19:58 +0000 on https://www.australiansecurity.com.au
+0000.003 () UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.47 WP: 5.6.2 PHP: 7.3.27 (litespeed, Linux ded93877.smartservers.com.au 3.10.0-962.3.2.lve1.5.32.el7.x86_64 #1 SMP Fri Feb 28 07:18:51 EST 2020 x86_64) MySQL: 5.7.33 WPLANG: en_US Server: LiteSpeed safe_mode: 0 max_execution_time: 900 memory_limit: 1024M (used: 67.9M | 71M) multisite: N openssl: OpenSSL 1.1.1d  10 Sep 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.102 () Free space on disk containing Updraft's temporary directory: 211486.9 MB
+0000.125 () Ensuring WP_Filesystem is setup for a restore
+0000.126 () WP_Filesystem is setup and ready for a restore
+0000.132 () Restore job started. Entities to restore: plugins, themes, db. Restore options: {"include_unspecified_tables":false,"tables_to_restore":["rhofwwja_options","rhofwwja_users","rhofwwja_usermeta","rhofwwja_commentmeta","rhofwwja_comments","rhofwwja_itsec_bans","rhofwwja_itsec_distributed_storage","rhofwwja_itsec_fingerprints","rhofwwja_itsec_geolocation_cache","rhofwwja_itsec_lockouts","rhofwwja_itsec_logs","rhofwwja_itsec_mutexes","rhofwwja_itsec_opaque_tokens","rhofwwja_itsec_temp","rhofwwja_itsec_user_groups","rhofwwja_links","rhofwwja_postmeta","rhofwwja_posts","rhofwwja_term_relationships","rhofwwja_term_taxonomy","rhofwwja_termmeta","rhofwwja_terms","rhofwwja_yoast_seo_links","rhofwwja_yoast_seo_meta","rhofwwja_blc_filters","rhofwwja_blc_instances","rhofwwja_blc_links","rhofwwja_blc_synch","rhofwwja_brb_business","rhofwwja_brb_review","rhofwwja_cf7dbplugin_st","rhofwwja_cf7dbplugin_submits","rhofwwja_cptch_whitelist","rhofwwja_grp_google_place","rhofwwja_grp_google_review","rhofwwja_hctpc_images","rhofwwja_hctpc_packages","rhofwwja_hctpc_whitelist","rhofwwja_itsec_log","rhofwwja_iwp_backup_status","rhofwwja_iwp_processed_iterator","rhofwwja_redirection_404","rhofwwja_redirection_groups","rhofwwja_redirection_items","rhofwwja_redirection_logs","rhofwwja_smush_dir_images","rhofwwja_structuring_markup","rhofwwja_toolset_post_guid_id","rhofwwja_wfblockediplog","rhofwwja_wfblocks7","rhofwwja_wfconfig","rhofwwja_wfcrawlers","rhofwwja_wffilechanges","rhofwwja_wffilemods","rhofwwja_wfhits","rhofwwja_wfhoover","rhofwwja_wfissues","rhofwwja_wfknownfilelist","rhofwwja_wflivetraffichuman","rhofwwja_wflocs","rhofwwja_wflogins","rhofwwja_wfls_2fa_secrets","rhofwwja_wfls_settings","rhofwwja_wfnotifications","rhofwwja_wfpendingissues","rhofwwja_wfreversecache","rhofwwja_wfsnipcache","rhofwwja_wfstatus","rhofwwja_wftrafficrates","rhofwwja_yoast_indexable","rhofwwja_yoast_indexable_hierarchy","rhofwwja_yoast_migrations","rhofwwja_yoast_primary_term"],"tables_to_skip":[],"updraft_encryptionphrase":"","updraft_restorer_wpcore_includewpconfig":false,"updraft_incremental_restore_point":-1}
+0000.135 () Will not delete any archives after unpacking them, because there was no cloud storage for this backup
+0000.137 () Entity: db
+0000.137 () restore_backup(backup_file=backup_2021-03-08-0301_Australian_Security_c23abcb5f5ab-db.gz, type=db, info=a:0:{}, last_one=)
+0000.137 () Unpacking backup... (backup_2021-03-08-0301_Australian_Security_c23abcb5f5ab-db.gz, 8.9 Mb)
+0001.774 () Database successfully unpacked
+0001.774 () Restoring the database (on a large site this can take a long time - if it times out (which can happen if your web hosting company has configured your hosting to limit resources) then you should use a different method, such as phpMyAdmin)...
+0001.774 () Using direct MySQL access; value of use_mysqli is: 1
+0001.775 () SQL compatibility mode is: NO_AUTO_VALUE_ON_ZERO,
+0001.797 () Max packet size: 256 MB
+0001.797 () Entering maintenance mode
+0001.797 () Enabling Maintenance mode&#8230;
+0001.808 () Backup of: https://www.australiansecurity.com.au
+0001.809 () Content URL: https://www.australiansecurity.com.au/wp-content
+0001.809 () Uploads URL: https://www.australiansecurity.com.au/wp-content/uploads
+0001.809 () Old table prefix: rhofwwja_
+0001.809 () Site information: multisite=0
+0001.811 () New table prefix: rhofwwja_
+0001.820 () Processing table (InnoDB): rhofwwja_options
+0001.960 () Restoring prior UD configuration (table: rhofwwja_options; keys: 4)
+0001.973 () Processing table (InnoDB): rhofwwja_users
+0001.988 () Processing table (InnoDB): rhofwwja_usermeta
+0002.006 () Processing table (InnoDB): rhofwwja_commentmeta
+0002.016 () Processing table (InnoDB): rhofwwja_comments
+0002.030 () Processing table (InnoDB): rhofwwja_itsec_bans
+0002.072 () Processing table (MyISAM): rhofwwja_itsec_distributed_storage
+0002.076 () Processing table (MyISAM): rhofwwja_itsec_fingerprints
+0002.083 () Processing table (MyISAM): rhofwwja_itsec_geolocation_cache
+0002.091 () Processing table (InnoDB): rhofwwja_itsec_lockouts
+0002.102 () Processing table (MyISAM): rhofwwja_itsec_logs
+0002.109 () Processing table (InnoDB): rhofwwja_itsec_mutexes
+0002.119 () Processing table (MyISAM): rhofwwja_itsec_opaque_tokens
+0002.127 () Processing table (InnoDB): rhofwwja_itsec_temp
+0002.139 () Processing table (InnoDB): rhofwwja_itsec_user_groups
+0002.146 () Processing table (MyISAM): rhofwwja_links
+0002.154 () Processing table (InnoDB): rhofwwja_postmeta
+0002.374 () Database queries processed: 50 in 0.60 seconds
+0002.700 () Processing table (InnoDB): rhofwwja_posts
+0002.913 () Processing table (MyISAM): rhofwwja_term_relationships
+0002.922 () Processing table (MyISAM): rhofwwja_term_taxonomy
+0002.933 () Processing table (InnoDB): rhofwwja_termmeta
+0002.943 () Processing table (MyISAM): rhofwwja_terms
+0002.958 () Processing table (InnoDB): rhofwwja_yoast_seo_links
+0002.979 () Processing table (InnoDB): rhofwwja_yoast_seo_meta
+0002.988 () Processing table (MyISAM): rhofwwja_blc_filters
+0002.992 () Processing table (MyISAM): rhofwwja_blc_instances
+0002.997 () Processing table (MyISAM): rhofwwja_blc_links
+0003.003 () Processing table (MyISAM): rhofwwja_blc_synch
+0003.007 () Processing table (MyISAM): rhofwwja_brb_business
+0003.012 () Processing table (MyISAM): rhofwwja_brb_review
+0003.014 () Database queries processed: 100 in 1.24 seconds
+0003.020 () Processing table (InnoDB): rhofwwja_cf7dbplugin_st
+0003.072 () Processing table (MyISAM): rhofwwja_cf7dbplugin_submits
+0008.857 () Processing table (InnoDB): rhofwwja_cptch_whitelist
+0008.865 () Processing table (MyISAM): rhofwwja_grp_google_place
+0008.869 () Processing table (MyISAM): rhofwwja_grp_google_review
+0008.879 () Processing table (InnoDB): rhofwwja_hctpc_images
+0008.891 () Processing table (InnoDB): rhofwwja_hctpc_packages
+0008.895 () Database queries processed: 150 in 7.12 seconds
+0008.901 () Processing table (InnoDB): rhofwwja_hctpc_whitelist
+0008.913 () Processing table (InnoDB): rhofwwja_itsec_log
+0009.135 () Processing table (MyISAM): rhofwwja_iwp_backup_status
+0009.139 () Processing table (MyISAM): rhofwwja_iwp_processed_iterator
+0009.147 () Processing table (InnoDB): rhofwwja_redirection_404
+0009.180 () Processing table (InnoDB): rhofwwja_redirection_groups
+0009.194 () Processing table (InnoDB): rhofwwja_redirection_items
+0009.211 () Processing table (InnoDB): rhofwwja_redirection_logs
+0009.225 () Processing table (MyISAM): rhofwwja_smush_dir_images
+0009.229 () Processing table (MyISAM): rhofwwja_structuring_markup
+0009.236 () Processing table (InnoDB): rhofwwja_toolset_post_guid_id
+0009.243 () Processing table (MyISAM): rhofwwja_wfblockediplog
+0009.247 () Processing table (MyISAM): rhofwwja_wfblocks7
+0009.251 () Processing table (MyISAM): rhofwwja_wfconfig
+0009.279 () Processing table (MyISAM): rhofwwja_wfcrawlers
+0009.284 () Processing table (MyISAM): rhofwwja_wffilechanges
+0009.288 () Processing table (MyISAM): rhofwwja_wffilemods
+0009.376 () Database queries processed: 200 in 7.60 seconds
+0012.537 () Database queries processed: 250 in 10.76 seconds
+0013.089 () Processing table (MyISAM): rhofwwja_wfhits
+0013.096 () Processing table (MyISAM): rhofwwja_wfhoover
+0015.428 () Processing table (MyISAM): rhofwwja_wfissues
+0015.438 () Processing table (MyISAM): rhofwwja_wfknownfilelist
+0016.569 () Processing table (MyISAM): rhofwwja_wflivetraffichuman
+0016.573 () Processing table (MyISAM): rhofwwja_wflocs
+0016.577 () Processing table (MyISAM): rhofwwja_wflogins
+0016.625 () Processing table (InnoDB): rhofwwja_wfls_2fa_secrets
+0016.636 () Processing table (InnoDB): rhofwwja_wfls_settings
+0016.644 () Processing table (MyISAM): rhofwwja_wfnotifications
+0016.648 () Processing table (MyISAM): rhofwwja_wfpendingissues
+0016.653 () Processing table (MyISAM): rhofwwja_wfreversecache
+0016.656 () Processing table (MyISAM): rhofwwja_wfsnipcache
+0016.662 () Processing table (MyISAM): rhofwwja_wfstatus
+0016.736 () Processing table (MyISAM): rhofwwja_wftrafficrates
+0016.744 () Processing table (InnoDB): rhofwwja_yoast_indexable
+0016.773 () Processing table (InnoDB): rhofwwja_yoast_indexable_hierarchy
+0016.786 () Processing table (InnoDB): rhofwwja_yoast_migrations
+0016.798 () Processing table (InnoDB): rhofwwja_yoast_primary_term
+0018.162 () Unlocking database and leaving maintenance mode
+0018.162 () Disabling Maintenance mode&#8230;
+0018.162 () Finished: lines processed: 443 in 16.39 seconds
+0018.166 () Cleaning up rubbish...
+0018.175 () Entity: plugins
+0018.175 () restore_backup(backup_file=backup_2021-03-08-0301_Australian_Security_c23abcb5f5ab-plugins.zip, type=plugins, info=a:2:{s:4:"path";s:43:"/home/aussec/public_html/wp-content/plugins";s:11:"description";s:7:"Plugins";}, last_one=)
+0018.176 () Unpacking backup... (backup_2021-03-08-0301_Australian_Security_c23abcb5f5ab-plugins.zip, 55.3 MB)
+0018.177 () Unzipping backup_2021-03-08-0301_Australian_Security_c23abcb5f5ab-plugins.zip to /home/aussec/public_html/wp-content/upgrade/e7948679/ using UpdraftPlus_ZipArchive, starting index 0
+0021.313 () Unzip progress: 1949 out of 13354 files (2.4 KB, plugins/wordfence/modules/login-security/views/options/option-text.php)
+0024.034 () Unzip progress: 2950 out of 13354 files (19.1 MB, plugins/wordfence/modules/login-security/js/login.1587658822.js)
+0026.705 () Unzip progress: 3951 out of 13354 files (37.5 MB, plugins/google-analytics-dashboard/ga-lib.php)
+0029.529 () Unzip progress: 4952 out of 13354 files (59 MB, plugins/wordpress-seo/js/dist/redux-1461.js)
+0031.322 () Unzip progress: 5953 out of 13354 files (71.1 MB, plugins/wordpress-seo/css/dist/search-appearance-1461.css)
+0032.010 () Unzip progress: 6954 out of 13354 files (76.4 MB, plugins/updraftplus/vendor/guzzle/guzzle/src/Guzzle/Parser/ParserRegistry.php)
+0034.662 () Unzip progress: 7955 out of 13354 files (94.9 MB, plugins/better-wp-security/core/modules/notification-center/logs.php)
+0035.854 () Unzip progress: 8956 out of 13354 files (104.3 MB, plugins/captcha/images/package/arabic_wt/3.png)
+0037.776 () Unzip progress: 9957 out of 13354 files (117.7 MB, plugins/iwp-client/lib/amazon/guzzle/guzzle/src/Guzzle/Plugin/Backoff/CallbackBackoffStrategy.php)
+0039.857 () Unzip progress: 10958 out of 13354 files (131.1 MB, plugins/contact-form-7-to-database-extension/SortTransform.php)
+0042.494 () Unzip progress: 11959 out of 13354 files (150.3 MB, plugins/types/library/toolset/types/resources/js/jquery_ui/images/ui-bg_glass_75_dadada_1x400.png)
+0043.194 () Unzip progress: 12960 out of 13354 files (153.9 MB, plugins/types/library/twig/twig/test/Twig/Tests/Fixtures/exceptions/multiline_function_with_undefined_variable.test)
+0044.051 () Unzip progress: 13354 out of 13354 files (160.5 MB, plugins/types/application/views/help/basic.twig)
+0044.058 () Moving old data: filesystem method / updraft_dir is potentially possible
+0044.059 () Moving old data: can potentially use wp_filesystem method / -old
+0044.059 () Moving old data out of the way...
+0045.125 () Top-level entities being moved: really-simple-ssl, widget-google-reviews, index.php, wordfence, leverage-browser-caching, hello-dolly, regenerate-thumbnails, wpcf7-redirect, redirection, async-javascript, glue-for-yoast-seo-amp, wp-super-cache, duplicate-post, bootstrap-shortcodes, acf-repeater, error_log, email-address-encoder, mainwp-child, wp-structuring-markup, google-analytics-dashboard, simple-custom-css, faq-schema-for-pages-and-posts, enable-jquery-migrate-helper, header-and-footer-scripts, autoptimize, contact-form-7-extras, gravityforms, business-reviews-bundle, contact-form-7, wordpress-seo, display-php-version, dk-pricr-responsive-pricing-table, simple-sitemap, updraftplus, better-wp-security, hyperdb-1-1, captcha, widgetkit, cache-control, shortcode-exec-php, remove-query-strings-littlebizzy, contact-form-submissions, cbnet-really-simple-captcha-comments, google-sitemap-generator, easy-fancybox, really-simple-captcha, iwp-client, wp-migrate-db, hyperdb, better-search-replace, wp-smushit, contact-form-7-to-database-extension, wp-carousel-free, w3-total-cache, gonzales, classic-editor, widget-css-classes, types, advanced-custom-fields-pro-v5.6
+0045.131 () Moving unpacked backup into place...
+0045.651 () Top-level entities being moved: really-simple-ssl, widget-google-reviews, index.php, wordfence, leverage-browser-caching, hello-dolly, regenerate-thumbnails, wpcf7-redirect, redirection, async-javascript, glue-for-yoast-seo-amp, wp-super-cache, duplicate-post, bootstrap-shortcodes, acf-repeater, error_log, email-address-encoder, mainwp-child, wp-structuring-markup, google-analytics-dashboard, simple-custom-css, faq-schema-for-pages-and-posts, header-and-footer-scripts, autoptimize, contact-form-7-extras, gravityforms, business-reviews-bundle, contact-form-7, wordpress-seo, display-php-version, dk-pricr-responsive-pricing-table, simple-sitemap, updraftplus, better-wp-security, hyperdb-1-1, captcha, widgetkit, cache-control, shortcode-exec-php, remove-query-strings-littlebizzy, contact-form-submissions, cbnet-really-simple-captcha-comments, google-sitemap-generator, easy-fancybox, really-simple-captcha, iwp-client, wp-migrate-db, hyperdb, better-search-replace, wp-smushit, contact-form-7-to-database-extension, wp-carousel-free, gonzales, classic-editor, widget-css-classes, types, advanced-custom-fields-pro-v5.6
+0045.658 () Cleaning up rubbish...
+0045.663 () Entity: themes
+0045.663 () restore_backup(backup_file=backup_2021-03-08-0301_Australian_Security_c23abcb5f5ab-themes.zip, type=themes, info=a:2:{s:4:"path";s:42:"/home/aussec/public_html/wp-content/themes";s:11:"description";s:6:"Themes";}, last_one=1)
+0046.269 () Unpacking backup... (backup_2021-03-08-0301_Australian_Security_c23abcb5f5ab-themes.zip, 6.6 MB)
+0046.269 () Unzipping backup_2021-03-08-0301_Australian_Security_c23abcb5f5ab-themes.zip to /home/aussec/public_html/wp-content/upgrade/fa1bec0a/ using UpdraftPlus_ZipArchive, starting index 0
+0048.004 () Unzip progress: 299 out of 299 files (8.5 MB, themes/index.php)
+0048.005 () Moving old data: filesystem method / updraft_dir is potentially possible
+0048.005 () Moving old data: can potentially use wp_filesystem method / -old
+0048.005 () Moving old data out of the way...
+0048.066 () Top-level entities being moved: index.php, twentytwentyone, twentytwenty, AdvanceImage5, twentynineteen, australiaantenna
+0048.067 () Moving unpacked backup into place...
+0048.081 () Top-level entities being moved: index.php, australiaantenna_old.zip, australiaantenna.zip, twentytwenty, AdvanceImage5, twentynineteen, australiaantenna
+0048.082 () Cleaning up rubbish...
+0048.154 () Restore successful!
+0048.154 () Restore successful

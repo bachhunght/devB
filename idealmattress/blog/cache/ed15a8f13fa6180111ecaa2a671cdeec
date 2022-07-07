@@ -1,0 +1,213 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2900:"Cook it in a cast-iron pan! Puns like “Kale Me Maybe” and “Please Don’t Kale My Vibe” have sprinkled health conversation with their adorable enthusiasm. Often labeled as a superfood, kale is one of the healthiest and most nutrient-dense foods you can eat. Kale is a cruciferous vegetable, among the same family as cauliflower, broccoli, and cabbage. Spinach was Popeye's first choice when he needed a powerful pick-me-up, but perhaps he didn't know about raw kale. So who shouldn’t eat kale? ... while for others it’s merely a good source of fiber, vitamins and minerals. Hello, first thank you for the dedication and information you have taken time to share with all of us strangers :) I am confused that on the Vegan Food Pyramid page the suggestion for dark leafy green kale is cooked 1 cup, but raw 2 cups In most cases, kale is a great addition to any diet. With more protein, fiber, calcium and vitamin C than the equivalent amount of spinach, as per USDA data, this leafy green packs a punch. If you’re looking for new ways to use kale, try adding it into your soup like in this hearty vegetarian recipe. Kale can be found in three different varieties – curly, ornamental and dinosaur. Raw vs. cooked: Does it matter for nutrition’s sake? Iron is essential for good health, especially for women, as it helps with the formation of hemoglobin and enzymes, transports oxygen to various parts of the body, aids in cell growth, proper liver function, and more. Like spinach, you can eat it cooked or raw. 3. Continued If You Have Thyroid Problems. But if you have existing thyroid problems it’s safest to stick to cooked kale. If you get gas or bloating when you eat kale, cabbage or beans it’s best to avoid all aggravating foods, including kale, to give the digestive system a chance to recover.  Want to up the iron quantity of your kale even more? This leafy green comes in a variety of colors, shapes, and textures. Raw versus cooked green leafy vegetables. However, chomping on the stems without cooking them first isn’t such a great idea. Kale, also known as borecole, is about the healthiest vegetable around. A popular snack is kale chips, where you drizzle some extra virgin olive oil or avocado oil on your kale, add some salt and then bake in it an oven until dry. Why Kale Is Good for You: 20 Health Benefits and Nutrition Facts You see kale everywhere these days. ... both raw and cooked. You can also cook it up on top of this protein-packed flatbread pizza . But whatever you do, don't boil, saute or stir-fry … A cup of cooked kale provides almost five times an adult’s daily need for vitamin K, around 15–18% of their calcium need, and about 7% of the daily phosphorus requirement. Indeed, according to the source just linked, you can get about the same amount of absorbable calcium from a cup of cooked kale as you can from a cup of cow’s milk. ";s:7:"keyword";s:27:"is cooked kale good for you";s:5:"links";s:4363:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cheap-plastic-storage-bins-with-lids'>Cheap Plastic Storage Bins With Lids</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=classic-car-events-france-2019'>Classic Car Events France 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-to-buy-trees-in-france'>Where To Buy Trees In France</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sweet-potato-chaat-for-fast'>Sweet Potato Chaat For Fast</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-to-stay-in-prague-tripadvisor'>Where To Stay In Prague Tripadvisor</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=new-food-network-shows-2019'>New Food Network Shows 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-a-living-gardening'>How To Make A Living Gardening</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=3-primary-kitchen-work-station'>3 Primary Kitchen Work Station</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=spanish-colonial-architecture-in-mexico'>Spanish Colonial Architecture In Mexico</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=authentic-tex-mex-taco-meat-recipe'>Authentic Tex Mex Taco Meat Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=brandon-sanderson-white-sand-volume-3'>Brandon Sanderson White Sand Volume 3</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-soil-for-black-bamboo'>Best Soil For Black Bamboo</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=high-chairs-for-disabled-adults'>High Chairs For Disabled Adults</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-bridge-season-3-recap'>The Bridge Season 3 Recap</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=above-ground-pool-landscaping-with-rocks'>Above Ground Pool Landscaping With Rocks</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=george-draper-dayton-family-tree'>George Draper Dayton Family Tree</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sun-joe-portable-pressure-washer'>Sun Joe Portable Pressure Washer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=katalon-studio-pros-and-cons'>Katalon Studio Pros And Cons</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=use-photoshop-online-free-without-download'>Use Photoshop Online Free Without Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=locking-wall-cabinet-with-glass-doors'>Locking Wall Cabinet With Glass Doors</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=feminine-of-gardener-in-english'>Feminine Of Gardener In English</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pink-princess-plant-for-sale'>Pink Princess Plant For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=601-raintree-road-lexington-ky'>601 Raintree Road Lexington Ky</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rooms-to-go-living-room-sets-under-1000'>Rooms To Go Living Room Sets Under 1000</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=weather-forecast-dodge-ridge-ski-resort'>Weather Forecast Dodge Ridge Ski Resort</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=venison-barley-soup-slow-cooker'>Venison Barley Soup Slow Cooker</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=storing-beets-in-root-cellar'>Storing Beets In Root Cellar</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bench-partner-meaning-in-hindi'>Bench Partner Meaning In Hindi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sketch-1-for-composition-vii-movement'>Sketch 1 For Composition Vii Movement</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=outdoor-living-spaces-on-a-budget'>Outdoor Living Spaces On A Budget</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-long-to-cook-ribs-wrapped-in-foil-on-grill'>How Long To Cook Ribs Wrapped In Foil On Grill</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=handbags-on-sale-online-shopping'>Handbags On Sale Online Shopping</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=things-to-do-in-paducah-ky'>Things To Do In Paducah Ky</a>,
+";s:7:"expired";i:-1;}

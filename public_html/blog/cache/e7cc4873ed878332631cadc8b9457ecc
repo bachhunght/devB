@@ -1,0 +1,268 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:5473:"R-717 goes by the trade name Ammonia, which has been around since the 1930s. The European Union has mandated that residential air conditioning and refrigeration must use refrigerants of GWP of 150 or less by 2015. The Rise of Low GWP Refrigerants. Experts today recognize it as the most efficient refrigerant in the world. DuPont ™ Opteon ® Refrigerant Delivers Low GWP With more than three billion vehicles projected to be on the road in the near future, it is critical to minimize not just their energy use, but also their environmental impact, which is where a next-generation refrigerant can help. For example, California through the Air Resources Board (CARB) has proposed a global warming potential (GWP) proposed limit of 750 starting Jan. 1, 2023, for HVAC products, and Jan. 1, 2024, for chillers, as well as additional requirements for refrigeration systems to go into effect in 2021. The HFC refrigerants commonly in use today have GWP values that are thousands of times larger than that of carbon dioxide. HFCs & Low GWP Refrigerants: Currently the major refrigerant is switching to Hydrofluorocarbons (HFCs) which has zero Ozone-Depletion Potential (zero-ODP). The looming change has led to the production of low global warming potential (low-GWP) refrigerants you can specify in your next upgrade. The CRADA partner will develop next generation of low GWP refrigerants to be evaluated at ORNL. Learn vocabulary, terms, and more with flashcards, games, and other study tools. The global warming potential (GWP) is a measure of the potency of a greenhouse gas relative to carbon dioxide (where carbon dioxide, by definition, has a GWP value of 1). The HFC refrigerants commonly in use today have GWP values that are thousands of times larger than that of carbon dioxide. To develop low Global Warming Potential (GWP) refrigerant solutions for the heating, air conditioning and refrigeration (HVAC&R) market through leadership in Life Cycle Climate Performance (LCCP) modeling, experimental evaluation, and field testing. According to the California Air Resources Board, that would be R-717, which has a 100-year GWP of 0. It was established to investigate and evaluate a series of the products including halogen-free refrigerants. The global warming potential (GWP) is a measure of the potency of a greenhouse gas relative to carbon dioxide (where carbon dioxide, by definition, has a GWP value of 1). L40 has been created by Honeywell and is a blend of R32, R152a, R1234yf and R1234ze(E) with a GWP of 285. The colorless refrigerant often used in absorption system that has a distinct odor. Which Refrigerant Has The Lowest GWP? * GWPs listed are IPCC AR4 (2007), 100-year GWPs. Common refrigerants and their Ozone Depletion Potential (ODP) and Global Warming Potential (GWP) are indicated below.Ozone Depletion Potential (ODP) of a chemical compound is the relative amount of degradation it can cause to the ozone layerGlobal Warming Potential (GWP) is a measure of how much a given mass of a gas contributes to global warming. L40 and DR7 are two refrigerant blends that fall under this category. Which Refrigerant Has The Lowest GWP? Reduce Refrigerant Leak To 10% Per Year* Eliminate 30% Of Global Warming Impact 15% Direct Warming Impact (Refrigerant Leakage) 40% Indirect Warming Impact (Energy Consumption) Eliminate 45% Of Global Warming Impact 2. The same is true of automobiles by 2017. States are phasing out ozone-depleting refrigerants like R22 and R410A. Learn more. Low GWP, non-toxic blends with an A2L “mildly flammable” rating. By definition the RMP regulation uses these GWPs to determine if any given refrigerant is high-GWP. Warning: in some cases high-GWP refrigerants have been advertised as "environmentally friendly" or "low-GWP" when they are in fact high-GWP and regulated under the RMP. R-1234yf. According to the California Air Resources Board, that would be R-717, which has a 100-year GWP of 0. Even though HFCs have a zero-ODP, in some cases it has a Global Warming Potential (high-GWP). According to the California Air Resources Board, that would be R-717, which has a 100-year GWP of 0. In the EU, low GWP refrigerants have a GWP of 150 or less. Medium GWP refrigerants are between 150 and 2,500. Some of these are also listed in ("Low GWP" alternatives for HFC refrigerants (status as of 09.2018)). Global warming potential (GWP) is a measure of how much heat a greenhouse gas traps in the atmosphere up to a specific time horizon, relative to carbon dioxide.It compares the amount of heat trapped by a certain mass of the gas in question to the amount of heat trapped by a similar mass of carbon dioxide and is expressed as a factor of carbon dioxide (whose GWP is standardized to 1). R-717 goes by the trade name Ammonia, which has been around since the 1930s. For testing the "Low GWP" refrigerants, AHRI (USA) has initiated the "Alternative Refrigerants Evaluation Program (AREP)". Start studying Pearson Chapter 6 - Refrigerants and Refrigerant Oils. (Phys.org)—Researchers at the National Institute of Standards and Technology (NIST) have developed a new computational method for identifying candidate refrigerant fluids with low …  In a future, when GWP values decrease due to phase downs and energy efficiency demands (MEPS) increase, HVACR professionals will focus on using components that allow for the lowest possible charge and technologies with the best cost/performance for a given refrigerant type. ";s:7:"keyword";s:36:"which refrigerant has the lowest gwp";s:5:"links";s:12072:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lowes-buy-more-save-more-appliance-rebate'>Lowes Buy More Save More Appliance Rebate</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-float-in-water-without-moving'>How To Float In Water Without Moving</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=standard-ceiling-height-in-feet'>Standard Ceiling Height In Feet</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=home-theater-carpet-home-depot'>Home Theater Carpet Home Depot</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=crate-and-barrel-leather-dining-chairs'>Crate And Barrel Leather Dining Chairs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-chair-essay-for-3rd-class'>The Chair Essay For 3rd Class</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=2019-real-estate-and-property-awards'>2019 Real Estate And Property Awards</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=oil-paintings-for-sale-amazon'>Oil Paintings For Sale Amazon</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=samsung-washer-and-dryer-set-home-depot'>Samsung Washer And Dryer Set Home Depot</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=large-slate-rock-for-sale'>Large Slate Rock For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=study-table-and-chair-for-kid'>Study Table And Chair For Kid</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=gardeners-supply-promo-code-2019'>Gardeners Supply Promo Code 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-spruce-up-your-office-desk'>How To Spruce Up Your Office Desk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=deciduous-trees-vs-coniferous-trees'>Deciduous Trees Vs Coniferous Trees</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=solid-wood-chest-of-drawers-ikea'>Solid Wood Chest Of Drawers Ikea</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hotels-near-warehouse-23-wakefield'>Hotels Near Warehouse 23 Wakefield</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-adjust-the-back-of-an-office-chair'>How To Adjust The Back Of An Office Chair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cvs-photo-printing-near-me'>Cvs Photo Printing Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=king-soopers-lift-tickets-2019'>King Soopers Lift Tickets 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=queen-bed-frame-with-headboard-walmart'>Queen Bed Frame With Headboard Walmart</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=commercial-building-plan-dwg-free-download'>Commercial Building Plan Dwg Free Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-long-to-marinate-tandoori-chicken'>How Long To Marinate Tandoori Chicken</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=main-dish-casseroles-for-entertaining'>Main Dish Casseroles For Entertaining</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=traverse-city-film-festival-2018-schedule'>Traverse City Film Festival 2018 Schedule</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-kitchen-appliances-2019-uk'>Best Kitchen Appliances 2019 Uk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pavlova-torta-sa-zutim-kremom'>Pavlova Torta Sa Zutim Kremom</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-mushroom-plugs'>How To Make Mushroom Plugs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=living-room-plan-with-measurements'>Living Room Plan With Measurements</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-implement-behaviour-driven-development'>How To Implement Behaviour Driven Development</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=who-won-baking-championship-2019'>Who Won Baking Championship 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ashley-power-lift-recliner-reviews'>Ashley Power Lift Recliner Reviews</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=texas-real-estate-license-online'>Texas Real Estate License Online</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=paula-deen-chicken-casserole-with-ritz-crackers'>Paula Deen Chicken Casserole With Ritz Crackers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=scary-movie-2-google-drive'>Scary Movie 2 Google Drive</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=shipping-container-swimming-pool-for-sale-uk'>Shipping Container Swimming Pool For Sale Uk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hitachi-inverter-refrigerator-service-manual-pdf'>Hitachi Inverter Refrigerator Service Manual Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fast-growing-shade-trees-south-africa'>Fast Growing Shade Trees South Africa</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=urban-outfitters-december-2018-promo-code'>Urban Outfitters December 2018 Promo Code</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=steam-clean-engine-near-me'>Steam Clean Engine Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cheap-bedroom-furniture-sets-under-200'>Cheap Bedroom Furniture Sets Under 200</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=view-cookies-in-chrome-developer-tools'>View Cookies In Chrome Developer Tools</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=craftsman-electric-power-washer-99016'>Craftsman Electric Power Washer 99016</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=honey-chilli-chicken-sanjeev-kapoor'>Honey Chilli Chicken Sanjeev Kapoor</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pharmacy-technician-course-red-river-college'>Pharmacy Technician Course Red River College</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=custom-picture-framing-near-me'>Custom Picture Framing Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-trim-flowering-succulents'>How To Trim Flowering Succulents</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=master-bedroom-plans-with-bath-and-walk-in-closet'>Master Bedroom Plans With Bath And Walk In Closet</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-car-house-kinnelon-nj'>The Car House Kinnelon Nj</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=home-depot-deck-installation-cost'>Home Depot Deck Installation Cost</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-repair-sash-windows-with-springs'>How To Repair Sash Windows With Springs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hummus-and-pita-co-owner'>Hummus And Pita Co Owner</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cheesy-potatoes-with-real-potatoes'>Cheesy Potatoes With Real Potatoes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dresden-files-peace-talks-amazon'>Dresden Files Peace Talks Amazon</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=matthew-mcconaughey-movies-and-tv-shows'>Matthew Mcconaughey Movies And Tv Shows</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wool-carpet-cleaning-near-me'>Wool Carpet Cleaning Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=perennial-garden-plans-zone-5-partial-sun'>Perennial Garden Plans Zone 5 Partial Sun</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=blue-hd-wallpapers-1080p-for-mobile'>Blue Hd Wallpapers 1080p For Mobile</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=karcher-pressure-washer-leaking-water-from-handle'>Karcher Pressure Washer Leaking Water From Handle</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ar-pressure-washer-pump-parts'>Ar Pressure Washer Pump Parts</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=doterra-lavender-uses-and-benefits'>Doterra Lavender Uses And Benefits</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-south-florida-application'>University Of South Florida Application</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-secret-garden-movie-2019'>The Secret Garden Movie 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pakistani-food-near-me-open-now'>Pakistani Food Near Me Open Now</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chinese-baked-sweet-and-sour-chicken-wing-recipes'>Chinese Baked Sweet And Sour Chicken Wing Recipes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lg-refrigerator-control-panel-reset'>Lg Refrigerator Control Panel Reset</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=small-roof-garden-design-ideas'>Small Roof Garden Design Ideas</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=double-french-doors-exterior-menards'>Double French Doors Exterior Menards</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=subaru-pressure-washer-repair-near-me'>Subaru Pressure Washer Repair Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-does-mojito-mean-in-english'>What Does Mojito Mean In English</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=soda-springs-foam-in-the-park'>Soda Springs Foam In The Park</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=baby-relax-mikayla-swivel-gliding-recliner-disassembly'>Baby Relax Mikayla Swivel Gliding Recliner Disassembly</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=slow-cooker-corn-on-the-cob-with-milk'>Slow Cooker Corn On The Cob With Milk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=celery-juice-detox-symptoms-headache'>Celery Juice Detox Symptoms Headache</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mixing-dark-and-light-wood-furniture-in-bedroom'>Mixing Dark And Light Wood Furniture In Bedroom</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rhum-agricole-can-be-made-on-the-island-of'>Rhum Agricole Can Be Made On The Island Of</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=modavari-forrest-live-edge-collection'>Modavari Forrest Live Edge Collection</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=8-ball-pool-pass-free'>8 Ball Pool Pass Free</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=40000-psi-pressure-washer-rental'>40000 Psi Pressure Washer Rental</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=new-dvd-releases-june-4'>New Dvd Releases June 4</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sun-joe-detergent-not-working'>Sun Joe Detergent Not Working</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=does-a-room-have-to-be-empty-to-lay-carpet'>Does A Room Have To Be Empty To Lay Carpet</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-fall-of-the-roman-empire-compared-to-america'>The Fall Of The Roman Empire Compared To America</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=text-formatting-in-ms-word-2007'>Text Formatting In Ms Word 2007</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-repair-double-hung-sash-windows'>How To Repair Double Hung Sash Windows</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pink-princess-plant-for-sale'>Pink Princess Plant For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=slipcover-for-sectional-with-attached-cushions'>Slipcover For Sectional With Attached Cushions</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-keep-impatiens-blooming'>How To Keep Impatiens Blooming</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=violet-oon-high-tea-ion'>Violet Oon High Tea Ion</a>,
+";s:7:"expired";i:-1;}

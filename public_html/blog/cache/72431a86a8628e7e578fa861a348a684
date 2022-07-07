@@ -1,0 +1,236 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:5504:"A unit of measurement for volume. 1 inches to cm = 2.54 cm. Cubic inch measurement dealing with length, width, depth volume of an object. Conversion between cubic inch and square inch. To convert cubic centimeters to cubic inches, multiply the cubic centimeter value by 0.06102374409 or divide by 16.387064. The cubic inch is a US customary and imperial unit of volume. 0.000 016 387 064 cubic meters (SI base unit). What is a cubic millimeter (mm 3)? There are 16,387.064 cubic millimeters in a cubic inch. Cubic inch is a standard measuring unit of volume in imperial and US customary measuring systems. Cubic inch standard symbol is "in 3". 5 inches to cm = 12.7 cm ... and United States customary units.  ... 100,000 Cubic Millimeters to Cubic Inches = 6.1024: 60 Cubic Millimeters to Cubic Inches = 0.0037: 1,000,000 Cubic Millimeters to Cubic Inches = 61.0237: Similar Volume Units. For example, to find out how many cubic centimeters is 1000 cubic inches, multiply 1000 by 16.387064, that makes 16387.064 cubic centimeters equal to 1000 cubic inches. This is a convenient calculator to help us figure out the volume of a cuboid or a box, calculete cubic inches from different unit, include inches, feet, yards, mm, cm or meter, with calculation formula and dynamic visual cube help us understand the answer more easily. 1 Cubic centimeter (cm³) is equal to 0.06102374409 cubic inch (in³). For example, to find out how many cubic inches is 1000 cubic centimeters, divide 1000 by 16.387064, that makes 61.0237 cubic inches equal to 1000 cubic centimeters. There are 16.39 cc in 1 cubic inch To convert any value in cubic inches to cc, just multiply the value in cubic inches by the conversion factor 16.387064. All In One Unit Converter The following is a list of definitions relating to conversions between cubic millimeters and cubic inches. One cubic meter also equals 1000 liters or one million cubic centimeters. A metric unit of volume, commonly used in expressing concentrations of a chemical in a volume of air. Cubic inch to Inch Calculator Easily convert Centimeters to Inches, with formula, conversion chart, auto conversion to common lengths, more It represents an area one inch long, by one inch wide, by one inch deep. Cubic Millimeter (cu mm) is a unit of Volume used in Metric system. A cubic millimeter is a unit of volume in the Metric System. One of the most commonly used unit of volume measurement in the Imperial and the US customary system, a cubic inch is equal to the volume of a cube with one inch at each of its side. A cube 1 inch by 1 inch by 1 inch. 0.000 016 387 064 cubic meters (SI base unit). There are 36 inches in a yard and 12 inches in a foot. Cubic inches (in 3) and cubic centimeters (cc or cm 3) are common units of volume.Cubic inches is a unit used primarily in the United States, while cubic centimeters is a metric unit. How to convert millimeters to inches. To calculate the cubic inches in a easy way, we can convert all the unit to inches first, then, multiply length, width and height values together, this will give you the volume of the cube. One cubic inch is equal to 0.016387064 liters. The cubic inch is a unit of volume that is equal to the space consumed by a cube with sides that are one inch in all directions. So, 1 cubic inch times 16.387064 is equal to 16.39 cc. 1 mm x 1 … Cubic inch to Square inch Calculator CM to inches converter. Conversion between cubic inch and inch. 1 cu in = 0.000016387064 m 3. Cubic Inches. if you take the 15x15 inch grid, made up of 225 square inches and raise them by 1 inch, you'll end up with 225 cubic inches (a 15x15x1 inch box) To calculate the cubic inches in a 34 by 15 by 15 inch box simply multiply the numbers together. To convert any value in cubic feet to cubic inches, just multiply the value in cubic feet by the conversion factor 1728. Cubic Inches to Cubic Centimeters formula 1 cu in = 0.000016387064 m 3. Cubic Inches to Liters formula. L = in³ _____ 61.024. ... to convert this to cubic feet, you know there are 1728 cubic inches in 1 cubic foot: 180 cubic inches x (1 cubic foot / 1728 cubic inches) = volume in cubic feet. 1 millimeter is equal to 0.03937007874 inches: It represents an area one inch long, by one inch wide, by one inch deep. Liters. Worked Example . To convert fluid ounces to cubic inches, multiply the fluid ounce value by 1.8046875. To convert cubic inches to cubic centimeters, multiply the cubic inch value by 16.387064. For example, to find out how many cubic inches in a fluid ounce and a half, multiply 1.5 by 1.8046875, that makes 2.707 cubic inches in a fluid ounce and a half. To convert inch to cubic inch you must find three inch values. The symbol for cubic millimeter is mm 3. Cubic Inch (cu in) is a unit of Volume used in Standard system. A liter of water weighs one kilogram. Three inch values: Inches wide Inches high Inches long (depth) If you multiply all of these values together (Wide X … Cubic meters also can be marked as mm 3. The unit has got symbols of cu in, cui, or in 3.A cubic inch is equal to 1/12 3 cubic feet, or 16.387064 milliliters, or approximately 1 tablespoon.. 34x15x15 = … The unit has got symbols of cu in, cui, or in 3.A cubic inch is equal to 1/12 3 cubic feet, or 16.387064 milliliters, or approximately 1 tablespoon.. 1 ft ... One of the most commonly used unit of volume measurement in the Imperial and the US customary system, a cubic inch is equal to the volume of a cube with one inch at each of its side. ";s:7:"keyword";s:22:"1 cubic inch to inches";s:5:"links";s:7626:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=appium-python-tutorial-for-beginners'>Appium Python Tutorial For Beginners</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=deep-freezer-repair-near-me'>Deep Freezer Repair Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mid-century-modern-front-door-hardware'>Mid Century Modern Front Door Hardware</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=swing-arm-wall-lamp-lowes'>Swing Arm Wall Lamp Lowes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ski-jumping-suits-for-sale'>Ski Jumping Suits For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=drinking-carrot-juice-for-a-month'>Drinking Carrot Juice For A Month</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-indian-food-san-francisco'>Best Indian Food San Francisco</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=leaving-neverland-part-2-release-date'>Leaving Neverland Part 2 Release Date</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rock-landscaping-ideas-for-front-yard'>Rock Landscaping Ideas For Front Yard</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=metals-on-the-periodic-table'>Metals On The Periodic Table</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=another-word-for-positive-attitude-answers'>Another Word For Positive Attitude Answers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=10x10-l-shaped-kitchen-designs'>10x10 L Shaped Kitchen Designs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=most-important-rooms-to-stage'>Most Important Rooms To Stage</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=glass-top-dining-table-with-wooden-base'>Glass Top Dining Table With Wooden Base</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=southwest-airlines-new-orleans-terminal'>Southwest Airlines New Orleans Terminal</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-check-refrigerator-compressor-relay'>How To Check Refrigerator Compressor Relay</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=beat-bobby-flay-judges-2019'>Beat Bobby Flay Judges 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-build-a-she-shed'>How To Build A She Shed</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=light-lunch-ideas-for-work'>Light Lunch Ideas For Work</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=healthy-chicken-salad-meal-prep'>Healthy Chicken Salad Meal Prep</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=spider-plant-leaves-turning-yellow-and-brown'>Spider Plant Leaves Turning Yellow And Brown</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=beaver-creek-ski-school-pictures'>Beaver Creek Ski School Pictures</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-public-enemy-movie-message'>The Public Enemy Movie Message</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=worst-cooks-in-america-season-17-episode-1-dailymotion'>Worst Cooks In America Season 17 Episode 1 Dailymotion</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=worst-cooks-in-america-season-18-episode-1'>Worst Cooks In America Season 18 Episode 1</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=egg-pod-chairs-for-sale'>Egg Pod Chairs For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=master-bedroom-plans-with-bath-and-walk-in-closet'>Master Bedroom Plans With Bath And Walk In Closet</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pruning-fiddle-leaf-fig-youtube'>Pruning Fiddle Leaf Fig Youtube</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dressing-table-with-mirror-and-lights'>Dressing Table With Mirror And Lights</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-put-a-pella-sliding-screen-door-back-on-track'>How To Put A Pella Sliding Screen Door Back On Track</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-legend-of-tarzan-2'>The Legend Of Tarzan 2</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=must-eat-restaurants-queens-ny'>Must Eat Restaurants Queens Ny</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=craftsman-electric-pressure-washer-2050-psi-manual'>Craftsman Electric Pressure Washer 2050 Psi Manual</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pink-and-grey-nursery-walls'>Pink And Grey Nursery Walls</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=signature-design-by-ashley-mattress-reviews'>Signature Design By Ashley Mattress Reviews</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=a-kind-of-stew-meaning-in-hindi'>A Kind Of Stew Meaning In Hindi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-cook-beets-in-oven'>How To Cook Beets In Oven</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-millionaire-matchmaker-season-8-episode-15'>The Millionaire Matchmaker Season 8 Episode 15</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=beni-shoga-where-to-buy'>Beni Shoga Where To Buy</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=yorke-arms-sunday-lunch-menu'>Yorke Arms Sunday Lunch Menu</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sloppy-joe-recipe-without-ketchup'>Sloppy Joe Recipe Without Ketchup</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hearth-and-hand-bedding-target'>Hearth And Hand Bedding Target</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mid-century-modern-ranch-house-interiors'>Mid Century Modern Ranch House Interiors</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=one-straw-revolution-in-tamil'>One Straw Revolution In Tamil</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-chicken-biryani-rice'>How To Make Chicken Biryani Rice</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=home-depot-flowers-and-plants'>Home Depot Flowers And Plants</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-a-raised-rose-bed'>How To Make A Raised Rose Bed</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=family-restaurants-near-me-now'>Family Restaurants Near Me Now</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=stylish-living-room-ideas-modern-mix'>Stylish Living Room Ideas Modern Mix</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=middle-eastern-food-recipes-appetizers'>Middle Eastern Food Recipes Appetizers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=work-of-art-meaning-sarcastic'>Work Of Art Meaning Sarcastic</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=farm-and-fleet-pressure-washer'>Farm And Fleet Pressure Washer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=salesforce-training-classes-near-me'>Salesforce Training Classes Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=modern-control-engineering-5th-edition-solution-manual-slideshare'>Modern Control Engineering 5th Edition Solution Manual Slideshare</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=direction-of-toilet-seat-according-to-vastu'>Direction Of Toilet Seat According To Vastu</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-selfish-gene-40th-anniversary-edition-pdf'>The Selfish Gene 40th Anniversary Edition Pdf</a>,
+";s:7:"expired";i:-1;}

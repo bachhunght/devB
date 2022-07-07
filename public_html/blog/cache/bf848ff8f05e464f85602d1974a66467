@@ -1,0 +1,205 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3066:"It integrates all necessary components with built-in keywords and project templates into a complete automation framework. SOAP UI SOAP UI is a open source web service testing application. What is Postman? But I'm at a loss as I am more of a test analyst than I am a programmer, ... SoapUI is not a paid tool. SOAP UI SOAP UI is a open source web service testing application. Postman vs Soap UI: What are the differences? SoapUI supports both REST and SOAP services. Import from Postman. An example of SOAP request and response are shown in the screenshot below Test execution analytics: test exaction logs and results from Katalon Studio can be automatically exported to Katalon Analytics, allowing teams to analyze, diagnose, and report bugs. Comparing SoapUI vs Postman, Katalon Studio REST and SOAP are the dominant API types, accounting for more than 95% of all API/Web services according to the State of API Integration Report. Read here 5 best SoapUI alternative applications and differences between SoapUI vs JMeter vs Postman. This article provides a review of 3 popular and promising tools for API test automation by comparing SoapUI vs Postman and Katalon Studio. API Testing Using SoapUI vs Postman vs Runscope. 2. We compared these products and thousands more to help professionals like you find the perfect solution for your business. Looking for SoapUI alternatives to test web services? Katalon Studio is a free and robust automation solution for API, Web and Mobile testing. Let IT Central Station and our comparison database help you with your research. Our second alternative solution to SoapUI testing tool is Apache JMeter. Read here 5 best SoapUI alternative applications and differences between SoapUI vs JMeter vs Postman. & which one to prefer for testing REST APIs? With the need for implementing API automation test for my projects, I have reviewed and developed proofs of concept (POC) using various tools and testing frameworks. SoapUI Pro enabled us to reuse our test scripts over multiple environments. Read here 5 best SoapUI alternative applications and differences between SoapUI vs JMeter vs Postman. Test execution analytics: test exaction logs and results from Katalon Studio can be automatically exported to Katalon Analytics, allowing teams to analyze, diagnose, and report bugs. First export your Postman collection to JSON. SoapUI Pro enabled us to reuse our test scripts over multiple environments. Katalon Studio is easy-to-use for new users but still offers advanced capabilities for experienced users. So i’ll try to explain it with an example. So far, I've been directed to SoapUI, Postman, and Runscope. Postman’s support for Swagger means this is possible in a few clicks! ... SoapUI is also easy to use with SoapUI you integrate it with GIT/SVN directly for Checkin and checkout your scripts. In the opened editor of the new service request object, enter all the required information.  There were 3 products that were finalized, SoapUI Pro, Postman, and Katalon Studio, out of these 3 SoapUI was the clear winner. ";s:7:"keyword";s:28:"postman vs soapui vs katalon";s:5:"links";s:3457:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=umbra-white-simple-ledge-wall-shelf'>Umbra White Simple Ledge Wall Shelf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=king-size-bed-in-cm'>King Size Bed In Cm</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-is-mario-batali-today'>Where Is Mario Batali Today</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=company-holiday-party-ideas-on-a-budget'>Company Holiday Party Ideas On A Budget</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-eat-figs-for-fertility'>How To Eat Figs For Fertility</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=matte-lipstick-meaning-in-marathi'>Matte Lipstick Meaning In Marathi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=The-Farm-With-Ian-Knauer'>The Farm With Ian Knauer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-many-ads-do-you-see-on-social-media'>How Many Ads Do You See On Social Media</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-causes-brown-tips-on-my-peace-lily'>What Causes Brown Tips On My Peace Lily</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-flush-pool-lines'>How To Flush Pool Lines</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-far-is-owensboro-ky-from-me'>How Far Is Owensboro Ky From Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-pancakes-without-baking-powder-and-eggs'>How To Make Pancakes Without Baking Powder And Eggs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=national-academy-of-construction-certificate'>National Academy Of Construction Certificate</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=large-real-cactus-for-sale'>Large Real Cactus For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=homemade-chocolate-ice-cream-with-half-and-half'>Homemade Chocolate Ice Cream With Half And Half</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=second-hand-dining-chairs-sydney'>Second Hand Dining Chairs Sydney</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=keep-clean-meaning-in-hindi'>Keep Clean Meaning In Hindi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=jenn-air-30-inch-electric-cooktop'>Jenn Air 30 Inch Electric Cooktop</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mullangi-poriyal-seivathu-eppadi-tamil'>Mullangi Poriyal Seivathu Eppadi Tamil</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=umass-dartmouth-guest-sign-in'>Umass Dartmouth Guest Sign In</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=take-it-to-the-limit-scarface'>Take It To The Limit Scarface</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=things-to-do-in-vienna'>Things To Do In Vienna</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-shark-reef-at-mandalay-bay-shark-reef-aquarium-at-mandalay-bay-january-1'>The Shark Reef At Mandalay Bay Shark Reef Aquarium At Mandalay Bay January 1</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-much-does-it-cost-to-fix-a-freon-leak-in-a-refrigerator'>How Much Does It Cost To Fix A Freon Leak In A Refrigerator</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bed-designs-pictures-wooden-with-drawers'>Bed Designs Pictures Wooden With Drawers</a>,
+";s:7:"expired";i:-1;}

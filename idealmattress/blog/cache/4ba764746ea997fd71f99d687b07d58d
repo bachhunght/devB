@@ -1,0 +1,215 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4626:"The Books of Earthsea: The Complete Illustrated Edition. Here are ten reasons Le Guin&#039;s fantasy series still rules. Ursula K. Le Guin’s Earthsea novels are some of the most acclaimed and awarded works in literature—they have received prestigious accolades such as the National Book Award, a Newbery Honor, the Nebula Award, and many more honors, commemorating their enduring place in the hearts and minds of readers and the literary world alike. by Ursula K Le Guin, Charles Vess. She started writing in her sixties and became a successful author. Ursula Le Guin made fantasy history with "A Wizard of Earthsea," a spare but strangely entrancing story about a young wizard coming of age. Ged was the greatest sorcerer in Earthsea, but in his youth he was the reckless Sparrowhawk. "The Word of Unbinding" and "The Rule of Names" are Earthsea short stories that can be found in Le Guin's collection, The Wind's Twelve Quarters .Later Earthsea stories were collected in Tales from Earthsea, which is listed here. Ursula Le Guin was born in Berkley, California, in 1929, daughter of the writer Theodora Krober and the anthropologist Alfred Krober. Unreal & the Real Selected Stories of Ursula K Le Guin Volume 1 Where on Earth. Chabon on Le Guin “In Earthsea, the wielders of linguistic power were known as wizards, and they called their craft magic, but it was obvious to me, even at nine, that the true name of magic was writing, and that a writer like Ursula K. Le Guin was a mage. Le Guin's mother, Theodora Kroeber (1897–1979; born Theodora Covel Kracaw), had a graduate degree in psychology. Originally published in 1968, Ursula K. Le Guin’s A Wizard of Earthsea marks the first of the six now beloved Earthsea titles.Ged was the greatest sorcerer in Earthsea, but in … But if you want a life-changing visit to a fantasy world, you can't do any better than Ursula K. Le Guin's Earthsea. Originally published in 1968, Ursula K. Le Guin’s A Wizard of Earthsea marks the first of the six now beloved Earthsea titles. Her published work includes twenty-one novels, eleven volumes of short stories, three collections of essays, twelve books for children, six volumes of poetry and four of translation.  Club ... by Ursula K Le Guin, David Streitfeld. In his hunger for power and knowledge, he tampered with long-held secrets and loosed a terrible shadow upon the world. The first edition of the novel was published in 1968, and was written by Ursula K. Le Guin. Also known as: The book was published in multiple languages including English, consists of 183 pages and is available in Paperback format. He was thinking of Lookfar, abandoned long ago, beached on the sands of Selidor. $12.95 . Little of her would be left by now, a plank or two down in the sand maybe, a bit of driftwood on the western sea. It won the annual Nebula Award for Best Novel and the Locus Award for Best Fantasy Novel. New Hardcover. The A.V. $16.99. Download for offline reading, highlight, bookmark or take notes while you read A Wizard of Earthsea. Ursula K. Le Guin was born Ursula Kroeber in Berkeley, California, on October 21, 1929.Her father, Alfred Louis Kroeber (1876–1960), was an anthropologist at the University of California, Berkeley. A Wizard of Earthsea - Ebook written by Ursula K. Le Guin. Read this book using Google Play Books app on your PC, android, iOS devices. Ursula Kroeber Le Guin (/ ˈ k r oʊ b ər l ə ˈ ɡ w ɪ n /; October 21, 1929 – January 22, 2018) was an American author best known for her works of speculative fiction, including science fiction works set in her Hainish universe, and the Earthsea fantasy series. Despite a rather distant writing style, Le Guin's story is still a classic that is generally put on the same shelf as Lewis and Tolkien. Ursula K. Le Guin Issue 225, Summer 2018. The main characters of this fiction, young adult story are Ged, . New Trade Paperback. Free download or read online A Wizard of Earthsea pdf (ePUB) book. Tehanu: The Last Book of Earthsea is a fantasy novel by the American author Ursula K. Le Guin, published by Atheneum in 1990.It is the fourth novel set in the fictional archipelago Earthsea, following almost twenty years after the Earthsea trilogy (1968–1972), and not the last, despite its subtitle. Ursula K. Le Guin's Earthsea novels are some of the most acclaimed and awarded works in literature--they have received prestigious accolades such as the National Book Award, a Newbery Honor, the Nebula Award, and many more honors, commemorating their enduring place in the hearts and minds of readers and the literary world alike. $59.99 . ";s:7:"keyword";s:25:"ursula k le guin earthsea";s:5:"links";s:4729:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=scholastic-dictionary-of-spelling-pdf'>Scholastic Dictionary Of Spelling Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-grow-plants-faster-in-pots'>How To Grow Plants Faster In Pots</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=duravit-toilet-seat-home-depot'>Duravit Toilet Seat Home Depot</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hyderabad-biryani-house-malleswaram-menu'>Hyderabad Biryani House Malleswaram Menu</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=alkaline-earth-metals-periodic-table'>Alkaline Earth Metals Periodic Table</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=home-interior-design-pdf-download'>Home Interior Design Pdf Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=signs-of-high-testosterone-in-a-man'>Signs Of High Testosterone In A Man</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dulux-colour-of-the-year-2020'>Dulux Colour Of The Year 2020</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=louis-tomlinson-ft-bebe-rexha-back-to-you-mp3-download'>Louis Tomlinson Ft Bebe Rexha Back To You Mp3 Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mid-century-modern-reclining-loveseat'>Mid Century Modern Reclining Loveseat</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=handy-portable-steamer-smooth-finish'>Handy Portable Steamer Smooth Finish</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-water-orchids-youtube'>How To Water Orchids Youtube</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=clear-stackable-storage-bins-with-lids'>Clear Stackable Storage Bins With Lids</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=nopalito-diners-drive-ins-and-dives'>Nopalito Diners Drive Ins And Dives</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=i-know-what-you-did-last-summer-2'>I Know What You Did Last Summer 2</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=commercial-building-plan-dwg-free-download'>Commercial Building Plan Dwg Free Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=samsung-10kg-top-loader-wa10j7750gw1'>Samsung 10kg Top Loader Wa10j7750gw1</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=2-seater-recliner-sofa-covers'>2 Seater Recliner Sofa Covers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=walmart-24-hours-near-me'>Walmart 24 Hours Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rogan-josh-curry-paste-canada'>Rogan Josh Curry Paste Canada</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-barefoot-contessa-cookbook-recipes'>The Barefoot Contessa Cookbook Recipes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=object-pool-design-pattern-tutorials-point'>Object Pool Design Pattern Tutorials Point</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=euphoria-season-1-episode-1-recap'>Euphoria Season 1 Episode 1 Recap</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=yard-house-happy-hour-riverside'>Yard House Happy Hour Riverside</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ariana-grande-no-tears-left-to-cry-album'>Ariana Grande No Tears Left To Cry Album</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=another-word-for-neat-or-cool'>Another Word For Neat Or Cool</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bunk-bed-plans-ana-white'>Bunk Bed Plans Ana White</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-idaho-enrollment-statistics'>University Of Idaho Enrollment Statistics</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=step-2-kitchen-replacement-parts'>Step 2 Kitchen Replacement Parts</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lg-washing-machine-7kg-price-in-uae'>Lg Washing Machine 7kg Price In Uae</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=walk-in-closet-designs-for-a-master-bedroom'>Walk In Closet Designs For A Master Bedroom</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sun-joe-electric-pressure-washer'>Sun Joe Electric Pressure Washer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=small-mosaic-outdoor-side-table'>Small Mosaic Outdoor Side Table</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chef-full-form-in-hindi'>Chef Full Form In Hindi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=big-bear-cabins-for-less'>Big Bear Cabins For Less</a>,
+";s:7:"expired";i:-1;}

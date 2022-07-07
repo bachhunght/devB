@@ -1,0 +1,240 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2984:"Heat gently with a lid on until the cabbage is hot (about 5 minutes) and serve! Braised Red Cabbage is a traditional recipe often found served alongside German main dishes. This Jamie magazine recipe makes enough for four people as a side dish. This sweet and sour dish calls for only a handful of ingredients. Mix in sugar and caraway seeds. Cooking red cabbage can be done in a variety of ways. Find out how to cook red cabbage to perfection (including pickling, braising and boiling) with this handy guide from Great British Chefs, including plenty of recipe ideas that showcase the beautiful vegetable. To reheat this spiced red cabbage on Christmas Day is a doddle: just place the cabbage in a saucepan and add about 100 ml water. Season well and cover with foil. Easy peasy!! By braising red cabbage, you’re packing it full of lovely rich flavours and taking this humble veg to the next level. This easy red cabbage recipe is a snap to put together because it requires so few ingredients and so little real prep. Grate on a few shavings of hard cheese, like Parmesan or aged Gouda, while the cabbage is still hot, right before serving, so it melts into the cabbage for a surprisingly tasty addition. It’s not to say that we don’t also have a recipe for making this braised German staple from scratch, but it’s just sometimes you don’t want the extra work of slicing up a whole cabbage … Stir to combine. How to reheat braised red cabbage. Once finished, taste the cabbage and add some freshly cracked pepper, and more salt or vinegar if desired. This Jamie magazine recipe makes enough for four people as a side dish. Enhancing a jar of ready-made German red cabbage to taste more like homemade is standard practice with my immediate family. Some braised cabbage recipes call for coarsely chopped red cabbage or thinly sliced. Braised Red Cabbage is a healthy German side dish made. By braising red cabbage, you’re packing it full of lovely rich flavours and taking this humble veg to the next level. It’s super-simple to make beautiful braised red cabbage that’s sure to go down a storm at Christmas. ! Braised Red Cabbage. Stir in 1/4 to 1/2 teaspoon of your favorite spice mix to the melted butter before adding the cabbage. Serve this cabbage with Pork Schnitzel or pork tenderloin and potatoes for a nutritious and hearty dinner. If the bottom of the pot begins to dry up, add another 1/4 cup water. Mix the cabbage with the rest of the ingredients and put in an ovenproof dish. If cabbage isn't quite tender, add a splash of … It’s super-simple to make beautiful braised red cabbage that’s sure to go down a storm at Christmas.  Depending on how soft you like it, you’ll want to cook the cabbage for about 20-30 minutes. Bake for 1–1½ hours, or until the cabbage is tender and juicy. Pour in water, red wine, and red wine vinegar. Continue to cook and stir until liquid has evaporated and cabbage is tender, about 5 minutes. Season with salt. ";s:7:"keyword";s:25:"how to braise red cabbage";s:5:"links";s:8156:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=big-sky-early-season-pass-prices'>Big Sky Early Season Pass Prices</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-are-the-objectives-of-gardening'>What Are The Objectives Of Gardening</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=savoy-sharm-el-sheikh-yellow-page'>Savoy Sharm El Sheikh Yellow Page</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=japanese-kitchen-vs-american-kitchen'>Japanese Kitchen Vs American Kitchen</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-to-buy-shrub-drink'>Where To Buy Shrub Drink</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=4-vintage-leather-club-chairs'>4 Vintage Leather Club Chairs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=national-association-of-manufacturers-jobs'>National Association Of Manufacturers Jobs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=light-decoration-ideas-for-home-outdoor'>Light Decoration Ideas For Home Outdoor</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=las-meninas-the-maids-of-honor'>Las Meninas The Maids Of Honor</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=modern-japanese-living-room-design'>Modern Japanese Living Room Design</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dinner-by-heston-blumenthal-reopening'>Dinner By Heston Blumenthal Reopening</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=healthy-shrimp-and-snow-peas'>Healthy Shrimp And Snow Peas</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dimmable-e14-led-candle-bulbs'>Dimmable E14 Led Candle Bulbs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=3-panel-door-with-glass'>3 Panel Door With Glass</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=old-kitchen-cabinets-for-sale'>Old Kitchen Cabinets For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bad-ice-cream-2-unblocked-games-66-at-school'>Bad Ice Cream 2 Unblocked Games 66 At School</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ludwig-maximilian-university-of-munich-notable-alumni'>Ludwig Maximilian University Of Munich Notable Alumni</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-to-buy-fresh-black-radish'>Where To Buy Fresh Black Radish</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bon-appetit-recipes-from-1990s'>Bon Appetit Recipes From 1990s</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lazy-boy-collins-sectional-reviews'>Lazy Boy Collins Sectional Reviews</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=black-pudding-recipe-using-dried-blood'>Black Pudding Recipe Using Dried Blood</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=instructions-for-tourists-at-tourist-places'>Instructions For Tourists At Tourist Places</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=recessed-lighting-housing-4-inch'>Recessed Lighting Housing 4 Inch</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cost-to-install-wall-cabinets'>Cost To Install Wall Cabinets</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=unfinished-cabinet-doors-with-glass'>Unfinished Cabinet Doors With Glass</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=top-agent-network-new-york'>Top Agent Network New York</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=vanilla-ice-cream-cake-recipe'>Vanilla Ice Cream Cake Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dr-sandra-lee-family-pictures'>Dr Sandra Lee Family Pictures</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=aspen-colorado-cabins-with-hot-tubs'>Aspen Colorado Cabins With Hot Tubs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=band-of-horses-the-funeral'>Band Of Horses The Funeral</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-strawberry-with-chart-paper'>How To Make Strawberry With Chart Paper</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=health-benefits-of-fruits-and-vegetables-chart-in-tamil'>Health Benefits Of Fruits And Vegetables Chart In Tamil</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=furniture-to-go-staten-island'>Furniture To Go Staten Island</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=jobs-for-females-in-sharjah'>Jobs For Females In Sharjah</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-improve-presentation-skills-pdf'>How To Improve Presentation Skills Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mid-century-modern-power-recliner'>Mid Century Modern Power Recliner</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=4-inch-recessed-lighting-trim'>4 Inch Recessed Lighting Trim</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=good-ole-soul-food-recipes-turkey-wings'>Good Ole Soul Food Recipes Turkey Wings</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=master-of-mixes-pina-colada-mixer'>Master Of Mixes Pina Colada Mixer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=product-catalogue-template-free-download-word'>Product Catalogue Template Free Download Word</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ladder-with-seat-on-top'>Ladder With Seat On Top</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=crate-and-barrel-swivel-chair'>Crate And Barrel Swivel Chair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=live-free-or-die-hard-full-movie-download-in-hindi'>Live Free Or Die Hard Full Movie Download In Hindi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-is-polyester-material-like'>What Is Polyester Material Like</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=carrot-juice-for-hair-regrowth'>Carrot Juice For Hair Regrowth</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-rob-gronkowski-coming-back'>Is Rob Gronkowski Coming Back</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=advantages-and-disadvantages-of-orchard'>Advantages And Disadvantages Of Orchard</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=list-of-marketing-awards-2018'>List Of Marketing Awards 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dressing-room-ideas-for-bedroommodern-wardrobe-designs-for-bedroom'>Dressing Room Ideas For Bedroommodern Wardrobe Designs For Bedroom</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=toshiba-satellite-windows-7-intel-core-i3'>Toshiba Satellite Windows 7 Intel Core I3</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kitchen-garden-magazine-december-2019'>Kitchen Garden Magazine December 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=peel-and-stick-wall-tiles'>Peel And Stick Wall Tiles</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fairfield-inn-and-suites-near-me'>Fairfield Inn And Suites Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=why-is-my-radicchio-green'>Why Is My Radicchio Green</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=steelcase-think-chair-crate-and-barrel'>Steelcase Think Chair Crate And Barrel</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-happens-if-you-eat-too-many-brussel-sprouts'>What Happens If You Eat Too Many Brussel Sprouts</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=great-british-bake-off-season-8-watch-online'>Great British Bake Off Season 8 Watch Online</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=girl-meets-farm-molly-yeh-age'>Girl Meets Farm Molly Yeh Age</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=horn-and-cantle-big-sky-menu'>Horn And Cantle Big Sky Menu</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=celery-root-substitute-in-cooking'>Celery Root Substitute In Cooking</a>,
+";s:7:"expired";i:-1;}

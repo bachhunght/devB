@@ -1,0 +1,203 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4728:"An accurate floor plan drawing is a necessity whether you're planning a home remodel, commercial space build-out, or just need dimensions for arranging furniture placement. ... Key Measurements for the Perfect Living Room. Take a cue from professional designers and reconfigure the furniture by making your own floor plan using a ruler, graph paper and a pencil. Living room measurement tip: Just as important as the furniture is a living room’s flow. Get the tips for the design experts at HGTV.com. The furniture will also need to be ready to be included in the floor plan. Keep in mind the traffic flow and make sure your design allows people to move easily into and out of the room without encountering barriers or extremely tight spaces. Floor Plan with Dimensions. Based on your measurements and focal point, put your ideas to paper. Be sure to include the fireplace (take a note of the height of the mantle) and any architectural details such as dado or picture rails (note heights). Just enter the dimensions of any room in your home and the furniture that will be in it. Room Planner. "An open-plan living space made sense to them as they really wanted a room that would be the 'heart' of the home and where they could all gather together and interact, even if they are doing different activities," says designer Nelly Reffet of Twinkle & Whistle Interior Design. Typically, homeowners will ask for three sofas in a ‘courtyard’ arrangement facing the fireplace. Lauren Flanagan. To make a small house design feel bigger, choose a floor plan with porches. Draw Your Floor Plan Draw a floor plan of your room in minutes using simple drag and drop drawing tools. Save time and know that your furniture will fit before buying it by creating the perfect set-up. Learn More Here is a comprehensive guide to standard living room size. To tie both rooms together in the open space, light green and gray fabrics are incorporated into the dining chairs, sofa, and even window textiles. Save room. Put down the tape measure and grab your iPhone to measure the dimensions of the rooms in your house, and put them together to form a floor plan. Here, a long rectangular room has a central fireplace, windows to the front and glass doors/garden access to the rear. In this visualization of a combination living and dining room, division is created in the space not by using walls or dividers, but by drawing the eye toward the large floor to ceiling bookshelves that run alongside the “living area” of the open floor plan. The depth varies depending on the style, but plan on 38 to 40 in. ... (152 cm) long. Circulation paths that enable people to move to seating areas and exits need 30 to 36 inches (77 to 91 centimeters) of clear width. The living room is one of the most frequently used rooms in your home; it is the gathering spot for conversations, entertainment, and more. Small bookcases are usually 30 to 42 inches high. designs. Use with shift to "Save As..." Ctrl+Z Undo last action Ctrl+Y Redo last action R, L Rotate selected item by 15°. Know These Key Measurements for Designing the Perfect Living Room. Before you redesign, consider switching up the room's layout. The standard dimensions for base cabinets are 24 inches (61 centimeters) deep and 36 inches (92 centimeters) high. From floor plans to style advice, our Design Crew can meet you in your local store or in your home. Just add the length and width of the room in feet, and whatever number you come up with is, in inches, your guide for the fixture's diameter. 36” —The ideal distance between the wall and a piece of furniture. The drawing does not have to be to scale, but the more accurate it is, the more useful it'll be. Just enter the dimensions of any room in your home and the furniture that will be in it. You'll need the measurements of the living room including the ceiling height. Living Room Design Tips; Living & Family Rooms; Living Rooms Measurements Understanding the Mathematics of Decorating. You can pair one with a sofa in the same design or set it alone, as has been done in this room. For ease of shelf access, bookcases are generally no higher than 84 inches. 1-800-913-2350 Simply click and drag your cursor to draw or move walls. 18” —The ideal distance between the couch and the coffee table.  How to Get Living Room Sizes Right. Make a drawing of the floor plan in the room you are measuring. Use Living Spaces' free 3D room planner to design your home. designs. It’s a clever use of space and adds storage. Start a Room Plan Online Room Planner - Design Your Room Planyourroom.com is a wonderful website to redesign each room in your house by picking out perfect furniture options to fit your unique space. ";s:7:"keyword";s:34:"living room plan with measurements";s:5:"links";s:3137:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=weekly-meal-plan-for-working-moms'>Weekly Meal Plan For Working Moms</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=banff-snow-forecast-14-day'>Banff Snow Forecast 14 Day</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=principles-of-food-processing-slideshare'>Principles Of Food Processing Slideshare</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-long-does-ntn-report-take'>How Long Does Ntn Report Take</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bosch-easyaquatak-120-high-pressure-washer'>Bosch Easyaquatak 120 High Pressure Washer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ionantha-guatemala-air-plant-care'>Ionantha Guatemala Air Plant Care</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=three-on-a-match-game'>Three On A Match Game</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=my-ebay-uk-watch-list'>My Ebay Uk Watch List</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ikea-play-kitchen-refrigerator-hack'>Ikea Play Kitchen Refrigerator Hack</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=deep-seating-replacement-cushions-for-outdoor-furniture'>Deep Seating Replacement Cushions For Outdoor Furniture</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-bridge-season-3-recap'>The Bridge Season 3 Recap</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wood-display-cabinets-with-glass-doors'>Wood Display Cabinets With Glass Doors</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sleeper-sofa-with-matching-ottoman'>Sleeper Sofa With Matching Ottoman</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-size-pump-do-i-need-for-my-above-ground-pool'>What Size Pump Do I Need For My Above Ground Pool</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=macdonald-furniture-closing-down-sale'>Macdonald Furniture Closing Down Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-do-i-contact-square-without-a-customer-code'>How Do I Contact Square Without A Customer Code</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=handbags-on-sale-online-shopping'>Handbags On Sale Online Shopping</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=shepard-fairey-street-art-los-angeles'>Shepard Fairey Street Art Los Angeles</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fredrik-eklund-net-worth-2019'>Fredrik Eklund Net Worth 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=magnavox-universal-remote-mc345-codes-list'>Magnavox Universal Remote Mc345 Codes List</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=karcher-k2-car-and-home'>Karcher K2 Car And Home</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=easy-outdoor-christmas-decorating-ideas'>Easy Outdoor Christmas Decorating Ideas</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=metal-monogram-letters-for-wall'>Metal Monogram Letters For Wall</a>,
+";s:7:"expired";i:-1;}

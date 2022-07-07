@@ -1,0 +1,1 @@
+[28-Feb-2022 10:59:20 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 12288 bytes) in /home/leontyna/public_html/wp-content/plugins/mega-addons-for-visual-composer/render/info_circle.php on line 47

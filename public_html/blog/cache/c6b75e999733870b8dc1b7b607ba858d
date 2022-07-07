@@ -1,0 +1,247 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4087:"$450 was fees, and $31,415 was for tuition. Payment is due by the date shown on your bill. You may enroll in the UPay Payment Plan if you would like to pay in installments. The university is firmly committed to ensuring that students from all backgrounds have access to a world-class UMass education. The University has secured the services of Flywire to process all credit card/debit card transactions. UMass Amherst tuition, fees, room and board rates are established each spring for the following academic year. UMass Lowell out-of-state students paid $31,865 in tuition and fees in 2018 - 2019. Paper invoices are not mailed. The University has secured the services of Flywire to process all credit card/debit card transactions. Exceptions include participation in the UMass Lowell monthly payment plan, administered by Flywire, sufficient outstanding financial aid and/or loans or direct billing of an approved third party. Tuition rates for the University of Massachusetts are set by the university’s Board of Trustees in July for the coming fall. The UMass Lowell web application is available through June 1; Nursing applications are due by November 8; Spring Semester: December 1; Transfer Application Deadlines. Fall semester: August 15* (August 2 for International Transfer Applicants) Spring semester: January 7* (December 12 for International Transfer Applicants) *This deadline is a priority deadline. For in-state students, tuition and fees is set at $14,800 for the 2018 - 2019 year, 53.6% off the price charged to out-of-state students. We will consider completed … Each campus will develop or expand two programs, initially starting with the following: UMass Amherst- Doctor of Nursing Practice, BA in Health & Human Services, University without Walls; UMass Boston- Expansion of the RN to BS for Registered Nurses For more detailed information about tuition residency, contact the Undergraduate Admissions Office at 413-545-0222 or visit Residency Policy. Semester bills are available six to eight weeks before the semester starts. *New England Rate: Rhode Island residents are charged a full-time tuition rate of $19,506. University Costs. Finances, and especially financial aid, can be difficult to navigate for many students and their families. Learn more about university costs. The Solution Center is here to help. Based on 4-years changes on tuition & fees, we estimate 4 year tuition at University of Massachusetts-Lowell for future and perspective students . See our Fee Explanation for tuition and fee definitions. A $50 charge is assessed to anyone currently enrolled with an outstanding balance and without a legitimate exemption as of the due date on the invoice. Tuition for University of Massachusetts-Lowell is on the rise, with tuition at $15180. This rate became available in Fall 2018 to first-time full-time undergraduate day students. The University of Massachusetts Lowell is no longer directly accepting cash, credit cards or debit cards for payment of student tuition, and fees, room and board (if applicable). The University of Massachusetts Lowell is no longer directly accepting cash, credit cards or debit cards for payment of student tuition, and fees, room and board (if applicable).  Checks, money orders or bank checks can be mailed to the University of Massachusetts Lowell, Student Financial Services Office, 220 Pawtucket Street, Suite M30, Lowell, MA 01854-5110 or dropped off at The Solution Center in University Crossing. Tuition is $14,350 and fees $450. The Bursar's Office posts bills online in QuikPAY. Other campus-wide fees; such as student activity, technology fee, housing and dining services will continue to be listed separately. All other New England residents are charged the full-time tuition rate of $30,103 and are eligible for a $10,597 New England Tuition Rate adjustment. Your tuition charge will reflect the cost of your core education and will now include the operating fee and some of the mandatory fees we previously billed separately. Students may create their parent or guardian as an Authorized Payer . ";s:7:"keyword";s:29:"umass lowell tuition due date";s:5:"links";s:9159:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=healthy-eating-early-years-activities'>Healthy Eating Early Years Activities</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=backcountry-ski-rental-bay-area'>Backcountry Ski Rental Bay Area</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=steelcase-leap-v2-seat-cushion'>Steelcase Leap V2 Seat Cushion</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-stake-aloe-vera-plant'>How To Stake Aloe Vera Plant</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=can-you-propagate-creeping-jenny-in-water'>Can You Propagate Creeping Jenny In Water</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bed-headboard-price-in-india'>Bed Headboard Price In India</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=waldorf-astoria-dubai-mezzerie-menu'>Waldorf Astoria Dubai Mezzerie Menu</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=solanaceae-family-economic-importance-pdf'>Solanaceae Family Economic Importance Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=novel-drying-techniques-for-the-food-industry'>Novel Drying Techniques For The Food Industry</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-oregon-acceptance-rate-out-of-state'>University Of Oregon Acceptance Rate Out Of State</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=summit-at-snoqualmie-lift-tickets'>Summit At Snoqualmie Lift Tickets</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rachael-ray-wet-cat-food-ingredients'>Rachael Ray Wet Cat Food Ingredients</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=are-spider-plants-toxic-to-cats'>Are Spider Plants Toxic To Cats</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=types-of-non-alcoholic-beverages'>Types Of Non Alcoholic Beverages</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=toys-r-us-singapore-contact'>Toys R Us Singapore Contact</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-does-a-steam-cleaner-work-on-carpet'>How Does A Steam Cleaner Work On Carpet</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=vrije-universiteit-amsterdam-acceptance-rate'>Vrije Universiteit Amsterdam Acceptance Rate</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=should-i-cut-yellow-leaves-off-bamboo'>Should I Cut Yellow Leaves Off Bamboo</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=things-to-cook-for-kids'>Things To Cook For Kids</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=spring-baking-championship-season-6'>Spring Baking Championship Season 6</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=oil-painting-ideas-for-beginners-step-by-step'>Oil Painting Ideas For Beginners Step By Step</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=side-by-side-refrigerator-sale'>Side By Side Refrigerator Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=college-meal-prep-grocery-list'>College Meal Prep Grocery List</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=creating-a-small-woodland-garden'>Creating A Small Woodland Garden</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=steak-diane-recipe-without-alcohol'>Steak Diane Recipe Without Alcohol</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=command-pattern-vs-strategy-pattern'>Command Pattern Vs Strategy Pattern</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=refrigerator-for-sale-in-sharjah-dubizzle'>Refrigerator For Sale In Sharjah Dubizzle</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=feedback-control-of-dynamic-systems-8th-edition-ebook-pdf'>Feedback Control Of Dynamic Systems 8th Edition Ebook Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=red-white-and-blue-flag-with-one-star'>Red White And Blue Flag With One Star</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-indian-food-san-francisco'>Best Indian Food San Francisco</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=The-Mirror-Has-Two-Faces'>The Mirror Has Two Faces</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=importance-of-kitchen-garden-wikipedia'>Importance Of Kitchen Garden Wikipedia</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=white-pass-cabins-for-sale'>White Pass Cabins For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-to-eat-with-quinoa-for-dinner'>What To Eat With Quinoa For Dinner</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-death-of-superman-animated-movie'>The Death Of Superman Animated Movie</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=century-21-brand-guidelines-2019-pdf'>Century 21 Brand Guidelines 2019 Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=raised-garden-bed-los-angeles'>Raised Garden Bed Los Angeles</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=great-british-bake-off-season-8-watch-online'>Great British Bake Off Season 8 Watch Online</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lg-washer-leaking-water-from-underneath'>Lg Washer Leaking Water From Underneath</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=crockpot-chicken-and-dumplings-recipe'>Crockpot Chicken And Dumplings Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=black-river-furniture-outlet-facebook'>Black River Furniture Outlet Facebook</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chicken-lollipop-gravy-online-order'>Chicken Lollipop Gravy Online Order</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=why-did-mandy-leave-last-man-standing'>Why Did Mandy Leave Last Man Standing</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=homes-for-sale-rumford-maine'>Homes For Sale Rumford Maine</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sofa-upholstery-fabric-manufacturers-in-india'>Sofa Upholstery Fabric Manufacturers In India</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=custom-ranch-home-builders-maryland'>Custom Ranch Home Builders Maryland</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-adventurer-tablets-of-destiny-movie'>The Adventurer Tablets Of Destiny Movie</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=too-late-the-hero-john-entwistle'>Too Late The Hero John Entwistle</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-prune-cherry-tomato-plants'>How To Prune Cherry Tomato Plants</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=place-of-supply-malayalam-meaning'>Place Of Supply Malayalam Meaning</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sun-joe-electric-pressure-washer'>Sun Joe Electric Pressure Washer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=clash-of-the-titans-1981-full-movie'>Clash Of The Titans 1981 Full Movie</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-grilled-chicken-at-home-without-oven'>How To Make Grilled Chicken At Home Without Oven</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=home-appliances-list-with-pictures'>Home Appliances List With Pictures</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=positive-feedback-examples-for-students'>Positive Feedback Examples For Students</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=large-slate-rock-for-sale'>Large Slate Rock For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-garlic-bread-with-regular-bread'>How To Make Garlic Bread With Regular Bread</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=latest-sofa-designs-pictures-2019'>Latest Sofa Designs Pictures 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-take-care-of-ficus-starlight'>How To Take Care Of Ficus Starlight</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-eat-buffet-dinner'>How To Eat Buffet Dinner</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=modern-loft-style-house-plans'>Modern Loft Style House Plans</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=squaw-valley-hiking-granite-bay'>Squaw Valley Hiking Granite Bay</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=easy-pancake-recipe-for-one'>Easy Pancake Recipe For One</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-to-buy-bed-frame-in-store'>Where To Buy Bed Frame In Store</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=are-plastic-plates-microwave-safe'>Are Plastic Plates Microwave Safe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=three-days-grace-painkiller-album'>Three Days Grace Painkiller Album</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=homewood-middle-school-lunch-menu'>Homewood Middle School Lunch Menu</a>,
+";s:7:"expired";i:-1;}

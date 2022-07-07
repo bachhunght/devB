@@ -1,0 +1,259 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4269:"Using the portal allows you to direct the users on your network to a specific web page before they are allowed to access the internet. Captive portals are configured on network interfaces. Captive portals provide an easy way to authenticate users accessing the internet at Wi-Fi … Connect the Wifi antenna to the system and make sure the card is recognized.  To create a captive portal using the Insight Cloud Portal (available to Insight Premium subscribers only): Log in to the Insight Cloud Portal. The following procedure shows how to set up Captive Portal authentication by configuring the PAN-OS integrated User-ID agent to redirect web requests that match an Authentication Policy rule to a firewall interface (redirect host). Consider setting up free WiFi for customers at your place of business. User’s must authenticate with the portal to get access to the wireless network. You can create up to two (2) Captive Portal instances; each CP instance is a defined set of instance parameters. For example, you could use an image of your business and a message that tells your customers where to find the WiFi password. This is a complete guide on Captive Portal Login. When you create a captive portal profile in the base operating system, an implicit user role is automatically created with same name as the captive portal profile. In order for a sensor to test a captive portal, a recording of user actions required to navigate the portal must be provided to the Aruba UXI support team. Click Wireless > Settings. To configure the portal you must Create a user group with a user account for each employee. Different instances can be configured to respond differently to users as they attempt to access the associated VAP. Some require you to use Linux, others need extra access points connected via a second LAN adapter. A Captive Portal is a Login Splash Screen triggered by DNS spoofing and server redirection rules. A Captive Portal is a screen that will be shown initially to anyone who connects to your Wi-Fi Access Point. Enable UniFi Controller Captive Portal Setup with social login and other authentication methods. Captive portals. ... Set Captive Portal Server Mode to Centralized; Enter the IP Address of the interface created in step 1.3.1; There are a series of steps you will need to take to set up a fast, reliable and secure connection for customers. This section describes: Introduction to Captive portals; Configuring a captive portal; Customizing captive portal pages; Introduction to Captive portals. Instances can be associated with one (1) or more VAPs. The name will likely be wlan0 or wlan1. To configure the portal you must Create a user group with a user account for each employee. User’s must authenticate with the portal to get access to the wireless network. Depending on the feature set of the gateway, websites or TCP ports can be white-listed so that the user would not have to Captive portal allows you to control or identify who has access to network resources. A captive portal is a convenient way to authenticate web users on wired or WiFi networks. Enabling Captive Portal on your Cisco Wireless Network. Though the details differ, you'll always start by making sure your firmware is up to date and accessing the Web-based setup page for your network's access point —from there, the process should be fairly similar across devices. Such essential cookies will help you store your unique sign-up ID number, authentication data, the data you inserted, as well as settings and preferences (such as your preferred language) while using ASUS products and services. Before they can begin utilizing the Wifi connection, they will need to complete an action, until then, the captive portal will continually greet them. For information about how to configure captive portal users and accounts, see How do I change the settings for a user or account in my ProSAFE Wireless Controller WC7600? How to Set Up Automatic WiFi Captive Portal Login on Windows While some WiFi setups are either insecure and open or secured with a password, many schools, hotels, stores, and other WiFi-providing entities have a third setup – The WiFi is open, but 99.99% of the web is blocked until you authenticate on the wifi’s captive portal. ";s:7:"keyword";s:23:"set up a captive portal";s:5:"links";s:10657:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cartoon-network-hotel-steven-universe-room'>Cartoon Network Hotel Steven Universe Room</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=house-cleaning-tips-in-hindi'>House Cleaning Tips In Hindi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=foods-not-to-put-in-fridge'>Foods Not To Put In Fridge</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bengali-to-english-dictionary-pdf'>Bengali To English Dictionary Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=why-is-synthetic-rubber-preferred-to-natural-rubber'>Why Is Synthetic Rubber Preferred To Natural Rubber</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pocket-door-in-2x4-wall'>Pocket Door In 2x4 Wall</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=house-cleaning-routine-in-india'>House Cleaning Routine In India</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=samsung-washer-top-load-not-spinning'>Samsung Washer Top Load Not Spinning</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=long-island-iced-tea-recept'>Long Island Iced Tea Recept</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=2x4-picnic-table-plans-free'>2x4 Picnic Table Plans Free</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=boiled-chicken-and-rice-recipe'>Boiled Chicken And Rice Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=green-and-brown-color-scheme'>Green And Brown Color Scheme</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=boston-university-acceptance-rate-2019'>Boston University Acceptance Rate 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=which-refrigerants-are-being-phased-out'>Which Refrigerants Are Being Phased Out</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=charleston-sc-things-to-do'>Charleston Sc Things To Do</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=walmart-shoe-rack-50-pair'>Walmart Shoe Rack 50 Pair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=622-lorong-1-toa-payoh'>622 Lorong 1 Toa Payoh</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bar-stools-clearance-near-me'>Bar Stools Clearance Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sports-pool-vs-traditional-deep-end'>Sports Pool Vs Traditional Deep End</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=black-and-white-console-table'>Black And White Console Table</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=private-selection-black-truffle-and-olive-oil-chips-review'>Private Selection Black Truffle And Olive Oil Chips Review</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=raspberry-benefits-for-the-skin'>Raspberry Benefits For The Skin</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=shepard-fairey-street-art-los-angeles'>Shepard Fairey Street Art Los Angeles</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=professional-ski-instructors-of-america'>Professional Ski Instructors Of America</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=karcher-puzzi-100-pump-problems'>Karcher Puzzi 100 Pump Problems</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=paneer-butter-masala-recipe-in-malayalam'>Paneer Butter Masala Recipe In Malayalam</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=perisher-lift-pass-prices-2019'>Perisher Lift Pass Prices 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-crow-stairway-to-heaven-trailer'>The Crow Stairway To Heaven Trailer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=shrimp-with-snow-peas-calories'>Shrimp With Snow Peas Calories</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=calories-in-cooked-carrots-1-cup'>Calories In Cooked Carrots 1 Cup</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=eric-paschall-rookie-of-the-year'>Eric Paschall Rookie Of The Year</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-set-a-beautiful-buffet-table'>How To Set A Beautiful Buffet Table</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=powers-of-ten-anchor-chart'>Powers Of Ten Anchor Chart</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=greenworks-pressure-washer-1500-psi'>Greenworks Pressure Washer 1500 Psi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=my-soul-to-take-3d'>My Soul To Take 3d</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=things-to-do-in-cincinnati'>Things To Do In Cincinnati</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bulletin-of-the-american-physical-society-2019'>Bulletin Of The American Physical Society 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cheap-furniture-stores-near-me'>Cheap Furniture Stores Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lighting-shop-in-kota-damansara'>Lighting Shop In Kota Damansara</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=purani-dilli-dubai-sheikh-zayed-road'>Purani Dilli Dubai Sheikh Zayed Road</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kenmore-refrigerator-repair-ice-maker'>Kenmore Refrigerator Repair Ice Maker</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wall-mounted-tv-cabinets-for-flat-screens-with-doors'>Wall Mounted Tv Cabinets For Flat Screens With Doors</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=return-of-the-living-dead-imdb'>Return Of The Living Dead Imdb</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mixing-dark-and-light-wood-furniture-in-bedroom'>Mixing Dark And Light Wood Furniture In Bedroom</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kmart-bed-in-a-bag'>Kmart Bed In A Bag</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=crispy-saffron-rice-bon-appetit'>Crispy Saffron Rice Bon Appetit</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=12-seater-dining-table-size'>12 Seater Dining Table Size</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=small-bedroom-decorating-ideas-on-a-budget'>Small Bedroom Decorating Ideas On A Budget</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=i-used-to-know-her-review'>I Used To Know Her Review</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rolling-meadows-il-9-digit-zip-code'>Rolling Meadows Il 9 Digit Zip Code</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=good-and-cheap-cookbook-pdf'>Good And Cheap Cookbook Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=tu-delft-undergraduate-tuition-and-fees'>Tu Delft Undergraduate Tuition And Fees</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=jaquar-bathroom-fittings-catalogue-with-price-list-2018-pdf-india'>Jaquar Bathroom Fittings Catalogue With Price List 2018 Pdf India</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=botanical-classification-of-vegetables-pdf'>Botanical Classification Of Vegetables Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-say-kfc-in-japanese'>How To Say Kfc In Japanese</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-village-at-squaw-valley-hotel'>The Village At Squaw Valley Hotel</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-books-on-japanese-design'>Best Books On Japanese Design</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cheap-beds-with-mattresses-included'>Cheap Beds With Mattresses Included</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sanyo-washing-machine-asw-180sb'>Sanyo Washing Machine Asw 180sb</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-pronounce-poem-in-scottish'>How To Pronounce Poem In Scottish</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dressing-room-ideas-for-bedroommodern-wardrobe-designs-for-bedroom'>Dressing Room Ideas For Bedroommodern Wardrobe Designs For Bedroom</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=manjula-pothos-vs-marble-queen'>Manjula Pothos Vs Marble Queen</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=marks-and-spencer-furniture-outlet'>Marks And Spencer Furniture Outlet</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=whole-foods-amazon-prime-delivery'>Whole Foods Amazon Prime Delivery</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=peel-and-stick-wallpaper-border'>Peel And Stick Wallpaper Border</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wooden-study-chair-with-arms'>Wooden Study Chair With Arms</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=easy-pancake-recipe-for-one'>Easy Pancake Recipe For One</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=no-one-is-too-small-to-make-a-difference-pdf-download'>No One Is Too Small To Make A Difference Pdf Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wayfair-labor-day-sale-coupon'>Wayfair Labor Day Sale Coupon</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philodendron-selloum-propagation-in-water'>Philodendron Selloum Propagation In Water</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=home-office-design-ideas-photos'>Home Office Design Ideas Photos</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=recipes-to-impress-your-boyfriend'>Recipes To Impress Your Boyfriend</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-wash-polyester-couch-cushion-covers'>How To Wash Polyester Couch Cushion Covers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-restrap-a-barcelona-chair'>How To Restrap A Barcelona Chair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=venue-restaurant-new-philadelphia-ohio'>Venue Restaurant New Philadelphia Ohio</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=succulent-growing-long-stem-flower'>Succulent Growing Long Stem Flower</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sliding-patio-door-installation-near-me'>Sliding Patio Door Installation Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bbq-cauliflower-wings-near-me'>Bbq Cauliflower Wings Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cvs-photo-printing-near-me'>Cvs Photo Printing Near Me</a>,
+";s:7:"expired";i:-1;}

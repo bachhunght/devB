@@ -1,0 +1,230 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4689:"... Add dependency for Cucumber-Java − This will indicate Maven, which Cucumber files are to be downloaded from the central repository to the local repository. I want to manually set up a Cucumber DataTable using Java (instead of Gherkin). You can vote up the examples you like and your votes will be used in our system to generate more good examples. The other keyword to be used is Examples: Cucumber picks the data parameter values from the Examples: and loops through the data … Based from Gherkin Reference, the Scenario Outline keyword can be used to repeat the same steps with different values or arguments being passed to the step definitions. If you share it on Github or something similar, I might be able to take a look. The following are top voted examples for showing how to use cucumber.api.DataTable.These examples are extracted from open source projects. Instead of DataTable we can actually create List of custom object using the same fields as in data table. Comparing data tables It brings Cucumber expressions to Cucumber-JVM. They are quite powerful but not the most intuitive as you either need to deal with a list of maps or a map of lists.Most of the people get confused with Data tables & Scenario outline, but these two works completely differently. Data Tables in Cucumber are quite interesting and can be used in many ways.DataTables are also used to handle large amounts of data. In our last post we discussed getting started with cucumber for Java, in this post we will discuss working with multiple data using DataTable in Cucumber for Java. Version 3 of Cucumber for Java has recently been released. We have already discussed about working with multiple data in Specflow of C#, which has Table class, but here in Cucumber for Java they have class named DataTable. Cucumber gives us a construct called Scenario Outline to be able to parameterize the data table and also loop through each data set repeating the operations on the form submission. for e.g. Example. The final (and most rich) mechanism for converting data tables to usable objects is to create a TableTransformer. In our previous post, we learned how we can start creating Cucumber for our test.In this post, we will learn what is cucumber scenario outline and an example on how it works. Cucumber Scenario Outline in Gherkin. As a developer you need to adapt the steps a bit. A TableTransformer is an object that instructs Cucumber how to convert a DataTable object to the desired domain object: Let's see an example scenario: Then data is fed to this scenario with Examples table where variables are defined with concrete values. We have already discussed about working with multiple data in Specflow of C#, which has Table class, but here in Cucumber for Java they have class named DataTable. In Gherkin, my table would look like ... How do I create a Cucumber DataTable? Let’s continue with the same example of Facebook login feature. Data Table for Java For general information about data tables please refer to the polyglot project for specific information the DataTable javadoc . Hi! What is the Data Table in Cucumber? The following are top voted examples for showing how to use cucumber.api.DataTable.These examples are extracted from open source projects. From a Gherkin perspective, nothing has changed. I am not sure what your problem is. For example, the registration form of the new user involves several parameters to test, so for this, we can use the data table. You can vote up the examples you like and your votes will be used in our system to generate more good examples. Data tables are used when we need to test numerous input parameters of a web application. Scenario outline basically replaces variable/keywords with the value from the table. The scenario is defined with Scenario Outline . Data tables are supported as earlier. It also brings a new implementation of Data tables. Each row in the table is considered to be a scenario. So far we have been executing one scenario: Upon providing the correct user name, login is successful. Let’s automate an example of a data table. Cucumber data table is one of the most commonly used methods for passing test data from feature files to your test scripts. In the previous chapter of Data Tables in Cucumber, we consider a very simple example of passing UserName and Password in the step. Let’s take a little complex scenario where a good amount of data is required to pass in the step. In our previous article, you saw how we can pass string and numeric data from feature files, which Cucumber simply treats as variables.. With Cucumber data tables, you can pass parameters from feature files in tabular format. ";s:7:"keyword";s:33:"cucumber data tables example java";s:5:"links";s:6782:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=this-war-of-mine-hotel'>This War Of Mine Hotel</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=brunel-university-qs-ranking-2019'>Brunel University Qs Ranking 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=microsoft-office-2003-windows-10'>Microsoft Office 2003 Windows 10</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=white-swivel-chair-with-arms'>White Swivel Chair With Arms</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=benefits-of-blueberries-and-strawberries'>Benefits Of Blueberries And Strawberries</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-guess-a-luxury-brand'>Is Guess A Luxury Brand</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=charities-percentage-of-donation-that-goes-to-charity'>Charities Percentage Of Donation That Goes To Charity</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sweet-bbq-sauce-recipe-for-pulled-pork'>Sweet Bbq Sauce Recipe For Pulled Pork</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=carrot-juice-for-hair-regrowth'>Carrot Juice For Hair Regrowth</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=american-freight-living-room-sets'>American Freight Living Room Sets</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=elements-of-landscape-design-pdf'>Elements Of Landscape Design Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=karcher-power-washer-g2650oh-pump-assy'>Karcher Power Washer G2650oh Pump Assy</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=barberry-extract-benefits-for-skin'>Barberry Extract Benefits For Skin</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=homese-just-veg-near-me'>Homese Just Veg Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-bamboo-poisonous-to-pandas'>Is Bamboo Poisonous To Pandas</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mammoth-weather-15-day-forecast'>Mammoth Weather 15 Day Forecast</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=williams-sonoma-promo-code-reddit'>Williams Sonoma Promo Code Reddit</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cool-club-names-for-school'>Cool Club Names For School</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=nate-berkus-and-jeremiah-brent'>Nate Berkus And Jeremiah Brent</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=vegetarian-spaghetti-recipe-jamie-oliver'>Vegetarian Spaghetti Recipe Jamie Oliver</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=luxor-hotel-las-vegas-room'>Luxor Hotel Las Vegas Room</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=back-in-time-for-dinner-cbc-cast'>Back In Time For Dinner Cbc Cast</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kidkraft-train-table-instructions-metropolis'>Kidkraft Train Table Instructions Metropolis</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-soil-for-herbs-in-pots'>Best Soil For Herbs In Pots</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-long-does-ntn-report-take'>How Long Does Ntn Report Take</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=104-lucky-lane-andalusia-al'>104 Lucky Lane Andalusia Al</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=frigidaire-refrigerator-temperature-control-problems'>Frigidaire Refrigerator Temperature Control Problems</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mortgage-lifter-tomato-plants-for-sale-near-mefaux-leather-vs-bonded-leather'>Mortgage Lifter Tomato Plants For Sale Near Mefaux Leather Vs Bonded Leather</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-northern-iowa-address'>University Of Northern Iowa Address</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=jason-goodwin-william-and-mary'>Jason Goodwin William And Mary</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-color-light-is-best-for-seedlings'>What Color Light Is Best For Seedlings</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-calgary-acceptance-rate-2018'>University Of Calgary Acceptance Rate 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=darvin-barrel-chair-and-ottoman'>Darvin Barrel Chair And Ottoman</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=my-soul-to-take-3d'>My Soul To Take 3d</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=carbon-steel-vs-stainless-steel-wok'>Carbon Steel Vs Stainless Steel Wok</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=living-room-recessed-lighting-ideas'>Living Room Recessed Lighting Ideas</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cibc-swift-code-for-international-transfer'>Cibc Swift Code For International Transfer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-get-better-at-nordic-skiing'>How To Get Better At Nordic Skiing</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=paneer-butter-masala-recipe-in-malayalam'>Paneer Butter Masala Recipe In Malayalam</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=louis-tomlinson-ft-bebe-rexha-back-to-you-mp3-download'>Louis Tomlinson Ft Bebe Rexha Back To You Mp3 Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=small-pool-with-hot-tub'>Small Pool With Hot Tub</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=small-kitchen-living-room-combo'>Small Kitchen Living Room Combo</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-did-the-first-refrigerator-look-like'>What Did The First Refrigerator Look Like</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=diy-bench-cushion-no-plywood'>Diy Bench Cushion No Plywood</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=face-to-face-lyrics-zach-williams'>Face To Face Lyrics Zach Williams</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=large-metal-folding-dog-crate'>Large Metal Folding Dog Crate</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=black-friday-2019-skis-sale'>Black Friday 2019 Skis Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=l-shaped-sleeper-sofa-bed'>L Shaped Sleeper Sofa Bed</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=la-cucina-the-regional-cooking-of-italy-pdf-download'>La Cucina The Regional Cooking Of Italy Pdf Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cucumber-dependencies-in-pom-xml'>Cucumber Dependencies In Pom Xml</a>,
+";s:7:"expired";i:-1;}

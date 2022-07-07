@@ -1,0 +1,238 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3301:"Watch the groceries appear totally on your schedule. Whole Foods Market delivery is available by invitation only at this time. Exclusively for Prime members in select ZIP codes. Amazon announced Thursday that Prime members in select cities will be able to get Whole Foods items delivered in two hours via Prime Now. This has led to numerous changes in how Whole Foods operates. The company is adding groceries from the chain to its Prime … Amazon has announced the first major integration between its e-commerce operations and its acquisition of Whole Foods. Prime members currently shopping Whole Foods Market can continue shopping Whole Foods Market. Amazon wants to add to the 475 Whole Foods stores in the U.S., but are the Prime deals good enough to attract new shoppers? In April, Amazon and Whole Foods had kicked off Prime Now delivery service in nine new markets and expanded Prime Now Pickup to 30 metro areas overall. Prime Now FREE 2-hour Delivery on Everyday Items : Amazon Photos Unlimited Photo Storage Free With Prime: Prime Video Direct Video Distribution Made Easy: Shopbop Designer Fashion Brands: Amazon Warehouse Great Deals on Quality Used Products : Whole Foods Market America’s Healthiest Grocery Store: Woot! Is Shopping at Whole Foods Worth It for the Amazon Prime Benefits? Choose the delivery window that works for you. Amazon.com offers free two-hour delivery of Whole Foods Market items with a Prime membership. Amazon says it plans to expand the Whole Foods/Prime Now service across the United States this year. Fill your cart with groceries Head to Amazon.com/WholeFoods and fill your cart with groceries like peak-season organic apples, Animal Welfare Certified meats, fresh flowers and pantry essentials (ready-to-cook pizza definitely counts as essential)—just to name a few. Head to Amazon.com/WholeFoods and fill your cart with groceries like peak-season organic apples, Animal Welfare Certified meats, fresh flowers and pantry essentials (ready-to-cook pizza definitely counts as essential)—just to name a few. Whole Foods delivery via Amazon Prime arrives in 10 more cities By Clayton Moore September 26, 2018 Congratulations, America, your dreams have come true. The service is now available in select cities. In addition, Whole Foods Market’s healthy and high-quality private label products—including 365 Everyday Value and Whole Foods Market—will be available through Amazon.ca, with … Amazon announced today that consumers in four markets can order groceries from Whole Foods and have them delivered for free in two hours via Prime Now, Amazon’s expedited delivery service, available only to Prime customers. Top Amazon Prime Now Promo Code, $20 Off your first Prime Now order w/ American Express. Amazon Prime customers, who pay a $99 yearly subscription for the service, can buy thousands of items across fresh and organic produce, bakery, dairy, meat and seafood, the company said.  Catch 50 best handpicked & verified Amazon Prime Now promo codes, coupons, and Amazon Prime discount deals February 2020 to enjoy up to 50% savings with free 2-hour delivery on groceries and everyday essentials. Amazon's offer of free, two-hour delivery of Whole Foods groceries to Prime members has a hidden cost that jacks up the price of the service. ";s:7:"keyword";s:33:"whole foods amazon prime delivery";s:5:"links";s:7730:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=old-southern-bbq-menu-edina'>Old Southern Bbq Menu Edina</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=christopher-lloyd-back-to-the-future'>Christopher Lloyd Back To The Future</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=oregon-honors-college-acceptance-rate'>Oregon Honors College Acceptance Rate</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=made-to-measure-replacement-kitchen-doors'>Made To Measure Replacement Kitchen Doors</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sofa-for-sale-in-sharjah'>Sofa For Sale In Sharjah</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=nebraska-furniture-mart-lazy-boy-recliners'>Nebraska Furniture Mart Lazy Boy Recliners</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=learn-ruby-on-rails-free'>Learn Ruby On Rails Free</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=potato-and-cheese-samosa-recipe'>Potato And Cheese Samosa Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=small-black-dresser-with-mirror'>Small Black Dresser With Mirror</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-long-to-marinate-tandoori-chicken'>How Long To Marinate Tandoori Chicken</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=difference-between-zone-6a-and-6b'>Difference Between Zone 6a And 6b</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=outdoor-dog-kennels-for-sale-cheap'>Outdoor Dog Kennels For Sale Cheap</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=top-100-real-estate-companies-in-usa'>Top 100 Real Estate Companies In Usa</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=annie-leibovitz-portraits-2005-to-2016'>Annie Leibovitz Portraits 2005 To 2016</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-idaho-football-rumors'>University Of Idaho Football Rumors</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=honor-20-lite-price-philippines'>Honor 20 Lite Price Philippines</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=woman-hit-by-car-upper-east-side'>Woman Hit By Car Upper East Side</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=coming-to-hbo-sept-2019'>Coming To Hbo Sept 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hell-is-for-heroes-full-movie'>Hell Is For Heroes Full Movie</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=blue-hd-wallpapers-1080p-for-mobile'>Blue Hd Wallpapers 1080p For Mobile</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=here-is-some-or-here-are-some-information'>Here Is Some Or Here Are Some Information</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=woman-with-a-water-jug'>Woman With A Water Jug</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=medicine-hat-to-calgary-driving-time'>Medicine Hat To Calgary Driving Time</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=java-rest-api-testing-framework'>Java Rest Api Testing Framework</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sliding-mirror-closet-doors-for-bedrooms'>Sliding Mirror Closet Doors For Bedrooms</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=Dining-table-size-in-feet'>Dining Table Size In Feet</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hand-painted-wall-art-india'>Hand Painted Wall Art India</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=good-food-channel-co-uk'>Good Food Channel Co Uk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=color-changing-light-bulb-app'>Color Changing Light Bulb App</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=live-free-or-die-hard-full-movie-download-in-hindi'>Live Free Or Die Hard Full Movie Download In Hindi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=large-live-ficus-trees-for-sale'>Large Live Ficus Trees For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bpl-washing-machine-spare-parts'>Bpl Washing Machine Spare Parts</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=from-beyond-the-grave-review'>From Beyond The Grave Review</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=72-round-dining-table-with-lazy-susan'>72 Round Dining Table With Lazy Susan</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-size-art-over-king-bed'>What Size Art Over King Bed</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=raymour-and-flanigan-credit-card-payment-td-phone-number'>Raymour And Flanigan Credit Card Payment Td Phone Number</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cauliflower-rice-recipes-with-chicken'>Cauliflower Rice Recipes With Chicken</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=population-of-medicine-hat-2018'>Population Of Medicine Hat 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hamour-fish-name-in-urdu'>Hamour Fish Name In Urdu</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rac-large-fabric-pet-carrier'>Rac Large Fabric Pet Carrier</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=park-hyatt-beaver-creek-highland-suite'>Park Hyatt Beaver Creek Highland Suite</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=family-pictures-wall-decor-ideas'>Family Pictures Wall Decor Ideas</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=gray-living-room-ideas-pinterest'>Gray Living Room Ideas Pinterest</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=single-wide-mobile-home-bathroom-remodel'>Single Wide Mobile Home Bathroom Remodel</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pastene-san-marzano-tomatoes-dop'>Pastene San Marzano Tomatoes Dop</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=king-bedroom-sets-under-1000'>King Bedroom Sets Under 1000</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-to-buy-pork-shank'>Where To Buy Pork Shank</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=better-homes-and-gardens-fabric-cube-storage-bins'>Better Homes And Gardens Fabric Cube Storage Bins</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cheap-rural-property-in-scotland'>Cheap Rural Property In Scotland</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=havells-switches-price-list-2019-pdf'>Havells Switches Price List 2019 Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=vikings-season-5-episode-19'>Vikings Season 5 Episode 19</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ashley-trinell-brown-panel-headboard'>Ashley Trinell Brown Panel Headboard</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=funny-kitchen-quotes-and-sayings'>Funny Kitchen Quotes And Sayings</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=irish-moss-92-minerals-list'>Irish Moss 92 Minerals List</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-cut-kabocha-squash'>How To Cut Kabocha Squash</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mukesh-patel-college-of-engineering-review'>Mukesh Patel College Of Engineering Review</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=screw-in-pendant-light-conversion-kit-lowes'>Screw In Pendant Light Conversion Kit Lowes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=benefits-of-positive-feedback-in-sport'>Benefits Of Positive Feedback In Sport</a>,
+";s:7:"expired";i:-1;}

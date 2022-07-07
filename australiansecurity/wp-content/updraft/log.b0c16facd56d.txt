@@ -1,0 +1,590 @@
+0000.000 (0) Opened log file at time: Tue, 09 Mar 2021 10:26:51 +0000 on https://www.australiansecurity.com.au
+0000.002 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.47 WP: 5.6.2 PHP: 7.3.27 (litespeed, Linux ded93877.smartservers.com.au 3.10.0-962.3.2.lve1.5.32.el7.x86_64 #1 SMP Fri Feb 28 07:18:51 EST 2020 x86_64) MySQL: 5.7.33 WPLANG: en_US Server: LiteSpeed safe_mode: 0 max_execution_time: 900 memory_limit: 1024M (used: 78.2M | 81M) multisite: N openssl: OpenSSL 1.1.1d  10 Sep 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.073 (0) Free space on disk containing Updraft's temporary directory: 209734.5 MB
+0000.078 (0) Deleting old temporary file: log.d0b479d47fa4-browser.txt
+0000.080 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.084 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.086 (0) Semaphore (fd, rhofwwja_options) was stuck, set lock time to 2021-03-09 10:26:51
+0000.088 (0) Semaphore (fd, rhofwwja_options) reset to 1
+0000.090 (0) Set semaphore last lock (fd) time to 2021-03-09 10:26:51
+0000.091 (0) Semaphore lock (fd) complete
+0000.095 (0) Backup run: resumption=0, nonce=b0c16facd56d, file_nonce=b0c16facd56d begun at=1615285611 (0s ago), job type=backup
+0000.098 (0) Scheduling a resumption (1) after 300 seconds (1615285911) in case this run gets aborted
+0000.118 (0) Checking if we have a zip executable available
+0000.120 (0) Testing: /usr/bin/zip
+0000.130 (0) Output: zip warning: binziptest/test.zip not found or empty
+0000.132 (0) Output: adding: binziptest/subdir1/	(in=0) (out=0) (stored 0%)
+0000.134 (0) Output: adding: binziptest/subdir1/subdir2/	(in=0) (out=0) (stored 0%)
+0000.135 (0) Output: adding: binziptest/subdir1/subdir2/test.html	(in=131) (out=107) (deflated 18%)
+0000.136 (0) Output: total bytes=131, compressed=107 -> 18% savings
+0000.146 (0) Output: adding: binziptest/subdir1/subdir2/test2.html	(in=138) (out=113) (deflated 18%)
+0000.148 (0) Output: total bytes=269, compressed=220 -> 18% savings
+0000.157 (0) Working binary zip found: /usr/bin/zip
+0000.160 (0) Zip engine: found/will use a binary zip: /usr/bin/zip
+0000.161 (0) Creation of backups of directories: beginning
+0000.165 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0001.285 (0) Total entities for the zip file: 1999 directories, 11248 files (0 skipped as non-modified), 154.9 MB
+0001.296 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0001.305 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0001.312 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0001.320 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0001.328 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0001.336 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 600 files added (on-disk size: 0 KB)
+0001.343 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 700 files added (on-disk size: 0 KB)
+0001.351 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 800 files added (on-disk size: 0 KB)
+0001.358 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 900 files added (on-disk size: 0 KB)
+0001.368 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0001.370 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (15.6 MB, 11248 files batched, 1001 (1001) added so far); re-opening (prior size: 0 KB)
+0004.271 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: size is now: 6.60 MB
+0004.284 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 1100 files added (on-disk size: 6787 KB)
+0004.296 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 1200 files added (on-disk size: 6787 KB)
+0004.307 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 1300 files added (on-disk size: 6787 KB)
+0004.318 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 1400 files added (on-disk size: 6787 KB)
+0004.329 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 1500 files added (on-disk size: 6787 KB)
+0004.340 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 1600 files added (on-disk size: 6787 KB)
+0004.352 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 1700 files added (on-disk size: 6787 KB)
+0004.363 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 25 MB added on this batch (25.1 MB, 11248 files batched, 795 (1796) added so far); re-opening (prior size: 6787 KB)
+0009.663 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: size is now: 21.50 MB
+0009.667 (0) A useful amount of data was added after this amount of zip processing: 5.5 s (normalised: 5.5 s, rate: 4663.5 KB/s)
+0009.670 (0) Performance is good - will increase the amount of data we attempt to batch (time=5.5034689903259, normalised_time=5.4894127148253, max_time=9.6684989929199, data points known=1, old_max_bytes=26214400, new_max_bytes=28652682)
+0009.673 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 1800 files added (on-disk size: 22012.4 KB)
+0009.680 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 1900 files added (on-disk size: 22012.4 KB)
+0009.689 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 2000 files added (on-disk size: 22012.4 KB)
+0009.697 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 2100 files added (on-disk size: 22012.4 KB)
+0009.705 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 2200 files added (on-disk size: 22012.4 KB)
+0009.713 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 2300 files added (on-disk size: 22012.4 KB)
+0009.721 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 2400 files added (on-disk size: 22012.4 KB)
+0009.729 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 2500 files added (on-disk size: 22012.4 KB)
+0009.737 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 2600 files added (on-disk size: 22012.4 KB)
+0009.745 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 2700 files added (on-disk size: 22012.4 KB)
+0009.754 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (13.5 MB, 11248 files batched, 1001 (2797) added so far); re-opening (prior size: 22012.4 KB)
+0013.850 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 2800 files added (on-disk size: 26261.6 KB)
+0013.862 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 2900 files added (on-disk size: 26261.6 KB)
+0013.873 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 3000 files added (on-disk size: 26261.6 KB)
+0013.885 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 3100 files added (on-disk size: 26261.6 KB)
+0013.894 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 3200 files added (on-disk size: 26261.6 KB)
+0013.903 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 3300 files added (on-disk size: 26261.6 KB)
+0013.913 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 3400 files added (on-disk size: 26261.6 KB)
+0013.923 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 3500 files added (on-disk size: 26261.6 KB)
+0013.934 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 3600 files added (on-disk size: 26261.6 KB)
+0013.944 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 3700 files added (on-disk size: 26261.6 KB)
+0013.954 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (9.8 MB, 11248 files batched, 1001 (3798) added so far); re-opening (prior size: 26261.6 KB)
+0018.722 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 3800 files added (on-disk size: 29394.4 KB)
+0018.730 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 3900 files added (on-disk size: 29394.4 KB)
+0018.740 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 4000 files added (on-disk size: 29394.4 KB)
+0018.748 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 4100 files added (on-disk size: 29394.4 KB)
+0018.756 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 4200 files added (on-disk size: 29394.4 KB)
+0018.763 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 4300 files added (on-disk size: 29394.4 KB)
+0018.771 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 4400 files added (on-disk size: 29394.4 KB)
+0018.779 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 4500 files added (on-disk size: 29394.4 KB)
+0018.787 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 4600 files added (on-disk size: 29394.4 KB)
+0018.795 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 4700 files added (on-disk size: 29394.4 KB)
+0018.803 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (6.3 MB, 11248 files batched, 1001 (4799) added so far); re-opening (prior size: 29394.4 KB)
+0022.649 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 4800 files added (on-disk size: 31544.1 KB)
+0022.661 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 4900 files added (on-disk size: 31544.1 KB)
+0022.671 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 5000 files added (on-disk size: 31544.1 KB)
+0022.682 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 5100 files added (on-disk size: 31544.1 KB)
+0022.696 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 5200 files added (on-disk size: 31544.1 KB)
+0022.708 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 5300 files added (on-disk size: 31544.1 KB)
+0022.718 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 5400 files added (on-disk size: 31544.1 KB)
+0022.728 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 5500 files added (on-disk size: 31544.1 KB)
+0022.738 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 5600 files added (on-disk size: 31544.1 KB)
+0022.747 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 5700 files added (on-disk size: 31544.1 KB)
+0022.758 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (17.9 MB, 11248 files batched, 1001 (5800) added so far); re-opening (prior size: 31544.1 KB)
+0026.763 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 5800 files added (on-disk size: 37033.2 KB)
+0026.771 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 5900 files added (on-disk size: 37033.2 KB)
+0026.779 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 6000 files added (on-disk size: 37033.2 KB)
+0026.788 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 6100 files added (on-disk size: 37033.2 KB)
+0026.796 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 6200 files added (on-disk size: 37033.2 KB)
+0026.804 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 6300 files added (on-disk size: 37033.2 KB)
+0026.812 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 6400 files added (on-disk size: 37033.2 KB)
+0026.820 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 6500 files added (on-disk size: 37033.2 KB)
+0026.828 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 6600 files added (on-disk size: 37033.2 KB)
+0026.836 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 6700 files added (on-disk size: 37033.2 KB)
+0026.843 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 6800 files added (on-disk size: 37033.2 KB)
+0026.845 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (13.9 MB, 11248 files batched, 1001 (6801) added so far); re-opening (prior size: 37033.2 KB)
+0030.381 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 6900 files added (on-disk size: 42011.8 KB)
+0030.389 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 7000 files added (on-disk size: 42011.8 KB)
+0030.397 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 7100 files added (on-disk size: 42011.8 KB)
+0030.405 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 7200 files added (on-disk size: 42011.8 KB)
+0030.413 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 7300 files added (on-disk size: 42011.8 KB)
+0030.421 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 7400 files added (on-disk size: 42011.8 KB)
+0030.429 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 7500 files added (on-disk size: 42011.8 KB)
+0030.437 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 7600 files added (on-disk size: 42011.8 KB)
+0030.445 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 7700 files added (on-disk size: 42011.8 KB)
+0030.452 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 7800 files added (on-disk size: 42011.8 KB)
+0030.453 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (12.5 MB, 11248 files batched, 1001 (7802) added so far); re-opening (prior size: 42011.8 KB)
+0033.731 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 7900 files added (on-disk size: 46316.3 KB)
+0033.739 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 8000 files added (on-disk size: 46316.3 KB)
+0033.747 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 8100 files added (on-disk size: 46316.3 KB)
+0033.755 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 8200 files added (on-disk size: 46316.3 KB)
+0033.763 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 8300 files added (on-disk size: 46316.3 KB)
+0033.770 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 8400 files added (on-disk size: 46316.3 KB)
+0033.778 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 8500 files added (on-disk size: 46316.3 KB)
+0033.786 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 8600 files added (on-disk size: 46316.3 KB)
+0033.795 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 8700 files added (on-disk size: 46316.3 KB)
+0033.802 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 8800 files added (on-disk size: 46316.3 KB)
+0033.804 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (15 MB, 11248 files batched, 1001 (8803) added so far); re-opening (prior size: 46316.3 KB)
+0037.452 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 8900 files added (on-disk size: 53002 KB)
+0037.461 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 9000 files added (on-disk size: 53002 KB)
+0037.469 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 9100 files added (on-disk size: 53002 KB)
+0037.478 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 9200 files added (on-disk size: 53002 KB)
+0037.487 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 9300 files added (on-disk size: 53002 KB)
+0037.495 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 9400 files added (on-disk size: 53002 KB)
+0037.503 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 9500 files added (on-disk size: 53002 KB)
+0037.511 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 9600 files added (on-disk size: 53002 KB)
+0037.519 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 9700 files added (on-disk size: 53002 KB)
+0037.527 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 9800 files added (on-disk size: 53002 KB)
+0037.529 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (18.9 MB, 11248 files batched, 1001 (9804) added so far); re-opening (prior size: 53002 KB)
+0041.583 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 9900 files added (on-disk size: 59534.4 KB)
+0041.591 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 10000 files added (on-disk size: 59534.4 KB)
+0041.599 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 10100 files added (on-disk size: 59534.4 KB)
+0041.607 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 10200 files added (on-disk size: 59534.4 KB)
+0041.615 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 10300 files added (on-disk size: 59534.4 KB)
+0041.623 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 10400 files added (on-disk size: 59534.4 KB)
+0041.631 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 10500 files added (on-disk size: 59534.4 KB)
+0041.638 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 10600 files added (on-disk size: 59534.4 KB)
+0041.646 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 10700 files added (on-disk size: 59534.4 KB)
+0041.657 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 10800 files added (on-disk size: 59534.4 KB)
+0041.659 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (4.7 MB, 11248 files batched, 1001 (10805) added so far); re-opening (prior size: 59534.4 KB)
+0044.644 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 10900 files added (on-disk size: 61256.2 KB)
+0044.653 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 11000 files added (on-disk size: 61256.2 KB)
+0044.660 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 11100 files added (on-disk size: 61256.2 KB)
+0044.668 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip.tmp: 11200 files added (on-disk size: 61256.2 KB)
+0046.279 (0) Created plugins zip (0) - 61877.8 KB in 46 s (1344.2 KB/s) (sha1: fcd44e3c6abf052810fc3ed57852ead78fa02f0f, sha256: 999701cd06d64f8b19e85b1d25340c0753190f4b2e0178b19a0c211ea6c97675)
+0046.283 (0) Beginning creation of dump of themes (split every: 400 MB)
+0046.384 (0) Total entities for the zip file: 49 directories, 256 files (0 skipped as non-modified), 8.8 MB
+0046.398 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0046.411 (0) Zip: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0046.636 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-themes.zip.tmp: size is now: 6.80 MB
+0046.738 (0) Created themes zip (0) - 6992.2 KB in 0.4 s (18226.4 KB/s) (sha1: 9557c0e40df7871b38e20f02faa7f882ffbe7614, sha256: c72b4a7c8b82051e2209b188d36f843f18e59d74089d09adfab3ac68cee8e977)
+0046.741 (0) No backup of uploads: excluded by user's options
+0046.742 (0) No backup of others: excluded by user's options
+0046.746 (0) Saving backup status to database (elements: 4)
+0046.748 (0) Beginning creation of database dump (WordPress DB)
+0046.750 (0) Couldn't get the sql_mode value (N;)
+0046.751 (0) SQL compatibility mode successfully changed to 
+0046.753 (0) Testing potential mysqldump binary: /usr/bin/mysqldump
+0046.781 (0) Binary mysqldump: error (code: 2)
+0046.783 (0) Testing potential mysqldump binary: /bin/mysqldump
+0046.799 (0) Binary mysqldump: error (code: 2)
+0046.822 (0) Table rhofwwja_options: Total expected rows (approximate): 733
+0046.903 (0) Table rhofwwja_options: Rows added in this batch (next record: 289530): 741 (uncompressed bytes in this segment=1257123) in 0.08 seconds
+0046.909 (0) Table rhofwwja_options: finishing file(s) (2, 331 KB)
+0046.912 (0) Table rhofwwja_users: Total expected rows (approximate): 5
+0046.915 (0) Table rhofwwja_users: Rows added in this batch (next record: 6): 5 (uncompressed bytes in this segment=2031) in 0.00 seconds
+0046.919 (0) Table rhofwwja_users: finishing file(s) (2, 0.9 KB)
+0046.921 (0) Table rhofwwja_usermeta: Total expected rows (approximate): 198
+0046.926 (0) Table rhofwwja_usermeta: Rows added in this batch (next record: 254): 201 (uncompressed bytes in this segment=16962) in 0.00 seconds
+0046.930 (0) Table rhofwwja_usermeta: finishing file(s) (2, 5 KB)
+0046.934 (0) Table rhofwwja_commentmeta: Total expected rows (approximate): 0
+0046.937 (0) Table rhofwwja_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=709) in 0.00 seconds
+0046.940 (0) Table rhofwwja_commentmeta: finishing file(s) (2, 0.4 KB)
+0046.943 (0) Table rhofwwja_comments: Total expected rows (approximate): 0
+0046.946 (0) Table rhofwwja_comments: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1705) in 0.00 seconds
+0046.949 (0) Table rhofwwja_comments: finishing file(s) (2, 0.5 KB)
+0046.952 (0) Table rhofwwja_itsec_bans: Total expected rows (approximate): 953
+0046.973 (0) Table rhofwwja_itsec_bans: Rows added in this batch (next record: 953): 953 (uncompressed bytes in this segment=71060) in 0.02 seconds
+0046.977 (0) Table rhofwwja_itsec_bans: finishing file(s) (2, 11.8 KB)
+0046.980 (0) Table rhofwwja_itsec_distributed_storage: Total expected rows (approximate): 0
+0046.982 (0) Table rhofwwja_itsec_distributed_storage: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=935) in 0.00 seconds
+0046.986 (0) Table rhofwwja_itsec_distributed_storage: finishing file(s) (2, 0.4 KB)
+0046.988 (0) Table rhofwwja_itsec_fingerprints: Total expected rows (approximate): 0
+0046.991 (0) Table rhofwwja_itsec_fingerprints: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1235) in 0.00 seconds
+0046.994 (0) Table rhofwwja_itsec_fingerprints: finishing file(s) (2, 0.5 KB)
+0046.997 (0) Table rhofwwja_itsec_geolocation_cache: Total expected rows (approximate): 0
+0047.000 (0) Table rhofwwja_itsec_geolocation_cache: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=957) in 0.00 seconds
+0047.003 (0) Table rhofwwja_itsec_geolocation_cache: finishing file(s) (2, 0.4 KB)
+0047.006 (0) Table rhofwwja_itsec_lockouts: Total expected rows (approximate): 0
+0047.009 (0) Table rhofwwja_itsec_lockouts: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1860) in 0.00 seconds
+0047.012 (0) Table rhofwwja_itsec_lockouts: finishing file(s) (2, 0.7 KB)
+0047.015 (0) Table rhofwwja_itsec_logs: Total expected rows (approximate): 6
+0047.018 (0) Table rhofwwja_itsec_logs: Rows added in this batch (next record: 6998): 6 (uncompressed bytes in this segment=14184) in 0.00 seconds
+0047.022 (0) Table rhofwwja_itsec_logs: finishing file(s) (2, 2.2 KB)
+0047.025 (0) Table rhofwwja_itsec_mutexes: Total expected rows (approximate): 0
+0047.028 (0) Table rhofwwja_itsec_mutexes: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=636) in 0.00 seconds
+0047.032 (0) Table rhofwwja_itsec_mutexes: finishing file(s) (2, 0.4 KB)
+0047.035 (0) Table rhofwwja_itsec_opaque_tokens: Total expected rows (approximate): 0
+0047.037 (0) Table rhofwwja_itsec_opaque_tokens: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=783) in 0.00 seconds
+0047.040 (0) Table rhofwwja_itsec_opaque_tokens: finishing file(s) (2, 0.4 KB)
+0047.043 (0) Table rhofwwja_itsec_temp: Total expected rows (approximate): 8
+0047.046 (0) Table rhofwwja_itsec_temp: Rows added in this batch (next record: 10): 10 (uncompressed bytes in this segment=1888) in 0.00 seconds
+0047.050 (0) Table rhofwwja_itsec_temp: finishing file(s) (2, 0.6 KB)
+0047.053 (0) Table rhofwwja_itsec_user_groups: Total expected rows (approximate): 10
+0047.055 (0) Table rhofwwja_itsec_user_groups: Rows added in this batch (next record: 1000): 10 (uncompressed bytes in this segment=2027) in 0.00 seconds
+0047.058 (0) Table rhofwwja_itsec_user_groups: finishing file(s) (2, 0.8 KB)
+0047.061 (0) Table rhofwwja_links: Total expected rows (approximate): 7
+0047.064 (0) Table rhofwwja_links: Rows added in this batch (next record: 7): 7 (uncompressed bytes in this segment=2191) in 0.00 seconds
+0047.068 (0) Table rhofwwja_links: finishing file(s) (2, 0.7 KB)
+0047.070 (0) Table rhofwwja_postmeta: Total expected rows (approximate): 11803
+0047.274 (0) Table rhofwwja_postmeta: Rows added in this batch (next record: 14347): 12020 (uncompressed bytes in this segment=1734469) in 0.20 seconds
+0047.278 (0) Table rhofwwja_postmeta: finishing file(s) (2, 263.8 KB)
+0047.281 (0) Table rhofwwja_posts: Total expected rows (approximate): 1065
+0047.425 (0) Table rhofwwja_posts: Rows added in this batch (next record: 1984): 1209 (uncompressed bytes in this segment=1782313) in 0.14 seconds
+0047.430 (0) Table rhofwwja_posts: finishing file(s) (2, 283.6 KB)
+0047.433 (0) Table rhofwwja_term_relationships: Total expected rows (approximate): 212
+0047.437 (0) Table rhofwwja_term_relationships: Rows added in this batch (next record: 100000): 212 (uncompressed bytes in this segment=3902) in 0.00 seconds
+0047.441 (0) Table rhofwwja_term_relationships: finishing file(s) (2, 1 KB)
+0047.443 (0) Table rhofwwja_term_taxonomy: Total expected rows (approximate): 155
+0047.449 (0) Table rhofwwja_term_taxonomy: Rows added in this batch (next record: 155): 155 (uncompressed bytes in this segment=7589) in 0.00 seconds
+0047.453 (0) Table rhofwwja_term_taxonomy: finishing file(s) (2, 1.4 KB)
+0047.456 (0) Table rhofwwja_termmeta: Total expected rows (approximate): 2
+0047.459 (0) Table rhofwwja_termmeta: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=807) in 0.00 seconds
+0047.462 (0) Table rhofwwja_termmeta: finishing file(s) (2, 0.4 KB)
+0047.465 (0) Table rhofwwja_terms: Total expected rows (approximate): 155
+0047.469 (0) Table rhofwwja_terms: Rows added in this batch (next record: 155): 155 (uncompressed bytes in this segment=7639) in 0.00 seconds
+0047.473 (0) Table rhofwwja_terms: finishing file(s) (2, 2.2 KB)
+0047.476 (0) Table rhofwwja_blc_filters: Total expected rows (approximate): 0
+0047.478 (0) Table rhofwwja_blc_filters: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=477) in 0.00 seconds
+0047.482 (0) Table rhofwwja_blc_filters: finishing file(s) (2, 0.3 KB)
+0047.484 (0) Table rhofwwja_blc_instances: Total expected rows (approximate): 37
+0047.488 (0) Table rhofwwja_blc_instances: Rows added in this batch (next record: 101): 37 (uncompressed bytes in this segment=6354) in 0.00 seconds
+0047.492 (0) Table rhofwwja_blc_instances: finishing file(s) (2, 1.6 KB)
+0047.495 (0) Table rhofwwja_blc_links: Total expected rows (approximate): 32
+0047.499 (0) Table rhofwwja_blc_links: Rows added in this batch (next record: 32): 32 (uncompressed bytes in this segment=27001) in 0.00 seconds
+0047.503 (0) Table rhofwwja_blc_links: finishing file(s) (2, 4.3 KB)
+0047.506 (0) Table rhofwwja_blc_synch: Total expected rows (approximate): 23
+0047.509 (0) Table rhofwwja_blc_synch: Rows added in this batch (next record: 1000): 23 (uncompressed bytes in this segment=1603) in 0.00 seconds
+0047.512 (0) Table rhofwwja_blc_synch: finishing file(s) (2, 0.5 KB)
+0047.516 (0) Table rhofwwja_brb_business: Total expected rows (approximate): 2
+0047.519 (0) Table rhofwwja_brb_business: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=1938) in 0.00 seconds
+0047.522 (0) Table rhofwwja_brb_business: finishing file(s) (2, 0.8 KB)
+0047.526 (0) Table rhofwwja_brb_review: Total expected rows (approximate): 29
+0047.529 (0) Table rhofwwja_brb_review: Rows added in this batch (next record: 29): 29 (uncompressed bytes in this segment=16804) in 0.00 seconds
+0047.534 (0) Table rhofwwja_brb_review: finishing file(s) (2, 6.1 KB)
+0047.537 (0) Table rhofwwja_cf7dbplugin_st: Total expected rows (approximate): 3030
+0047.558 (0) Table rhofwwja_cf7dbplugin_st: Rows added in this batch (next record: 4000): 3030 (uncompressed bytes in this segment=67282) in 0.02 seconds
+0047.562 (0) Table rhofwwja_cf7dbplugin_st: finishing file(s) (2, 22.4 KB)
+0047.566 (0) Table rhofwwja_cf7dbplugin_submits: Total expected rows (approximate): 27515
+0048.206 (0) Table rhofwwja_cf7dbplugin_submits: Rows added in this batch (next record: 28000): 27515 (uncompressed bytes in this segment=4040053) in 0.64 seconds
+0048.211 (0) Table rhofwwja_cf7dbplugin_submits: finishing file(s) (2, 897.7 KB)
+0048.214 (0) Table rhofwwja_cptch_whitelist: Total expected rows (approximate): 0
+0048.216 (0) Table rhofwwja_cptch_whitelist: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=585) in 0.00 seconds
+0048.220 (0) Table rhofwwja_cptch_whitelist: finishing file(s) (2, 0.3 KB)
+0048.222 (0) Table rhofwwja_grp_google_place: Total expected rows (approximate): 1
+0048.225 (0) Table rhofwwja_grp_google_place: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1508) in 0.00 seconds
+0048.228 (0) Table rhofwwja_grp_google_place: finishing file(s) (2, 0.7 KB)
+0048.232 (0) Table rhofwwja_grp_google_review: Total expected rows (approximate): 5
+0048.234 (0) Table rhofwwja_grp_google_review: Rows added in this batch (next record: 5): 5 (uncompressed bytes in this segment=4473) in 0.00 seconds
+0048.238 (0) Table rhofwwja_grp_google_review: finishing file(s) (2, 2 KB)
+0048.241 (0) Table rhofwwja_hctpc_images: Total expected rows (approximate): 112
+0048.245 (0) Table rhofwwja_hctpc_images: Rows added in this batch (next record: 112): 112 (uncompressed bytes in this segment=3075) in 0.00 seconds
+0048.249 (0) Table rhofwwja_hctpc_images: finishing file(s) (2, 0.9 KB)
+0048.252 (0) Table rhofwwja_hctpc_packages: Total expected rows (approximate): 12
+0048.256 (0) Table rhofwwja_hctpc_packages: Rows added in this batch (next record: 12): 12 (uncompressed bytes in this segment=1829) in 0.00 seconds
+0048.260 (0) Table rhofwwja_hctpc_packages: finishing file(s) (2, 0.6 KB)
+0048.262 (0) Table rhofwwja_hctpc_whitelist: Total expected rows (approximate): 0
+0048.264 (0) Table rhofwwja_hctpc_whitelist: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=585) in 0.00 seconds
+0048.268 (0) Table rhofwwja_hctpc_whitelist: finishing file(s) (2, 0.3 KB)
+0048.271 (0) Table rhofwwja_itsec_log: Total expected rows (approximate): 3106
+0048.430 (0) Table rhofwwja_itsec_log: Rows added in this batch (next record: 53070): 3149 (uncompressed bytes in this segment=740444) in 0.16 seconds
+0048.435 (0) Table rhofwwja_itsec_log: finishing file(s) (2, 55.4 KB)
+0048.438 (0) Table rhofwwja_iwp_backup_status: Total expected rows (approximate): 0
+0048.441 (0) Table rhofwwja_iwp_backup_status: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1273) in 0.00 seconds
+0048.445 (0) Table rhofwwja_iwp_backup_status: finishing file(s) (2, 0.5 KB)
+0048.448 (0) Table rhofwwja_iwp_processed_iterator: Total expected rows (approximate): 0
+0048.450 (0) Table rhofwwja_iwp_processed_iterator: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=596) in 0.00 seconds
+0048.454 (0) Table rhofwwja_iwp_processed_iterator: finishing file(s) (2, 0.3 KB)
+0048.457 (0) Table rhofwwja_redirection_404: Total expected rows (approximate): 239
+0048.468 (0) Table rhofwwja_redirection_404: Rows added in this batch (next record: 89811): 247 (uncompressed bytes in this segment=65923) in 0.01 seconds
+0048.472 (0) Table rhofwwja_redirection_404: finishing file(s) (2, 6.7 KB)
+0048.475 (0) Table rhofwwja_redirection_groups: Total expected rows (approximate): 0
+0048.478 (0) Table rhofwwja_redirection_groups: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=948) in 0.00 seconds
+0048.482 (0) Table rhofwwja_redirection_groups: finishing file(s) (2, 0.5 KB)
+0048.485 (0) Table rhofwwja_redirection_items: Total expected rows (approximate): 71
+0048.491 (0) Table rhofwwja_redirection_items: Rows added in this batch (next record: 71): 71 (uncompressed bytes in this segment=17647) in 0.00 seconds
+0048.495 (0) Table rhofwwja_redirection_items: finishing file(s) (2, 2.9 KB)
+0048.498 (0) Table rhofwwja_redirection_logs: Total expected rows (approximate): 52
+0048.503 (0) Table rhofwwja_redirection_logs: Rows added in this batch (next record: 3600): 49 (uncompressed bytes in this segment=17705) in 0.00 seconds
+0048.507 (0) Table rhofwwja_redirection_logs: finishing file(s) (2, 2.2 KB)
+0048.510 (0) Table rhofwwja_smush_dir_images: Total expected rows (approximate): 0
+0048.512 (0) Table rhofwwja_smush_dir_images: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1136) in 0.00 seconds
+0048.516 (0) Table rhofwwja_smush_dir_images: finishing file(s) (2, 0.5 KB)
+0048.518 (0) Table rhofwwja_structuring_markup: Total expected rows (approximate): 11
+0048.521 (0) Table rhofwwja_structuring_markup: Rows added in this batch (next record: 11): 11 (uncompressed bytes in this segment=4685) in 0.00 seconds
+0048.525 (0) Table rhofwwja_structuring_markup: finishing file(s) (2, 1.5 KB)
+0048.528 (0) Table rhofwwja_toolset_post_guid_id: Total expected rows (approximate): 5
+0048.531 (0) Table rhofwwja_toolset_post_guid_id: Rows added in this batch (next record: 1010): 5 (uncompressed bytes in this segment=1114) in 0.00 seconds
+0048.535 (0) Table rhofwwja_toolset_post_guid_id: finishing file(s) (2, 0.5 KB)
+0048.537 (0) Table rhofwwja_wfblockediplog: Total expected rows (approximate): 0
+0048.539 (0) Table rhofwwja_wfblockediplog: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=665) in 0.00 seconds
+0048.543 (0) Table rhofwwja_wfblockediplog: finishing file(s) (2, 0.4 KB)
+0048.545 (0) Table rhofwwja_wfblocks7: Total expected rows (approximate): 0
+0048.547 (0) Table rhofwwja_wfblocks7: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=866) in 0.00 seconds
+0048.551 (0) Table rhofwwja_wfblocks7: finishing file(s) (2, 0.4 KB)
+0048.553 (0) Table rhofwwja_wfconfig: Total expected rows (approximate): 258
+0048.619 (0) Table rhofwwja_wfconfig: Rows added in this batch (next record: 1000): 258 (uncompressed bytes in this segment=892031) in 0.06 seconds
+0048.623 (0) Table rhofwwja_wfconfig: finishing file(s) (2, 433.5 KB)
+0048.626 (0) Table rhofwwja_wfcrawlers: Total expected rows (approximate): 28
+0048.629 (0) Table rhofwwja_wfcrawlers: Rows added in this batch (next record: 1000): 28 (uncompressed bytes in this segment=4265) in 0.00 seconds
+0048.633 (0) Table rhofwwja_wfcrawlers: finishing file(s) (2, 0.9 KB)
+0048.635 (0) Table rhofwwja_wffilechanges: Total expected rows (approximate): 0
+0048.637 (0) Table rhofwwja_wffilechanges: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=488) in 0.00 seconds
+0048.641 (0) Table rhofwwja_wffilechanges: finishing file(s) (2, 0.3 KB)
+0048.644 (0) Table rhofwwja_wffilemods: Total expected rows (approximate): 60507
+0051.320 (0) Table rhofwwja_wffilemods: Rows added in this batch (next record: 61000): 60507 (uncompressed bytes in this segment=17423146) in 2.67 seconds
+0051.326 (0) Table rhofwwja_wffilemods: finishing file(s) (2, 5340 KB)
+0051.329 (0) Table rhofwwja_wfhits: Total expected rows (approximate): 21
+0051.333 (0) Table rhofwwja_wfhits: Rows added in this batch (next record: 4452): 21 (uncompressed bytes in this segment=9087) in 0.00 seconds
+0051.337 (0) Table rhofwwja_wfhits: finishing file(s) (2, 1.5 KB)
+0051.340 (0) Table rhofwwja_wfhoover: Total expected rows (approximate): 67868
+0052.868 (0) Table rhofwwja_wfhoover: Rows added in this batch (next record: 67868): 67868 (uncompressed bytes in this segment=10746703) in 1.53 seconds
+0052.873 (0) Table rhofwwja_wfhoover: finishing file(s) (2, 780.3 KB)
+0052.876 (0) Table rhofwwja_wfissues: Total expected rows (approximate): 80
+0052.882 (0) Table rhofwwja_wfissues: Rows added in this batch (next record: 11086): 80 (uncompressed bytes in this segment=64855) in 0.01 seconds
+0052.886 (0) Table rhofwwja_wfissues: finishing file(s) (2, 6.5 KB)
+0052.889 (0) Table rhofwwja_wfknownfilelist: Total expected rows (approximate): 60507
+0053.644 (0) Table rhofwwja_wfknownfilelist: Rows added in this batch (next record: 60507): 60507 (uncompressed bytes in this segment=6278719) in 0.75 seconds
+0053.648 (0) Table rhofwwja_wfknownfilelist: finishing file(s) (2, 631.3 KB)
+0053.651 (0) Table rhofwwja_wflivetraffichuman: Total expected rows (approximate): 0
+0053.653 (0) Table rhofwwja_wflivetraffichuman: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=684) in 0.00 seconds
+0053.657 (0) Table rhofwwja_wflivetraffichuman: finishing file(s) (2, 0.3 KB)
+0053.659 (0) Table rhofwwja_wflocs: Total expected rows (approximate): 2
+0053.662 (0) Table rhofwwja_wflocs: Rows added in this batch (next record: 1000): 2 (uncompressed bytes in this segment=1018) in 0.00 seconds
+0053.665 (0) Table rhofwwja_wflocs: finishing file(s) (2, 0.5 KB)
+0053.668 (0) Table rhofwwja_wflogins: Total expected rows (approximate): 1237
+0053.712 (0) Table rhofwwja_wflogins: Rows added in this batch (next record: 1237): 1237 (uncompressed bytes in this segment=230064) in 0.04 seconds
+0053.716 (0) Table rhofwwja_wflogins: finishing file(s) (2, 25.1 KB)
+0053.719 (0) Table rhofwwja_wfls_2fa_secrets: Total expected rows (approximate): 0
+0053.722 (0) Table rhofwwja_wfls_2fa_secrets: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=717) in 0.00 seconds
+0053.725 (0) Table rhofwwja_wfls_2fa_secrets: finishing file(s) (2, 0.4 KB)
+0053.728 (0) Table rhofwwja_wfls_settings: Total expected rows (approximate): 19
+0053.730 (0) Table rhofwwja_wfls_settings: Rows added in this batch (next record: 1000): 19 (uncompressed bytes in this segment=1630) in 0.00 seconds
+0053.734 (0) Table rhofwwja_wfls_settings: finishing file(s) (2, 0.8 KB)
+0053.736 (0) Table rhofwwja_wfnotifications: Total expected rows (approximate): 2
+0053.738 (0) Table rhofwwja_wfnotifications: Rows added in this batch (next record: 1000): 2 (uncompressed bytes in this segment=1082) in 0.00 seconds
+0053.742 (0) Table rhofwwja_wfnotifications: finishing file(s) (2, 0.6 KB)
+0053.745 (0) Table rhofwwja_wfpendingissues: Total expected rows (approximate): 0
+0053.747 (0) Table rhofwwja_wfpendingissues: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=882) in 0.00 seconds
+0053.750 (0) Table rhofwwja_wfpendingissues: finishing file(s) (2, 0.4 KB)
+0053.752 (0) Table rhofwwja_wfreversecache: Total expected rows (approximate): 5
+0053.754 (0) Table rhofwwja_wfreversecache: Rows added in this batch (next record: 1000): 5 (uncompressed bytes in this segment=978) in 0.00 seconds
+0053.758 (0) Table rhofwwja_wfreversecache: finishing file(s) (2, 0.5 KB)
+0053.760 (0) Table rhofwwja_wfsnipcache: Total expected rows (approximate): 0
+0053.762 (0) Table rhofwwja_wfsnipcache: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=757) in 0.00 seconds
+0053.766 (0) Table rhofwwja_wfsnipcache: finishing file(s) (2, 0.4 KB)
+0053.768 (0) Table rhofwwja_wfstatus: Total expected rows (approximate): 956
+0053.790 (0) Table rhofwwja_wfstatus: Rows added in this batch (next record: 164347): 956 (uncompressed bytes in this segment=102902) in 0.02 seconds
+0053.795 (0) Table rhofwwja_wfstatus: finishing file(s) (2, 16 KB)
+0053.797 (0) Table rhofwwja_wftrafficrates: Total expected rows (approximate): 0
+0053.799 (0) Table rhofwwja_wftrafficrates: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=602) in 0.00 seconds
+0053.803 (0) Table rhofwwja_wftrafficrates: finishing file(s) (2, 0.3 KB)
+0053.805 (0) Table rhofwwja_yoast_indexable: Total expected rows (approximate): 167
+0053.827 (0) Table rhofwwja_yoast_indexable: Rows added in this batch (next record: 176): 176 (uncompressed bytes in this segment=118637) in 0.02 seconds
+0053.831 (0) Table rhofwwja_yoast_indexable: finishing file(s) (2, 18.5 KB)
+0053.834 (0) Table rhofwwja_yoast_indexable_hierarchy: Total expected rows (approximate): 79
+0053.837 (0) Table rhofwwja_yoast_indexable_hierarchy: Rows added in this batch (next record: 1000): 92 (uncompressed bytes in this segment=2408) in 0.00 seconds
+0053.840 (0) Table rhofwwja_yoast_indexable_hierarchy: finishing file(s) (2, 0.7 KB)
+0053.843 (0) Table rhofwwja_yoast_migrations: Total expected rows (approximate): 18
+0053.846 (0) Table rhofwwja_yoast_migrations: Rows added in this batch (next record: 21): 21 (uncompressed bytes in this segment=1197) in 0.00 seconds
+0053.850 (0) Table rhofwwja_yoast_migrations: finishing file(s) (2, 0.6 KB)
+0053.855 (0) Table rhofwwja_yoast_primary_term: Total expected rows (approximate): 7
+0053.858 (0) Table rhofwwja_yoast_primary_term: Rows added in this batch (next record: 10): 10 (uncompressed bytes in this segment=1727) in 0.00 seconds
+0053.862 (0) Table rhofwwja_yoast_primary_term: finishing file(s) (2, 0.6 KB)
+0053.865 (0) Table rhofwwja_yoast_seo_links: Total expected rows (approximate): 209
+0053.873 (0) Table rhofwwja_yoast_seo_links: Rows added in this batch (next record: 1629): 209 (uncompressed bytes in this segment=32080) in 0.01 seconds
+0053.877 (0) Table rhofwwja_yoast_seo_links: finishing file(s) (2, 4.4 KB)
+0053.880 (0) Table rhofwwja_yoast_seo_meta: Total expected rows (approximate): 134
+0053.884 (0) Table rhofwwja_yoast_seo_meta: Rows added in this batch (next record: 1918): 134 (uncompressed bytes in this segment=2628) in 0.00 seconds
+0053.887 (0) Table rhofwwja_yoast_seo_meta: finishing file(s) (2, 0.8 KB)
+0053.889 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_options.table.tmpr289531.gz (1/73): adding to final database dump
+0053.955 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_options.table.gz (2/73): adding to final database dump
+0053.956 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_users.table.tmpr7.gz (3/73): adding to final database dump
+0053.958 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_users.table.gz (4/73): adding to final database dump
+0053.958 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_usermeta.table.tmpr255.gz (5/73): adding to final database dump
+0053.961 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_usermeta.table.gz (6/73): adding to final database dump
+0053.962 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_commentmeta.table.tmpr0.gz (7/73): adding to final database dump
+0053.963 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_commentmeta.table.gz (8/73): adding to final database dump
+0053.964 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_comments.table.tmpr0.gz (9/73): adding to final database dump
+0053.965 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_comments.table.gz (10/73): adding to final database dump
+0053.966 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_itsec_bans.table.tmpr954.gz (11/73): adding to final database dump
+0053.971 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_itsec_bans.table.gz (12/73): adding to final database dump
+0053.972 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_itsec_distributed_storage.table.tmpr0.gz (13/73): adding to final database dump
+0053.973 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_itsec_distributed_storage.table.gz (14/73): adding to final database dump
+0053.974 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_itsec_fingerprints.table.tmpr0.gz (15/73): adding to final database dump
+0053.975 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_itsec_fingerprints.table.gz (16/73): adding to final database dump
+0053.976 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_itsec_geolocation_cache.table.tmpr0.gz (17/73): adding to final database dump
+0053.977 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_itsec_geolocation_cache.table.gz (18/73): adding to final database dump
+0053.978 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_itsec_lockouts.table.tmpr2.gz (19/73): adding to final database dump
+0053.979 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_itsec_lockouts.table.gz (20/73): adding to final database dump
+0053.980 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_itsec_logs.table.tmpr6999.gz (21/73): adding to final database dump
+0053.981 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_itsec_logs.table.gz (22/73): adding to final database dump
+0053.982 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_itsec_mutexes.table.tmpr0.gz (23/73): adding to final database dump
+0053.983 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_itsec_mutexes.table.gz (24/73): adding to final database dump
+0053.984 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_itsec_opaque_tokens.table.tmpr1.gz (25/73): adding to final database dump
+0053.985 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_itsec_opaque_tokens.table.gz (26/73): adding to final database dump
+0053.986 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_itsec_temp.table.tmpr11.gz (27/73): adding to final database dump
+0053.987 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_itsec_temp.table.gz (28/73): adding to final database dump
+0053.988 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_itsec_user_groups.table.tmpr1001.gz (29/73): adding to final database dump
+0053.989 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_itsec_user_groups.table.gz (30/73): adding to final database dump
+0053.990 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_links.table.tmpr8.gz (31/73): adding to final database dump
+0053.991 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_links.table.gz (32/73): adding to final database dump
+0053.992 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_postmeta.table.tmpr14348.gz (33/73): adding to final database dump
+0054.064 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_postmeta.table.gz (34/73): adding to final database dump
+0054.066 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_posts.table.tmpr1985.gz (35/73): adding to final database dump
+0054.136 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_posts.table.gz (36/73): adding to final database dump
+0054.138 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_term_relationships.table.tmpr100001.gz (37/73): adding to final database dump
+0054.139 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_term_relationships.table.gz (38/73): adding to final database dump
+0054.140 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_term_taxonomy.table.tmpr156.gz (39/73): adding to final database dump
+0054.142 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_term_taxonomy.table.gz (40/73): adding to final database dump
+0054.143 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_termmeta.table.tmpr3.gz (41/73): adding to final database dump
+0054.144 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_termmeta.table.gz (42/73): adding to final database dump
+0054.145 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_terms.table.tmpr156.gz (43/73): adding to final database dump
+0054.147 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_terms.table.gz (44/73): adding to final database dump
+0054.148 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_blc_filters.table.tmpr0.gz (45/73): adding to final database dump
+0054.149 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_blc_filters.table.gz (46/73): adding to final database dump
+0054.150 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_blc_instances.table.tmpr102.gz (47/73): adding to final database dump
+0054.151 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_blc_instances.table.gz (48/73): adding to final database dump
+0054.152 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_blc_links.table.tmpr33.gz (49/73): adding to final database dump
+0054.154 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_blc_links.table.gz (50/73): adding to final database dump
+0054.155 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_blc_synch.table.tmpr1001.gz (51/73): adding to final database dump
+0054.156 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_blc_synch.table.gz (52/73): adding to final database dump
+0054.157 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_brb_business.table.tmpr3.gz (53/73): adding to final database dump
+0054.158 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_brb_business.table.gz (54/73): adding to final database dump
+0054.159 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_brb_review.table.tmpr30.gz (55/73): adding to final database dump
+0054.161 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_brb_review.table.gz (56/73): adding to final database dump
+0054.162 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_cf7dbplugin_st.table.tmpr4001.gz (57/73): adding to final database dump
+0054.170 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_cf7dbplugin_st.table.gz (58/73): adding to final database dump
+0054.171 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_cf7dbplugin_submits.table.tmpr28001.gz (59/73): adding to final database dump
+0054.379 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_cf7dbplugin_submits.table.gz (60/73): adding to final database dump
+0054.381 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_cptch_whitelist.table.tmpr0.gz (61/73): adding to final database dump
+0054.382 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_cptch_whitelist.table.gz (62/73): adding to final database dump
+0054.383 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_grp_google_place.table.tmpr2.gz (63/73): adding to final database dump
+0054.384 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_grp_google_place.table.gz (64/73): adding to final database dump
+0054.385 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_grp_google_review.table.tmpr6.gz (65/73): adding to final database dump
+0054.387 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_grp_google_review.table.gz (66/73): adding to final database dump
+0054.388 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_hctpc_images.table.tmpr113.gz (67/73): adding to final database dump
+0054.389 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_hctpc_images.table.gz (68/73): adding to final database dump
+0054.390 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_hctpc_packages.table.tmpr13.gz (69/73): adding to final database dump
+0054.392 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_hctpc_packages.table.gz (70/73): adding to final database dump
+0054.393 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_hctpc_whitelist.table.tmpr0.gz (71/73): adding to final database dump
+0054.394 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_hctpc_whitelist.table.gz (72/73): adding to final database dump
+0054.395 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_itsec_log.table.tmpr53071.gz (73/73): adding to final database dump
+0054.420 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_itsec_log.table.gz (74/73): adding to final database dump
+0054.422 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_iwp_backup_status.table.tmpr0.gz (75/73): adding to final database dump
+0054.423 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_iwp_backup_status.table.gz (76/73): adding to final database dump
+0054.424 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_iwp_processed_iterator.table.tmpr0.gz (77/73): adding to final database dump
+0054.425 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_iwp_processed_iterator.table.gz (78/73): adding to final database dump
+0054.426 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_redirection_404.table.tmpr89812.gz (79/73): adding to final database dump
+0054.429 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_redirection_404.table.gz (80/73): adding to final database dump
+0054.430 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_redirection_groups.table.tmpr2.gz (81/73): adding to final database dump
+0054.431 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_redirection_groups.table.gz (82/73): adding to final database dump
+0054.432 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_redirection_items.table.tmpr72.gz (83/73): adding to final database dump
+0054.434 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_redirection_items.table.gz (84/73): adding to final database dump
+0054.435 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_redirection_logs.table.tmpr3601.gz (85/73): adding to final database dump
+0054.437 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_redirection_logs.table.gz (86/73): adding to final database dump
+0054.438 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_smush_dir_images.table.tmpr0.gz (87/73): adding to final database dump
+0054.439 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_smush_dir_images.table.gz (88/73): adding to final database dump
+0054.440 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_structuring_markup.table.tmpr12.gz (89/73): adding to final database dump
+0054.441 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_structuring_markup.table.gz (90/73): adding to final database dump
+0054.442 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_toolset_post_guid_id.table.tmpr1011.gz (91/73): adding to final database dump
+0054.443 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_toolset_post_guid_id.table.gz (92/73): adding to final database dump
+0054.444 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_wfblockediplog.table.tmpr1.gz (93/73): adding to final database dump
+0054.445 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_wfblockediplog.table.gz (94/73): adding to final database dump
+0054.447 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_wfblocks7.table.tmpr0.gz (95/73): adding to final database dump
+0054.448 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_wfblocks7.table.gz (96/73): adding to final database dump
+0054.449 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_wfconfig.table.tmpr1001.gz (97/73): adding to final database dump
+0054.517 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_wfconfig.table.gz (98/73): adding to final database dump
+0054.519 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_wfcrawlers.table.tmpr1001.gz (99/73): adding to final database dump
+0054.522 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_wfcrawlers.table.gz (100/73): adding to final database dump
+0054.523 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_wffilechanges.table.tmpr1.gz (101/73): adding to final database dump
+0054.524 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_wffilechanges.table.gz (102/73): adding to final database dump
+0054.525 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_wffilemods.table.tmpr61001.gz (103/73): adding to final database dump
+0055.385 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_wffilemods.table.gz (104/73): adding to final database dump
+0055.387 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_wfhits.table.tmpr4453.gz (105/73): adding to final database dump
+0055.389 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_wfhits.table.gz (106/73): adding to final database dump
+0055.390 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_wfhoover.table.tmpr67869.gz (107/73): adding to final database dump
+0055.668 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_wfhoover.table.gz (108/73): adding to final database dump
+0055.670 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_wfissues.table.tmpr11087.gz (109/73): adding to final database dump
+0055.673 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_wfissues.table.gz (110/73): adding to final database dump
+0055.674 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_wfknownfilelist.table.tmpr60508.gz (111/73): adding to final database dump
+0055.892 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_wfknownfilelist.table.gz (112/73): adding to final database dump
+0055.894 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_wflivetraffichuman.table.tmpr1.gz (113/73): adding to final database dump
+0055.895 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_wflivetraffichuman.table.gz (114/73): adding to final database dump
+0055.896 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_wflocs.table.tmpr1001.gz (115/73): adding to final database dump
+0055.897 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_wflocs.table.gz (116/73): adding to final database dump
+0055.898 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_wflogins.table.tmpr1238.gz (117/73): adding to final database dump
+0055.906 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_wflogins.table.gz (118/73): adding to final database dump
+0055.907 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_wfls_2fa_secrets.table.tmpr0.gz (119/73): adding to final database dump
+0055.909 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_wfls_2fa_secrets.table.gz (120/73): adding to final database dump
+0055.910 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_wfls_settings.table.tmpr1001.gz (121/73): adding to final database dump
+0055.911 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_wfls_settings.table.gz (122/73): adding to final database dump
+0055.912 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_wfnotifications.table.tmpr1001.gz (123/73): adding to final database dump
+0055.913 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_wfnotifications.table.gz (124/73): adding to final database dump
+0055.914 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_wfpendingissues.table.tmpr0.gz (125/73): adding to final database dump
+0055.915 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_wfpendingissues.table.gz (126/73): adding to final database dump
+0055.916 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_wfreversecache.table.tmpr1001.gz (127/73): adding to final database dump
+0055.917 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_wfreversecache.table.gz (128/73): adding to final database dump
+0055.918 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_wfsnipcache.table.tmpr0.gz (129/73): adding to final database dump
+0055.919 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_wfsnipcache.table.gz (130/73): adding to final database dump
+0055.920 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_wfstatus.table.tmpr164348.gz (131/73): adding to final database dump
+0055.925 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_wfstatus.table.gz (132/73): adding to final database dump
+0055.927 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_wftrafficrates.table.tmpr1.gz (133/73): adding to final database dump
+0055.928 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_wftrafficrates.table.gz (134/73): adding to final database dump
+0055.928 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_yoast_indexable.table.tmpr177.gz (135/73): adding to final database dump
+0055.934 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_yoast_indexable.table.gz (136/73): adding to final database dump
+0055.935 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_yoast_indexable_hierarchy.table.tmpr1001.gz (137/73): adding to final database dump
+0055.936 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_yoast_indexable_hierarchy.table.gz (138/73): adding to final database dump
+0055.937 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_yoast_migrations.table.tmpr22.gz (139/73): adding to final database dump
+0055.938 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_yoast_migrations.table.gz (140/73): adding to final database dump
+0055.939 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_yoast_primary_term.table.tmpr11.gz (141/73): adding to final database dump
+0055.940 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_yoast_primary_term.table.gz (142/73): adding to final database dump
+0055.941 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_yoast_seo_links.table.tmpr1630.gz (143/73): adding to final database dump
+0055.944 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_yoast_seo_links.table.gz (144/73): adding to final database dump
+0055.945 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_yoast_seo_meta.table.tmpr1919.gz (145/73): adding to final database dump
+0055.946 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db-table-rhofwwja_yoast_seo_meta.table.gz (146/73): adding to final database dump
+0055.953 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db.gz: finished writing out complete database file (9168 KB)
+0056.090 (0) Total database tables backed up: 73 (backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db.gz, size: 9390516, sha1: fa6b35d4c1b1aafcc00e9f25eeab36ffdadb3ba0, sha256: b6c63f9b005a5bb4aedcef9750f999e4b012b42f9682d18418950173533daf1b)
+0056.097 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0056.097 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0056.098 (0) backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db.gz: db: This file has not yet been successfully uploaded: will queue
+0056.099 (0) Saving backup history. Total backup size: 76.2 MB
+0056.102 (0) Requesting upload of the files that have not yet been successfully uploaded (3)
+0056.104 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0056.105 (0) No remote despatch: user chose no remote backup service
+0056.106 (0) Recording as successfully uploaded: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-plugins.zip
+0056.108 (0) Recording as successfully uploaded: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-themes.zip
+0056.110 (0) Recording as successfully uploaded: backup_2021-03-09-1026_Australian_Security_b0c16facd56d-db.gz
+0056.113 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0056.114 (0) Number of backup sets in history: 4; groups (db): 1
+0056.115 (0) Examining (for databases) backup set with group_id=0, nonce=b0c16facd56d, datestamp=1615285611 (Mar 09 2021 10:26:51)
+0056.116 (0) This backup set is the backup set just made, so will not be deleted.
+0056.116 (0) Examining (for databases) backup set with group_id=0, nonce=c23abcb5f5ab, datestamp=1615172465 (Mar 08 2021 03:01:05)
+0056.116 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0056.117 (0) Examining (for databases) backup set with group_id=0, nonce=ae931e4f352c, datestamp=1614934020 (Mar 05 2021 08:47:00)
+0056.117 (0) Examining (for databases) backup set with group_id=0, nonce=75aba81d4cdf, datestamp=1582618503 (Feb 25 2020 08:15:03)
+0056.117 (0) 1582618503: db: this set includes a database (backup_2020-02-25-0815_Australian_Security_75aba81d4cdf-db.gz); db count is now 2
+0056.117 (0) 1582618503: db: over retain limit (2); will delete this database
+0056.117 (0) Delete file: backup_2020-02-25-0815_Australian_Security_75aba81d4cdf-db.gz, service=none
+0056.118 (0) Deleting local copy (backup_2020-02-25-0815_Australian_Security_75aba81d4cdf-db.gz)
+0056.121 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0056.122 (0) Number of backup sets in history: 4; groups (files): 1
+0056.123 (0) Examining (for files) backup set with nonce=b0c16facd56d, datestamp=1615285611 (Mar 09 2021 10:26:51)
+0056.123 (0) This backup set is the backup set just made, so will not be deleted.
+0056.123 (0) This backup set is the backup set just made, so will not be deleted.
+0056.124 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0056.125 (0) Examining (for files) backup set with nonce=c23abcb5f5ab, datestamp=1615172465 (Mar 08 2021 03:01:05)
+0056.125 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0056.125 (0) Examining (for files) backup set with nonce=ae931e4f352c, datestamp=1614934020 (Mar 05 2021 08:47:00)
+0056.125 (0) plugins: over retain limit (2); will delete this file entity
+0056.125 (0) themes: over retain limit (2); will delete this file entity
+0056.125 (0) Delete file: backup_2021-03-05-0847_Australian_Security_ae931e4f352c-plugins.zip, service=none
+0056.126 (0) Deleting local copy (backup_2021-03-05-0847_Australian_Security_ae931e4f352c-plugins.zip)
+0056.127 (0) Delete file: backup_2021-03-05-0847_Australian_Security_ae931e4f352c-themes.zip, service=none
+0056.129 (0) Deleting local copy (backup_2021-03-05-0847_Australian_Security_ae931e4f352c-themes.zip)
+0056.131 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0056.132 (0) Examining (for files) backup set with nonce=75aba81d4cdf, datestamp=1582618503 (Feb 25 2020 08:15:03)
+0056.132 (0) plugins: over retain limit (2); will delete this file entity
+0056.132 (0) themes: over retain limit (2); will delete this file entity
+0056.132 (0) Delete file: backup_2020-02-25-0815_Australian_Security_75aba81d4cdf-plugins.zip, service=none
+0056.133 (0) Deleting local copy (backup_2020-02-25-0815_Australian_Security_75aba81d4cdf-plugins.zip)
+0056.134 (0) Delete file: backup_2020-02-25-0815_Australian_Security_75aba81d4cdf-themes.zip, service=none
+0056.135 (0) Deleting local copy (backup_2020-02-25-0815_Australian_Security_75aba81d4cdf-themes.zip)
+0056.137 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0056.138 (0) Retain: saving new backup history (sets now: 4) and finishing retain operation
+0056.141 (0) Resume backup (b0c16facd56d, 0): finish run
+0056.144 (0) Decremented the semaphore (fd) by 1
+0056.146 (0) Semaphore (fd) unlocked
+0056.147 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0056.151 (0) No email will/can be sent - the user has not configured an email address.
+0056.151 (0) The backup apparently succeeded and is now complete

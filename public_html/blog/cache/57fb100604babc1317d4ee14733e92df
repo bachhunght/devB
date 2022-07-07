@@ -1,0 +1,225 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3906:"Ltd. provides real estate services. It offers design, construction, engineering, wealth and asset management, property management, and other services. Incorporated as Ming Court Limited in 1967, FAR EAST SUCCESS DEVELOPMENT PTE. Far East Orchard Limited (“Far East Orchard”) is a member of Far East Organization, Singapore’s largest private property developer. Far East Organisation Pte Ltd. Far East Organization Pte Ltd. develops real estate properties. The Company principal activity is … It has two listed subsidiaries, Far East Orchard Limited and Yeo Hiap Seng Limited. Far East Organisation Pte. FAR EAST INTERNATIONAL PTE. The Company constructs industrial, office, medical, residential, and retail buildings. Developer: Far East Organization Centre Pte. LTD. (the "Company") is a Exempt Private Company Limited by Shares, incorporated on 24 November 1982 (Wednesday) in Singapore. Far East Organization is one of Asia’s largest real estate group, with a range of products in residential, commercial, hospitality and retail space segments. It also has a sister company, Sino Group, one of … Far East Organization Centre Private Limited Far East Management(Pte)Ltd. Update my company information. The Partnership principal activity is in REAL ESTATE DEVELOPERS. We take a holistic approach to our people’s well-being as we believe that our work is a part of our life. Far East Hospitality is a joint venture formed in 2013 between Far East Orchard Limited (a listed company under Far East Organization) and The Straits Trading Company Limited. Developers in Singapore ... Far East Organization Centre Pte Ltd Fortune Realty Pte Ltd Fragrance Land Pte Ltd Frasers Centrepoint Limited Global Orion PCC Goodland Development Pte Ltd GuocoLand Limited Guthrie Properties (S) Pte Ltd Far East Plaza 14 Scotts Road #06-00 Singapore 228213. Each aspect of the development is thoughtfully crafted, with exquisite attention to detail. In the same year, Far East Hospitality, through its wholly-owned subsidiary Far East Hospitality Investments (Australia) Pte Ltd, completed a 50-50 joint venture with Australia’s Toga Group to form TFE Hotels Share. The address of the Company's registered office is at the FAR EAST PLAZA building. Far East Organization Centre Pte Ltd Far East Organization Centre Pte Ltd provides construction services. Ltd. provides real estate services. Last update: 15 Mar. About Far East Organization Centre Pte Ltd Far East Organization Centre Pte Ltd provides construction services. It was founded by Singaporean billionaire Ng Teng Fong in 1960. From 2005 to 2010, Mr … Far East Organization Centre Pte Ltd is dealing with Real Estate, located at 14 Scotts Rd LEVEL 25 Far East Plaza Singapore 228213, contact 67325433 / chiabk@fareast.com.sg. Far East Orchard’s corporate structure for its hospitality and property investment. 05-01, Orchard Parade Hotel 1 Tanglin Road Singapore, South East 247905 Phone : +65.6833.6688 ... FAR EAST ORGANIZATION CENTRE PTE LTD. Kah Sek Koh: FAR EAST WAIKIKI PROPERTIES LLC. List of Property Developers in Singapore. The Company current operating status is live with registered address at FAR EAST PLAZA. FAR EAST ORGANISATION was incorporated on 11 March 1975 (Tuesday) as a Partnership in Singapore. far east organization pte. The Company principal activity is in … Asia's leading online portal for the building and construction industry. Ltd. (a member of Far East Organization) established for the development of a hotel site in Sentosa. food and restaurant arm of Far East Organization, Dean & DeLuca is fast becoming a one-stop destination for discerning customers with its international array of artisanal produce, some painstakingly sourced from the best suppliers; and many specially commissioned for the … We take a holistic approach to our people’s well-being as we believe that our work is a part of our life. ";s:7:"keyword";s:36:"far east organization centre pte ltd";s:5:"links";s:6083:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=part-time-jobs-in-dubai-every-friday'>Part Time Jobs In Dubai Every Friday</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=gluten-free-chimney-cake-prague'>Gluten Free Chimney Cake Prague</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=parts-of-a-lounge-chair'>Parts Of A Lounge Chair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=when-was-ethan-allen-born'>When Was Ethan Allen Born</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=toshiba-washing-machine-saudi-arabia'>Toshiba Washing Machine Saudi Arabia</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=why-grapefruit-is-bad-for-you'>Why Grapefruit Is Bad For You</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=minecraft-garden-ideas-step-by-step'>Minecraft Garden Ideas Step By Step</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-commercial-pressure-washer-in-india'>Best Commercial Pressure Washer In India</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=christmas-pudding-pom-pom-with-cardboard'>Christmas Pudding Pom Pom With Cardboard</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=2-bedroom-modern-house-plans'>2 Bedroom Modern House Plans</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-colour-for-study-room-quora'>Best Colour For Study Room Quora</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ritz-afternoon-tea-dress-code'>Ritz Afternoon Tea Dress Code</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=blue-bird-of-paradise-diet'>Blue Bird Of Paradise Diet</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=white-entryway-table-with-drawers'>White Entryway Table With Drawers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hannah-hart-food-network-cancelled'>Hannah Hart Food Network Cancelled</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-plant-a-border-of-shrubs'>How To Plant A Border Of Shrubs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-plants-for-property-line'>Best Plants For Property Line</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lily-of-the-valley-minecraft'>Lily Of The Valley Minecraft</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=paula-deen-chicken-casserole-recipes'>Paula Deen Chicken Casserole Recipes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=big-little-lies-season-2-episode-1'>Big Little Lies Season 2 Episode 1</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=toronto-housing-bubble-about-to-burst'>Toronto Housing Bubble About To Burst</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rustic-wrought-iron-wall-decor'>Rustic Wrought Iron Wall Decor</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cost-of-kitchen-cabinets-installed'>Cost Of Kitchen Cabinets Installed</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=humble-pie-30-days-in-the-hole'>Humble Pie 30 Days In The Hole</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=greenworks-pro-2200-psi-pressure-washer'>Greenworks Pro 2200 Psi Pressure Washer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=battle-of-the-bulge-1965'>Battle Of The Bulge 1965</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dining-chairs-with-stainless-steel-legs'>Dining Chairs With Stainless Steel Legs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=catch-me-if-you-can-netflix'>Catch Me If You Can Netflix</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=monkey-female-name-in-hindi'>Monkey Female Name In Hindi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=utrecht-university-masters-application-deadline'>Utrecht University Masters Application Deadline</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-amazing-spider-man-2-pc'>The Amazing Spider Man 2 Pc</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=back-to-you-13-reasons-why-mp3-download'>Back To You 13 Reasons Why Mp3 Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kayon-jungle-resort-pool-villa'>Kayon Jungle Resort Pool Villa</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=houses-for-rent-in-renton'>Houses For Rent In Renton</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=destinations-of-a-lifetime-list'>Destinations Of A Lifetime List</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bear-mountain-vs-snow-summit-for-lessons'>Bear Mountain Vs Snow Summit For Lessons</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-herbs-were-used-in-colonial-medicine'>What Herbs Were Used In Colonial Medicine</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lily-of-the-valley-toxidrome'>Lily Of The Valley Toxidrome</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fried-aloo-gobi-recipe-in-hindi'>Fried Aloo Gobi Recipe In Hindi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=are-sourdough-english-muffins-healthy'>Are Sourdough English Muffins Healthy</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=national-honor-society-induction-ceremony-2019'>National Honor Society Induction Ceremony 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-draw-a-desk'>How To Draw A Desk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=why-does-my-husband-criticizes-me-constantly'>Why Does My Husband Criticizes Me Constantly</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=types-of-chefs-and-salaries-uk'>Types Of Chefs And Salaries Uk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=gordon-ramsay-ultimate-home-cooking-pdf-free-downloadamerican-craftsman-windows-installation-guide'>Gordon Ramsay Ultimate Home Cooking Pdf Free Downloadamerican Craftsman Windows Installation Guide</a>,
+";s:7:"expired";i:-1;}

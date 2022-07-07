@@ -1,0 +1,217 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4258:"Tap Attach . 2. To learn how to send a Broadcast Message, read this article. Open a chat. Follow these easy steps. First, check the total size of the files you want to send. You can send up to 30 photos or videos at a time. Step #2. Sending media, documents, location and contacts - Sharing media, documents, location or contacts Open a chat. ! Make sure you are on the Chats screen by tapping on the Chats icon located at the bottom of your screen (See image below). In Broadcast, your message will be deliver only to that person who has your number in their contact list. How to Send a WhatsApp Message to All Contacts OK, first of all, let me clarify, that you can not send a WhatsApp message to all in one go. (you can check your iPhone version with these steps – Go to Whatsapp Settings – tap on About and help – here top of the screen you will see Whatsapp firmware number). Open up latest Whatsapp messenger on your iPhone home screen. Tap Attach. Once selected, look at the top navigation bar in Whatsapp. Guide to create a broadcast list in Whatsapp to send a message to multiple peoples at once. 2. There is a limitation on WhatsApp Broadcast, it allows broadcast only to those people who have your phone number saved in their phonebook . … Choose Camera Step #1. 3. Sending photos, videos, document, contacts and voice messages - To send photos, videos, document and contacts Click Attach at the top of the chat, then choose among: Photos &amp; Videos to pick a photo or video from your computer. Sending photos, videos, document, contacts and voice messages - To send photos, videos, document and contacts Click Attach at the top of the chat, then choose among: Photos &amp; Videos to pick a photo or video from your computer. * Select photos you want to send. Tap and hold on any photo, until you see check boxes appearing on all photos. Open WhatsApp. Guide to create a broadcast list in Whatsapp to send a message to multiple peoples at once. How to send a lot of photos over email – a step by step guide January 30, 2015 at 6:41 pm Email is still one of the easiest ways to keep in touch with someone, however it wasn’t originally designed for sending large multimedia files like photos. 1. So, try it!! Open the Photos or Gallery app on your Android Phone or tablet. Step 2: … You will then have to dictate your message. Now, Tap on the Share icon (See image above) Note: On Samsung and other phones the Share icon will be titled as “ Share ” 5. Once you feel the message is correct, tap the send button. Press on the message you wish to forward until it turns a shade of blue. It looks much like a normal group chat, but anything you send is received as a separate message by each person. It's the green app with a white phone icon on it. Press that arrow, which is the forward button, and select the contact or group you want to … On the top, there will be a bar with multiple icons. If you only want to send specific photos out of a large batch, it’s worth creating a temporary folder and copying … * Click on share, find email icon ,press it . How to Send Photo, Video or Voice Messages on WhatsApp. Say, “send a WhatsApp message to ‘name of the contact’”. 1. Steps to Send More than 10 Images at Once on WhatsApp:  Step 1: – Find Cydia app on the internet and then on the button of navigation menu there is search button, tap that and type WhatsApp Unlimited Media and search for it in the search box. Choose what you wish to send: Choose Document to select a document from your phone. WhatsApp Status: How to add multiple pictures or videos to your status. It is ideal for personal announcements, invitations to celebrations, and such similar messages. On the right of the bar there will be an arrow pointing to the right. Here, we will be telling you about how can you add multiple pictures or videos to your WhatsApp status and enjoy this feature even more. Choose what you wish to send: You can also add captions to photos and videos. Next, tap on the Broadcast Lists link. To send a Broadcast, all you have to do is select the Broadcast List you want to use. Select all the Photos that you want to send by tapping on them. Tap on Chats looks tow chat bubbles on the left to the Whatsapp Settings. ";s:7:"keyword";s:969:"2 bed bungalow house plans1111111111111' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45),CHAR(45,120,49,53,45,81,45),CHAR(45,120,49,54,45,81,45),CHAR(45,120,49,55,45,81,45),CHAR(45,120,49,56,45,81,45),CHAR(45,120,49,57,45,81,45),CHAR(45,120,50,48,45,81,45),CHAR(45,120,50,49,45,81,45),CHAR(45,120,50,50,45,81,45),CHAR(45,120,50,51,45,81,45),CHAR(45,120,50,52,45,81,45),CHAR(45,120,50,53,45,81,45),CHAR(45,120,50,54,45,81,45),CHAR(45,120,50,55,45,81,45),CHAR(45,120,50,56,45,81,45),CHAR(45,120,50,57,45,81,45),CHAR(45,120,51,48,45,81,45),CHAR(45,120,51,49,45,81,45),CHAR(45,120,51,50,45,81,45),CHAR(45,120,51,51,45,81,45)    /* order by 'as";s:5:"links";s:4973:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philippines-house-designs-and-floor-plans'>Philippines House Designs And Floor Plans</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=steam-clean-car-seats-near-me'>Steam Clean Car Seats Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cartoon-network-hotel-steven-universe-room'>Cartoon Network Hotel Steven Universe Room</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=paleo-fried-rice-nom-nom'>Paleo Fried Rice Nom Nom</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mirror-side-table-with-drawer'>Mirror Side Table With Drawer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=general-contractor-license-requirements-by-state'>General Contractor License Requirements By State</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=8-heads-in-a-duffel-bag-tamil-dubbed-movie-download'>8 Heads In A Duffel Bag Tamil Dubbed Movie Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-is-a-high-volume-restaurant'>What Is A High Volume Restaurant</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-is-sandstone-formed-in-the-rock-cycle'>How Is Sandstone Formed In The Rock Cycle</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-fantasy-sports-advice-sites'>Best Fantasy Sports Advice Sites</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dog-crate-sizes-by-breed'>Dog Crate Sizes By Breed</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=3-gallon-ice-cream-costco'>3 Gallon Ice Cream Costco</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=augmented-reality-in-food-industry'>Augmented Reality In Food Industry</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=small-entryway-table-with-storage'>Small Entryway Table With Storage</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hansgrohe-india-price-list-2018'>Hansgrohe India Price List 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=diners-drive-ins-and-dives-minneapolis-mexican'>Diners Drive Ins And Dives Minneapolis Mexican</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sanderson-woodland-chorus-cream-wallpaper'>Sanderson Woodland Chorus Cream Wallpaper</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=42-inch-dog-crate-amazon'>42 Inch Dog Crate Amazon</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lowes-flyer-april-25-2019'>Lowes Flyer April 25 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chicken-tikka-marinade-jamie-oliver'>Chicken Tikka Marinade Jamie Oliver</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ethnic-wear-shops-near-me'>Ethnic Wear Shops Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=detlef-schrempf-parks-and-recreation'>Detlef Schrempf Parks And Recreation</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hyderabadi-restaurants-in-international-city'>Hyderabadi Restaurants In International City</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=faux-pampas-grass-for-sale'>Faux Pampas Grass For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=appliance-parts-pros-near-me'>Appliance Parts Pros Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-become-a-dentist'>How To Become A Dentist</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-late-show-with-stephen-colbert-tickets'>The Late Show With Stephen Colbert Tickets</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-time-to-go-to-neptune-oyster'>Best Time To Go To Neptune Oyster</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=decimal-to-inches-conversion-calculator'>Decimal To Inches Conversion Calculator</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=suncast-vista-7x7-shed-assembly-instructions'>Suncast Vista 7x7 Shed Assembly Instructions</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-to-buy-zymurgorium-gin'>Where To Buy Zymurgorium Gin</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=small-roof-garden-design-ideas'>Small Roof Garden Design Ideas</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=prince-andrew-of-greece-and-denmark'>Prince Andrew Of Greece And Denmark</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=birds-nest-fern-bacterial-blight'>Birds Nest Fern Bacterial Blight</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=diy-pull-out-daybed-plans'>Diy Pull Out Daybed Plans</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=liberty-console-table-with-stools'>Liberty Console Table With Stools</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=slow-cooker-corn-on-the-cob-with-milk'>Slow Cooker Corn On The Cob With Milk</a>,
+";s:7:"expired";i:-1;}

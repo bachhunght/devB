@@ -1,0 +1,1 @@
+¶ÉZb<?php exit; ?>a:1:{s:7:"content";s:68:"{{WP_PLUGIN_DIR}}/woocommerce/templates/single-product/tabs/tabs.php";}

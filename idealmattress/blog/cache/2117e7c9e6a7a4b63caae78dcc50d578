@@ -1,0 +1,207 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3937:"Philips Hue will mit einer neuen Hue Play HDMI Sync Box das Entertainment im Wohnzimmer intensivieren. Dafür ist eine Kopplung von TV und Philips Hue notwendig. Dabei handelt es sich um eine Box, die zwischen TV und HDMI-Gerät angeschlossen wird und so die Inhalte mit den Leuchten von Philips Hue synchronisiert. Nassim Chentouf. Pour le moment, jusqu'à 10 ampoules Hue (de différents types) peuvent être synchronisées avec votre boîtier. It is an HDMI pass through device that takes signal from HDMI inputs and then recreates the color with your Philips Hue lights. In terms of technical specifications, the Philips Hue HDMI Sync Box supports 4K, 60Hz connections. About Philips Hue Play HDMI Sync Box The Philips Hue Play HDMI Sync Box provides a way to connect your movies, video games, and music to your Philips Hue lights. Die Philips Hue-Leuchten synchronisieren ihr Licht mit der Dynamik und den Farben von Fernsehbildern. And, with the new Philips Hue HDMI Sync Box, the lighting master has now added the ability to have its smart lighting products sync to content playing on TV. The Philips Hue Play HDMI Sync Box is a device that uses the same technology to expand your home theater with surround lighting — no computer or laptop required — mirroring the content on your TV screen … Wir zeigen, wie Philips Hue-Leuchten in wenigen Schritten mit dem TV verbunden werden. Nach dem umfassendem Hue Update vorletzte Woche hat Philips heute offiziell ihre neue Hue Play HDMI Sync Box vorgestellt. Un prix relativement élevé, surtout qu'il faut que les flux passent par le boîtier pour que ça fonctionne. Philips lancera bientôt le Hue Play HDMI Sync Box, un boitier qui permet de modifier l’ambiance lumineuse en fonction d’une source vidéo. The Philips Hue Play HDMI Sync Box comes with four rear HDMI inputs and a single HDMI output. Hierdurch erscheint das TV-Erlebnis noch farbenprächtiger, packender und intensiver. The sync box works with all Philips Hue White and color ambiance bulbs or fixtures. Bring your media to life by adding up to 10 Philips Hue color-capable lights to your setup and enjoy surround lighting effects. La Philips Hue Play HDMI Sync Box sera disponible au premier trimestre 2020 au prix de 249,50€. Wer denkt, bei der Philips Hue Play HDMI Sync Box handle es sich doch nur um eine kleine Schachtel ohne viel Technik, so dass sich auch der Preis in Grenzen halten dürfte, irrt sich gewaltig.  Philips Hue Play HDMI Sync Box review: Sync app and controls With no real controls on the box itself, the Sync app plays a crucial role, both switching between your HDMI inputs and … Hue Play HDMI Sync Box : Philips lance une box pour synchroniser les lumières avec la TV. Alternative: Die „Philips Hue Play HDMI Sync Box“ spart den Computer am Fernseher.Sie nimmt das HDMI-Signal von Zuspiel-Geräten wie Fire TV oder Blu-Ray-Player und steuert damit das Hue-System. Eine ausführliche Beschreibung gibt es hier. Qu’il passe un film, un jeu vidéo, un clip sur YouTube ou une émission culinaire sur Netflix à l’écran, le petit appareil adapte continuellement la couleur et … Philips lance sa Hue Play HDMI Sync Box pour synchroniser toutes vos lumières avec votre TV. The Hue Play HDMI Sync Box from Philips leverages the company's Hue light technology to create an immersive entertainment experience by adding lighting effects to … 20 septembre 2019 à 06h31 0. It is important to note that it doesn't support HDR10+ or Dolby Vision, though. Philips Hue Play HDMI Sync Box review: Want to make your Hue lights sync with your TV? Think of it as an extension of color from your TV. Le boîtier Philips Hue Play HDMI Sync Box synchronise l’éclairage de toute une pièce avec ce qui passe sur l’écran. Signify, the company behind the Philips Hue lights, in September announced a new Philips Hue Play HDMI Sync Box, which brings a capability that many Hue … ";s:7:"keyword";s:23:"philips hue tv sync box";s:5:"links";s:3649:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=28-exterior-door-with-glass'>28 Exterior Door With Glass</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lily-of-the-valley-minecraft'>Lily Of The Valley Minecraft</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=over-easy-egg-nutrition-facts'>Over Easy Egg Nutrition Facts</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=anthony-bourdain-no-reservations-season-5-episode-5'>Anthony Bourdain No Reservations Season 5 Episode 5</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=medicine-hat-to-calgary-driving-time'>Medicine Hat To Calgary Driving Time</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=malice-at-the-palace-highlights'>Malice At The Palace Highlights</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=poo-poo-in-the-potty-song'>Poo Poo In The Potty Song</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-old-cabinets-look-modern'>How To Make Old Cabinets Look Modern</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=prp-louisville-ky-zip-code'>Prp Louisville Ky Zip Code</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mid-century-modern-wall-cabinet'>Mid Century Modern Wall Cabinet</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bon-appetit-beef-stew-with-red-wine'>Bon Appetit Beef Stew With Red Wine</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=stores-going-out-of-business-2020'>Stores Going Out Of Business 2020</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=personalized-family-sign-wall-decor'>Personalized Family Sign Wall Decor</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=Two-and-a-Half-Men'>Two And A Half Men</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=essential-oils-for-eczema-and-psoriasis'>Essential Oils For Eczema And Psoriasis</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=from-scratch-to-hatch-meaning'>From Scratch To Hatch Meaning</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pyrex-smart-essentials-mixing-bowl-set'>Pyrex Smart Essentials Mixing Bowl Set</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=small-pool-with-hot-tub'>Small Pool With Hot Tub</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=small-bathroom-floor-tile-ideas'>Small Bathroom Floor Tile Ideas</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=black-cherry-tomato-plants-for-sale'>Black Cherry Tomato Plants For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-goes-with-jerusalem-artichokes'>What Goes With Jerusalem Artichokes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mammoth-weather-15-day-forecast'>Mammoth Weather 15 Day Forecast</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=portable-carpet-extractor-for-auto-detailing'>Portable Carpet Extractor For Auto Detailing</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-buying-local-better-for-the-environment'>Is Buying Local Better For The Environment</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=village-square-leisure-centre-swimming-pool-prices'>Village Square Leisure Centre Swimming Pool Prices</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-great-food-truck-race-season-10-episode-2'>The Great Food Truck Race Season 10 Episode 2</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=locking-wall-cabinet-with-glass-doors'>Locking Wall Cabinet With Glass Doors</a>,
+";s:7:"expired";i:-1;}

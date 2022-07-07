@@ -1,0 +1,275 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2824:"Benefits for Agents. Easily request a specific appointment time to see a property on our website. ShowingTime helps real estate agents, offices and MLSs better manage all aspects of the showing scheduling and management process. How your office prefers to handle showing requests is a big part of the answer to 'What It Costs To Schedule Showings'. See what ShowingTime is and how it can save you time! If your MLS has ShowingTime for the MLS, you can view recorded demos on how to schedule online, how to set up your listings to receive requests and more. 24/7 Appointment Scheduling ShowingTime provides agents with a fully automated way to request and receive feedback from buyer's agents, and easily share it with sellers. It enables you to control showing schedules and reduce showing related calls & phone tag. Learn how to set up showings through Showing Cart or Schedule a Single Showing, learn how to get the best driving route, set up how you want to be contacted, and get an overview about the mobile app. Perform a listing search. SHOWINGTIME FOR THE MLS QUICK START GUIDE ShowingTime for the MLS has many features that save time, reduce phone calls, and generate more showings, all of which helps you provide better service to clients. Each of our showing scheduling and management offerings streamline the showing process for agents, offices and MLSs/associations. The “Schedule a Showing” button is always on, saving you time, reducing calls and eliminating phone tag. Welcome to the ShowingTime login page! As a showing agent, I've added three listings to a ShowingCart.  Reduce Expenses. ShowingTime is an efficient, online scheduling and management tool which allows you to schedule a showing from any listing in FlexMLS. Real estate broker/owners looking to outsource showing calls find added value and experience greater efficiency in the ShowingTime Appointment Center. The Appointment Center will contact the showing agent at least 2 hours before the appointment time to advise them that a confirmation has not been received. Not a ShowingTime customer? Create a profile now! Terms and Conditions Privacy Statement Version 2.0.7359.24650 Easily request a specific appointment time to see a property on our website. schedule appointments on any listing in the MLS by calling 855-746-9191. Let’s walk you through a specific scenario. It can lead to more showing requests with fewer inbound phone calls. Agents can schedule on your listings by calling 800-SHOWING. The tasks you complete from your desktop can also be completed while you’re away from the office by using the ShowingTime mobile app. Empower Agents Your request is automatically routed to the appropriate person at our company. Showing Agents that schedule appointments 24 hours or This Quick Start Guide will help you get started. ";s:7:"keyword";s:35:"schedule a showing with showingtime";s:5:"links";s:13005:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hyatt-centric-park-city-reviews'>Hyatt Centric Park City Reviews</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lounge-chair-with-ottoman-ikea'>Lounge Chair With Ottoman Ikea</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=vinegar-based-bbq-sauce-recipe'>Vinegar Based Bbq Sauce Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=art-size-above-full-bed'>Art Size Above Full Bed</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=homes-for-sale-marion-ohio'>Homes For Sale Marion Ohio</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=factory-method-in-java-geeksforgeeks'>Factory Method In Java Geeksforgeeks</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=strongest-man-in-the-world'>Strongest Man In The World</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=back-to-you-bebe-rexha-download-mp3'>Back To You Bebe Rexha Download Mp3</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=does-hom-furniture-take-old-furniture'>Does Hom Furniture Take Old Furniture</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=free-standing-kitchen-sink-cabinet-for-sale'>Free Standing Kitchen Sink Cabinet For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=general-mills-north-america-locations'>General Mills North America Locations</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=whirlpool-washer-and-dryer-front-load'>Whirlpool Washer And Dryer Front Load</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-clean-your-apartment-like-a-professional'>How To Clean Your Apartment Like A Professional</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=paul-robeson-tomato-plants-for-sale'>Paul Robeson Tomato Plants For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=nate-berkus-and-jeremiah-brent'>Nate Berkus And Jeremiah Brent</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=deadpool-2-full-movie-dailymotion'>Deadpool 2 Full Movie Dailymotion</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=office-interior-design-images-free-download'>Office Interior Design Images Free Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bar-stools-clearance-near-me'>Bar Stools Clearance Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-melbourne-courses-for-international-students'>University Of Melbourne Courses For International Students</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=whistler-bike-park-trail-map-pdf'>Whistler Bike Park Trail Map Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=under-armour-running-shoes-womens'>Under Armour Running Shoes Womens</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cvs-photo-printing-near-me'>Cvs Photo Printing Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=next-avengers-heroes-of-tomorrow-characters'>Next Avengers Heroes Of Tomorrow Characters</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kelley-blue-book-vehicle-weight'>Kelley Blue Book Vehicle Weight</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=historic-environment-scotland-search-room'>Historic Environment Scotland Search Room</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=my-bakery-empire-game-free-download-for-pc'>My Bakery Empire Game Free Download For Pc</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=train-from-salt-lake-city-to-park-city'>Train From Salt Lake City To Park City</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chopped-junior-sign-up-2020'>Chopped Junior Sign Up 2020</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-shark-reef-at-mandalay-bay-shark-reef-aquarium-at-mandalay-bay-january-1'>The Shark Reef At Mandalay Bay Shark Reef Aquarium At Mandalay Bay January 1</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=should-i-prune-my-celebrity-tomatoes'>Should I Prune My Celebrity Tomatoes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=triple-pane-windows-cost-canada'>Triple Pane Windows Cost Canada</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-care-for-lavender-plants-in-pots'>How To Care For Lavender Plants In Pots</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=another-brick-in-the-wall-part-2'>Another Brick In The Wall Part 2</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kroger-carpet-cleaner-rental-reviews'>Kroger Carpet Cleaner Rental Reviews</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=weather-in-zurich-in-september'>Weather In Zurich In September</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=indoor-garden-ideas-for-small-spaces'>Indoor Garden Ideas For Small Spaces</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-set-a-round-dining-table'>How To Set A Round Dining Table</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lettuce-in-hindi-with-image'>Lettuce In Hindi With Image</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-bbq-in-kansas-city-food-network'>Best Bbq In Kansas City Food Network</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philips-xtreme-ultinon-led-h4-price-in-india'>Philips Xtreme Ultinon Led H4 Price In India</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=from-scratch-balkan-food-truck'>From Scratch Balkan Food Truck</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wet-and-dry-kitchen-hdb'>Wet And Dry Kitchen Hdb</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=make-sentence-of-garden-for-class-1'>Make Sentence Of Garden For Class 1</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=deep-fried-mars-bar-newcastle'>Deep Fried Mars Bar Newcastle</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lg-inverter-direct-drive-washer-error-codes'>Lg Inverter Direct Drive Washer Error Codes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=eames-molded-plastic-chip-chart'>Eames Molded Plastic Chip Chart</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=swimming-pool-health-and-safety-rules'>Swimming Pool Health And Safety Rules</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=grohe-handheld-shower-head-reviews'>Grohe Handheld Shower Head Reviews</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=buffalo-cauliflower-with-frozen-cauliflower'>Buffalo Cauliflower With Frozen Cauliflower</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-guelph-admission-requirements'>University Of Guelph Admission Requirements</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=courtyard-marriott-edinburgh-phone-number'>Courtyard Marriott Edinburgh Phone Number</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=steam-cleaner-for-curtains-and-upholstery'>Steam Cleaner For Curtains And Upholstery</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=plain-tussar-silk-sarees-on-amazon'>Plain Tussar Silk Sarees On Amazon</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=humble-pie-30-days-in-the-hole'>Humble Pie 30 Days In The Hole</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=crate-and-barrel-singapore-promo-code'>Crate And Barrel Singapore Promo Code</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=big-little-lies-season-2-episode-1-recap'>Big Little Lies Season 2 Episode 1 Recap</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=largest-consumer-of-silk-in-the-world'>Largest Consumer Of Silk In The World</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-guelph-admission-requirements'>University Of Guelph Admission Requirements</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=simplehuman-triple-wall-mount-shower-pump-installation'>Simplehuman Triple Wall Mount Shower Pump Installation</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=top-selling-soft-drinks-2018'>Top Selling Soft Drinks 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-fix-simplehuman-mirror'>How To Fix Simplehuman Mirror</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=vinyl-flooring-that-looks-like-stone'>Vinyl Flooring That Looks Like Stone</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rolling-meadows-il-9-digit-zip-code'>Rolling Meadows Il 9 Digit Zip Code</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cape-gooseberry-vs-ground-cherry'>Cape Gooseberry Vs Ground Cherry</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=15-glass-filled-nylon-properties'>15 Glass Filled Nylon Properties</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=natural-and-artificial-methods-of-refrigeration'>Natural And Artificial Methods Of Refrigeration</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-restaurants-in-hamden-ct'>Best Restaurants In Hamden Ct</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=crystal-mountain-parking-lot-map'>Crystal Mountain Parking Lot Map</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=eames-aluminum-group-lounge-chair'>Eames Aluminum Group Lounge Chair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=johnson-and-johnson-baby-box'>Johnson And Johnson Baby Box</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=southern-living-recipes-january-2019'>Southern Living Recipes January 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ski-big-3-promo-code'>Ski Big 3 Promo Code</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=gray-paint-colors-for-carrara-marble-bathroom'>Gray Paint Colors For Carrara Marble Bathroom</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=blue-leather-executive-office-chair'>Blue Leather Executive Office Chair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chile-de-%C3%A1rbol-scoville-scale'>Chile De árbol Scoville Scale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-build-a-aquaponic-garden'>How To Build A Aquaponic Garden</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=adverbial-phrases-and-clauses-exercises'>Adverbial Phrases And Clauses Exercises</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=900-sq-ft-apartment-design'>900 Sq Ft Apartment Design</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-design-front-yard-landscaping'>How To Design Front Yard Landscaping</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-is-sundance-film-festival'>Where Is Sundance Film Festival</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=alison-roman-cookbook-nothing-fancy'>Alison Roman Cookbook Nothing Fancy</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-save-a-dying-aglaonema'>How To Save A Dying Aglaonema</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kenmore-700-series-washer-parts-diagram'>Kenmore 700 Series Washer Parts Diagram</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-ukrainian-food-in-kiev'>Best Ukrainian Food In Kiev</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=eso-shadowrend-vs-maw-of-the-infernal'>Eso Shadowrend Vs Maw Of The Infernal</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ice-age-the-meltdown-cast'>Ice Age The Meltdown Cast</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=stretch-seat-covers-for-dining-chairs'>Stretch Seat Covers For Dining Chairs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=vincent-n-roxxy-watch-online'>Vincent N Roxxy Watch Online</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=boreal-ski-opening-day-2019'>Boreal Ski Opening Day 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=baby-potato-salad-recipe-with-mayonnaise'>Baby Potato Salad Recipe With Mayonnaise</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-fold-diners-drive-ins-and-dives'>The Fold Diners Drive Ins And Dives</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=liberty-furniture-chest-of-drawers'>Liberty Furniture Chest Of Drawers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sun-peaks-summer-concert-2019'>Sun Peaks Summer Concert 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-cabinet-design-software-for-mac'>Best Cabinet Design Software For Mac</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=army-of-shadows-english-subtitles'>Army Of Shadows English Subtitles</a>,
+";s:7:"expired";i:-1;}

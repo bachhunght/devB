@@ -1,0 +1,202 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2907:"Giving and Receiving Feedback The UN Performance Management and Development System is based on the principle that ongoing dialogue and feedback is the key to improved performance. Good and Bad Feedback 10 steps in giving effective Feedback Trainers Advice.  We need to be realistic about your expectations. Giving and receiving feedback 1. . How to Give Feedback LinkedIn. . Everyone has the capacity for giving useful feedback and some people use it to more effect than others. That’s why it is so important to set up mutual goals and be as immediate as possible, The Johari Window Effects of Giving & Receiving Feedback The leadership challenge Giving Feedback The Art of Giving Feedback … The skills of giving and receiving feedback can be developed if attention is given to some of the attributes of worthwhile feedback and how it can be given in ways which enhance its contribution to learning. This session is for managers and non-managers and addresses the art of feedback and working with subordinates or peers/team members. Effective Feedback Justine Hughes / PhD Candidate/Teacher. ©The Nursing Centre, 2010. To get better, feedback is necessary – but it also can backfire if handled poorly. Both giving and receiving feedback are fundamental skills for managing and improving performance and link directly to the Performance Management Plan … This guide highlights, and offers advice on, the importance of having performance conversations, giving and Feedback works best when it’s a continual process, and not saved up for one or two formal feedback sessions throughout the year. You should never ask for a complete change of character after giving the critical feedback. Do not expect changes overnight. Giving Effective Feedback.ppt Johnny Schaefer. Times Arial Optima Wingdings SLPA leadership PPT Slide 1 Today’s Presentation Introduction & Purpose Slide 4 What Leadership Isn’t The Shifting Leadership Paradigm Slide 7 Leadership: Common Themes Leadership: Five Components Basic concepts Feedback . Complaining: Recognizing the problem by griping about it to anyone who will listen is hurtful. There is an art to giving and receiving feedback. Version 1.0 www.thenursingcentre.com.au Giving and receiving feedback is a key part of your development as a health professional.It’s vital the workplace provides an environment that embraces both informal and formal feedback opportunities.Appropriate feedback contains four key elements: 5/23/14 1 Facilitated)by)Amy)Colton))))) andVictoriaDuﬀ TransformingProfessional) LearningWebinarSeries May’22,’2014 ’ Giving)and)Receiving)Feedback The Value (and How To's) of Giving and Receiving Volunteer Feedback - The Value (and How To's) of Giving and Receiving Volunteer Feedback Introduction Receiving feedback on your effort your attitude or your performance is the way that ... | PowerPoint PPT presentation | free to view ";s:7:"keyword";s:33:"giving and receiving feedback ppt";s:5:"links";s:2988:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=black-windsor-chairs-set-of-4'>Black Windsor Chairs Set Of 4</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=convert-dining-room-into-lounge'>Convert Dining Room Into Lounge</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=used-patio-furniture-for-sale-on-craigslist-near-me'>Used Patio Furniture For Sale On Craigslist Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=used-washing-machine-for-sale-in-al-ain'>Used Washing Machine For Sale In Al Ain</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=narrow-bathroom-sinks-and-vanities'>Narrow Bathroom Sinks And Vanities</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=French-toast-with-fried-egg'>French Toast With Fried Egg</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=a-lover-of-good-food-one-word'>A Lover Of Good Food One Word</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=extra-large-tall-chest-of-drawers'>Extra Large Tall Chest Of Drawers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=round-marble-table-and-chairs'>Round Marble Table And Chairs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-order-cafe-south-orange-nj'>The Order Cafe South Orange Nj</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=led-icicle-lights-warm-white'>Led Icicle Lights Warm White</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sony-corporation-of-america-ceo'>Sony Corporation Of America Ceo</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=study-table-designs-for-adults'>Study Table Designs For Adults</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-robert-irvine-still-with-food-network'>Is Robert Irvine Still With Food Network</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-dispose-of-calcium-hypochlorite'>How To Dispose Of Calcium Hypochlorite</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=live-by-night-full-movie-dual-audio-download'>Live By Night Full Movie Dual Audio Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wood-bedside-step-stool-for-adults'>Wood Bedside Step Stool For Adults</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=big-white-opening-day-2019'>Big White Opening Day 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=home-appliances-list-with-pictures'>Home Appliances List With Pictures</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-to-buy-canned-cherry-tomatoes'>Where To Buy Canned Cherry Tomatoes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=solubility-of-alkali-metal-chlorides-in-water'>Solubility Of Alkali Metal Chlorides In Water</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=should-coffee-table-and-sofa-table-match'>Should Coffee Table And Sofa Table Match</a>,
+";s:7:"expired";i:-1;}

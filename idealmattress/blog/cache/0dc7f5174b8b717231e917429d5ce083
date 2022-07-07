@@ -1,0 +1,220 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3117:"Equally revered by greedy bastards, Canadian prog-rock musicians, and misguided philosophy majors, Ayn Rand was a distinctly American phenomenon: an atheistic philosopher of self-interest as an ultimate good. Okay, I’ll say it: The Passion of Ayn Rand (Sunday, May 30; 8 to 10 p.m.; Showtime) is as delicious as it is dumbfounding, as mirthful as it is misbegotten. The screenplay is written by Howard Korder and Mary Gallagher. The bestselling biography of one of the 20th century's most remarkable and controversial writers. Barbara Branden was a personal friend of Ayn Rand from 1950 to 1968 and wrote the only authorized biographical essay about her, Who Is Ayn Rand? Author James Stevens Valliant is the editor of the private journals of Ayn Rand used extensively in his work, The Passion of Ayn Rand's Critics. The Passion of Ayn Rand was the first full-length Ayn Rand biography ever published and this eBook edition is the most comprehensive biographical study of Rand available. flag 8 … The Passion of Ayn Rand is a 1999 television film directed by Christopher Menaul.It is based on the book of the same name by Barbara Branden (one of Rand's former associates and Nathaniel Branden's first wife). The Passion of Ayn Rand is a 1999 television film directed by Christopher Menaul.It is based on the book of the same name by Barbara Branden (one of Rand's former associates and Nathaniel Branden's first wife). He and his wife, Holly, created the 1995 television interview show, 'Ideas in Action', the winner of two prestigious Cinema in … (PARC = Passion of Ayn Rand's Critics) Nathaniel Branden used Rand as his 'psychotherapist' for months on end in 1968, feeding her a web of lies about his feelings toward her and a younger woman with whom he had been having an affair. The screenplay is written by Howard Korder and Mary Gallagher.  Alfred Don McKellar Based on her relentless pseudo-intellectual posturing, some might find the title “The Passion of Ayn Rand” oxymoronic. In 1951, Ayn Rand is a best-selling author and celebrated thinker when she meets two college students who admire her writing. There is much controversy that gets generated whenever her name is mentioned so I wanted to know more. Thus the name of this film: The PASSION of Ayn Rand----not the REASON or LOGIC of Ayn Rand. Initially I was expecting a hatchet job since many people despise her, but Barbara Branden provides a well balanced look at one of the most controversial and influential ...more. Due to the fact that the script was derived from Branden's book, the emphasis is on her and her bad marriage and less on Rand and her philosophy. The Passion of Ayn Rand (1999) Upon the death of Ayn Rand (Helen Mirren), Barbara Branden (Julie Delpy) recounts the story of her dealings with the enigmatic 20th-century philosopher and novelist. The Passion of Ayn Rand was a surprising insightful and thoughtful book on the life and times of Ayn Rand. Based on her relentless pseudo-intellectual posturing, some might find the title “The Passion of Ayn Rand” oxymoronic. Título original: The Passion of Ayn Rand (TV). ";s:7:"keyword";s:23:"The Passion of Ayn Rand";s:5:"links";s:5590:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-great-american-baking-show-2019-winner'>The Great American Baking Show 2019 Winner</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-clean-porcelain-tile-that-looks-like-wood'>How To Clean Porcelain Tile That Looks Like Wood</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=apartments-with-sunrooms-in-atlanta'>Apartments With Sunrooms In Atlanta</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=universal-soldier-the-return-full-movie-download-in-hindi-hd'>Universal Soldier The Return Full Movie Download In Hindi Hd</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=benefits-of-blueberries-and-strawberries'>Benefits Of Blueberries And Strawberries</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=warm-water-with-lemon-and-honey-reviews'>Warm Water With Lemon And Honey Reviews</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-happened-after-the-battle-of-monmouth'>What Happened After The Battle Of Monmouth</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=family-restaurants-near-me-now'>Family Restaurants Near Me Now</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-light-bulbs-work-with-amazon-alexa'>What Light Bulbs Work With Amazon Alexa</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pyrex-smart-essentials-mixing-bowl-set'>Pyrex Smart Essentials Mixing Bowl Set</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=american-farmhouse-wallpaper-home-depot'>American Farmhouse Wallpaper Home Depot</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=types-of-shadows-in-science'>Types Of Shadows In Science</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=custom-peel-and-stick-posters'>Custom Peel And Stick Posters</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ashley-furniture-bed-assembly-instructions'>Ashley Furniture Bed Assembly Instructions</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-long-is-an-interlude-in-music'>How Long Is An Interlude In Music</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=park-city-hotel-condos-for-sale'>Park City Hotel Condos For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=24-inch-dog-crate-walmart'>24 Inch Dog Crate Walmart</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kidkraft-train-table-instructions-metropolis'>Kidkraft Train Table Instructions Metropolis</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=menards-3-day-sale-2019'>Menards 3 Day Sale 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=royal-tyrrell-museum-2-for-1-coupons-2018'>Royal Tyrrell Museum 2 For 1 Coupons 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hgtv-dream-home-2019-canada'>Hgtv Dream Home 2019 Canada</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=52-weeks-to-an-organized-home-2020'>52 Weeks To An Organized Home 2020</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-westminster-student-hub'>University Of Westminster Student Hub</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=samsung-12kg-top-loader-washing-machine'>Samsung 12kg Top Loader Washing Machine</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-stores-are-part-of-the-kroger-family'>What Stores Are Part Of The Kroger Family</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-food-at-yard-house-reddit'>Best Food At Yard House Reddit</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=plants-for-east-facing-balcony'>Plants For East Facing Balcony</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sun-peaks-summer-concert-2019'>Sun Peaks Summer Concert 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=twelve-oaks-mall-holiday-hours-2019'>Twelve Oaks Mall Holiday Hours 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=should-coffee-table-and-sofa-table-match'>Should Coffee Table And Sofa Table Match</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cafe-terrace-at-night-print'>Cafe Terrace At Night Print</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=beef-ribs-near-me-for-sale'>Beef Ribs Near Me For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=emeril-lagasse-pressure-air-fryer'>Emeril Lagasse Pressure Air Fryer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rhum-agricole-can-be-made-on-the-island-of'>Rhum Agricole Can Be Made On The Island Of</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=does-valerie-bertinelli-have-children'>Does Valerie Bertinelli Have Children</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-secret-garden-2020-release-date'>The Secret Garden 2020 Release Date</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lennar-homes-atlantic-beach-fl'>Lennar Homes Atlantic Beach Fl</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=charities-percentage-of-donation-that-goes-to-charity'>Charities Percentage Of Donation That Goes To Charity</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=st-regis-park-city-spa'>St Regis Park City Spa</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rio-beach-hi-boy-high-seat-17-folding-beach-chair-with-canopy'>Rio Beach Hi Boy High Seat 17 Folding Beach Chair With Canopy</a>,
+";s:7:"expired";i:-1;}

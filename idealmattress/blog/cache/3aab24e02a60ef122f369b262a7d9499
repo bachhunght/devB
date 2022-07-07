@@ -1,0 +1,222 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4460:"This Page has Moved. In Texas it is currently illegal ( click to see law) to run a food establishment from a residential kitchen, even if your product is low-risk baked foods like cakes and cookies. To see the latest Texas cottage food law updates, visit Texas Cottage Food Law. Print your card today! The first Texas cottage food law, SB 81, was passed in 2011 and only permitted the sale of baked goods, jams, jellies and dried herbs. There are plenty of other related resources, click on the resources … If you are unable to locate the information that you are looking for, please try one of the following resources: Chapter 437 - Regulation of Food Service Establishments, Retail Food Stores, Mobile Food Units & Roadside Vendors ... HB 970 - Relating To Regulation Of Cottage Food Products And Cottage Food … This type of business is not regulated by a local or state health department, which means that your kitchen will not be inspected by a health inspector (unless there is concern about the public’s health). Can I sell eggs from my chickens under the cottage food law? And if you bring home some fruit or vegetables and want to can, freeze, make jam, salsa or pickles, see this page for simple, reliable, illustrated canning, freezing or preserving directions. The course can be taken online or in person. The new page may be found here: Cottage Food Production Operations. Title 25 of the Texas Administrative Code, Section 229.661 provides definitions for cottage food production operations, labeling requirements, complaint database requirements, and … To start a cottage food business, there are no permits, fees, or licenses required beyond basic food handler’s certification. Allowed Foods A shareable graphic! All cottage food operators are required to complete an accredited class in Food Handler’s Training. Eggs aren’t a cottage food, but under Texas Department of Agriculture and DSHS regulations, yard egg sales directly to consumers are allowed with a few conditions. It is a vendor’s responsibility to make sure they qualify for this privilege. The department will adopt a rule concerning the regulation of cottage food production operations. (b) Each local health department and the department shall maintain a record of a complaint made by a person against a cottage food production operation. Texas’s cottage food law—like every state’s cottage food law—was intended to benefit in-state farmers, entrepreneurs, and consumers. The Texas cottage food law has not only opened up incredible opportunities to many cottage food bakers but it has brought an entire community from all across the state together! Texas Cottage Food Law The Market allows vendors to purchase booths in the Cottage Food / Farmer’s Market area and serve certain food products with the understanding that these vendors are following the Texas Department of State Health Services laws and regulations. Then join the Texas Center for Local Food for an evening of lively discussion with Chris Johnson of Stellar Gourmet Foods, as he helps us navigate Cottage Food Law in Texas! The new page may be found here: Cottage Food Production Operations. Looking for Texas Cottage Food Laws and Regulations: How to sell your homemade foods in Texas in 2020? This is the Cottage Food Production Operation webpage. Local mom-and-pop producers are allowed under Texas’ Cottage Food Law to set up at farmers markets and festivals and sell homemade pickles — but only under this precise definition. This is the Cottage Food Production Operation webpage. (a) A local government authority, including a local health department, may not regulate the production of food at a cottage food production operation. To start a cottage food business, there are no permits, inspections, fees, or licenses required beyond a basic food handler's license. Unless a court rules in favor of the McHaneys, though, the state’s health department will continue to spoil both lawmakers’ best intentions and … Q21. Event Description: The Texas Center for Local Food proudly presents a Discussion of Texas Cottage Food Law. Here are some other examples. Texas Cottage Food Law. A number of foods covered by these laws includes - baked goods that do not require refrigeration, such as cakes, cookies, breads, and pastries. The Texas Cottage Food Law allows the sale of foods that are prepared in residential homes as long as gross sales do not exceed $50,000 annually. ";s:7:"keyword";s:27:"texas cottage food law 2018";s:5:"links";s:5660:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=flash-furniture-table-assembly-instructions'>Flash Furniture Table Assembly Instructions</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-often-do-landlords-have-to-replace-carpet-in-washington-state'>How Often Do Landlords Have To Replace Carpet In Washington State</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fun-places-to-go-near-me'>Fun Places To Go Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=karcher-window-vac-tesco-ireland'>Karcher Window Vac Tesco Ireland</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=icehouse-canyon-mt-baldy-weatheredina-realty-homes-for-sale'>Icehouse Canyon Mt Baldy Weatheredina Realty Homes For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=serie-a-team-of-the-season-2019'>Serie A Team Of The Season 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=diners-drive-ins-and-dives-arkansas-2018'>Diners Drive Ins And Dives Arkansas 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rocky-road-recipe-jamie-oliver'>Rocky Road Recipe Jamie Oliver</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=replacement-outdoor-cushion-covers-uk'>Replacement Outdoor Cushion Covers Uk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-bookshelves-for-small-spaces'>Best Bookshelves For Small Spaces</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-become-a-dentist'>How To Become A Dentist</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=whirlpool-french-door-refrigerator-gasket'>Whirlpool French Door Refrigerator Gasket</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pool-chemical-disposal-near-me'>Pool Chemical Disposal Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-set-a-round-dining-table'>How To Set A Round Dining Table</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=slate-floor-tiles-for-sale'>Slate Floor Tiles For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=oxford-school-books-free-download'>Oxford School Books Free Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=eggplant-and-italian-sausage-recipes'>Eggplant And Italian Sausage Recipes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wholesale-linen-fabric-by-the-bolt'>Wholesale Linen Fabric By The Bolt</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lincoln-university-malaysia-vice-chancellor'>Lincoln University Malaysia Vice Chancellor</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-inn-at-roundstone-farm'>The Inn At Roundstone Farm</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=quebec-city-summer-festival-2020'>Quebec City Summer Festival 2020</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-color-is-linen-fabric'>What Color Is Linen Fabric</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=park-city-utah-events-next-14-days'>Park City Utah Events Next 14 Days</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philips-hue-not-connecting-to-internet'>Philips Hue Not Connecting To Internet</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=roast-beef-sandwich-with-gravy'>Roast Beef Sandwich With Gravy</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=printed-tussar-silk-sarees-wholesale'>Printed Tussar Silk Sarees Wholesale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rooms-to-go-bedroom-sets-king'>Rooms To Go Bedroom Sets King</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bunk-beds-with-storage-cheap'>Bunk Beds With Storage Cheap</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=small-l-shaped-house-plans'>Small L Shaped House Plans</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=apartment-bathroom-decorating-ideas-on-a-budget'>Apartment Bathroom Decorating Ideas On A Budget</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=red-cabbage-meaning-in-urdu'>Red Cabbage Meaning In Urdu</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=door-to-door-door-company'>Door To Door Door Company</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=diy-wood-headboard-with-storage'>Diy Wood Headboard With Storage</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=coral-island-meaning-in-tamil'>Coral Island Meaning In Tamil</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=why-are-martinis-so-expensive'>Why Are Martinis So Expensive</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-ball-moss-poisonous-to-dogs'>Is Ball Moss Poisonous To Dogs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=restaurant-staff-training-plan-pdf'>Restaurant Staff Training Plan Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=worst-month-to-sell-a-house'>Worst Month To Sell A House</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rachana-sansad-cut-off-for-architecture-2019'>Rachana Sansad Cut Off For Architecture 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-calgary-acceptance-rate-2018'>University Of Calgary Acceptance Rate 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=parking-near-old-port-montreal'>Parking Near Old Port Montreal</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hodedah-3-door-wardrobe-assembly'>Hodedah 3 Door Wardrobe Assembly</a>,
+";s:7:"expired";i:-1;}

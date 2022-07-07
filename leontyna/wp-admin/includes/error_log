@@ -1,0 +1,1 @@
+[29-Oct-2021 17:50:33 UTC] PHP Fatal error:  Class 'WP_Filesystem_Base' not found in /home/leontyna/public_html/wp-admin/includes/class-wp-filesystem-ftpsockets.php on line 16

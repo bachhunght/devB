@@ -1,0 +1,239 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3895:"In Visitor pattern, we use a visitor class which changes the executing algorithm of an element class. The Visitor pattern is the classic technique for recovering lost type information without resorting to dynamic casts. In strategy we have one data context and multiple algorithms while in visitor for every data context we have one algorithm associated. In Strategy pattern, we create objects which represent various strategies and a context object whose behavior varies as per its strategy object. I will also provide some closing remarks. The basic criteria of choosing whether to implement strategy or visitor depends on the relationship between context and algorithm. It is one way to follow the open/closed principle. Strategy and Creational Patterns In the classic implementation of the pattern the client should be aware of the strategy concrete classes. The November 2000 issue of JavaPro has an article by James Cooper (author of a Java companion to the GoF) on the Visitor design pattern. This type of design pattern comes under behavior pattern. Both visitor and strategy design patterns offer a way of separating an algorithm from an object, in this post we'll review the implementation of the patterns in a simple car wash application and try to figure out in which cases each pattern should be applied.. Bridge Pattern vs Strategy Pattern. A Visitor is like an extended Strategy that is polymorphic at two dimensions: the code executed doesn't only depend on the actual strategy used, but also on the parameter passed to it. This type of design pattern comes under behavior pattern. Strategy actually *is* a very basic pattern that can be seen as the foundation of many other patterns. The Car object is composed out of wheel, engine and body, each implements ICarElement. We discuss how to implement strategy pattern with an example from a famous computer game "Age of Empires". The .NET optimized code demonstrates the same real-world situation as above but uses modern, built-in .NET features, such as, generics, reflection, object initializers, automatic properties, etc. Notes. All other patterns (and much more) are available in our .NET Design Pattern Framework 4.5. Basic Object Model. In Strategy pattern, a class behavior or its algorithm can be changed at run time. In strategy we have one data context and multiple algorithms while in visitor for every data context we have one algorithm associated. In Strategy pattern, we create objects which represent various strategies and a context object whose behavior varies as per its strategy object. In this video, we learn the strategy pattern in object oriented design. In both patterns, one class (the Container) has a reference to an Interface or base class, which is obviously intended to be subclassed. So in short strategy is a special kind of visitor. State vs. Strategy Pattern. Visitor vs. Strategy pattern (subtle difference?) A design pattern is not a finished design that can be transformed directly into code. A practical result of this separation is the ability to add new operations to existing object structures without modifying the structures. Strategy and Creational Patterns In the classic implementation of the pattern the client should be aware of the strategy concrete classes. The operation's name and signature identifies the class that sends the Visit request to the visitor. So in short strategy is a special kind of visitor. Short Form: both patterns are uses of inheritance to add flexibility. Visitor The intent of the visitor pattern is to add operations to a class which has rich data structure. The basic criteria of choosing whether to implement strategy or visitor depends on the relationship between context and algorithm. In order to decouple the client class from strategy classes is possible to use a factory class inside the context object to create the strategy object to be used. ";s:7:"keyword";s:35:"visitor pattern vs strategy pattern";s:5:"links";s:8027:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=castle-mountain-opening-day-2019'>Castle Mountain Opening Day 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-expensive-is-sketch-london'>How Expensive Is Sketch London</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-does-being-referred-to-oncology-mean'>What Does Being Referred To Oncology Mean</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=most-popular-granite-colors-2019'>Most Popular Granite Colors 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=gas-stove-repair-near-me-at-home-service'>Gas Stove Repair Near Me At Home Service</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=why-is-spider-silk-so-strong'>Why Is Spider Silk So Strong</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=when-emotional-pain-is-too-much'>When Emotional Pain Is Too Much</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=free-standing-kitchen-sink-cabinet-for-sale'>Free Standing Kitchen Sink Cabinet For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pied-a-terre-vegetarian-tasting-menu'>Pied A Terre Vegetarian Tasting Menu</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=computer-science-organizations-for-students'>Computer Science Organizations For Students</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=three-on-a-match-game'>Three On A Match Game</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=white-corner-shelf-unit-living-room'>White Corner Shelf Unit Living Room</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=air-fryer-buffalo-cauliflower-keto'>Air Fryer Buffalo Cauliflower Keto</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fragrance-oil-vs-essential-oil'>Fragrance Oil Vs Essential Oil</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=commercial-pressure-washer-4000-psi'>Commercial Pressure Washer 4000 Psi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=yahoo-fantasy-football-rankings-2019'>Yahoo Fantasy Football Rankings 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=generac-one-wash-parts-diagram'>Generac One Wash Parts Diagram</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=working-at-lowes-vs-home-depot'>Working At Lowes Vs Home Depot</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=importance-of-tourism-in-economy'>Importance Of Tourism In Economy</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hotpoint-integrated-fridge-with-icebox'>Hotpoint Integrated Fridge With Icebox</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=home-equity-loan-fixed-rates'>Home Equity Loan Fixed Rates</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=celery-juice-detox-side-effects'>Celery Juice Detox Side Effects</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-is-shadow-for-class-2'>What Is Shadow For Class 2</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=canadian-tire-flyer-nov-21-2019'>Canadian Tire Flyer Nov 21 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=outside-of-the-classroom-synonym'>Outside Of The Classroom Synonym</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=steam-cleaner-for-curtains-and-upholstery'>Steam Cleaner For Curtains And Upholstery</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dyson-v11-absolute-vs-animal-vs-torque'>Dyson V11 Absolute Vs Animal Vs Torque</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wooden-park-benches-for-sale'>Wooden Park Benches For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-big-is-key-west'>How Big Is Key West</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=contemporary-abstract-art-for-sale'>Contemporary Abstract Art For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-cut-a-window-in-a-wall'>How To Cut A Window In A Wall</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=most-expensive-restaurant-in-the-world-2018'>Most Expensive Restaurant In The World 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-posture-for-sitting-at-a-desk-all-day'>Best Posture For Sitting At A Desk All Day</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=missouri-star-quilt-tutorial-tumbling-blocks'>Missouri Star Quilt Tutorial Tumbling Blocks</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=electrical-supply-store-near-my-location'>Electrical Supply Store Near My Location</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hoover-twin-tank-handheld-steam-cleaner-instructions'>Hoover Twin Tank Handheld Steam Cleaner Instructions</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=val-thorens-webcam-folie-douce'>Val Thorens Webcam Folie Douce</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fiddle-leaf-fig-tree-care'>Fiddle Leaf Fig Tree Care</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=baby-relax-mikayla-swivel-gliding-recliner-disassembly'>Baby Relax Mikayla Swivel Gliding Recliner Disassembly</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wood-and-leather-dining-chair'>Wood And Leather Dining Chair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=genuine-leather-recliner-with-ottoman'>Genuine Leather Recliner With Ottoman</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=village-of-homewood-phone-number'>Village Of Homewood Phone Number</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=easter-egg-hunt-steamboat-springs-colorado-2019'>Easter Egg Hunt Steamboat Springs Colorado 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-request-feedback-from-coworkers-email-template'>How To Request Feedback From Coworkers Email Template</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sunday-brunch-new-milford-ct'>Sunday Brunch New Milford Ct</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-big-were-the-guns-of-navarone'>How Big Were The Guns Of Navarone</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fht1409sws-lg-washing-machine-review'>Fht1409sws Lg Washing Machine Review</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=swimming-pool-pipes-and-fittings'>Swimming Pool Pipes And Fittings</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=serta-air-lumbar-manager-chair-instructions'>Serta Air Lumbar Manager Chair Instructions</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=marble-queen-pothos-not-white'>Marble Queen Pothos Not White</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=figs-benefits-for-female-fertility'>Figs Benefits For Female Fertility</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=100-vocabulary-words-with-meaning-and-sentence-pdf'>100 Vocabulary Words With Meaning And Sentence Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=interior-designers-in-hsr-layout'>Interior Designers In Hsr Layout</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-raft-of-the-medusa-darker'>The Raft Of The Medusa Darker</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=patton-1970-movie-download-480p'>Patton 1970 Movie Download 480p</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-rules-of-attraction-netflix'>The Rules Of Attraction Netflix</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fiberglass-pool-resurfacing-near-me'>Fiberglass Pool Resurfacing Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-is-a-claim-in-writing'>What Is A Claim In Writing</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-use-a-chaise-lounge'>How To Use A Chaise Lounge</a>,
+";s:7:"expired";i:-1;}

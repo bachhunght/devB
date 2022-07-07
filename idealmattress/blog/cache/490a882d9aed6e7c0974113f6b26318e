@@ -1,0 +1,273 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3879:"Explainer: what is a null hypothesis? A hypothesis is a tentative statement about the relationship between two or more variables.It is a specific, testable prediction about what you expect to happen in a study. As expected, the details of the conditions for use of the test and the test statistic are unique to this test (but similar in many ways to what we have seen before.) Meat eating hypothesis We are super predators and killed meat and ate it to from GET 1020 at National University of Singapore Many studies suggest that people with schizophrenia often don’t get enough fiber. Despite the essential role of food in our lives, we have little understanding of the way our knowledge about food is organized in the brain. A hypothesis (plural hypotheses) is a proposed explanation for a phenomenon. The null hypothesis is sometimes called the "no difference" hypothesis. A hypothesis is an educated guess about something in the world around you. Why might we refer to humans as the … Of course, rejecting the null hypothesis isn’t always that easy — the hard part is usually figuring out what your null hypothesis is in the first place. Hypothesis Testing Examples (One Sample Z Test) The one sample z test isn’t used very often (because we rarely know the actual population standard deviation). Eat More: Fruits. When we use this term we are actually referring to a hypothesis. It should be testable, either by experiment or observation. Slim Jims are full of corn syrup, dextrose, cornstarch, and a great many additives. A hypothesis is a tentative statement about the relationship between two or more variables.It is a specific, testable prediction about what you expect to happen in a study. You’re absolutely right in your example that a null hypothesis would be there is no difference in height between boys and girls. For example: In the world of statistics and science, most hypotheses are written as "if...then" statements. The hypothesis is now getting more and more support in the scientific literature, and few, if any, studies don’t support the role of protein in appetite regulation (1,2,3,4,5,6). OR: In terms of guidelines on how we can eat better, you write that we should keep in mind that “you are what what you eat eats, too.” A hypothesis states your predictions about what your research will find. The null hypothesis is good for experimentation because it's simple to disprove. Specifically, parasites with low-nitrogen, high-sugar diets had DNA sequences that used less nitrogen … The Hypothesis Test for a Difference in Two Population Means. Scientists uncover genetic evidence that 'we are what we eat'. Insect-eating attitudes and sustainable foodways. The “four different fuels” in a Lunchables meal, are all essentially corn-based. Fruits -- raspberries, pears, apples, and others -- are some of the best sources of it. View Notes - Section 5- The Cooking Hypothesis - We are what we eat .docx from ANTH 160D2 at University Of Arizona. ... Should we reject the null hypothesis above? 'We found that different levels of nitrogen in a parasite's diet contributed to changes in its DNA. It's in the corn-fed beef Big Mac patty, and in the high-fructose syrup in the bun, and in the secret sauce. (PMID:27294421) Abstract ... for whom deciding what to eat becomes an ... and then examine these patterns in the light of the sensory-functional hypothesis and the domain-specific hypothesis. Scientists uncover genetic evidence that 'we are what we eat'. Remember, not rejecting the null hypothesis is not the same as accepting it. People say that they have theories about different situations and problems that occur in their lives but a theory implies that there has been much data to support the explanation.  View Notes - Section 5- The Cooking Hypothesis - We are what we eat .docx from ANTH 160D2 at University Of Arizona. ";s:7:"keyword";s:29:"we are what we eat hypothesis";s:5:"links";s:12433:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=can-you-replace-led-christmas-light-bulbs'>Can You Replace Led Christmas Light Bulbs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ikea-ribba-frame-shadow-box'>Ikea Ribba Frame Shadow Box</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wall-of-cabinets-for-bedroom'>Wall Of Cabinets For Bedroom</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ikea-doll-bed-used-for-cats'>Ikea Doll Bed Used For Cats</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=after-the-battle-of-monmouth'>After The Battle Of Monmouth</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=jaz-mirabel-beach-sharm-el-sheikh'>Jaz Mirabel Beach Sharm El Sheikh</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=soft-open-and-close-pocket-door'>Soft Open And Close Pocket Door</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=essential-oils-for-eczema-and-psoriasis'>Essential Oils For Eczema And Psoriasis</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=electric-roll-up-garage-doors'>Electric Roll Up Garage Doors</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=la-maja-desnuda-in-english'>La Maja Desnuda In English</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ficus-benjamina-bonsai-from-cutting'>Ficus Benjamina Bonsai From Cutting</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=williams-sonoma-promo-code-reddit'>Williams Sonoma Promo Code Reddit</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-time-to-visit-villa-taranto'>Best Time To Visit Villa Taranto</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=8-heads-in-a-duffel-bag-trailer'>8 Heads In A Duffel Bag Trailer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=why-i-choose-ice-cream-as-my-product'>Why I Choose Ice Cream As My Product</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hilton-garden-inn-chicago-downtown-loop'>Hilton Garden Inn Chicago Downtown Loop</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=whistler-bike-park-trail-map-pdf'>Whistler Bike Park Trail Map Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=academic-ranking-of-world-universities-2019'>Academic Ranking Of World Universities 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=suny-college-of-optometry-cat-experiments'>Suny College Of Optometry Cat Experiments</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=from-russia-with-love-game'>From Russia With Love Game</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-return-of-the-living-dead-1985'>The Return Of The Living Dead 1985</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=flo-from-progressive-net-worth-2018'>Flo From Progressive Net Worth 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=48-inch-dog-crate-tray'>48 Inch Dog Crate Tray</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=italian-sausage-casserole-low-carb'>Italian Sausage Casserole Low Carb</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-was-the-malta-story-filmed'>Where Was The Malta Story Filmed</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-save-a-bamboo-plant-that-is-turning-yellow'>How To Save A Bamboo Plant That Is Turning Yellow</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philips-hue-ascend-wall-light'>Philips Hue Ascend Wall Light</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-choose-an-accent-wall-in-living-room'>How To Choose An Accent Wall In Living Room</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=second-hand-glass-dining-table-and-chairs'>Second Hand Glass Dining Table And Chairs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-guelph-admission-requirements'>University Of Guelph Admission Requirements</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-is-academy-of-art-university-known-for'>What Is Academy Of Art University Known For</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=zuari-furniture-bed-price-list'>Zuari Furniture Bed Price List</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=led-lights-for-room-home-depot'>Led Lights For Room Home Depot</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=baked-corn-on-the-cob-in-husk'>Baked Corn On The Cob In Husk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-start-an-urban-garden'>How To Start An Urban Garden</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-to-eat-with-pork-chops-for-dinner'>What To Eat With Pork Chops For Dinner</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=scared-to-say-i-love-you-songs'>Scared To Say I Love You Songs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=antique-buffet-hutch-with-mirror'>Antique Buffet Hutch With Mirror</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=working-in-a-kitchen-memes'>Working In A Kitchen Memes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-animation-schools-in-the-world-2019'>Best Animation Schools In The World 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-become-an-urban-planner'>How To Become An Urban Planner</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-book-to-learn-c-in-depth'>Best Book To Learn C In Depth</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=north-indian-restaurant-in-little-india'>North Indian Restaurant In Little India</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=benefits-of-air-purifying-plants'>Benefits Of Air Purifying Plants</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cold-calling-real-estate-2019'>Cold Calling Real Estate 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=white-peas-vs-green-peas'>White Peas Vs Green Peas</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-repot-lucky-bamboo-plant-in-rocks'>How To Repot Lucky Bamboo Plant In Rocks</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=les-demoiselles-d-avignon-criticism'>Les Demoiselles D Avignon Criticism</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mortgage-lifter-tomato-plants-for-sale-near-mefaux-leather-vs-bonded-leather'>Mortgage Lifter Tomato Plants For Sale Near Mefaux Leather Vs Bonded Leather</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=louis-tomlinson-ft-bebe-rexha-back-to-you-mp3-download'>Louis Tomlinson Ft Bebe Rexha Back To You Mp3 Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=small-hotel-lobby-design-ideas'>Small Hotel Lobby Design Ideas</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-size-art-over-king-bed'>What Size Art Over King Bed</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=victoria-and-albert-costume-collection'>Victoria And Albert Costume Collection</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-descale-dupray-steamer'>How To Descale Dupray Steamer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=native-place-of-banyan-tree-in-india'>Native Place Of Banyan Tree In India</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-long-do-muji-pens-last'>How Long Do Muji Pens Last</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=expedition-unknown-season-6-episodes'>Expedition Unknown Season 6 Episodes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=loveland-ski-area-bunny-slope'>Loveland Ski Area Bunny Slope</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pork-afritada-recipe-del-monte'>Pork Afritada Recipe Del Monte</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-was-winter-in-vail-filmed'>Where Was Winter In Vail Filmed</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=one-level-townhomes-for-sale-near-me'>One Level Townhomes For Sale Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=yarrow-tea-where-to-buy'>Yarrow Tea Where To Buy</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philips-hue-outdoor-light-strip-cutting'>Philips Hue Outdoor Light Strip Cutting</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=indo-western-gown-for-reception'>Indo Western Gown For Reception</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=menards-black-friday-2018-ad'>Menards Black Friday 2018 Ad</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pancake-ideas-with-pancake-mix'>Pancake Ideas With Pancake Mix</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=in-ground-pool-steps-amazon'>In Ground Pool Steps Amazon</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=snake-and-peony-tattoo-meaning'>Snake And Peony Tattoo Meaning</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-propagate-succulents-fast'>How To Propagate Succulents Fast</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=beauty-and-the-beast-youtube'>Beauty And The Beast Youtube</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=reids-home-furniture-and-casual-living'>Reids Home Furniture And Casual Living</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-good-food-revolution-quizlet'>The Good Food Revolution Quizlet</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=houses-for-rent-concord-ma'>Houses For Rent Concord Ma</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=easter-egg-hunt-steamboat-springs-colorado-2019'>Easter Egg Hunt Steamboat Springs Colorado 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=electrolux-washer-parts-model-eiflw55hiw0'>Electrolux Washer Parts Model Eiflw55hiw0</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rubbermaid-12-cup-storage-container'>Rubbermaid 12 Cup Storage Container</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=things-to-do-in-winter-no-money'>Things To Do In Winter No Money</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=used-concession-trailers-for-rent'>Used Concession Trailers For Rent</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-central-london-estate-agents'>Best Central London Estate Agents</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=great-british-bake-off-2019-cast'>Great British Bake Off 2019 Cast</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=alternate-phrase-for-feel-free'>Alternate Phrase For Feel Free</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=coral-island-meaning-in-tamil'>Coral Island Meaning In Tamil</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=costco-laminate-flooring-reviews-golden-select'>Costco Laminate Flooring Reviews Golden Select</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=acrylic-makeup-drawers-dollar-tree'>Acrylic Makeup Drawers Dollar Tree</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lazy-boy-calvin-rocker-recliner'>Lazy Boy Calvin Rocker Recliner</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=proxy-design-pattern-in-spring'>Proxy Design Pattern In Spring</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=amana-washer-diagnostic-mode-codes'>Amana Washer Diagnostic Mode Codes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=faith-hill-chicken-and-dumplings'>Faith Hill Chicken And Dumplings</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=can-you-skate-on-lake-louise'>Can You Skate On Lake Louise</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=zoom-app-download-for-pc'>Zoom App Download For Pc</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-pronounce-solanum-tuberosum'>How To Pronounce Solanum Tuberosum</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=glacier-peak-in-a-day'>Glacier Peak In A Day</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-do-you-say-hotel-in-italian'>How Do You Say Hotel In Italian</a>,
+";s:7:"expired";i:-1;}

@@ -1,0 +1,34 @@
+Index: nodewords.module
+=========================================================
+--- nodewords.module	(revision 1.57.2.20)
++++ nodewords.module	Thu May 14 12:15:04 EDT 2009
+@@ -71,16 +71,16 @@
+ }
+ 
+ /**
+- * Implementation of hook_init()
++ * Implementation of hook_preprocess_page()
+  * (code executed on non-cached page)
+  */
+-function nodewords_init() {
++function nodewords_preprocess_page(&$variables) {
+   $tags = nodewords_get();
+   foreach ($tags as $name => $content) {
+     if (!empty($content)) {
+-      drupal_set_html_head('<meta name="'. $name .'" content="'. $content .'" />');
++      $variables['head'] .= '<meta name="'. $name .'" content="'. $content .'" />'."\n";
+     }
+-  }  
++  }
+ }
+ 
+ /**
+@@ -684,7 +684,7 @@
+     }
+     unset($tags['geourl']);
+   }
+-  
++
+   // Check 'content' of each tag.
+   $tags = array_map('_nodewords_check_content', $tags);
+ 

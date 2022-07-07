@@ -1,0 +1,234 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3493:"the study of the costs and benefits of doing a little bit more of an activity versus a little bit less. The economics can be defined as the study of how society manages its scarce resources. The study of individual decisions is called microeconomics. Learn four reasons to get a degree in economics, a field of study that can be valuable for achievement in business, government, and private life. c. capitalism . Question 1 of 19 5.0 Points Economics is the study of: A. increasing the level of productive resources so there is maximum output in B. increasing the level of productive resources so there is a minimum level of C. how people, institutions, and society make choices under conditions of scarcity. Behind this definition are two key ideas in economics: that goods are scarce and that society must use its resources efficiently. The study of the economy as a whole is called macroeconomics. The study of how we make money and what we do with it. In this chapter you will begin your study of economics by investigating two basic economic ideas: scarcity and trade-offs. You can also go on to do further studies in economics, political science, business, or a variety of other fields. Economics is the study of how society uses its limited resources. Economists attempt to understand the economy and the way it responds to various influences, such as changes in federal interest rates. Economics is the study of the production, distribution, and consumption of goods and services — the economy. Economics is a broad discipline that helps us understand historical trends, interpret today’s headlines, and make predictions about the coming years. Key Terms. Because choices range over every imaginable aspect of human experience, so does economics. As the term implies, macroeconomics looks at the overall, big-picture scenario of the economy. A focus of the subject is how economic agents behave or interact both individually (microeconomics) and in aggregate (macroeconomics). In considering how to allocate its scarce resources among its various members, a household considers Individual actors are often grouped into microeconomic subgroups, such as buyers, sellers, and business owners.  Economics. Resource. In the 20th century, English economist Lionel Robbins defined economics as “the science which studies human behaviour as a relationship between (given) ends and scarce means which have alternative uses.” In other words, Robbins said that economics is the science … Economics ranges from the very small to the very large. Become a member and unlock all Study Answers Try it risk-free for 30 days The study of individual decisions is called microeconomics. Economics is the study of the production, distribution, and consumption of wealth in human society, but this perspective is only one among many different definitions. Learn four reasons to get a degree in economics, a field of study that can be valuable for achievement in business, government, and private life. So the economy is study about how the society manages theses scarce resources to meet this limitless wants. b. how to allocate resources to satisfy wants and needs. Economics ranges from the very small to the very large. Service. so .A. Goods. Political Economy or Economics is a study of mankind in the ordinary business of life; it examines that part of individual and social action which is most closely connected with the attainment and with the use of the material requisites of wellbeing. ";s:7:"keyword";s:25:"economics is the study of";s:5:"links";s:7500:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=new-orleans-red-beans-and-rice-recipe'>New Orleans Red Beans And Rice Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-dark-knight-rises-full-movie-reddit'>The Dark Knight Rises Full Movie Reddit</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-edinburgh-landscape-architecture'>University Of Edinburgh Landscape Architecture</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-the-torpedo-factory-free'>Is The Torpedo Factory Free</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=iron-door-pub-happy-hour'>Iron Door Pub Happy Hour</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=eric-paschall-rookie-of-the-year'>Eric Paschall Rookie Of The Year</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bosch-washing-machine-programs-explained'>Bosch Washing Machine Programs Explained</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=zucchini-vs-cucumber-nutrition-value'>Zucchini Vs Cucumber Nutrition Value</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mrt-ke-chinese-garden-singapore'>Mrt Ke Chinese Garden Singapore</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=louisville-orchestra-iroquois-amphitheater-september-7'>Louisville Orchestra Iroquois Amphitheater September 7</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ikea-hemnes-cabinet-with-2-doors'>Ikea Hemnes Cabinet With 2 Doors</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-dry-yarrow-for-flower-arrangements'>How To Dry Yarrow For Flower Arrangements</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=eurovision-2020-semi-final-draw'>Eurovision 2020 Semi Final Draw</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=built-up-area-meaning-in-marathi'>Built Up Area Meaning In Marathi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=flowers-that-bloom-all-season'>Flowers That Bloom All Season</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=types-of-flooring-in-india'>Types Of Flooring In India</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=3-gallon-ice-cream-costco'>3 Gallon Ice Cream Costco</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=horn-and-cantle-big-sky-menu'>Horn And Cantle Big Sky Menu</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=imperial-college-london-overseas-fees'>Imperial College London Overseas Fees</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-doctor-kit-for-older-child'>Best Doctor Kit For Older Child</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=national-horticulture-board-established-in-year'>National Horticulture Board Established In Year</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-strawberry-ice-cream-without-heavy-cream'>How To Make Strawberry Ice Cream Without Heavy Cream</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=concealed-cistern-leaking-into-toilet'>Concealed Cistern Leaking Into Toilet</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=houses-for-rent-in-california'>Houses For Rent In California</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=marinade-for-lamb-chops-in-the-oven'>Marinade For Lamb Chops In The Oven</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=halogen-light-bulbs-home-hardware'>Halogen Light Bulbs Home Hardware</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-size-slipcover-for-chair-and-a-half'>What Size Slipcover For Chair And A Half</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-landscape-architecture-worth-it'>Is Landscape Architecture Worth It</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=spicy-potato-salad-with-bacon'>Spicy Potato Salad With Bacon</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=christmas-trifle-with-baileys-irish-cream'>Christmas Trifle With Baileys Irish Cream</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mies-van-der-rohe-chair-replacement-cushions'>Mies Van Der Rohe Chair Replacement Cushions</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=habitat-for-humanity-near-me'>Habitat For Humanity Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-grow-mustard-seeds-in-cotton'>How To Grow Mustard Seeds In Cotton</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=comforting-messages-for-a-friend-who-is-sad'>Comforting Messages For A Friend Who Is Sad</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=oyster-sauce-vs-hoisin-sauce'>Oyster Sauce Vs Hoisin Sauce</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=who-won-the-battle-of-britain'>Who Won The Battle Of Britain</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=simplehuman-triple-wall-mount-shower-pump-installation'>Simplehuman Triple Wall Mount Shower Pump Installation</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=daybed-pop-up-trundle-combo'>Daybed Pop Up Trundle Combo</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=blue-and-white-bedroom-50-favorite-bedrooms'>Blue And White Bedroom 50 Favorite Bedrooms</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=they-tryna-be-cray-lyrics-playboi-carti'>They Tryna Be Cray Lyrics Playboi Carti</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-keep-indoor-plants-alive-in-winter'>How To Keep Indoor Plants Alive In Winter</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-wall-mounted-makeup-mirror-lighted'>Best Wall Mounted Makeup Mirror Lighted</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-many-people-died-building-the-mackinac-bridge'>How Many People Died Building The Mackinac Bridge</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-fancy-deviled-eggs'>How To Make Fancy Deviled Eggs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=blue-hd-wallpapers-1080p-for-mobile'>Blue Hd Wallpapers 1080p For Mobile</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pier-one-credit-card-phone-number'>Pier One Credit Card Phone Number</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-michigan-school-for-environment-and-sustainability'>University Of Michigan School For Environment And Sustainability</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mats-to-put-under-swimming-pool'>Mats To Put Under Swimming Pool</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fiddle-leaf-fig-support-stick'>Fiddle Leaf Fig Support Stick</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-float-in-water-without-moving'>How To Float In Water Without Moving</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=confederation-of-british-industry-india'>Confederation Of British Industry India</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=when-does-lowes-labor-day-sale-start-2019'>When Does Lowes Labor Day Sale Start 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=melissa-and-doug-tea-set-canada'>Melissa And Doug Tea Set Canada</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=Ex-on-the-Beach-US'>Ex On The Beach US</a>,
+";s:7:"expired";i:-1;}

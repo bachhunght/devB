@@ -1,0 +1,250 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2645:"Take-Two Interactive Software, Inc. is a leading developer, publisher and marketer of interactive entertainment for consumers around the globe. The Company develops and publishes products principally through its wholly-owned labels Rockstar Games and 2K, as well as its Private Division label and Social Point, a leading developer of mobile games. Take-Two Interactive's Strauss Zelnick said the gaming firm could in the future look to enter into other areas of the entertainment business. Stock analysis for Take-Two Interactive Software Inc (TTWO:NASDAQ GS) including stock price, stock chart, company news, key statistics, fundamentals and company profile. Interactive chart of historical net worth (market cap) for Take-Two Interactive Software (TTWO) over the last 10 years. View 4,000+ financial data types. How much a company is worth is typically represented by its market capitalization, or the current stock price multiplied by the number of shares outstanding. Shares of TAKE-TWO INTERACTIVE SOFTWARE, INC (NASDAQ:TTWO) have received an average rating of “Buy” from the twenty-five analysts that are currently covering the company, MarketBeat.com reports. ... lifting its net …  One research analyst has rated the stock with a sell rating, eight have given a hold rating and fourteen have given a buy rating to the company. ... EV is a measure of what the market believes a company is worth. As a consequence numbers for the years 2006 to 2009 cover the twelve months periods ending October 31 of the respective year. Take-Two Interactive Software, Inc. is an American video game holding company based in New York City.The company owns two major publishing labels, Rockstar Games and 2K, which operate internal game development studios.Take-Two's portfolio includes numerous successful video game series across personal computer and video game consoles, including BioShock, Borderlands, Civilization, Grand … Enterprise value captures the cost of an entire business, including debt and equity. Take-Two Interactive Software Enterprise Value: 12.18B for Feb. 5, 2020. The Company develops and publishes products principally through its wholly-owned labels Rockstar Games and 2K, as well as its Private Division label and Social Point, a leading developer of mobile games. Take-Two interactive, the parent company of Rockstar Games and 2K, is set to report earnings for its 2019 fiscal second quarter after the bell Wednesday. Take-Two Interactive Software, Inc. is a leading developer, publisher and marketer of interactive entertainment for consumers around the globe. * In 2010, Take-Two Interactive changed its fiscal year. ";s:7:"keyword";s:30:"take two interactive net worth";s:5:"links";s:9190:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-install-samsung-top-loader-washing-machine'>How To Install Samsung Top Loader Washing Machine</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wall-paintings-for-living-room'>Wall Paintings For Living Room</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=small-bedroom-furniture-ideas-india'>Small Bedroom Furniture Ideas India</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=i-love-you-song-2016'>I Love You Song 2016</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-keep-your-refrigerator-running-efficiently'>How To Keep Your Refrigerator Running Efficiently</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=jolly-green-giant-and-sprout'>Jolly Green Giant And Sprout</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=steamboat-springs-bed-and-breakfast'>Steamboat Springs Bed And Breakfast</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kitchen-cabinet-storage-solutions-amazon'>Kitchen Cabinet Storage Solutions Amazon</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philips-gu10-dimmable-warm-white'>Philips Gu10 Dimmable Warm White</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mobile-homes-with-porch-on-end'>Mobile Homes With Porch On End</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=free-seeds-for-schools-2020'>Free Seeds For Schools 2020</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=light-brown-bathroom-wall-cabinets'>Light Brown Bathroom Wall Cabinets</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-can-i-complain-to-ikea'>How Can I Complain To Ikea</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=diy-desk-plans-with-drawers'>Diy Desk Plans With Drawers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=salsa-chile-guajillo-y-ancho'>Salsa Chile Guajillo Y Ancho</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=growing-bromeliads-outside-in-florida'>Growing Bromeliads Outside In Florida</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=anderson-japanese-gardens-cherry-blossom'>Anderson Japanese Gardens Cherry Blossom</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-wood-for-exterior-doors'>Best Wood For Exterior Doors</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=population-of-medicine-hat-2018'>Population Of Medicine Hat 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=funny-food-quotes-for-instagram'>Funny Food Quotes For Instagram</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=gordon-ramsay-masterclass-full-episodes-free'>Gordon Ramsay Masterclass Full Episodes Free</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cozzia-qi-se-for-sale'>Cozzia Qi Se For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=self-portrait-geometric-lace-dress'>Self Portrait Geometric Lace Dress</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=size-of-washing-machine-in-india'>Size Of Washing Machine In India</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=famous-indian-painters-of-2017'>Famous Indian Painters Of 2017</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=falls-landing-cannon-falls-mn'>Falls Landing Cannon Falls Mn</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lighting-over-kitchen-sink-with-window'>Lighting Over Kitchen Sink With Window</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=small-bathroom-floor-tile-ideas'>Small Bathroom Floor Tile Ideas</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=small-couches-for-small-spaces'>Small Couches For Small Spaces</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=types-of-offices-in-a-company'>Types Of Offices In A Company</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=park-city-mall-trick-or-treat-2019'>Park City Mall Trick Or Treat 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=washing-machine-repair-singapore-review'>Washing Machine Repair Singapore Review</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hierarchy-of-front-office-department-in-large-hotel'>Hierarchy Of Front Office Department In Large Hotel</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mountain-bike-trails-near-me'>Mountain Bike Trails Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cheap-clothing-stores-in-florida'>Cheap Clothing Stores In Florida</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-wall-color-in-india'>Best Wall Color In India</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=grohe-handheld-shower-head-reviews'>Grohe Handheld Shower Head Reviews</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fields-and-furrows-log-cabin-quilt'>Fields And Furrows Log Cabin Quilt</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=front-load-washing-machine-whirlpool'>Front Load Washing Machine Whirlpool</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=things-to-do-in-aspen-colorado'>Things To Do In Aspen Colorado</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-many-cities-in-england'>How Many Cities In England</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chair-and-a-half-pet-cover'>Chair And A Half Pet Cover</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-east-london-mba'>University Of East London Mba</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=white-and-rose-gold-office-chair'>White And Rose Gold Office Chair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=swing-arm-wall-lamp-lowes'>Swing Arm Wall Lamp Lowes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=upma-rava-in-hindi-name'>Upma Rava In Hindi Name</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-wall-color-in-india'>Best Wall Color In India</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=michelin-star-singapore-street-food'>Michelin Star Singapore Street Food</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=small-u-shaped-kitchen-floor-plans'>Small U Shaped Kitchen Floor Plans</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=boyne-vacation-club-at-heather-highlands'>Boyne Vacation Club At Heather Highlands</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ikea-glenn-bar-stool-review'>Ikea Glenn Bar Stool Review</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=citibank-north-america-customer-service'>Citibank North America Customer Service</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-do-rudbeckia-seedlings-look-like'>What Do Rudbeckia Seedlings Look Like</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=8-ball-pool-pass-season-3'>8 Ball Pool Pass Season 3</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-soft-chicharrones'>How To Make Soft Chicharrones</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cartoon-ice-cream-coloring-pages'>Cartoon Ice Cream Coloring Pages</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sweet-bbq-sauce-recipe-for-pulled-pork'>Sweet Bbq Sauce Recipe For Pulled Pork</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pilea-peperomioides-toxic-to-humans'>Pilea Peperomioides Toxic To Humans</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=brandon-sanderson-white-sand-volume-3'>Brandon Sanderson White Sand Volume 3</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=custom-made-coffee-tables-near-me'>Custom Made Coffee Tables Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=costco-laminate-flooring-sale-2019'>Costco Laminate Flooring Sale 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=green-kitchen-first-ave-menu'>Green Kitchen First Ave Menu</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-beet-sugar'>How To Make Beet Sugar</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=amazon-shopping-app-not-compatible'>Amazon Shopping App Not Compatible</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mirimyn-accent-cabinet-antique-grey'>Mirimyn Accent Cabinet Antique Grey</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hikes-near-fallen-leaf-lake'>Hikes Near Fallen Leaf Lake</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-store-peony-bulbs'>How To Store Peony Bulbs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=white-console-table-with-drawers-and-shelves'>White Console Table With Drawers And Shelves</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=vanity-kit-meaning-in-tamil'>Vanity Kit Meaning In Tamil</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=indoor-wooden-benches-with-backs'>Indoor Wooden Benches With Backs</a>,
+";s:7:"expired";i:-1;}

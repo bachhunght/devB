@@ -1,0 +1,253 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4161:"University guide. Please visit the official website of Greenwich University to make sure the University information provided is up-to-date.  United Kingdom > University of Greenwich web ranking & review including accreditation, study areas, degree levels, tuition range, admission policy, facilities, services and official social media. The UK boasts 76 positions in the QS World University Rankings® 2018, including five new entries this year. How to use the tables: a step-by-step guide; Illustration: Owen Davey. The uniRank University Ranking ™ is not an academic ranking and should not be adopted as the main criteria for selecting a higher education organization where to enroll. Previous names include Woolwich Polytechnic and Thames Polytechnic. Guardian students. Find a course at a UK university ... University league tables 2018 Find a course at a UK university. Read University of Greenwich reviews by 34 students. University of Greenwich Admission Process Application: The UG applications can be made through ‘Universities and Colleges Admissions Service (UCAS)’/direct application. How to use the tables: a step-by-step guide Check out tuition fees, course rankings, entry requirements, application deadlines, and course reviews. The University of Greenwich was established in 1890 at Woolwich Polytechnic and received its first CGLI certificate in 1892. University of Greenwich is rated #75 of all UK Universities reviewed on StudentCrowd. University of Greenwich is one of 158 universities included in U-Multirank for United Kingdom. Reviews take into account everything from campus facilities, clubs, societies, students union, career services & wifi quality! University of Greenwich. Previous names include Woolwich Polytechnic and Thames Polytechnic. The University of Greenwich is a public university located in London, United Kingdom. Over the years, the university has made its place among the top academic institutions in the world. It has three campuses in London and Kent, England. Here at the University of Greenwich, the courses give you the skills employers value and the confidence to achieve extraordinary things. The University of Greenwich is a public university located in London, United Kingdom. The historic campuses in London and Kent offer first-class facilities, inspiring teaching and a friendly, diverse community. It has three campuses in London and Kent, England. University league tables 2019 Find a course at a UK university. In 1992, the institution gained the status of a university and was renamed as the University of Greenwich. SI-UK's service is fast, reliable and efficient. The Center for World University Rankings (CWUR) is a leading consulting organization and publisher of the largest academic ranking of global universities. These are located at Greenwich, in the grounds of the Old Royal Naval College, and in Avery Hill and Medway. University of Greenwich is a very large university located in London with 19915 students enrolled (2017 data or latest available). Click here to view the latest version of this article, based on the QS World University Rankings® 2020. The university is distributed across 3 campuses at Avery Hill, Greenwich and Medway comprising a total of 2,400 rooms. Their consultants are specialists, working closely with all UK universities and, through my consultants' advice and application assistance, I was able to receive offers from my favoured universities. ... 2018 Institution Guardian score/100 Satisfied with course Satisfied with teaching Satisfied with feedback Student to staff ratio Pakistan > Greenwich University web ranking & review including accreditation, study areas, degree levels, tuition range, admission policy, facilities, services and official social media. These are located at Greenwich, in the grounds of … Four UK universities feature in the global top 10, while a further 24 have achieved the incredible feat of ranking in the top 200. 312 programs offered by University of Greenwich. The Center for World University Rankings (CWUR) is a leading consulting organization and publisher of the largest academic ranking of global universities. ";s:7:"keyword";s:36:"university of greenwich ranking 2018";s:5:"links";s:10031:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mukesh-patel-college-of-engineering-review'>Mukesh Patel College Of Engineering Review</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-paint-colors-for-finished-basements'>Best Paint Colors For Finished Basements</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=characteristics-of-non-flowering-plants'>Characteristics Of Non Flowering Plants</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=How-to-Draw-a-hallway'>How To Draw A Hallway</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=greenworks-1700-psi-portable-pressure-washer-manual'>Greenworks 1700 Psi Portable Pressure Washer Manual</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=useful-plants-and-their-products'>Useful Plants And Their Products</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=i-love-you-gifs-for-texting'>I Love You Gifs For Texting</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=gray-and-blue-bathroom-design'>Gray And Blue Bathroom Design</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-is-green-treated-wood'>What Is Green Treated Wood</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hoover-steam-express-handheld-steam-cleaner'>Hoover Steam Express Handheld Steam Cleaner</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=faith-hill-chicken-and-dumplings'>Faith Hill Chicken And Dumplings</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=canadian-tire-flyer-nov-21-2019'>Canadian Tire Flyer Nov 21 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=team-titans-go-full-movie-in-hindi-download'>Team Titans Go Full Movie In Hindi Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chicken-and-waffle-bar-ideas'>Chicken And Waffle Bar Ideas</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-much-to-pay-catering-servers'>How Much To Pay Catering Servers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=procedure-for-allotment-of-shares-to-existing-shareholders-under-companies-act-2013'>Procedure For Allotment Of Shares To Existing Shareholders Under Companies Act 2013</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=floor-lamps-at-home-depot'>Floor Lamps At Home Depot</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=free-sample-books-for-interior-designers'>Free Sample Books For Interior Designers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=great-british-bake-off-2018-contestants'>Great British Bake Off 2018 Contestants</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-massage-chair-under-3000'>Best Massage Chair Under 3000</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-waterloo-acceptance-rate-graduate'>University Of Waterloo Acceptance Rate Graduate</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=grillo-al-nahda-phone-number'>Grillo Al Nahda Phone Number</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=turkish-lamb-kofta-kebab-recipe'>Turkish Lamb Kofta Kebab Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=logan-full-movie-in-hindi-dubbed-download-720p'>Logan Full Movie In Hindi Dubbed Download 720p</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=crate-and-barrel-singapore-promo-code'>Crate And Barrel Singapore Promo Code</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=shark-reef-aquarium-shark-reef-aquarium-at-mandalay-bay-november-4'>Shark Reef Aquarium Shark Reef Aquarium At Mandalay Bay November 4</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wall-painting-images-for-school'>Wall Painting Images For School</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=horizontal-murphy-bed-with-desk'>Horizontal Murphy Bed With Desk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=snowmass-hotels-ski-in-ski-out'>Snowmass Hotels Ski In Ski Out</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=15-foot-wide-carpet-home-depot'>15 Foot Wide Carpet Home Depot</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=living-room-wardrobe-designs-india'>Living Room Wardrobe Designs India</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=narrow-sofa-table-with-outlet'>Narrow Sofa Table With Outlet</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=karcher-k4-hose-pops-off'>Karcher K4 Hose Pops Off</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-trim-the-sides-of-a-hollow-core-door'>How To Trim The Sides Of A Hollow Core Door</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=corner-pantry-cabinet-home-depot'>Corner Pantry Cabinet Home Depot</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=black-wall-decor-for-bathroom'>Black Wall Decor For Bathroom</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ashley-furniture-employee-discount-code'>Ashley Furniture Employee Discount Code</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-is-on-the-revolutions-of-the-heavenly-spheres-about'>What Is On The Revolutions Of The Heavenly Spheres About</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bohemian-bedroom-ideas-on-a-budget'>Bohemian Bedroom Ideas On A Budget</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-fluffy-pancakes'>How To Make Fluffy Pancakes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-food-cities-in-the-world-2019'>Best Food Cities In The World 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=back-in-time-for-dinner-cbc-cast'>Back In Time For Dinner Cbc Cast</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=zomato-promo-code-uae-2020'>Zomato Promo Code Uae 2020</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=doors-between-living-room-and-dining-room'>Doors Between Living Room And Dining Room</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=homes-for-sale-in-mersin-turkey'>Homes For Sale In Mersin Turkey</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=italian-sloppy-joes-pioneer-woman'>Italian Sloppy Joes Pioneer Woman</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=vanilla-ice-cream-cake-recipe'>Vanilla Ice Cream Cake Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sunday-brunch-new-milford-ct'>Sunday Brunch New Milford Ct</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=reach-out-and-read-volunteer'>Reach Out And Read Volunteer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=indoor-garden-ideas-for-small-spaces'>Indoor Garden Ideas For Small Spaces</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ikea-credit-card-foreign-transaction-fee'>Ikea Credit Card Foreign Transaction Fee</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-are-northstar-pressure-washers-made'>Where Are Northstar Pressure Washers Made</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=genesis-credit-home-depot-apply'>Genesis Credit Home Depot Apply</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=5-methods-of-planting-trees'>5 Methods Of Planting Trees</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=study-of-plant-families-pdf'>Study Of Plant Families Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mt-bachelor-senior-season-pass'>Mt Bachelor Senior Season Pass</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=why-is-afghanistan-time-30-minutes-off'>Why Is Afghanistan Time 30 Minutes Off</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=good-eats-season-15-episode-11'>Good Eats Season 15 Episode 11</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-hide-fridge-water-line'>How To Hide Fridge Water Line</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=karcher-pressure-washer-1800-psi'>Karcher Pressure Washer 1800 Psi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=free-things-to-do-in-vancouver-in-november'>Free Things To Do In Vancouver In November</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-to-serve-with-potato-croquettes'>What To Serve With Potato Croquettes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lg-inverter-direct-drive-washer-manual-top-loader'>Lg Inverter Direct Drive Washer Manual Top Loader</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=console-table-with-drawers-ikea'>Console Table With Drawers Ikea</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-melbourne-notable-alumni'>University Of Melbourne Notable Alumni</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-force-that-through-the-green-fuse-drives-the-flower-theme'>The Force That Through The Green Fuse Drives The Flower Theme</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-parsley-tea'>How To Make Parsley Tea</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hotels-with-the-best-pools-near-me'>Hotels With The Best Pools Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cape-cod-shingle-style-house'>Cape Cod Shingle Style House</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=5ft-french-doors-with-side-panels'>5ft French Doors With Side Panels</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-cross-country-ski-gear'>Best Cross Country Ski Gear</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=courchevel-1850-hotels-ski-in-ski-out'>Courchevel 1850 Hotels Ski In Ski Out</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=types-of-tourism-destination-pdf'>Types Of Tourism Destination Pdf</a>,
+";s:7:"expired";i:-1;}

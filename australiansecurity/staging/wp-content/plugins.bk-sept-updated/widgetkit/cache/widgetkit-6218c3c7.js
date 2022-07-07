@@ -1,0 +1,1 @@
+var widgetkitajax="http://codecaste.com/AustralianAntennas/wp-admin/admin-ajax.php?action=widgetkit&ajax=1";

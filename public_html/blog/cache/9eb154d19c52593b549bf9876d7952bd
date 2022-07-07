@@ -1,0 +1,206 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3957:"Over 400 recipe websites are in our directory Great British Chefs is the go-to destination for food lovers in search of recipe inspiration, expert cooking guides and the latest chef and restaurant news. Chef’s Pencil Started as an online cookbook where professional Chefs share their favorite recipes, Chef's Pencil has become a valuable resource for professional chef recipes, professional cooking advice, and news from the culinary industry. Offers a variety of recipes from professional cooks and chefs and a Spanish/English food terms glossary. These WordPress recipe themes are exactly what you need to share your recipes in a presentable way. Last Updated Feb ... organic, pre-measured ingredients and delicious, easy-to-master recipes. Since 1995, Epicurious has been the ultimate food resource for the home cook, with daily kitchen tips, fun cooking videos, and, oh yeah, over 33,000 recipes. For recipe ideas there is no better place than the Internet. Browse recipes by ingredient, cuisine, course, and more. Start Your Free Trial. Blog. Listing of popular and outstanding recipe and cooking websites. ... Sign up to our newsletter now and we'll send you a hand-picked round-up of our best features, recipes and how to cook guides each week. Maunika’s Indian Recipe’s App is a guide to cooking delicious Indian curries, filled with over 400 recipes. From quick mid week … Just a click of the mouse brings you to cooking websites packed full of delicious recipes. Select Page. The best recipes from Top Chef personalities, including lemon-curd sandwich cookies. Recipe Room » Top Chef Recipes Belinda Jeffery Renowned for her warm and reassuring style, Belinda Jeffery has garnered a strong following through her career as a chef, cafe proprietor, TV food presenter, radio personality and cooking teacher. Now Available: Yummly Meal Planner. ... and the recipes on the website show how to use them in cocktails such as Peat’s Old Fashioned and the gin-based Southside, ... Great British Chefs. Read More. Top Navigation. Looking to build a website to share food recipes? Cooking food is part of life. ... Find chef training, pastry chef, chef recipes, chef at home, becoming a chef, chef magazine, professional chef blogs and much more. Whether you want to save time and money, tame your grocery list, or discover new recipes, our latest tool is here to help you succeed. PROMOTE YOUR WEBSITE. Some people seem to fall in love with the idea of cooking new things. Explore this collection of our all-time best dinner recipes for main dishes, sides and salads. Find an array of easy recipes as well as home cooking tips, kitchen design insights and diet and nutrition information at Taste of Home Magazine. Here are some of the best. ... Best Ever Zucchini Bread Yummly. Top 60 Culinary Blogs And Websites Every Chef Must Follow in 2020. Top 100 Chef Websites & Blogs For Chefs To … Cooking tips and tricks, chef interviews, and our favorite recipes from the Yummly cooking crew and around the web! SUBSCRIBE. Great Italian Chefs is the go-to destination for lovers of Italian food in search of recipe inspiration, expert cooking guides and the latest chef and restaurant news and reviews.  The best recipes from Top Chef personalities, including lemon-curd sandwich cookies. Maunika's Indian Recipes App. Whether you have ten minutes or two hours, we have mouth-watering recipes that will inspire and delight. The 50 Best food websites. Delish has the best collection of recipes and menus online. Home. Chef2Chef's recipe center features thousands of delicious recipes for professional chefs and home cooks. Heres what you want to eat for dinner right now, from Food.com. Easy recipes from F&W's Best New Chefs, including chilled spring pea soup and zucchini carpaccio with salt-broiled shrimp. Chef Blogs Best List. Some prefer to refine old recipes. Search recipes for your favorite desserts, appetizers, main dish recipes, and more. ";s:7:"keyword";s:30:"best recipe websites for chefs";s:5:"links";s:3456:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-grow-ponytail-plants'>How To Grow Ponytail Plants</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mercedes-amg-petronas-2019-team-rain-jacket'>Mercedes Amg Petronas 2019 Team Rain Jacket</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-pipe-mini-pavlovas'>How To Pipe Mini Pavlovas</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-to-buy-spiderman-costume'>Where To Buy Spiderman Costume</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=amazon-peel-and-stick-wallpaper'>Amazon Peel And Stick Wallpaper</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=salon-and-spa-floor-plans-free'>Salon And Spa Floor Plans Free</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=home-theater-carpet-home-depot'>Home Theater Carpet Home Depot</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lemon-trees-for-sale-at-lowes'>Lemon Trees For Sale At Lowes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=oyster-sauce-vs-hoisin-sauce'>Oyster Sauce Vs Hoisin Sauce</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lg-washer-leaking-water-from-underneath'>Lg Washer Leaking Water From Underneath</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-long-can-monstera-live-in-water'>How Long Can Monstera Live In Water</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dresser-with-doors-and-drawers'>Dresser With Doors And Drawers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=room-for-rent-in-ajman-jurf-2'>Room For Rent In Ajman Jurf 2</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=summit-at-snoqualmie-lift-tickets'>Summit At Snoqualmie Lift Tickets</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-village-at-squaw-valley-hotel'>The Village At Squaw Valley Hotel</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=it-chapter-2-age-rating'>It Chapter 2 Age Rating</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=editable-map-of-massachusetts-towns'>Editable Map Of Massachusetts Towns</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bed-bath-and-beyond-pub-table'>Bed Bath And Beyond Pub Table</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=counter-top-wash-basin-design'>Counter Top Wash Basin Design</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-to-do-if-zz-plant-leaves-turn-yellow'>What To Do If Zz Plant Leaves Turn Yellow</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=feedback-control-of-dynamic-systems-8th-edition-ebook-pdf'>Feedback Control Of Dynamic Systems 8th Edition Ebook Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bathroom-light-fixtures-brushed-nickel'>Bathroom Light Fixtures Brushed Nickel</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=here-are-some-information-about-me'>Here Are Some Information About Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-many-coldwell-banker-offices-in-canada'>How Many Coldwell Banker Offices In Canada</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=all-you-can-eat-dim-sum-sf'>All You Can Eat Dim Sum Sf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=entryway-ideas-for-small-spaces'>Entryway Ideas For Small Spaces</a>,
+";s:7:"expired";i:-1;}

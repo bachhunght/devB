@@ -1,0 +1,1440 @@
+
+[Mon, 08 May 2017 12:58:30 +0000] [/wp-content/cache/minify/1200407370w3tc_rewrite_test.css] [1494248310.94]
+Db cache debug info:
+Engine:             disk
+Total queries:      1
+Cached queries:     0
+Total query time:   0.0086
+SQL info:
+    # | Time (s) |    Caching (Reject reason)     |   Status   | Data size (b) | Query
+    1 |   0.0086 |            enabled             | not cached |          2389 | SELECT f.id, f.title, f.date_created, f.is_active, 0 as lead_count, 0 view_count
+                FROM IM767e_rg_form f
+                WHERE is_trash=0 AND is_active=1
+                ORDER BY title ASC
+
+[Mon, 08 May 2017 12:58:31 +0000] [/wp-admin/admin-ajax.php] [1494248311.32]
+Db cache debug info:
+Engine:             disk
+Total queries:      10
+Cached queries:     0
+Total query time:   0.0247
+SQL info:
+    # | Time (s) |    Caching (Reject reason)     |   Status   | Data size (b) | Query
+    1 |    0.006 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT umeta_id as meta_id, meta_key, meta_value
+			FROM IM767e_usermeta
+			WHERE user_id = 1
+			ORDER BY umeta_id
+    2 |   0.0004 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT f.id, f.title, f.date_created, f.is_active, 0 as lead_count, 0 view_count
+                FROM IM767e_rg_form f
+                WHERE is_trash=0 AND is_active=1
+                ORDER BY title ASC
+    3 |   0.0067 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT umeta_id FROM IM767e_usermeta WHERE meta_key = 'aioseop_yst_detected_notice_dismissed' AND user_id = 1
+    4 |   0.0006 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT post_id FROM IM767e_postmeta WHERE meta_key='_gravity_form_data'
+    5 |   0.0022 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT  t.*, tt.* FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id WHERE tt.taxonomy IN ('testimonial_categories') ORDER BY t.name ASC
+    6 |   0.0071 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT  t.*, tt.* FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id WHERE tt.taxonomy IN ('team_categories') ORDER BY t.name ASC
+    7 |   0.0006 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT  DISTINCT t.*, tt.*, tm.meta_value FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id LEFT JOIN IM767e_termmeta AS tm ON (t.term_id = tm.term_id AND tm.meta_key = 'order')  WHERE tt.taxonomy IN ('product_cat') ORDER BY tm.meta_value+0 ASC, t.name ASC
+    8 |   0.0007 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT  t.*, tt.* FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id INNER JOIN IM767e_term_relationships AS tr ON tr.term_taxonomy_id = tt.term_taxonomy_id WHERE tt.taxonomy IN ('product_shipping_class') AND tr.object_id IN (255) ORDER BY t.name ASC
+    9 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT display_meta, notifications FROM IM767e_rg_form_meta WHERE form_id=1
+   10 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT confirmations FROM IM767e_rg_form_meta WHERE form_id = 1
+
+[Mon, 08 May 2017 12:58:32 +0000] [/w3tc_rewrite_test1187680350] [1494248312.38]
+Db cache debug info:
+Engine:             disk
+Total queries:      0
+Cached queries:     0
+Total query time:   0.0000
+
+[Mon, 08 May 2017 12:58:32 +0000] [/wp-admin/admin.php?page=w3tc_general&w3tc_message=59106b71bc9f9] [1494248312.53]
+Db cache debug info:
+Engine:             disk
+Total queries:      25
+Cached queries:     0
+Total query time:   0.0138
+SQL info:
+    # | Time (s) |    Caching (Reject reason)     |   Status   | Data size (b) | Query
+    1 |   0.0005 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT autoload FROM IM767e_options WHERE option_name = '_transient_w3tc_message'
+    2 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT autoload FROM IM767e_options WHERE option_name = '_transient_timeout_w3tc_message'
+    3 |   0.0004 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT f.id, f.title, f.date_created, f.is_active, 0 as lead_count, 0 view_count
+                FROM IM767e_rg_form f
+                WHERE is_trash=0 AND is_active=1
+                ORDER BY title ASC
+    4 |   0.0003 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT umeta_id FROM IM767e_usermeta WHERE meta_key = 'aioseop_yst_detected_notice_dismissed' AND user_id = 1
+    5 |   0.0007 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT post_id FROM IM767e_postmeta WHERE meta_key='_gravity_form_data'
+    6 |   0.0006 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT  t.*, tt.* FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id WHERE tt.taxonomy IN ('testimonial_categories') ORDER BY t.name ASC
+    7 |   0.0005 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT  t.*, tt.* FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id WHERE tt.taxonomy IN ('team_categories') ORDER BY t.name ASC
+    8 |   0.0047 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT  DISTINCT t.*, tt.*, tm.meta_value FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id LEFT JOIN IM767e_termmeta AS tm ON (t.term_id = tm.term_id AND tm.meta_key = 'order')  WHERE tt.taxonomy IN ('product_cat') ORDER BY tm.meta_value+0 ASC, t.name ASC
+    9 |   0.0005 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT ID
+			FROM IM767e_posts
+			WHERE post_type = 'attachment'
+			AND post_mime_type LIKE 'audio%'
+			LIMIT 1
+   10 |   0.0003 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT ID
+			FROM IM767e_posts
+			WHERE post_type = 'attachment'
+			AND post_mime_type LIKE 'video%'
+			LIMIT 1
+   11 |   0.0003 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT DISTINCT YEAR( post_date ) AS year, MONTH( post_date ) AS month
+			FROM IM767e_posts
+			WHERE post_type = 'attachment'
+			ORDER BY post_date DESC
+   12 |   0.0005 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT COUNT( * ) FROM IM767e_posts WHERE post_type = 'shop_order' AND post_status = 'wc-processing'
+   13 |   0.0004 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT display_meta, confirmations, notifications FROM IM767e_rg_form f
+                                        INNER JOIN IM767e_rg_form_meta m ON f.id = m.form_id
+                                        WHERE id in(1)
+   14 |   0.0003 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_timeout_w3tc_license_status' LIMIT 1
+   15 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_w3tc_license_status' LIMIT 1
+   16 |   0.0003 |      disabled (WP_ADMIN)       | not cached |             0 | INSERT INTO `IM767e_options` (`option_name`, `option_value`, `autoload`) VALUES ('_transient_timeout_w3tc_license_status', '1494680308', 'no') ON DUPLICATE KEY UPDATE `option_name` = VALUES(`option_name`), `option_value` = VALUES(`option_value`), `autoload` = VALUES(`autoload`)
+   17 |   0.0003 |      disabled (WP_ADMIN)       | not cached |             0 | INSERT INTO `IM767e_options` (`option_name`, `option_value`, `autoload`) VALUES ('_transient_w3tc_license_status', 'no_key', 'no') ON DUPLICATE KEY UPDATE `option_name` = VALUES(`option_name`), `option_value` = VALUES(`option_value`), `autoload` = VALUES(`autoload`)
+   18 |   0.0003 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_site_transient_timeout_w3tc_rewrite_test_7f0706fb94fd6b0d' LIMIT 1
+   19 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_site_transient_w3tc_rewrite_test_7f0706fb94fd6b0d' LIMIT 1
+   20 |   0.0005 |      disabled (WP_ADMIN)       | not cached |             0 | INSERT INTO `IM767e_options` (`option_name`, `option_value`, `autoload`) VALUES ('_site_transient_timeout_w3tc_rewrite_test_7f0706fb94fd6b0d', '1494248341', 'no') ON DUPLICATE KEY UPDATE `option_name` = VALUES(`option_name`), `option_value` = VALUES(`option_value`), `autoload` = VALUES(`autoload`)
+   21 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | INSERT INTO `IM767e_options` (`option_name`, `option_value`, `autoload`) VALUES ('_site_transient_w3tc_rewrite_test_7f0706fb94fd6b0d', 'ok', 'no') ON DUPLICATE KEY UPDATE `option_name` = VALUES(`option_name`), `option_value` = VALUES(`option_value`), `autoload` = VALUES(`autoload`)
+   22 |   0.0005 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_timeout_w3tc_rewrite_test_b41499b530375861' LIMIT 1
+   23 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_w3tc_rewrite_test_b41499b530375861' LIMIT 1
+   24 |   0.0004 |      disabled (WP_ADMIN)       | not cached |             0 | INSERT INTO `IM767e_options` (`option_name`, `option_value`, `autoload`) VALUES ('_transient_timeout_w3tc_rewrite_test_b41499b530375861', '1494248342', 'no') ON DUPLICATE KEY UPDATE `option_name` = VALUES(`option_name`), `option_value` = VALUES(`option_value`), `autoload` = VALUES(`autoload`)
+   25 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | INSERT INTO `IM767e_options` (`option_name`, `option_value`, `autoload`) VALUES ('_transient_w3tc_rewrite_test_b41499b530375861', '1', 'no') ON DUPLICATE KEY UPDATE `option_name` = VALUES(`option_name`), `option_value` = VALUES(`option_value`), `autoload` = VALUES(`autoload`)
+
+[Mon, 08 May 2017 12:58:43 +0000] [/wp-content/cache/minify/2000910778w3tc_rewrite_test.css] [1494248323.72]
+Db cache debug info:
+Engine:             disk
+Total queries:      1
+Cached queries:     1
+Total query time:   0.0002
+SQL info:
+    # | Time (s) |    Caching (Reject reason)     |   Status   | Data size (b) | Query
+    1 |   0.0002 |            enabled             |   cached   |          2389 | SELECT f.id, f.title, f.date_created, f.is_active, 0 as lead_count, 0 view_count
+                FROM IM767e_rg_form f
+                WHERE is_trash=0 AND is_active=1
+                ORDER BY title ASC
+
+[Mon, 08 May 2017 12:58:45 +0000] [/w3tc_rewrite_test88535539] [1494248325.08]
+Db cache debug info:
+Engine:             disk
+Total queries:      0
+Cached queries:     0
+Total query time:   0.0000
+
+[Mon, 08 May 2017 12:58:47 +0000] [/wp-admin/admin.php?page=w3tc_dashboard] [1494248327.57]
+Db cache debug info:
+Engine:             disk
+Total queries:      20
+Cached queries:     0
+Total query time:   0.0515
+SQL info:
+    # | Time (s) |    Caching (Reject reason)     |   Status   | Data size (b) | Query
+    1 |   0.0004 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT f.id, f.title, f.date_created, f.is_active, 0 as lead_count, 0 view_count
+                FROM IM767e_rg_form f
+                WHERE is_trash=0 AND is_active=1
+                ORDER BY title ASC
+    2 |   0.0082 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT umeta_id FROM IM767e_usermeta WHERE meta_key = 'aioseop_yst_detected_notice_dismissed' AND user_id = 1
+    3 |   0.0007 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT post_id FROM IM767e_postmeta WHERE meta_key='_gravity_form_data'
+    4 |   0.0075 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT  t.*, tt.* FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id WHERE tt.taxonomy IN ('testimonial_categories') ORDER BY t.name ASC
+    5 |   0.0006 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT  t.*, tt.* FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id WHERE tt.taxonomy IN ('team_categories') ORDER BY t.name ASC
+    6 |   0.0006 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT  DISTINCT t.*, tt.*, tm.meta_value FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id LEFT JOIN IM767e_termmeta AS tm ON (t.term_id = tm.term_id AND tm.meta_key = 'order')  WHERE tt.taxonomy IN ('product_cat') ORDER BY tm.meta_value+0 ASC, t.name ASC
+    7 |   0.0005 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT ID
+			FROM IM767e_posts
+			WHERE post_type = 'attachment'
+			AND post_mime_type LIKE 'audio%'
+			LIMIT 1
+    8 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT ID
+			FROM IM767e_posts
+			WHERE post_type = 'attachment'
+			AND post_mime_type LIKE 'video%'
+			LIMIT 1
+    9 |   0.0003 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT DISTINCT YEAR( post_date ) AS year, MONTH( post_date ) AS month
+			FROM IM767e_posts
+			WHERE post_type = 'attachment'
+			ORDER BY post_date DESC
+   10 |   0.0005 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT COUNT( * ) FROM IM767e_posts WHERE post_type = 'shop_order' AND post_status = 'wc-processing'
+   11 |   0.0005 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT display_meta, confirmations, notifications FROM IM767e_rg_form f
+                                        INNER JOIN IM767e_rg_form_meta m ON f.id = m.form_id
+                                        WHERE id in(1)
+   12 |   0.0004 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_site_transient_timeout_w3tc_rewrite_test_881e3c8d6fb69e2a' LIMIT 1
+   13 |    0.003 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_site_transient_w3tc_rewrite_test_881e3c8d6fb69e2a' LIMIT 1
+   14 |   0.0003 |      disabled (WP_ADMIN)       | not cached |             0 | INSERT INTO `IM767e_options` (`option_name`, `option_value`, `autoload`) VALUES ('_site_transient_timeout_w3tc_rewrite_test_881e3c8d6fb69e2a', '1494248353', 'no') ON DUPLICATE KEY UPDATE `option_name` = VALUES(`option_name`), `option_value` = VALUES(`option_value`), `autoload` = VALUES(`autoload`)
+   15 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | INSERT INTO `IM767e_options` (`option_name`, `option_value`, `autoload`) VALUES ('_site_transient_w3tc_rewrite_test_881e3c8d6fb69e2a', 'ok', 'no') ON DUPLICATE KEY UPDATE `option_name` = VALUES(`option_name`), `option_value` = VALUES(`option_value`), `autoload` = VALUES(`autoload`)
+   16 |   0.0004 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_timeout_w3tc_rewrite_test_178a1e5c32e490c8' LIMIT 1
+   17 |   0.0005 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_w3tc_rewrite_test_178a1e5c32e490c8' LIMIT 1
+   18 |   0.0004 |      disabled (WP_ADMIN)       | not cached |             0 | INSERT INTO `IM767e_options` (`option_name`, `option_value`, `autoload`) VALUES ('_transient_timeout_w3tc_rewrite_test_178a1e5c32e490c8', '1494248355', 'no') ON DUPLICATE KEY UPDATE `option_name` = VALUES(`option_name`), `option_value` = VALUES(`option_value`), `autoload` = VALUES(`autoload`)
+   19 |   0.0254 |      disabled (WP_ADMIN)       | not cached |             0 | INSERT INTO `IM767e_options` (`option_name`, `option_value`, `autoload`) VALUES ('_transient_w3tc_rewrite_test_178a1e5c32e490c8', '1', 'no') ON DUPLICATE KEY UPDATE `option_name` = VALUES(`option_name`), `option_value` = VALUES(`option_value`), `autoload` = VALUES(`autoload`)
+   20 |   0.0006 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT  t.*, tt.* FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id WHERE tt.taxonomy IN ('link_category') ORDER BY t.name ASC
+
+[Mon, 08 May 2017 12:58:51 +0000] [/wp-cron.php?doing_wp_cron=1494248320.3481469154357910156250] [1494248331.47]
+Db cache debug info:
+Engine:             disk
+Total queries:      6
+Cached queries:     0
+Total query time:   0.0040
+SQL info:
+    # | Time (s) |    Caching (Reject reason)     |   Status   | Data size (b) | Query
+    1 |   0.0004 | disabled (DOING_CRON constant defined) | not cached |             0 | SELECT f.id, f.title, f.date_created, f.is_active, 0 as lead_count, 0 view_count
+                FROM IM767e_rg_form f
+                WHERE is_trash=0 AND is_active=1
+                ORDER BY title ASC
+    2 |   0.0008 | disabled (DOING_CRON constant defined) | not cached |             0 | SELECT post_id FROM IM767e_postmeta WHERE meta_key='_gravity_form_data'
+    3 |   0.0008 | disabled (DOING_CRON constant defined) | not cached |             0 | SELECT  t.*, tt.* FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id WHERE tt.taxonomy IN ('testimonial_categories') ORDER BY t.name ASC
+    4 |   0.0009 | disabled (DOING_CRON constant defined) | not cached |             0 | SELECT  t.*, tt.* FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id WHERE tt.taxonomy IN ('team_categories') ORDER BY t.name ASC
+    5 |   0.0006 | disabled (DOING_CRON constant defined) | not cached |             0 | SELECT  DISTINCT t.*, tt.*, tm.meta_value FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id LEFT JOIN IM767e_termmeta AS tm ON (t.term_id = tm.term_id AND tm.meta_key = 'order')  WHERE tt.taxonomy IN ('product_cat') ORDER BY tm.meta_value+0 ASC, t.name ASC
+    6 |   0.0005 | disabled (DOING_CRON constant defined) | not cached |             0 | SELECT autoload FROM IM767e_options WHERE option_name = '_transient_doing_cron'
+
+[Mon, 08 May 2017 12:58:53 +0000] [/wp-admin/admin-ajax.php?action=w3tc_ajax&_wpnonce=22ba13b78c&w3tc_action=newrelic_widgetdata_basic] [1494248333.84]
+Db cache debug info:
+Engine:             disk
+Total queries:      21
+Cached queries:     0
+Total query time:   0.0392
+SQL info:
+    # | Time (s) |    Caching (Reject reason)     |   Status   | Data size (b) | Query
+    1 |    0.008 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT umeta_id as meta_id, meta_key, meta_value
+			FROM IM767e_usermeta
+			WHERE user_id = 1
+			ORDER BY umeta_id
+    2 |   0.0009 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT f.id, f.title, f.date_created, f.is_active, 0 as lead_count, 0 view_count
+                FROM IM767e_rg_form f
+                WHERE is_trash=0 AND is_active=1
+                ORDER BY title ASC
+    3 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT autoload FROM IM767e_options WHERE option_name = '_transient_GFCache_79a7fbe967c4b5562ffc3cb0a9fd0457'
+    4 |   0.0004 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT autoload FROM IM767e_options WHERE option_name = '_transient_timeout_GFCache_79a7fbe967c4b5562ffc3cb0a9fd0457'
+    5 |   0.0003 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT form_id, sum(count) as view_count FROM IM767e_rg_form_view GROUP BY form_id
+    6 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_GFCache_79a7fbe967c4b5562ffc3cb0a9fd0457' LIMIT 1
+    7 |   0.0003 |      disabled (WP_ADMIN)       | not cached |             0 | INSERT INTO `IM767e_options` (`option_name`, `option_value`, `autoload`) VALUES ('_transient_GFCache_79a7fbe967c4b5562ffc3cb0a9fd0457', 'a:1:{i:0;O:8:\"stdClass\":2:{s:7:\"form_id\";s:1:\"1\";s:10:\"view_count\";s:3:\"145\";}}', 'no') ON DUPLICATE KEY UPDATE `option_name` = VALUES(`option_name`), `option_value` = VALUES(`option_value`), `autoload` = VALUES(`autoload`)
+    8 |   0.0082 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT umeta_id FROM IM767e_usermeta WHERE meta_key = 'aioseop_yst_detected_notice_dismissed' AND user_id = 1
+    9 |    0.001 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT post_id FROM IM767e_postmeta WHERE meta_key='_gravity_form_data'
+   10 |   0.0014 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT  t.*, tt.* FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id WHERE tt.taxonomy IN ('testimonial_categories') ORDER BY t.name ASC
+   11 |   0.0023 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT  t.*, tt.* FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id WHERE tt.taxonomy IN ('team_categories') ORDER BY t.name ASC
+   12 |   0.0013 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT  DISTINCT t.*, tt.*, tm.meta_value FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id LEFT JOIN IM767e_termmeta AS tm ON (t.term_id = tm.term_id AND tm.meta_key = 'order')  WHERE tt.taxonomy IN ('product_cat') ORDER BY tm.meta_value+0 ASC, t.name ASC
+   13 |    0.005 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT  t.*, tt.* FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id INNER JOIN IM767e_term_relationships AS tr ON tr.term_taxonomy_id = tt.term_taxonomy_id WHERE tt.taxonomy IN ('product_shipping_class') AND tr.object_id IN (255) ORDER BY t.name ASC
+   14 |   0.0077 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT display_meta, notifications FROM IM767e_rg_form_meta WHERE form_id=1
+   15 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT confirmations FROM IM767e_rg_form_meta WHERE form_id = 1
+   16 |   0.0004 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT autoload FROM IM767e_options WHERE option_name = '_transient_w3tc_nr_widgetdata_basic'
+   17 |   0.0003 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT autoload FROM IM767e_options WHERE option_name = '_transient_timeout_w3tc_nr_widgetdata_basic'
+   18 |   0.0004 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_w3tc_nr_widgetdata_basic' LIMIT 1
+   19 |   0.0003 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_timeout_w3tc_nr_widgetdata_basic' LIMIT 1
+   20 |   0.0003 |      disabled (WP_ADMIN)       | not cached |             0 | INSERT INTO `IM767e_options` (`option_name`, `option_value`, `autoload`) VALUES ('_transient_timeout_w3tc_nr_widgetdata_basic', '1494248393', 'no') ON DUPLICATE KEY UPDATE `option_name` = VALUES(`option_name`), `option_value` = VALUES(`option_value`), `autoload` = VALUES(`autoload`)
+   21 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | INSERT INTO `IM767e_options` (`option_name`, `option_value`, `autoload`) VALUES ('_transient_w3tc_nr_widgetdata_basic', '{\"time\":1494248332,\"php_agent\":\".span class=\\\"w3tc-disabled\\\".disabled.\\/span.\"}', 'no') ON DUPLICATE KEY UPDATE `option_name` = VALUES(`option_name`), `option_value` = VALUES(`option_value`), `autoload` = VALUES(`autoload`)
+
+[Mon, 08 May 2017 12:58:54 +0000] [/wp-admin/admin-ajax.php?action=w3tc_ajax&_wpnonce=22ba13b78c&w3tc_action=pagespeed_widgetdata] [1494248334.08]
+Db cache debug info:
+Engine:             disk
+Total queries:      26
+Cached queries:     0
+Total query time:   0.0353
+SQL info:
+    # | Time (s) |    Caching (Reject reason)     |   Status   | Data size (b) | Query
+    1 |   0.0009 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT umeta_id as meta_id, meta_key, meta_value
+			FROM IM767e_usermeta
+			WHERE user_id = 1
+			ORDER BY umeta_id
+    2 |   0.0065 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT f.id, f.title, f.date_created, f.is_active, 0 as lead_count, 0 view_count
+                FROM IM767e_rg_form f
+                WHERE is_trash=0 AND is_active=1
+                ORDER BY title ASC
+    3 |   0.0003 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT autoload FROM IM767e_options WHERE option_name = '_transient_GFCache_b8b9be346f41fc7527f04570c1c87111'
+    4 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT autoload FROM IM767e_options WHERE option_name = '_transient_timeout_GFCache_b8b9be346f41fc7527f04570c1c87111'
+    5 |   0.0004 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT form_id, count(id) as lead_count FROM IM767e_rg_lead l WHERE status='active' GROUP BY form_id
+    6 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_GFCache_b8b9be346f41fc7527f04570c1c87111' LIMIT 1
+    7 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_timeout_GFCache_b8b9be346f41fc7527f04570c1c87111' LIMIT 1
+    8 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | INSERT INTO `IM767e_options` (`option_name`, `option_value`, `autoload`) VALUES ('_transient_timeout_GFCache_b8b9be346f41fc7527f04570c1c87111', '1494248362', 'no') ON DUPLICATE KEY UPDATE `option_name` = VALUES(`option_name`), `option_value` = VALUES(`option_value`), `autoload` = VALUES(`autoload`)
+    9 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | INSERT INTO `IM767e_options` (`option_name`, `option_value`, `autoload`) VALUES ('_transient_GFCache_b8b9be346f41fc7527f04570c1c87111', 'a:1:{i:0;O:8:\"stdClass\":2:{s:7:\"form_id\";s:1:\"1\";s:10:\"lead_count\";s:2:\"10\";}}', 'no') ON DUPLICATE KEY UPDATE `option_name` = VALUES(`option_name`), `option_value` = VALUES(`option_value`), `autoload` = VALUES(`autoload`)
+   10 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT autoload FROM IM767e_options WHERE option_name = '_transient_GFCache_79a7fbe967c4b5562ffc3cb0a9fd0457'
+   11 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT autoload FROM IM767e_options WHERE option_name = '_transient_timeout_GFCache_79a7fbe967c4b5562ffc3cb0a9fd0457'
+   12 |   0.0003 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT form_id, sum(count) as view_count FROM IM767e_rg_form_view GROUP BY form_id
+   13 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_GFCache_79a7fbe967c4b5562ffc3cb0a9fd0457' LIMIT 1
+   14 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_timeout_GFCache_79a7fbe967c4b5562ffc3cb0a9fd0457' LIMIT 1
+   15 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | INSERT INTO `IM767e_options` (`option_name`, `option_value`, `autoload`) VALUES ('_transient_timeout_GFCache_79a7fbe967c4b5562ffc3cb0a9fd0457', '1494248362', 'no') ON DUPLICATE KEY UPDATE `option_name` = VALUES(`option_name`), `option_value` = VALUES(`option_value`), `autoload` = VALUES(`autoload`)
+   16 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | INSERT INTO `IM767e_options` (`option_name`, `option_value`, `autoload`) VALUES ('_transient_GFCache_79a7fbe967c4b5562ffc3cb0a9fd0457', 'a:1:{i:0;O:8:\"stdClass\":2:{s:7:\"form_id\";s:1:\"1\";s:10:\"view_count\";s:3:\"145\";}}', 'no') ON DUPLICATE KEY UPDATE `option_name` = VALUES(`option_name`), `option_value` = VALUES(`option_value`), `autoload` = VALUES(`autoload`)
+   17 |   0.0082 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT umeta_id FROM IM767e_usermeta WHERE meta_key = 'aioseop_yst_detected_notice_dismissed' AND user_id = 1
+   18 |   0.0042 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT post_id FROM IM767e_postmeta WHERE meta_key='_gravity_form_data'
+   19 |   0.0045 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT  t.*, tt.* FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id WHERE tt.taxonomy IN ('testimonial_categories') ORDER BY t.name ASC
+   20 |   0.0005 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT  t.*, tt.* FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id WHERE tt.taxonomy IN ('team_categories') ORDER BY t.name ASC
+   21 |   0.0006 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT  DISTINCT t.*, tt.*, tm.meta_value FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id LEFT JOIN IM767e_termmeta AS tm ON (t.term_id = tm.term_id AND tm.meta_key = 'order')  WHERE tt.taxonomy IN ('product_cat') ORDER BY tm.meta_value+0 ASC, t.name ASC
+   22 |   0.0026 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT  t.*, tt.* FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id INNER JOIN IM767e_term_relationships AS tr ON tr.term_taxonomy_id = tt.term_taxonomy_id WHERE tt.taxonomy IN ('product_shipping_class') AND tr.object_id IN (255) ORDER BY t.name ASC
+   23 |   0.0033 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT display_meta, notifications FROM IM767e_rg_form_meta WHERE form_id=1
+   24 |   0.0003 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT confirmations FROM IM767e_rg_form_meta WHERE form_id = 1
+   25 |   0.0003 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_timeout_w3tc_pagespeed_widgetdata' LIMIT 1
+   26 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_w3tc_pagespeed_widgetdata' LIMIT 1
+
+[Mon, 08 May 2017 12:58:56 +0000] [/wp-admin/admin.php?page=w3tc_dashboard] [1494248336.71]
+Db cache debug info:
+Engine:             disk
+Total queries:      9
+Cached queries:     0
+Total query time:   0.0063
+SQL info:
+    # | Time (s) |    Caching (Reject reason)     |   Status   | Data size (b) | Query
+    1 |   0.0005 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = 'MPSUM' LIMIT 1
+    2 |   0.0005 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT * FROM IM767e_posts WHERE ID = 53 LIMIT 1
+    3 |   0.0005 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT f.id, f.title, f.date_created, f.is_active, 0 as lead_count, 0 view_count
+                FROM IM767e_rg_form f
+                WHERE is_trash=0 AND is_active=1
+                ORDER BY title ASC
+    4 |   0.0005 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT umeta_id FROM IM767e_usermeta WHERE meta_key = 'aioseop_yst_detected_notice_dismissed' AND user_id = 1
+    5 |   0.0006 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT post_id FROM IM767e_postmeta WHERE meta_key='_gravity_form_data'
+    6 |   0.0008 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT  t.*, tt.* FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id WHERE tt.taxonomy IN ('testimonial_categories') ORDER BY t.name ASC
+    7 |   0.0005 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT  t.*, tt.* FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id WHERE tt.taxonomy IN ('team_categories') ORDER BY t.name ASC
+    8 |   0.0006 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT  DISTINCT t.*, tt.*, tm.meta_value FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id LEFT JOIN IM767e_termmeta AS tm ON (t.term_id = tm.term_id AND tm.meta_key = 'order')  WHERE tt.taxonomy IN ('product_cat') ORDER BY tm.meta_value+0 ASC, t.name ASC
+    9 |   0.0019 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_name, option_value FROM IM767e_options WHERE autoload = 'yes'
+
+[Mon, 08 May 2017 12:59:03 +0000] [/wp-content/cache/minify/514897286w3tc_rewrite_test.css] [1494248343.17]
+Db cache debug info:
+Engine:             disk
+Total queries:      2
+Cached queries:     0
+Total query time:   0.0008
+SQL info:
+    # | Time (s) |    Caching (Reject reason)     |   Status   | Data size (b) | Query
+    1 |   0.0005 |            enabled             | not cached |          2389 | SELECT f.id, f.title, f.date_created, f.is_active, 0 as lead_count, 0 view_count
+                FROM IM767e_rg_form f
+                WHERE is_trash=0 AND is_active=1
+                ORDER BY title ASC
+    2 |   0.0003 |            enabled             | not cached |           614 | SELECT option_value FROM IM767e_options WHERE option_name = 'gravityformsaddon_gravityformswebapi_settings' LIMIT 1
+
+[Mon, 08 May 2017 12:59:04 +0000] [/w3tc_rewrite_test1054317432] [1494248344.3]
+Db cache debug info:
+Engine:             disk
+Total queries:      0
+Cached queries:     0
+Total query time:   0.0000
+
+[Mon, 08 May 2017 12:59:04 +0000] [/wp-admin/admin.php?page=w3tc_dashboard&w3tc_note=flush_all] [1494248344.54]
+Db cache debug info:
+Engine:             disk
+Total queries:      80
+Cached queries:     0
+Total query time:   0.0285
+SQL info:
+    # | Time (s) |    Caching (Reject reason)     |   Status   | Data size (b) | Query
+    1 |   0.0006 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = 'gform_enable_logging' LIMIT 1
+    2 |   0.0004 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = 'revslider-temp-active' LIMIT 1
+    3 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = 'revslider-valid' LIMIT 1
+    4 |   0.0003 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = 'MPSUM' LIMIT 1
+    5 |   0.0005 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_timeout_w3tc.verify_plugins' LIMIT 1
+    6 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_w3tc.verify_plugins' LIMIT 1
+    7 |   0.0006 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT * FROM IM767e_users WHERE user_login = 'pat'
+    8 |   0.0008 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT user_id, meta_key, meta_value FROM IM767e_usermeta WHERE user_id IN (1) ORDER BY umeta_id ASC
+    9 |   0.0004 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = 'revslider_change_database' LIMIT 1
+   10 |   0.0004 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = 'sbg_sidebars' LIMIT 1
+   11 |   0.0003 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_site_transient_timeout_theme_roots' LIMIT 1
+   12 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_site_transient_theme_roots' LIMIT 1
+   13 |   0.0004 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = 'woocommerce_permalinks' LIMIT 1
+   14 |   0.0003 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT * FROM IM767e_posts WHERE ID = 53 LIMIT 1
+   15 |   0.0003 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = 'wpb_js_less_version' LIMIT 1
+   16 |   0.0004 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = 'wpb_js_use_custom' LIMIT 1
+   17 |   0.0003 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_timeout_zozo_mailchimp_api_key_feed' LIMIT 1
+   18 |   0.0005 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_zozo_mailchimp_api_key_feed' LIMIT 1
+   19 |   0.0003 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_timeout_zozo_mailchimp_lists' LIMIT 1
+   20 |   0.0003 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_zozo_mailchimp_lists' LIMIT 1
+   21 |   0.0005 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = 'wpb_js_groups_access_rules' LIMIT 1
+   22 |   0.0005 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = 'vc_automapped_shortcodes' LIMIT 1
+   23 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = 'wpb_js_js_composer_purchase_code' LIMIT 1
+   24 |   0.0004 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT f.id, f.title, f.date_created, f.is_active, 0 as lead_count, 0 view_count
+                FROM IM767e_rg_form f
+                WHERE is_trash=0 AND is_active=1
+                ORDER BY title ASC
+   25 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_timeout_GFCache_b8b9be346f41fc7527f04570c1c87111' LIMIT 1
+   26 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_GFCache_b8b9be346f41fc7527f04570c1c87111' LIMIT 1
+   27 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_timeout_GFCache_79a7fbe967c4b5562ffc3cb0a9fd0457' LIMIT 1
+   28 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_GFCache_79a7fbe967c4b5562ffc3cb0a9fd0457' LIMIT 1
+   29 |   0.0006 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT umeta_id FROM IM767e_usermeta WHERE meta_key = 'aioseop_yst_detected_notice_dismissed' AND user_id = 1
+   30 |   0.0006 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT post_id FROM IM767e_postmeta WHERE meta_key='_gravity_form_data'
+   31 |   0.0009 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT  t.*, tt.* FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id WHERE tt.taxonomy IN ('testimonial_categories') ORDER BY t.name ASC
+   32 |   0.0005 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT  t.*, tt.* FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id WHERE tt.taxonomy IN ('team_categories') ORDER BY t.name ASC
+   33 |   0.0006 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT  DISTINCT t.*, tt.*, tm.meta_value FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id LEFT JOIN IM767e_termmeta AS tm ON (t.term_id = tm.term_id AND tm.meta_key = 'order')  WHERE tt.taxonomy IN ('product_cat') ORDER BY tm.meta_value+0 ASC, t.name ASC
+   34 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = 'revSliderAsTheme' LIMIT 1
+   35 |   0.0004 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = 'dismissed_update_core' LIMIT 1
+   36 |   0.0005 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_timeout_gform_update_info' LIMIT 1
+   37 |   0.0003 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_gform_update_info' LIMIT 1
+   38 |   0.0004 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_timeout__vc_page_welcome_redirect' LIMIT 1
+   39 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient__vc_page_welcome_redirect' LIMIT 1
+   40 |   0.0004 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = 'woocommerce_lock_down_admin' LIMIT 1
+   41 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_timeout__wc_activation_redirect' LIMIT 1
+   42 |   0.0004 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient__wc_activation_redirect' LIMIT 1
+   43 |   0.0003 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_timeout__aioseop_activation_redirect' LIMIT 1
+   44 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient__aioseop_activation_redirect' LIMIT 1
+   45 |   0.0005 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_timeout_wth_woocommerce-gravityforms-product-addons_latest_version' LIMIT 1
+   46 |   0.0003 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_wth_woocommerce-gravityforms-product-addons_latest_version' LIMIT 1
+   47 |   0.0004 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_site_transient_timeout_aioseop_update_check_time' LIMIT 1
+   48 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_site_transient_aioseop_update_check_time' LIMIT 1
+   49 |   0.0004 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT ID
+			FROM IM767e_posts
+			WHERE post_type = 'attachment'
+			AND post_mime_type LIKE 'audio%'
+			LIMIT 1
+   50 |   0.0003 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT ID
+			FROM IM767e_posts
+			WHERE post_type = 'attachment'
+			AND post_mime_type LIKE 'video%'
+			LIMIT 1
+   51 |   0.0004 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT DISTINCT YEAR( post_date ) AS year, MONTH( post_date ) AS month
+			FROM IM767e_posts
+			WHERE post_type = 'attachment'
+			ORDER BY post_date DESC
+   52 |   0.0003 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = 'can_compress_scripts' LIMIT 1
+   53 |   0.0005 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = 'w3tc_state' LIMIT 1
+   54 |   0.0003 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT COUNT( * ) FROM IM767e_posts WHERE post_type = 'shop_order' AND post_status = 'wc-processing'
+   55 |   0.0004 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT display_meta, confirmations, notifications FROM IM767e_rg_form f
+                                        INNER JOIN IM767e_rg_form_meta m ON f.id = m.form_id
+                                        WHERE id in(1)
+   56 |   0.0003 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_timeout_w3tc_license_status' LIMIT 1
+   57 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_w3tc_license_status' LIMIT 1
+   58 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = 'revslider-deact-notice' LIMIT 1
+   59 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = 'revslider-temp-active-notice' LIMIT 1
+   60 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = 'revslider-notices-dc' LIMIT 1
+   61 |   0.0003 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_timeout_woothemes_helper_updates' LIMIT 1
+   62 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_woothemes_helper_updates' LIMIT 1
+   63 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = 'woothemes_helper_dismiss_activation_notice' LIMIT 1
+   64 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = 'auto_core_update_failed' LIMIT 1
+   65 |   0.0005 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_site_transient_timeout_w3tc_rewrite_test_7a09bee065a18780' LIMIT 1
+   66 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_site_transient_w3tc_rewrite_test_7a09bee065a18780' LIMIT 1
+   67 |   0.0005 |      disabled (WP_ADMIN)       | not cached |             0 | INSERT INTO `IM767e_options` (`option_name`, `option_value`, `autoload`) VALUES ('_site_transient_timeout_w3tc_rewrite_test_7a09bee065a18780', '1494248373', 'no') ON DUPLICATE KEY UPDATE `option_name` = VALUES(`option_name`), `option_value` = VALUES(`option_value`), `autoload` = VALUES(`autoload`)
+   68 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | INSERT INTO `IM767e_options` (`option_name`, `option_value`, `autoload`) VALUES ('_site_transient_w3tc_rewrite_test_7a09bee065a18780', 'ok', 'no') ON DUPLICATE KEY UPDATE `option_name` = VALUES(`option_name`), `option_value` = VALUES(`option_value`), `autoload` = VALUES(`autoload`)
+   69 |   0.0003 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_timeout_w3tc_rewrite_test_7419a8bbd8638459' LIMIT 1
+   70 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_w3tc_rewrite_test_7419a8bbd8638459' LIMIT 1
+   71 |   0.0005 |      disabled (WP_ADMIN)       | not cached |             0 | INSERT INTO `IM767e_options` (`option_name`, `option_value`, `autoload`) VALUES ('_transient_timeout_w3tc_rewrite_test_7419a8bbd8638459', '1494248374', 'no') ON DUPLICATE KEY UPDATE `option_name` = VALUES(`option_name`), `option_value` = VALUES(`option_value`), `autoload` = VALUES(`autoload`)
+   72 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | INSERT INTO `IM767e_options` (`option_name`, `option_value`, `autoload`) VALUES ('_transient_w3tc_rewrite_test_7419a8bbd8638459', '1', 'no') ON DUPLICATE KEY UPDATE `option_name` = VALUES(`option_name`), `option_value` = VALUES(`option_value`), `autoload` = VALUES(`autoload`)
+   73 |   0.0004 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = 'w3tc_nr_frontend_response_time' LIMIT 1
+   74 |   0.0004 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = 'w3tc_dashboard_widget_options' LIMIT 1
+   75 |   0.0005 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = 'w3tc_generic_widgetservices' LIMIT 1
+   76 |   0.0006 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT  t.*, tt.* FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id WHERE tt.taxonomy IN ('link_category') ORDER BY t.name ASC
+   77 |   0.0004 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_timeout_dash_54e0612bb2ce53db0827d5e7c3c1b7dc' LIMIT 1
+   78 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_dash_54e0612bb2ce53db0827d5e7c3c1b7dc' LIMIT 1
+   79 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_timeout_dash_91cf481bdcff97d36bc4763744848eba' LIMIT 1
+   80 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_dash_91cf481bdcff97d36bc4763744848eba' LIMIT 1
+
+[Mon, 08 May 2017 12:59:10 +0000] [/wp-admin/admin-ajax.php?action=w3tc_ajax&_wpnonce=22ba13b78c&w3tc_action=newrelic_widgetdata_basic] [1494248350.3]
+Db cache debug info:
+Engine:             disk
+Total queries:      24
+Cached queries:     0
+Total query time:   0.1610
+SQL info:
+    # | Time (s) |    Caching (Reject reason)     |   Status   | Data size (b) | Query
+    1 |   0.0793 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT session_value FROM IM767e_woocommerce_sessions WHERE session_key = '1'
+    2 |   0.0073 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT umeta_id as meta_id, meta_key, meta_value
+			FROM IM767e_usermeta
+			WHERE user_id = 1
+			ORDER BY umeta_id
+    3 |   0.0078 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT f.id, f.title, f.date_created, f.is_active, 0 as lead_count, 0 view_count
+                FROM IM767e_rg_form f
+                WHERE is_trash=0 AND is_active=1
+                ORDER BY title ASC
+    4 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_timeout_doing_cron' LIMIT 1
+    5 |   0.0005 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_doing_cron' LIMIT 1
+    6 |   0.0081 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT umeta_id FROM IM767e_usermeta WHERE meta_key = 'aioseop_yst_detected_notice_dismissed' AND user_id = 1
+    7 |   0.0055 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT post_id FROM IM767e_postmeta WHERE meta_key='_gravity_form_data'
+    8 |   0.0091 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT  t.*, tt.* FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id WHERE tt.taxonomy IN ('testimonial_categories') ORDER BY t.name ASC
+    9 |   0.0006 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT  t.*, tt.* FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id WHERE tt.taxonomy IN ('team_categories') ORDER BY t.name ASC
+   10 |   0.0007 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT  DISTINCT t.*, tt.*, tm.meta_value FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id LEFT JOIN IM767e_termmeta AS tm ON (t.term_id = tm.term_id AND tm.meta_key = 'order')  WHERE tt.taxonomy IN ('product_cat') ORDER BY tm.meta_value+0 ASC, t.name ASC
+   11 |   0.0082 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT post_id, meta_key, meta_value FROM IM767e_postmeta WHERE post_id IN (249) ORDER BY meta_id ASC
+   12 |   0.0053 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT  DISTINCT t.*, tt.*, tr.object_id, tm.meta_value FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id INNER JOIN IM767e_term_relationships AS tr ON tr.term_taxonomy_id = tt.term_taxonomy_id LEFT JOIN IM767e_termmeta AS tm ON (t.term_id = tm.term_id AND tm.meta_key = 'order')  WHERE tt.taxonomy IN ('product_type', 'product_visibility', 'product_cat', 'product_tag', 'product_shipping_class', 'pa_comfort-level', 'pa_mattress-size', 'pa_need-a-base', 'pa_protectors') AND tr.object_id IN (249) ORDER BY tm.meta_value+0 ASC, t.name ASC
+   13 |    0.005 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT * FROM IM767e_posts WHERE ID = 255 LIMIT 1
+   14 |   0.0003 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT * FROM IM767e_posts WHERE ID = 249 LIMIT 1
+   15 |   0.0006 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT post_id, meta_key, meta_value FROM IM767e_postmeta WHERE post_id IN (255) ORDER BY meta_id ASC
+   16 |    0.005 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT  t.*, tt.* FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id INNER JOIN IM767e_term_relationships AS tr ON tr.term_taxonomy_id = tt.term_taxonomy_id WHERE tt.taxonomy IN ('product_shipping_class') AND tr.object_id IN (255) ORDER BY t.name ASC
+   17 |   0.0053 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT display_meta, notifications FROM IM767e_rg_form_meta WHERE form_id=1
+   18 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT confirmations FROM IM767e_rg_form_meta WHERE form_id = 1
+   19 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_timeout_GFCache_e8ade682ed2ff4d042f34b833078645c' LIMIT 1
+   20 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_GFCache_e8ade682ed2ff4d042f34b833078645c' LIMIT 1
+   21 |   0.0004 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_timeout_GFCache_cfd4d907a80d4a08d455d78ebd6b8f00' LIMIT 1
+   22 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_GFCache_cfd4d907a80d4a08d455d78ebd6b8f00' LIMIT 1
+   23 |   0.0105 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_timeout_w3tc_nr_widgetdata_basic' LIMIT 1
+   24 |   0.0005 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_w3tc_nr_widgetdata_basic' LIMIT 1
+
+[Mon, 08 May 2017 12:59:11 +0000] [/wp-admin/admin-ajax.php?action=w3tc_ajax&_wpnonce=22ba13b78c&w3tc_action=pagespeed_widgetdata] [1494248351.96]
+Db cache debug info:
+Engine:             disk
+Total queries:      20
+Cached queries:     0
+Total query time:   0.1486
+SQL info:
+    # | Time (s) |    Caching (Reject reason)     |   Status   | Data size (b) | Query
+    1 |   0.0907 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT session_value FROM IM767e_woocommerce_sessions WHERE session_key = '1'
+    2 |   0.0042 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT umeta_id as meta_id, meta_key, meta_value
+			FROM IM767e_usermeta
+			WHERE user_id = 1
+			ORDER BY umeta_id
+    3 |   0.0033 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT f.id, f.title, f.date_created, f.is_active, 0 as lead_count, 0 view_count
+                FROM IM767e_rg_form f
+                WHERE is_trash=0 AND is_active=1
+                ORDER BY title ASC
+    4 |   0.0004 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_timeout_doing_cron' LIMIT 1
+    5 |   0.0021 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_doing_cron' LIMIT 1
+    6 |   0.0006 |      disabled (WP_ADMIN)       | not cached |             0 | INSERT INTO `IM767e_options` (`option_name`, `option_value`, `autoload`) VALUES ('_transient_doing_cron', '1494248348.6259169578552246093750', 'yes') ON DUPLICATE KEY UPDATE `option_name` = VALUES(`option_name`), `option_value` = VALUES(`option_value`), `autoload` = VALUES(`autoload`)
+    7 |   0.0007 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT umeta_id FROM IM767e_usermeta WHERE meta_key = 'aioseop_yst_detected_notice_dismissed' AND user_id = 1
+    8 |   0.0008 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT post_id FROM IM767e_postmeta WHERE meta_key='_gravity_form_data'
+    9 |   0.0023 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT  t.*, tt.* FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id WHERE tt.taxonomy IN ('testimonial_categories') ORDER BY t.name ASC
+   10 |   0.0043 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT  t.*, tt.* FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id WHERE tt.taxonomy IN ('team_categories') ORDER BY t.name ASC
+   11 |   0.0165 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT  DISTINCT t.*, tt.*, tm.meta_value FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id LEFT JOIN IM767e_termmeta AS tm ON (t.term_id = tm.term_id AND tm.meta_key = 'order')  WHERE tt.taxonomy IN ('product_cat') ORDER BY tm.meta_value+0 ASC, t.name ASC
+   12 |   0.0054 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT  t.*, tt.* FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id INNER JOIN IM767e_term_relationships AS tr ON tr.term_taxonomy_id = tt.term_taxonomy_id WHERE tt.taxonomy IN ('product_shipping_class') AND tr.object_id IN (255) ORDER BY t.name ASC
+   13 |   0.0062 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT display_meta, notifications FROM IM767e_rg_form_meta WHERE form_id=1
+   14 |   0.0055 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT confirmations FROM IM767e_rg_form_meta WHERE form_id = 1
+   15 |   0.0004 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_timeout_GFCache_e8ade682ed2ff4d042f34b833078645c' LIMIT 1
+   16 |   0.0037 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_GFCache_e8ade682ed2ff4d042f34b833078645c' LIMIT 1
+   17 |   0.0003 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_timeout_GFCache_cfd4d907a80d4a08d455d78ebd6b8f00' LIMIT 1
+   18 |   0.0004 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_GFCache_cfd4d907a80d4a08d455d78ebd6b8f00' LIMIT 1
+   19 |   0.0006 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_timeout_w3tc_pagespeed_widgetdata' LIMIT 1
+   20 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_w3tc_pagespeed_widgetdata' LIMIT 1
+
+[Mon, 08 May 2017 12:59:15 +0000] [/wp-content/cache/minify/1859488374w3tc_rewrite_test.css] [1494248355.29]
+Db cache debug info:
+Engine:             disk
+Total queries:      2
+Cached queries:     1
+Total query time:   0.0004
+SQL info:
+    # | Time (s) |    Caching (Reject reason)     |   Status   | Data size (b) | Query
+    1 |   0.0002 |            enabled             |   cached   |          2389 | SELECT f.id, f.title, f.date_created, f.is_active, 0 as lead_count, 0 view_count
+                FROM IM767e_rg_form f
+                WHERE is_trash=0 AND is_active=1
+                ORDER BY title ASC
+    2 |   0.0002 |            enabled             | not cached |           614 | SELECT option_value FROM IM767e_options WHERE option_name = 'gravityformsaddon_gravityformswebapi_settings' LIMIT 1
+
+[Mon, 08 May 2017 12:59:15 +0000] [/wp-cron.php?doing_wp_cron=1494248348.6259169578552246093750] [1494248355.97]
+Db cache debug info:
+Engine:             disk
+Total queries:      13
+Cached queries:     0
+Total query time:   0.0135
+SQL info:
+    # | Time (s) |    Caching (Reject reason)     |   Status   | Data size (b) | Query
+    1 |   0.0019 | disabled (DOING_CRON constant defined) | not cached |             0 | SELECT option_name, option_value FROM IM767e_options WHERE autoload = 'yes'
+    2 |   0.0007 | disabled (DOING_CRON constant defined) | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = 'woocommerce_allow_tracking' LIMIT 1
+    3 |   0.0005 | disabled (DOING_CRON constant defined) | not cached |             0 | SELECT f.id, f.title, f.date_created, f.is_active, 0 as lead_count, 0 view_count
+                FROM IM767e_rg_form f
+                WHERE is_trash=0 AND is_active=1
+                ORDER BY title ASC
+    4 |   0.0008 | disabled (DOING_CRON constant defined) | not cached |             0 | SELECT post_id FROM IM767e_postmeta WHERE meta_key='_gravity_form_data'
+    5 |    0.001 | disabled (DOING_CRON constant defined) | not cached |             0 | SELECT  t.*, tt.* FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id WHERE tt.taxonomy IN ('testimonial_categories') ORDER BY t.name ASC
+    6 |   0.0006 | disabled (DOING_CRON constant defined) | not cached |             0 | SELECT  t.*, tt.* FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id WHERE tt.taxonomy IN ('team_categories') ORDER BY t.name ASC
+    7 |   0.0006 | disabled (DOING_CRON constant defined) | not cached |             0 | SELECT  DISTINCT t.*, tt.*, tm.meta_value FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id LEFT JOIN IM767e_termmeta AS tm ON (t.term_id = tm.term_id AND tm.meta_key = 'order')  WHERE tt.taxonomy IN ('product_cat') ORDER BY tm.meta_value+0 ASC, t.name ASC
+    8 |   0.0002 | disabled (DOING_CRON constant defined) | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_timeout_wc_term_counts' LIMIT 1
+    9 |   0.0002 | disabled (DOING_CRON constant defined) | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_wc_term_counts' LIMIT 1
+   10 |   0.0059 | disabled (DOING_CRON constant defined) | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_site_transient_update_plugins' LIMIT 1
+   11 |   0.0004 | disabled (DOING_CRON constant defined) | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_site_transient_update_themes' LIMIT 1
+   12 |   0.0003 | disabled (DOING_CRON constant defined) | not cached |             0 | SELECT autoload FROM IM767e_options WHERE option_name = '_transient_doing_cron'
+   13 |   0.0002 | disabled (DOING_CRON constant defined) | not cached |             0 | SELECT autoload FROM IM767e_options WHERE option_name = '_transient_timeout_doing_cron'
+
+[Mon, 08 May 2017 12:59:16 +0000] [/w3tc_rewrite_test1063434801] [1494248356.48]
+Db cache debug info:
+Engine:             disk
+Total queries:      0
+Cached queries:     0
+Total query time:   0.0000
+
+[Mon, 08 May 2017 12:59:16 +0000] [/wp-admin/admin.php?page=w3tc_cdn] [1494248356.62]
+Db cache debug info:
+Engine:             disk
+Total queries:      19
+Cached queries:     0
+Total query time:   0.0096
+SQL info:
+    # | Time (s) |    Caching (Reject reason)     |   Status   | Data size (b) | Query
+    1 |   0.0005 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT f.id, f.title, f.date_created, f.is_active, 0 as lead_count, 0 view_count
+                FROM IM767e_rg_form f
+                WHERE is_trash=0 AND is_active=1
+                ORDER BY title ASC
+    2 |   0.0005 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT umeta_id FROM IM767e_usermeta WHERE meta_key = 'aioseop_yst_detected_notice_dismissed' AND user_id = 1
+    3 |   0.0006 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT post_id FROM IM767e_postmeta WHERE meta_key='_gravity_form_data'
+    4 |   0.0012 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT  t.*, tt.* FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id WHERE tt.taxonomy IN ('testimonial_categories') ORDER BY t.name ASC
+    5 |   0.0007 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT  t.*, tt.* FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id WHERE tt.taxonomy IN ('team_categories') ORDER BY t.name ASC
+    6 |   0.0009 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT  DISTINCT t.*, tt.*, tm.meta_value FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id LEFT JOIN IM767e_termmeta AS tm ON (t.term_id = tm.term_id AND tm.meta_key = 'order')  WHERE tt.taxonomy IN ('product_cat') ORDER BY tm.meta_value+0 ASC, t.name ASC
+    7 |   0.0006 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT ID
+			FROM IM767e_posts
+			WHERE post_type = 'attachment'
+			AND post_mime_type LIKE 'audio%'
+			LIMIT 1
+    8 |   0.0003 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT ID
+			FROM IM767e_posts
+			WHERE post_type = 'attachment'
+			AND post_mime_type LIKE 'video%'
+			LIMIT 1
+    9 |   0.0004 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT DISTINCT YEAR( post_date ) AS year, MONTH( post_date ) AS month
+			FROM IM767e_posts
+			WHERE post_type = 'attachment'
+			ORDER BY post_date DESC
+   10 |   0.0005 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT COUNT( * ) FROM IM767e_posts WHERE post_type = 'shop_order' AND post_status = 'wc-processing'
+   11 |   0.0005 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT display_meta, confirmations, notifications FROM IM767e_rg_form f
+                                        INNER JOIN IM767e_rg_form_meta m ON f.id = m.form_id
+                                        WHERE id in(1)
+   12 |   0.0005 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_site_transient_timeout_w3tc_rewrite_test_4a7ae5437aec0420' LIMIT 1
+   13 |   0.0003 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_site_transient_w3tc_rewrite_test_4a7ae5437aec0420' LIMIT 1
+   14 |   0.0004 |      disabled (WP_ADMIN)       | not cached |             0 | INSERT INTO `IM767e_options` (`option_name`, `option_value`, `autoload`) VALUES ('_site_transient_timeout_w3tc_rewrite_test_4a7ae5437aec0420', '1494248385', 'no') ON DUPLICATE KEY UPDATE `option_name` = VALUES(`option_name`), `option_value` = VALUES(`option_value`), `autoload` = VALUES(`autoload`)
+   15 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | INSERT INTO `IM767e_options` (`option_name`, `option_value`, `autoload`) VALUES ('_site_transient_w3tc_rewrite_test_4a7ae5437aec0420', 'ok', 'no') ON DUPLICATE KEY UPDATE `option_name` = VALUES(`option_name`), `option_value` = VALUES(`option_value`), `autoload` = VALUES(`autoload`)
+   16 |   0.0003 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_timeout_w3tc_rewrite_test_252f1296b3523797' LIMIT 1
+   17 |   0.0003 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_w3tc_rewrite_test_252f1296b3523797' LIMIT 1
+   18 |   0.0004 |      disabled (WP_ADMIN)       | not cached |             0 | INSERT INTO `IM767e_options` (`option_name`, `option_value`, `autoload`) VALUES ('_transient_timeout_w3tc_rewrite_test_252f1296b3523797', '1494248386', 'no') ON DUPLICATE KEY UPDATE `option_name` = VALUES(`option_name`), `option_value` = VALUES(`option_value`), `autoload` = VALUES(`autoload`)
+   19 |   0.0004 |      disabled (WP_ADMIN)       | not cached |             0 | INSERT INTO `IM767e_options` (`option_name`, `option_value`, `autoload`) VALUES ('_transient_w3tc_rewrite_test_252f1296b3523797', '1', 'no') ON DUPLICATE KEY UPDATE `option_name` = VALUES(`option_name`), `option_value` = VALUES(`option_value`), `autoload` = VALUES(`autoload`)
+
+[Mon, 08 May 2017 12:59:38 +0000] [/] [1494248378.65]
+Db cache debug info:
+Engine:             disk
+Total queries:      303
+Cached queries:     141
+Total query time:   0.4574
+SQL info:
+    # | Time (s) |    Caching (Reject reason)     |   Status   | Data size (b) | Query
+    1 |   0.0002 |            enabled             |   cached   |          2389 | SELECT f.id, f.title, f.date_created, f.is_active, 0 as lead_count, 0 view_count
+                FROM IM767e_rg_form f
+                WHERE is_trash=0 AND is_active=1
+                ORDER BY title ASC
+    2 |   0.0006 |            enabled             | not cached |           634 | SELECT autoload FROM IM767e_options WHERE option_name = '_transient_GFCache_b8b9be346f41fc7527f04570c1c87111'
+    3 |   0.0003 |            enabled             | not cached |           642 | SELECT autoload FROM IM767e_options WHERE option_name = '_transient_timeout_GFCache_b8b9be346f41fc7527f04570c1c87111'
+    4 |   0.0005 |            enabled             | not cached |           921 | SELECT form_id, count(id) as lead_count FROM IM767e_rg_lead l WHERE status='active' GROUP BY form_id
+    5 |   0.0002 |            enabled             | not cached |           620 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_GFCache_b8b9be346f41fc7527f04570c1c87111' LIMIT 1
+    6 |   0.0002 |            enabled             | not cached |           628 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_timeout_GFCache_b8b9be346f41fc7527f04570c1c87111' LIMIT 1
+    7 |   0.0003 | disabled (query not cacheable) | not cached |             0 | INSERT INTO `IM767e_options` (`option_name`, `option_value`, `autoload`) VALUES ('_transient_timeout_GFCache_b8b9be346f41fc7527f04570c1c87111', '1494248401', 'no') ON DUPLICATE KEY UPDATE `option_name` = VALUES(`option_name`), `option_value` = VALUES(`option_value`), `autoload` = VALUES(`autoload`)
+    8 |   0.0004 | disabled (query not cacheable) | not cached |             0 | INSERT INTO `IM767e_options` (`option_name`, `option_value`, `autoload`) VALUES ('_transient_GFCache_b8b9be346f41fc7527f04570c1c87111', 'a:1:{i:0;O:8:\"stdClass\":2:{s:7:\"form_id\";s:1:\"1\";s:10:\"lead_count\";s:2:\"10\";}}', 'no') ON DUPLICATE KEY UPDATE `option_name` = VALUES(`option_name`), `option_value` = VALUES(`option_value`), `autoload` = VALUES(`autoload`)
+    9 |   0.0003 |            enabled             | not cached |           634 | SELECT autoload FROM IM767e_options WHERE option_name = '_transient_GFCache_79a7fbe967c4b5562ffc3cb0a9fd0457'
+   10 |   0.0003 |            enabled             | not cached |           642 | SELECT autoload FROM IM767e_options WHERE option_name = '_transient_timeout_GFCache_79a7fbe967c4b5562ffc3cb0a9fd0457'
+   11 |   0.0004 |            enabled             | not cached |           925 | SELECT form_id, sum(count) as view_count FROM IM767e_rg_form_view GROUP BY form_id
+   12 |   0.0003 |            enabled             | not cached |           620 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_GFCache_79a7fbe967c4b5562ffc3cb0a9fd0457' LIMIT 1
+   13 |   0.0003 |            enabled             | not cached |           628 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_timeout_GFCache_79a7fbe967c4b5562ffc3cb0a9fd0457' LIMIT 1
+   14 |   0.0006 | disabled (query not cacheable) | not cached |             0 | INSERT INTO `IM767e_options` (`option_name`, `option_value`, `autoload`) VALUES ('_transient_timeout_GFCache_79a7fbe967c4b5562ffc3cb0a9fd0457', '1494248401', 'no') ON DUPLICATE KEY UPDATE `option_name` = VALUES(`option_name`), `option_value` = VALUES(`option_value`), `autoload` = VALUES(`autoload`)
+   15 |   0.0005 | disabled (query not cacheable) | not cached |             0 | INSERT INTO `IM767e_options` (`option_name`, `option_value`, `autoload`) VALUES ('_transient_GFCache_79a7fbe967c4b5562ffc3cb0a9fd0457', 'a:1:{i:0;O:8:\"stdClass\":2:{s:7:\"form_id\";s:1:\"1\";s:10:\"view_count\";s:3:\"145\";}}', 'no') ON DUPLICATE KEY UPDATE `option_name` = VALUES(`option_name`), `option_value` = VALUES(`option_value`), `autoload` = VALUES(`autoload`)
+   16 |   0.0005 |            enabled             | not cached |           614 | SELECT option_value FROM IM767e_options WHERE option_name = 'gravityformsaddon_gravityformswebapi_settings' LIMIT 1
+   17 |   0.0009 |            enabled             | not cached |           924 | SELECT post_id FROM IM767e_postmeta WHERE meta_key='_gravity_form_data'
+   18 |   0.0009 |            enabled             | not cached |          3566 | SELECT  t.*, tt.* FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id WHERE tt.taxonomy IN ('testimonial_categories') ORDER BY t.name ASC
+   19 |   0.0006 |            enabled             | not cached |          3559 | SELECT  t.*, tt.* FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id WHERE tt.taxonomy IN ('team_categories') ORDER BY t.name ASC
+   20 |   0.0007 |            enabled             | not cached |          4040 | SELECT  DISTINCT t.*, tt.*, tm.meta_value FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id LEFT JOIN IM767e_termmeta AS tm ON (t.term_id = tm.term_id AND tm.meta_key = 'order')  WHERE tt.taxonomy IN ('product_cat') ORDER BY tm.meta_value+0 ASC, t.name ASC
+   21 |   0.0004 |            enabled             | not cached |         12716 | SELECT   IM767e_posts.* FROM IM767e_posts  WHERE 1=1  AND IM767e_posts.ID = 9 AND IM767e_posts.post_type = 'page'  ORDER BY IM767e_posts.post_date DESC
+   22 |    0.001 |            enabled             | not cached |         14432 | SELECT post_id, meta_key, meta_value FROM IM767e_postmeta WHERE post_id IN (9) ORDER BY meta_id ASC
+   23 |   0.0004 |            enabled             | not cached |         12610 | SELECT * FROM IM767e_posts WHERE ID = 9 LIMIT 1
+   24 |   0.0003 |            enabled             | not cached |           591 | SELECT option_value FROM IM767e_options WHERE option_name = 'wcps_track_product_view' LIMIT 1
+   25 |   0.0002 |            enabled             | not cached |           588 | SELECT option_value FROM IM767e_options WHERE option_name = 'revslider-static-css' LIMIT 1
+   26 |   0.0006 |            enabled             | not cached |          8806 | SELECT * FROM IM767e_posts WHERE ID = 54 LIMIT 1
+   27 |   0.0009 |            enabled             | not cached |          8123 | SELECT * FROM IM767e_posts  WHERE (post_type = 'page' AND post_status = 'publish')    AND post_parent = 9   ORDER BY IM767e_posts.post_title ASC LIMIT 0,1
+   28 |   0.0004 |            enabled             | not cached |           593 | SELECT option_value FROM IM767e_options WHERE option_name = 'wpb_js_not_responsive_css' LIMIT 1
+   29 |   0.0004 |            enabled             | not cached |          3784 | SELECT t.*, tt.* FROM IM767e_terms AS t INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id WHERE t.term_id = 16
+   30 |   0.0353 |            enabled             | not cached |          1046 | SELECT tr.object_id FROM IM767e_term_relationships AS tr INNER JOIN IM767e_term_taxonomy AS tt ON tr.term_taxonomy_id = tt.term_taxonomy_id WHERE tt.taxonomy IN ('nav_menu') AND tt.term_id IN ('16') ORDER BY tr.object_id ASC
+   31 |   0.0009 |            enabled             | not cached |         13662 | SELECT   IM767e_posts.* FROM IM767e_posts  WHERE 1=1  AND IM767e_posts.ID IN (120,121,122,123,124,125,126) AND IM767e_posts.post_type = 'nav_menu_item' AND ((IM767e_posts.post_status = 'publish'))  ORDER BY IM767e_posts.menu_order ASC
+   32 |   0.0005 |            enabled             | not cached |          3541 | SELECT post_id, meta_key, meta_value FROM IM767e_postmeta WHERE post_id IN (120) ORDER BY meta_id ASC
+   33 |   0.0004 |            enabled             | not cached |          3512 | SELECT post_id, meta_key, meta_value FROM IM767e_postmeta WHERE post_id IN (121) ORDER BY meta_id ASC
+   34 |   0.0046 |            enabled             | not cached |          3512 | SELECT post_id, meta_key, meta_value FROM IM767e_postmeta WHERE post_id IN (125) ORDER BY meta_id ASC
+   35 |   0.0004 |            enabled             | not cached |          3512 | SELECT post_id, meta_key, meta_value FROM IM767e_postmeta WHERE post_id IN (126) ORDER BY meta_id ASC
+   36 |   0.0004 |            enabled             | not cached |          3512 | SELECT post_id, meta_key, meta_value FROM IM767e_postmeta WHERE post_id IN (123) ORDER BY meta_id ASC
+   37 |   0.0004 |            enabled             | not cached |          3512 | SELECT post_id, meta_key, meta_value FROM IM767e_postmeta WHERE post_id IN (124) ORDER BY meta_id ASC
+   38 |   0.0004 |            enabled             | not cached |          3513 | SELECT post_id, meta_key, meta_value FROM IM767e_postmeta WHERE post_id IN (122) ORDER BY meta_id ASC
+   39 |   0.0006 |            enabled             | not cached |         32323 | SELECT   IM767e_posts.* FROM IM767e_posts  WHERE 1=1  AND IM767e_posts.ID IN (28,21,53,12,36,112) AND IM767e_posts.post_type = 'page' AND ((IM767e_posts.post_status = 'publish'))  ORDER BY IM767e_posts.post_date DESC
+   40 |   0.0003 |            enabled             | not cached |         12155 | SELECT * FROM IM767e_posts WHERE ID = 28 LIMIT 1
+   41 |   0.0003 |            enabled             | not cached |         14490 | SELECT * FROM IM767e_posts WHERE ID = 21 LIMIT 1
+   42 |   0.0008 |            enabled             | not cached |         10783 | SELECT * FROM IM767e_posts WHERE ID = 12 LIMIT 1
+   43 |   0.0005 |            enabled             | not cached |         16154 | SELECT * FROM IM767e_posts WHERE ID = 36 LIMIT 1
+   44 |   0.0006 |            enabled             | not cached |          9891 | SELECT * FROM IM767e_posts WHERE ID = 112 LIMIT 1
+   45 |   0.0003 |            enabled             | not cached |          8800 | SELECT * FROM IM767e_posts WHERE ID = 120 LIMIT 1
+   46 |   0.0002 |            enabled             |   cached   |          1046 | SELECT tr.object_id FROM IM767e_term_relationships AS tr INNER JOIN IM767e_term_taxonomy AS tt ON tr.term_taxonomy_id = tt.term_taxonomy_id WHERE tt.taxonomy IN ('nav_menu') AND tt.term_id IN ('16') ORDER BY tr.object_id ASC
+   47 |   0.0003 |            enabled             |   cached   |         13662 | SELECT   IM767e_posts.* FROM IM767e_posts  WHERE 1=1  AND IM767e_posts.ID IN (120,121,122,123,124,125,126) AND IM767e_posts.post_type = 'nav_menu_item' AND ((IM767e_posts.post_status = 'publish'))  ORDER BY IM767e_posts.menu_order ASC
+   48 |   0.0003 |            enabled             |   cached   |         32323 | SELECT   IM767e_posts.* FROM IM767e_posts  WHERE 1=1  AND IM767e_posts.ID IN (28,21,53,12,36,112) AND IM767e_posts.post_type = 'page' AND ((IM767e_posts.post_status = 'publish'))  ORDER BY IM767e_posts.post_date DESC
+   49 |   0.0035 |            enabled             | not cached |         13631 | select * from IM767e_revslider_sliders where alias = 'Ideal mattress'  AND `type` != 'template'
+   50 |    0.005 |            enabled             | not cached |         64456 | select * from IM767e_revslider_slides where slider_id = '1' order by slide_order
+   51 |   0.0003 |            enabled             | not cached |          8867 | SELECT * FROM IM767e_posts WHERE ID = 4 LIMIT 1
+   52 |   0.0004 |            enabled             | not cached |          3676 | SELECT post_id, meta_key, meta_value FROM IM767e_postmeta WHERE post_id IN (4) ORDER BY meta_id ASC
+   53 |   0.0003 |            enabled             | not cached |          8900 | SELECT * FROM IM767e_posts WHERE ID = 8 LIMIT 1
+   54 |   0.0003 |            enabled             | not cached |          3830 | SELECT post_id, meta_key, meta_value FROM IM767e_postmeta WHERE post_id IN (8) ORDER BY meta_id ASC
+   55 |   0.0003 |            enabled             | not cached |          8878 | SELECT * FROM IM767e_posts WHERE ID = 6 LIMIT 1
+   56 |   0.0045 |            enabled             | not cached |          3718 | SELECT post_id, meta_key, meta_value FROM IM767e_postmeta WHERE post_id IN (6) ORDER BY meta_id ASC
+   57 |   0.0002 |            enabled             | not cached |          2046 | select * from IM767e_revslider_static_slides where slider_id = '1'
+   58 |   0.0004 |            enabled             |   cached   |         64456 | select * from IM767e_revslider_slides where slider_id = '1' order by slide_order
+   59 |   0.0002 |            enabled             |   cached   |          2046 | select * from IM767e_revslider_static_slides where slider_id = '1'
+   60 |   0.0004 |            enabled             | not cached |          1674 | select * from IM767e_revslider_layer_animations
+   61 |   0.0002 |            enabled             |   cached   |          1674 | select * from IM767e_revslider_layer_animations
+   62 |   0.0002 |            enabled             |   cached   |          1674 | select * from IM767e_revslider_layer_animations
+   63 |   0.0001 |            enabled             |   cached   |          1674 | select * from IM767e_revslider_layer_animations
+   64 |   0.0001 |            enabled             |   cached   |          1674 | select * from IM767e_revslider_layer_animations
+   65 |   0.0001 |            enabled             |   cached   |          1674 | select * from IM767e_revslider_layer_animations
+   66 |   0.0003 |            enabled             | not cached |          2353 | SELECT * FROM IM767e_revslider_navigations
+   67 |   0.0003 |            enabled             | not cached |           596 | SELECT option_value FROM IM767e_options WHERE option_name = 'revslider-nav-preset-default' LIMIT 1
+   68 |   0.0194 |            enabled             | not cached |        105849 | select * from IM767e_revslider_css
+   69 |   0.0002 |            enabled             |   cached   |          2353 | SELECT * FROM IM767e_revslider_navigations
+   70 |   0.0008 | disabled (query not cacheable) | not cached |             0 | SELECT SQL_CALC_FOUND_ROWS  IM767e_posts.ID FROM IM767e_posts  WHERE 1=1  AND IM767e_posts.post_type = 'product' AND ((IM767e_posts.post_status = 'publish'))  ORDER BY IM767e_posts.post_date DESC LIMIT 0, 5
+   71 |   0.0002 | disabled (query not cacheable) | not cached |             0 | SELECT FOUND_ROWS()
+   72 |   0.0004 |            enabled             | not cached |         11546 | SELECT IM767e_posts.* FROM IM767e_posts WHERE ID IN (288,269,229,209)
+   73 |   0.0025 |            enabled             | not cached |         15792 | SELECT  DISTINCT t.*, tt.*, tr.object_id, tm.meta_value FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id INNER JOIN IM767e_term_relationships AS tr ON tr.term_taxonomy_id = tt.term_taxonomy_id LEFT JOIN IM767e_termmeta AS tm ON (t.term_id = tm.term_id AND tm.meta_key = 'order')  WHERE tt.taxonomy IN ('product_type', 'product_visibility', 'product_cat', 'product_tag', 'product_shipping_class', 'pa_comfort-level', 'pa_mattress-size', 'pa_need-a-base', 'pa_protectors') AND tr.object_id IN (209, 229, 269, 288) ORDER BY tm.meta_value+0 ASC, t.name ASC
+   74 |    0.214 |            enabled             | not cached |         56547 | SELECT post_id, meta_key, meta_value FROM IM767e_postmeta WHERE post_id IN (209,229,269,288) ORDER BY meta_id ASC
+   75 |   0.0007 |            enabled             | not cached |           673 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_timeout_wc_product_children_288' LIMIT 1
+   76 |   0.0002 |            enabled             | not cached |          1077 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_wc_product_children_288' LIMIT 1
+   77 |   0.0357 |            enabled             | not cached |          1633 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_mattress-size' AND post_id IN (289,290,291,292,293,294,295,296,297,298,299,300,301,302,303,304,305,306)
+   78 |   0.0031 |            enabled             | not cached |          1814 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_comfort-level' AND post_id IN (289,290,291,292,293,294,295,296,297,298,299,300,301,302,303,304,305,306)
+   79 |   0.0016 |            enabled             | not cached |          1661 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_need-a-base' AND post_id IN (289,290,291,292,293,294,295,296,297,298,299,300,301,302,303,304,305,306)
+   80 |   0.0003 |            enabled             | not cached |          8862 | SELECT * FROM IM767e_posts WHERE ID = 307 LIMIT 1
+   81 |   0.0004 |            enabled             | not cached |          2894 | SELECT post_id, meta_key, meta_value FROM IM767e_postmeta WHERE post_id IN (307) ORDER BY meta_id ASC
+   82 |   0.0003 |            enabled             | not cached |          1070 | SELECT tax_rate_id, location_code FROM IM767e_woocommerce_tax_rate_locations WHERE location_type = 'postcode' AND location_code LIKE '%...%';
+   83 |   0.0005 |            enabled             | not cached |          4897 | SELECT tax_rates.*
+			FROM IM767e_woocommerce_tax_rates as tax_rates
+			LEFT OUTER JOIN IM767e_woocommerce_tax_rate_locations as locations ON tax_rates.tax_rate_id = locations.tax_rate_id
+			LEFT OUTER JOIN IM767e_woocommerce_tax_rate_locations as locations2 ON tax_rates.tax_rate_id = locations2.tax_rate_id
+			WHERE 1=1 AND tax_rate_country IN ( 'AU', '' ) AND tax_rate_state IN ( '', '' ) AND tax_rate_class = '' AND ( ( locations.location_type IS NULL ) OR ( 
+			locations.location_type = 'postcode' AND locations.location_code IN ('','*')
+			AND (
+				( locations2.location_type = 'city' AND locations2.location_code = '' )
+				OR NOT EXISTS (
+					SELECT sub.tax_rate_id FROM IM767e_woocommerce_tax_rate_locations as sub
+					WHERE sub.location_type = 'city'
+					AND sub.tax_rate_id = tax_rates.tax_rate_id
+				)
+			)
+		 ) OR ( 
+			locations.location_type = 'city' AND locations.location_code = ''
+			AND NOT EXISTS (
+				SELECT sub.tax_rate_id FROM IM767e_woocommerce_tax_rate_locations as sub
+				WHERE sub.location_type = 'postcode'
+				AND sub.tax_rate_id = tax_rates.tax_rate_id
+			)
+		 ) )
+			GROUP BY tax_rates.tax_rate_id
+			ORDER BY tax_rates.tax_rate_priority
+   84 |   0.0003 |            enabled             | not cached |           667 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_timeout_wc_var_prices_288' LIMIT 1
+   85 |   0.0003 |            enabled             | not cached |          2444 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_wc_var_prices_288' LIMIT 1
+   86 |   0.0001 |            enabled             |   cached   |          1633 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_mattress-size' AND post_id IN (289,290,291,292,293,294,295,296,297,298,299,300,301,302,303,304,305,306)
+   87 |   0.0001 |            enabled             |   cached   |          1814 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_comfort-level' AND post_id IN (289,290,291,292,293,294,295,296,297,298,299,300,301,302,303,304,305,306)
+   88 |   0.0001 |            enabled             |   cached   |          1661 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_need-a-base' AND post_id IN (289,290,291,292,293,294,295,296,297,298,299,300,301,302,303,304,305,306)
+   89 |    0.001 |            enabled             | not cached |         15233 | SELECT meta_id as meta_id, meta_key, meta_value
+			FROM IM767e_postmeta
+			WHERE post_id = 288
+			ORDER BY meta_id
+   90 |   0.0004 |            enabled             | not cached |           673 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_timeout_wc_product_children_269' LIMIT 1
+   91 |   0.0002 |            enabled             | not cached |          1077 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_wc_product_children_269' LIMIT 1
+   92 |   0.0013 |            enabled             | not cached |          1633 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_mattress-size' AND post_id IN (270,271,272,273,274,275,276,277,278,279,280,281,282,283,284,285,286,287)
+   93 |    0.001 |            enabled             | not cached |          1814 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_comfort-level' AND post_id IN (270,271,272,273,274,275,276,277,278,279,280,281,282,283,284,285,286,287)
+   94 |   0.0013 |            enabled             | not cached |          1661 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_need-a-base' AND post_id IN (270,271,272,273,274,275,276,277,278,279,280,281,282,283,284,285,286,287)
+   95 |   0.0003 |            enabled             | not cached |          8841 | SELECT * FROM IM767e_posts WHERE ID = 311 LIMIT 1
+   96 |   0.0004 |            enabled             | not cached |          2849 | SELECT post_id, meta_key, meta_value FROM IM767e_postmeta WHERE post_id IN (311) ORDER BY meta_id ASC
+   97 |   0.0003 |            enabled             | not cached |           667 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_timeout_wc_var_prices_269' LIMIT 1
+   98 |   0.0003 |            enabled             | not cached |          2444 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_wc_var_prices_269' LIMIT 1
+   99 |   0.0002 |            enabled             |   cached   |          1633 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_mattress-size' AND post_id IN (270,271,272,273,274,275,276,277,278,279,280,281,282,283,284,285,286,287)
+  100 |   0.0001 |            enabled             |   cached   |          1814 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_comfort-level' AND post_id IN (270,271,272,273,274,275,276,277,278,279,280,281,282,283,284,285,286,287)
+  101 |   0.0001 |            enabled             |   cached   |          1661 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_need-a-base' AND post_id IN (270,271,272,273,274,275,276,277,278,279,280,281,282,283,284,285,286,287)
+  102 |    0.001 |            enabled             | not cached |         15108 | SELECT meta_id as meta_id, meta_key, meta_value
+			FROM IM767e_postmeta
+			WHERE post_id = 269
+			ORDER BY meta_id
+  103 |   0.0014 |            enabled             | not cached |          3676 | SELECT  t.*, tt.* FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id INNER JOIN IM767e_term_relationships AS tr ON tr.term_taxonomy_id = tt.term_taxonomy_id WHERE tt.taxonomy IN ('product_visibility') AND tr.object_id IN (249) ORDER BY t.name ASC
+  104 |   0.0011 |            enabled             | not cached |          4154 | SELECT  DISTINCT t.*, tt.*, tm.meta_value FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id INNER JOIN IM767e_term_relationships AS tr ON tr.term_taxonomy_id = tt.term_taxonomy_id LEFT JOIN IM767e_termmeta AS tm ON (t.term_id = tm.term_id AND tm.meta_key = 'order')  WHERE tt.taxonomy IN ('product_cat') AND tr.object_id IN (249) ORDER BY tm.meta_value+0 ASC, t.name ASC
+  105 |   0.0009 |            enabled             | not cached |          3669 | SELECT  t.*, tt.* FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id INNER JOIN IM767e_term_relationships AS tr ON tr.term_taxonomy_id = tt.term_taxonomy_id WHERE tt.taxonomy IN ('product_tag') AND tr.object_id IN (249) ORDER BY t.name ASC
+  106 |   0.0008 |            enabled             | not cached |          3680 | SELECT  t.*, tt.* FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id INNER JOIN IM767e_term_relationships AS tr ON tr.term_taxonomy_id = tt.term_taxonomy_id WHERE tt.taxonomy IN ('product_shipping_class') AND tr.object_id IN (249) ORDER BY t.name ASC
+  107 |   0.0004 |            enabled             | not cached |           673 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_timeout_wc_product_children_249' LIMIT 1
+  108 |   0.0003 |            enabled             | not cached |          1077 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_wc_product_children_249' LIMIT 1
+  109 |   0.0019 |            enabled             | not cached |          1633 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_mattress-size' AND post_id IN (250,251,252,253,254,255,256,257,258,259,260,261,262,263,264,265,266,267)
+  110 |   0.0011 |            enabled             | not cached |          1814 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_comfort-level' AND post_id IN (250,251,252,253,254,255,256,257,258,259,260,261,262,263,264,265,266,267)
+  111 |   0.0017 |            enabled             | not cached |          1661 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_need-a-base' AND post_id IN (250,251,252,253,254,255,256,257,258,259,260,261,262,263,264,265,266,267)
+  112 |   0.0003 |            enabled             | not cached |          8875 | SELECT * FROM IM767e_posts WHERE ID = 268 LIMIT 1
+  113 |   0.0004 |            enabled             | not cached |          2939 | SELECT post_id, meta_key, meta_value FROM IM767e_postmeta WHERE post_id IN (268) ORDER BY meta_id ASC
+  114 |   0.0003 |            enabled             | not cached |           667 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_timeout_wc_var_prices_249' LIMIT 1
+  115 |   0.0003 |            enabled             | not cached |          2444 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_wc_var_prices_249' LIMIT 1
+  116 |   0.0002 |            enabled             |   cached   |          1633 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_mattress-size' AND post_id IN (250,251,252,253,254,255,256,257,258,259,260,261,262,263,264,265,266,267)
+  117 |   0.0001 |            enabled             |   cached   |          1814 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_comfort-level' AND post_id IN (250,251,252,253,254,255,256,257,258,259,260,261,262,263,264,265,266,267)
+  118 |   0.0001 |            enabled             |   cached   |          1661 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_need-a-base' AND post_id IN (250,251,252,253,254,255,256,257,258,259,260,261,262,263,264,265,266,267)
+  119 |   0.0013 |            enabled             | not cached |         15117 | SELECT meta_id as meta_id, meta_key, meta_value
+			FROM IM767e_postmeta
+			WHERE post_id = 249
+			ORDER BY meta_id
+  120 |   0.0005 |            enabled             | not cached |           673 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_timeout_wc_product_children_229' LIMIT 1
+  121 |   0.0005 |            enabled             | not cached |          1077 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_wc_product_children_229' LIMIT 1
+  122 |   0.0013 |            enabled             | not cached |          1633 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_mattress-size' AND post_id IN (230,231,232,233,234,235,236,237,238,239,240,241,242,243,244,245,246,247)
+  123 |    0.001 |            enabled             | not cached |          1814 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_comfort-level' AND post_id IN (230,231,232,233,234,235,236,237,238,239,240,241,242,243,244,245,246,247)
+  124 |   0.0014 |            enabled             | not cached |          1661 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_need-a-base' AND post_id IN (230,231,232,233,234,235,236,237,238,239,240,241,242,243,244,245,246,247)
+  125 |   0.0003 |            enabled             | not cached |          8869 | SELECT * FROM IM767e_posts WHERE ID = 248 LIMIT 1
+  126 |   0.0004 |            enabled             | not cached |          2921 | SELECT post_id, meta_key, meta_value FROM IM767e_postmeta WHERE post_id IN (248) ORDER BY meta_id ASC
+  127 |   0.0003 |            enabled             | not cached |           667 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_timeout_wc_var_prices_229' LIMIT 1
+  128 |   0.0003 |            enabled             | not cached |          2444 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_wc_var_prices_229' LIMIT 1
+  129 |   0.0001 |            enabled             |   cached   |          1633 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_mattress-size' AND post_id IN (230,231,232,233,234,235,236,237,238,239,240,241,242,243,244,245,246,247)
+  130 |   0.0001 |            enabled             |   cached   |          1814 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_comfort-level' AND post_id IN (230,231,232,233,234,235,236,237,238,239,240,241,242,243,244,245,246,247)
+  131 |   0.0001 |            enabled             |   cached   |          1661 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_need-a-base' AND post_id IN (230,231,232,233,234,235,236,237,238,239,240,241,242,243,244,245,246,247)
+  132 |   0.0011 |            enabled             | not cached |         15108 | SELECT meta_id as meta_id, meta_key, meta_value
+			FROM IM767e_postmeta
+			WHERE post_id = 229
+			ORDER BY meta_id
+  133 |   0.0004 |            enabled             | not cached |           673 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_timeout_wc_product_children_209' LIMIT 1
+  134 |   0.0003 |            enabled             | not cached |          1077 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_wc_product_children_209' LIMIT 1
+  135 |   0.0013 |            enabled             | not cached |          1633 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_mattress-size' AND post_id IN (210,211,212,213,214,215,216,217,218,219,220,221,222,223,224,225,226,227)
+  136 |    0.001 |            enabled             | not cached |          1814 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_comfort-level' AND post_id IN (210,211,212,213,214,215,216,217,218,219,220,221,222,223,224,225,226,227)
+  137 |   0.0014 |            enabled             | not cached |          1661 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_need-a-base' AND post_id IN (210,211,212,213,214,215,216,217,218,219,220,221,222,223,224,225,226,227)
+  138 |   0.0003 |            enabled             | not cached |          8850 | SELECT * FROM IM767e_posts WHERE ID = 228 LIMIT 1
+  139 |   0.0004 |            enabled             | not cached |          2876 | SELECT post_id, meta_key, meta_value FROM IM767e_postmeta WHERE post_id IN (228) ORDER BY meta_id ASC
+  140 |   0.0003 |            enabled             | not cached |           667 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_timeout_wc_var_prices_209' LIMIT 1
+  141 |   0.0003 |            enabled             | not cached |          2444 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_wc_var_prices_209' LIMIT 1
+  142 |   0.0002 |            enabled             |   cached   |          1633 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_mattress-size' AND post_id IN (210,211,212,213,214,215,216,217,218,219,220,221,222,223,224,225,226,227)
+  143 |   0.0001 |            enabled             |   cached   |          1814 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_comfort-level' AND post_id IN (210,211,212,213,214,215,216,217,218,219,220,221,222,223,224,225,226,227)
+  144 |   0.0002 |            enabled             |   cached   |          1661 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_need-a-base' AND post_id IN (210,211,212,213,214,215,216,217,218,219,220,221,222,223,224,225,226,227)
+  145 |    0.001 |            enabled             | not cached |         15108 | SELECT meta_id as meta_id, meta_key, meta_value
+			FROM IM767e_postmeta
+			WHERE post_id = 209
+			ORDER BY meta_id
+  146 |   0.0011 |            enabled             | not cached |         11516 | SELECT post_id, meta_key, meta_value FROM IM767e_postmeta WHERE post_id IN (313) ORDER BY meta_id ASC
+  147 |   0.0005 | disabled (query not cacheable) | not cached |             0 | SELECT SQL_CALC_FOUND_ROWS  IM767e_posts.ID FROM IM767e_posts  WHERE 1=1  AND IM767e_posts.post_type = 'product' AND ((IM767e_posts.post_status = 'publish'))   LIMIT 0, 8
+  148 |   0.0002 | disabled (query not cacheable) | not cached |             0 | SELECT FOUND_ROWS()
+  149 |   0.0052 |            enabled             | not cached |         10583 | SELECT IM767e_posts.* FROM IM767e_posts WHERE ID IN (59,169,189)
+  150 |   0.0022 |            enabled             | not cached |         12996 | SELECT  DISTINCT t.*, tt.*, tr.object_id, tm.meta_value FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id INNER JOIN IM767e_term_relationships AS tr ON tr.term_taxonomy_id = tt.term_taxonomy_id LEFT JOIN IM767e_termmeta AS tm ON (t.term_id = tm.term_id AND tm.meta_key = 'order')  WHERE tt.taxonomy IN ('product_type', 'product_visibility', 'product_cat', 'product_tag', 'product_shipping_class', 'pa_comfort-level', 'pa_mattress-size', 'pa_need-a-base', 'pa_protectors') AND tr.object_id IN (59, 169, 189) ORDER BY tm.meta_value+0 ASC, t.name ASC
+  151 |   0.0089 |            enabled             | not cached |         42495 | SELECT post_id, meta_key, meta_value FROM IM767e_postmeta WHERE post_id IN (59,169,189) ORDER BY meta_id ASC
+  152 |   0.0008 |            enabled             | not cached |           672 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_timeout_wc_product_children_59' LIMIT 1
+  153 |   0.0003 |            enabled             | not cached |          1040 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_wc_product_children_59' LIMIT 1
+  154 |   0.0013 |            enabled             | not cached |          1615 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_mattress-size' AND post_id IN (66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83)
+  155 |   0.0011 |            enabled             | not cached |          1796 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_comfort-level' AND post_id IN (66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83)
+  156 |   0.0014 |            enabled             | not cached |          1643 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_need-a-base' AND post_id IN (66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83)
+  157 |   0.0008 |            enabled             | not cached |          3675 | SELECT  t.*, tt.* FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id INNER JOIN IM767e_term_relationships AS tr ON tr.term_taxonomy_id = tt.term_taxonomy_id WHERE tt.taxonomy IN ('product_visibility') AND tr.object_id IN (59) ORDER BY t.name ASC
+  158 |   0.0003 |            enabled             | not cached |          8843 | SELECT * FROM IM767e_posts WHERE ID = 127 LIMIT 1
+  159 |   0.0006 |            enabled             | not cached |          2858 | SELECT post_id, meta_key, meta_value FROM IM767e_postmeta WHERE post_id IN (127) ORDER BY meta_id ASC
+  160 |   0.0003 |            enabled             | not cached |           666 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_timeout_wc_var_prices_59' LIMIT 1
+  161 |   0.0003 |            enabled             | not cached |          2335 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_wc_var_prices_59' LIMIT 1
+  162 |   0.0002 |            enabled             |   cached   |          1615 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_mattress-size' AND post_id IN (66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83)
+  163 |   0.0001 |            enabled             |   cached   |          1796 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_comfort-level' AND post_id IN (66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83)
+  164 |   0.0001 |            enabled             |   cached   |          1643 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_need-a-base' AND post_id IN (66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83)
+  165 |    0.001 |            enabled             | not cached |         15001 | SELECT meta_id as meta_id, meta_key, meta_value
+			FROM IM767e_postmeta
+			WHERE post_id = 59
+			ORDER BY meta_id
+  166 |   0.0002 |            enabled             |   cached   |          1615 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_mattress-size' AND post_id IN (66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83)
+  167 |   0.0001 |            enabled             |   cached   |          1796 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_comfort-level' AND post_id IN (66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83)
+  168 |   0.0001 |            enabled             |   cached   |          1643 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_need-a-base' AND post_id IN (66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83)
+  169 |   0.0002 |            enabled             |   cached   |          1615 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_mattress-size' AND post_id IN (66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83)
+  170 |   0.0001 |            enabled             |   cached   |          1796 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_comfort-level' AND post_id IN (66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83)
+  171 |   0.0001 |            enabled             |   cached   |          1643 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_need-a-base' AND post_id IN (66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83)
+  172 |   0.0002 |            enabled             |   cached   |          1615 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_mattress-size' AND post_id IN (66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83)
+  173 |   0.0001 |            enabled             |   cached   |          1796 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_comfort-level' AND post_id IN (66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83)
+  174 |   0.0002 |            enabled             |   cached   |          1643 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_need-a-base' AND post_id IN (66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83)
+  175 |   0.0004 |            enabled             | not cached |           673 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_timeout_wc_product_children_169' LIMIT 1
+  176 |   0.0002 |            enabled             | not cached |          1077 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_wc_product_children_169' LIMIT 1
+  177 |   0.0012 |            enabled             | not cached |          1633 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_mattress-size' AND post_id IN (170,171,172,173,174,175,176,177,178,179,180,181,182,183,184,185,186,187)
+  178 |   0.0009 |            enabled             | not cached |          1814 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_comfort-level' AND post_id IN (170,171,172,173,174,175,176,177,178,179,180,181,182,183,184,185,186,187)
+  179 |   0.0014 |            enabled             | not cached |          1661 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_need-a-base' AND post_id IN (170,171,172,173,174,175,176,177,178,179,180,181,182,183,184,185,186,187)
+  180 |   0.0007 |            enabled             | not cached |          3676 | SELECT  t.*, tt.* FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id INNER JOIN IM767e_term_relationships AS tr ON tr.term_taxonomy_id = tt.term_taxonomy_id WHERE tt.taxonomy IN ('product_visibility') AND tr.object_id IN (169) ORDER BY t.name ASC
+  181 |   0.0003 |            enabled             | not cached |          8866 | SELECT * FROM IM767e_posts WHERE ID = 188 LIMIT 1
+  182 |   0.0004 |            enabled             | not cached |          2912 | SELECT post_id, meta_key, meta_value FROM IM767e_postmeta WHERE post_id IN (188) ORDER BY meta_id ASC
+  183 |   0.0003 |            enabled             | not cached |           667 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_timeout_wc_var_prices_169' LIMIT 1
+  184 |   0.0003 |            enabled             | not cached |          2444 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_wc_var_prices_169' LIMIT 1
+  185 |   0.0001 |            enabled             |   cached   |          1633 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_mattress-size' AND post_id IN (170,171,172,173,174,175,176,177,178,179,180,181,182,183,184,185,186,187)
+  186 |   0.0001 |            enabled             |   cached   |          1814 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_comfort-level' AND post_id IN (170,171,172,173,174,175,176,177,178,179,180,181,182,183,184,185,186,187)
+  187 |   0.0001 |            enabled             |   cached   |          1661 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_need-a-base' AND post_id IN (170,171,172,173,174,175,176,177,178,179,180,181,182,183,184,185,186,187)
+  188 |   0.0011 |            enabled             | not cached |         15108 | SELECT meta_id as meta_id, meta_key, meta_value
+			FROM IM767e_postmeta
+			WHERE post_id = 169
+			ORDER BY meta_id
+  189 |   0.0002 |            enabled             |   cached   |          1633 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_mattress-size' AND post_id IN (170,171,172,173,174,175,176,177,178,179,180,181,182,183,184,185,186,187)
+  190 |   0.0001 |            enabled             |   cached   |          1814 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_comfort-level' AND post_id IN (170,171,172,173,174,175,176,177,178,179,180,181,182,183,184,185,186,187)
+  191 |   0.0001 |            enabled             |   cached   |          1661 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_need-a-base' AND post_id IN (170,171,172,173,174,175,176,177,178,179,180,181,182,183,184,185,186,187)
+  192 |   0.0001 |            enabled             |   cached   |          1633 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_mattress-size' AND post_id IN (170,171,172,173,174,175,176,177,178,179,180,181,182,183,184,185,186,187)
+  193 |   0.0001 |            enabled             |   cached   |          1814 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_comfort-level' AND post_id IN (170,171,172,173,174,175,176,177,178,179,180,181,182,183,184,185,186,187)
+  194 |   0.0001 |            enabled             |   cached   |          1661 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_need-a-base' AND post_id IN (170,171,172,173,174,175,176,177,178,179,180,181,182,183,184,185,186,187)
+  195 |   0.0001 |            enabled             |   cached   |          1633 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_mattress-size' AND post_id IN (170,171,172,173,174,175,176,177,178,179,180,181,182,183,184,185,186,187)
+  196 |   0.0001 |            enabled             |   cached   |          1814 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_comfort-level' AND post_id IN (170,171,172,173,174,175,176,177,178,179,180,181,182,183,184,185,186,187)
+  197 |   0.0001 |            enabled             |   cached   |          1661 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_need-a-base' AND post_id IN (170,171,172,173,174,175,176,177,178,179,180,181,182,183,184,185,186,187)
+  198 |   0.0004 |            enabled             | not cached |           673 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_timeout_wc_product_children_189' LIMIT 1
+  199 |   0.0003 |            enabled             | not cached |          1077 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_wc_product_children_189' LIMIT 1
+  200 |   0.0014 |            enabled             | not cached |          1633 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_mattress-size' AND post_id IN (190,191,192,193,194,195,196,197,198,199,200,201,202,203,204,205,206,207)
+  201 |   0.0013 |            enabled             | not cached |          1814 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_comfort-level' AND post_id IN (190,191,192,193,194,195,196,197,198,199,200,201,202,203,204,205,206,207)
+  202 |   0.0013 |            enabled             | not cached |          1661 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_need-a-base' AND post_id IN (190,191,192,193,194,195,196,197,198,199,200,201,202,203,204,205,206,207)
+  203 |    0.001 |            enabled             | not cached |          3676 | SELECT  t.*, tt.* FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id INNER JOIN IM767e_term_relationships AS tr ON tr.term_taxonomy_id = tt.term_taxonomy_id WHERE tt.taxonomy IN ('product_visibility') AND tr.object_id IN (189) ORDER BY t.name ASC
+  204 |   0.0003 |            enabled             | not cached |          8838 | SELECT * FROM IM767e_posts WHERE ID = 208 LIMIT 1
+  205 |   0.0004 |            enabled             | not cached |          2840 | SELECT post_id, meta_key, meta_value FROM IM767e_postmeta WHERE post_id IN (208) ORDER BY meta_id ASC
+  206 |   0.0003 |            enabled             | not cached |           667 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_timeout_wc_var_prices_189' LIMIT 1
+  207 |   0.0003 |            enabled             | not cached |          2444 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_wc_var_prices_189' LIMIT 1
+  208 |   0.0002 |            enabled             |   cached   |          1633 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_mattress-size' AND post_id IN (190,191,192,193,194,195,196,197,198,199,200,201,202,203,204,205,206,207)
+  209 |   0.0001 |            enabled             |   cached   |          1814 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_comfort-level' AND post_id IN (190,191,192,193,194,195,196,197,198,199,200,201,202,203,204,205,206,207)
+  210 |   0.0001 |            enabled             |   cached   |          1661 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_need-a-base' AND post_id IN (190,191,192,193,194,195,196,197,198,199,200,201,202,203,204,205,206,207)
+  211 |   0.0011 |            enabled             | not cached |         15108 | SELECT meta_id as meta_id, meta_key, meta_value
+			FROM IM767e_postmeta
+			WHERE post_id = 189
+			ORDER BY meta_id
+  212 |   0.0001 |            enabled             |   cached   |          1633 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_mattress-size' AND post_id IN (190,191,192,193,194,195,196,197,198,199,200,201,202,203,204,205,206,207)
+  213 |   0.0001 |            enabled             |   cached   |          1814 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_comfort-level' AND post_id IN (190,191,192,193,194,195,196,197,198,199,200,201,202,203,204,205,206,207)
+  214 |   0.0001 |            enabled             |   cached   |          1661 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_need-a-base' AND post_id IN (190,191,192,193,194,195,196,197,198,199,200,201,202,203,204,205,206,207)
+  215 |   0.0001 |            enabled             |   cached   |          1633 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_mattress-size' AND post_id IN (190,191,192,193,194,195,196,197,198,199,200,201,202,203,204,205,206,207)
+  216 |   0.0001 |            enabled             |   cached   |          1814 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_comfort-level' AND post_id IN (190,191,192,193,194,195,196,197,198,199,200,201,202,203,204,205,206,207)
+  217 |   0.0001 |            enabled             |   cached   |          1661 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_need-a-base' AND post_id IN (190,191,192,193,194,195,196,197,198,199,200,201,202,203,204,205,206,207)
+  218 |   0.0002 |            enabled             |   cached   |          1633 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_mattress-size' AND post_id IN (190,191,192,193,194,195,196,197,198,199,200,201,202,203,204,205,206,207)
+  219 |   0.0001 |            enabled             |   cached   |          1814 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_comfort-level' AND post_id IN (190,191,192,193,194,195,196,197,198,199,200,201,202,203,204,205,206,207)
+  220 |   0.0001 |            enabled             |   cached   |          1661 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_need-a-base' AND post_id IN (190,191,192,193,194,195,196,197,198,199,200,201,202,203,204,205,206,207)
+  221 |   0.0001 |            enabled             |   cached   |          1633 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_mattress-size' AND post_id IN (210,211,212,213,214,215,216,217,218,219,220,221,222,223,224,225,226,227)
+  222 |   0.0001 |            enabled             |   cached   |          1814 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_comfort-level' AND post_id IN (210,211,212,213,214,215,216,217,218,219,220,221,222,223,224,225,226,227)
+  223 |   0.0001 |            enabled             |   cached   |          1661 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_need-a-base' AND post_id IN (210,211,212,213,214,215,216,217,218,219,220,221,222,223,224,225,226,227)
+  224 |   0.0014 |            enabled             | not cached |          3676 | SELECT  t.*, tt.* FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id INNER JOIN IM767e_term_relationships AS tr ON tr.term_taxonomy_id = tt.term_taxonomy_id WHERE tt.taxonomy IN ('product_visibility') AND tr.object_id IN (209) ORDER BY t.name ASC
+  225 |   0.0001 |            enabled             |   cached   |          1633 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_mattress-size' AND post_id IN (210,211,212,213,214,215,216,217,218,219,220,221,222,223,224,225,226,227)
+  226 |   0.0001 |            enabled             |   cached   |          1814 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_comfort-level' AND post_id IN (210,211,212,213,214,215,216,217,218,219,220,221,222,223,224,225,226,227)
+  227 |   0.0001 |            enabled             |   cached   |          1661 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_need-a-base' AND post_id IN (210,211,212,213,214,215,216,217,218,219,220,221,222,223,224,225,226,227)
+  228 |   0.0001 |            enabled             |   cached   |          1633 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_mattress-size' AND post_id IN (210,211,212,213,214,215,216,217,218,219,220,221,222,223,224,225,226,227)
+  229 |   0.0001 |            enabled             |   cached   |          1814 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_comfort-level' AND post_id IN (210,211,212,213,214,215,216,217,218,219,220,221,222,223,224,225,226,227)
+  230 |   0.0001 |            enabled             |   cached   |          1661 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_need-a-base' AND post_id IN (210,211,212,213,214,215,216,217,218,219,220,221,222,223,224,225,226,227)
+  231 |   0.0001 |            enabled             |   cached   |          1633 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_mattress-size' AND post_id IN (210,211,212,213,214,215,216,217,218,219,220,221,222,223,224,225,226,227)
+  232 |   0.0001 |            enabled             |   cached   |          1814 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_comfort-level' AND post_id IN (210,211,212,213,214,215,216,217,218,219,220,221,222,223,224,225,226,227)
+  233 |   0.0001 |            enabled             |   cached   |          1661 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_need-a-base' AND post_id IN (210,211,212,213,214,215,216,217,218,219,220,221,222,223,224,225,226,227)
+  234 |   0.0001 |            enabled             |   cached   |          1633 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_mattress-size' AND post_id IN (210,211,212,213,214,215,216,217,218,219,220,221,222,223,224,225,226,227)
+  235 |   0.0001 |            enabled             |   cached   |          1814 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_comfort-level' AND post_id IN (210,211,212,213,214,215,216,217,218,219,220,221,222,223,224,225,226,227)
+  236 |   0.0001 |            enabled             |   cached   |          1661 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_need-a-base' AND post_id IN (210,211,212,213,214,215,216,217,218,219,220,221,222,223,224,225,226,227)
+  237 |   0.0001 |            enabled             |   cached   |          1633 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_mattress-size' AND post_id IN (230,231,232,233,234,235,236,237,238,239,240,241,242,243,244,245,246,247)
+  238 |   0.0001 |            enabled             |   cached   |          1814 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_comfort-level' AND post_id IN (230,231,232,233,234,235,236,237,238,239,240,241,242,243,244,245,246,247)
+  239 |   0.0001 |            enabled             |   cached   |          1661 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_need-a-base' AND post_id IN (230,231,232,233,234,235,236,237,238,239,240,241,242,243,244,245,246,247)
+  240 |   0.0011 |            enabled             | not cached |          3676 | SELECT  t.*, tt.* FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id INNER JOIN IM767e_term_relationships AS tr ON tr.term_taxonomy_id = tt.term_taxonomy_id WHERE tt.taxonomy IN ('product_visibility') AND tr.object_id IN (229) ORDER BY t.name ASC
+  241 |   0.0002 |            enabled             |   cached   |          1633 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_mattress-size' AND post_id IN (230,231,232,233,234,235,236,237,238,239,240,241,242,243,244,245,246,247)
+  242 |   0.0001 |            enabled             |   cached   |          1814 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_comfort-level' AND post_id IN (230,231,232,233,234,235,236,237,238,239,240,241,242,243,244,245,246,247)
+  243 |   0.0001 |            enabled             |   cached   |          1661 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_need-a-base' AND post_id IN (230,231,232,233,234,235,236,237,238,239,240,241,242,243,244,245,246,247)
+  244 |   0.0001 |            enabled             |   cached   |          1633 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_mattress-size' AND post_id IN (230,231,232,233,234,235,236,237,238,239,240,241,242,243,244,245,246,247)
+  245 |   0.0001 |            enabled             |   cached   |          1814 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_comfort-level' AND post_id IN (230,231,232,233,234,235,236,237,238,239,240,241,242,243,244,245,246,247)
+  246 |   0.0001 |            enabled             |   cached   |          1661 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_need-a-base' AND post_id IN (230,231,232,233,234,235,236,237,238,239,240,241,242,243,244,245,246,247)
+  247 |   0.0001 |            enabled             |   cached   |          1633 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_mattress-size' AND post_id IN (230,231,232,233,234,235,236,237,238,239,240,241,242,243,244,245,246,247)
+  248 |   0.0001 |            enabled             |   cached   |          1814 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_comfort-level' AND post_id IN (230,231,232,233,234,235,236,237,238,239,240,241,242,243,244,245,246,247)
+  249 |   0.0001 |            enabled             |   cached   |          1661 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_need-a-base' AND post_id IN (230,231,232,233,234,235,236,237,238,239,240,241,242,243,244,245,246,247)
+  250 |   0.0001 |            enabled             |   cached   |          1633 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_mattress-size' AND post_id IN (230,231,232,233,234,235,236,237,238,239,240,241,242,243,244,245,246,247)
+  251 |   0.0001 |            enabled             |   cached   |          1814 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_comfort-level' AND post_id IN (230,231,232,233,234,235,236,237,238,239,240,241,242,243,244,245,246,247)
+  252 |   0.0001 |            enabled             |   cached   |          1661 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_need-a-base' AND post_id IN (230,231,232,233,234,235,236,237,238,239,240,241,242,243,244,245,246,247)
+  253 |   0.0001 |            enabled             |   cached   |          1633 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_mattress-size' AND post_id IN (250,251,252,253,254,255,256,257,258,259,260,261,262,263,264,265,266,267)
+  254 |   0.0001 |            enabled             |   cached   |          1814 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_comfort-level' AND post_id IN (250,251,252,253,254,255,256,257,258,259,260,261,262,263,264,265,266,267)
+  255 |   0.0001 |            enabled             |   cached   |          1661 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_need-a-base' AND post_id IN (250,251,252,253,254,255,256,257,258,259,260,261,262,263,264,265,266,267)
+  256 |   0.0002 |            enabled             |   cached   |          1633 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_mattress-size' AND post_id IN (250,251,252,253,254,255,256,257,258,259,260,261,262,263,264,265,266,267)
+  257 |   0.0001 |            enabled             |   cached   |          1814 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_comfort-level' AND post_id IN (250,251,252,253,254,255,256,257,258,259,260,261,262,263,264,265,266,267)
+  258 |   0.0001 |            enabled             |   cached   |          1661 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_need-a-base' AND post_id IN (250,251,252,253,254,255,256,257,258,259,260,261,262,263,264,265,266,267)
+  259 |   0.0002 |            enabled             |   cached   |          1633 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_mattress-size' AND post_id IN (250,251,252,253,254,255,256,257,258,259,260,261,262,263,264,265,266,267)
+  260 |   0.0001 |            enabled             |   cached   |          1814 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_comfort-level' AND post_id IN (250,251,252,253,254,255,256,257,258,259,260,261,262,263,264,265,266,267)
+  261 |   0.0001 |            enabled             |   cached   |          1661 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_need-a-base' AND post_id IN (250,251,252,253,254,255,256,257,258,259,260,261,262,263,264,265,266,267)
+  262 |   0.0001 |            enabled             |   cached   |          1633 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_mattress-size' AND post_id IN (250,251,252,253,254,255,256,257,258,259,260,261,262,263,264,265,266,267)
+  263 |   0.0001 |            enabled             |   cached   |          1814 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_comfort-level' AND post_id IN (250,251,252,253,254,255,256,257,258,259,260,261,262,263,264,265,266,267)
+  264 |   0.0001 |            enabled             |   cached   |          1661 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_need-a-base' AND post_id IN (250,251,252,253,254,255,256,257,258,259,260,261,262,263,264,265,266,267)
+  265 |   0.0002 |            enabled             |   cached   |          1633 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_mattress-size' AND post_id IN (250,251,252,253,254,255,256,257,258,259,260,261,262,263,264,265,266,267)
+  266 |   0.0001 |            enabled             |   cached   |          1814 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_comfort-level' AND post_id IN (250,251,252,253,254,255,256,257,258,259,260,261,262,263,264,265,266,267)
+  267 |   0.0001 |            enabled             |   cached   |          1661 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_need-a-base' AND post_id IN (250,251,252,253,254,255,256,257,258,259,260,261,262,263,264,265,266,267)
+  268 |   0.0002 |            enabled             |   cached   |          1633 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_mattress-size' AND post_id IN (270,271,272,273,274,275,276,277,278,279,280,281,282,283,284,285,286,287)
+  269 |   0.0001 |            enabled             |   cached   |          1814 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_comfort-level' AND post_id IN (270,271,272,273,274,275,276,277,278,279,280,281,282,283,284,285,286,287)
+  270 |   0.0001 |            enabled             |   cached   |          1661 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_need-a-base' AND post_id IN (270,271,272,273,274,275,276,277,278,279,280,281,282,283,284,285,286,287)
+  271 |   0.0017 |            enabled             | not cached |          3676 | SELECT  t.*, tt.* FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id INNER JOIN IM767e_term_relationships AS tr ON tr.term_taxonomy_id = tt.term_taxonomy_id WHERE tt.taxonomy IN ('product_visibility') AND tr.object_id IN (269) ORDER BY t.name ASC
+  272 |   0.0001 |            enabled             |   cached   |          1633 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_mattress-size' AND post_id IN (270,271,272,273,274,275,276,277,278,279,280,281,282,283,284,285,286,287)
+  273 |   0.0001 |            enabled             |   cached   |          1814 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_comfort-level' AND post_id IN (270,271,272,273,274,275,276,277,278,279,280,281,282,283,284,285,286,287)
+  274 |   0.0001 |            enabled             |   cached   |          1661 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_need-a-base' AND post_id IN (270,271,272,273,274,275,276,277,278,279,280,281,282,283,284,285,286,287)
+  275 |   0.0002 |            enabled             |   cached   |          1633 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_mattress-size' AND post_id IN (270,271,272,273,274,275,276,277,278,279,280,281,282,283,284,285,286,287)
+  276 |   0.0001 |            enabled             |   cached   |          1814 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_comfort-level' AND post_id IN (270,271,272,273,274,275,276,277,278,279,280,281,282,283,284,285,286,287)
+  277 |   0.0001 |            enabled             |   cached   |          1661 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_need-a-base' AND post_id IN (270,271,272,273,274,275,276,277,278,279,280,281,282,283,284,285,286,287)
+  278 |   0.0001 |            enabled             |   cached   |          1633 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_mattress-size' AND post_id IN (270,271,272,273,274,275,276,277,278,279,280,281,282,283,284,285,286,287)
+  279 |   0.0001 |            enabled             |   cached   |          1814 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_comfort-level' AND post_id IN (270,271,272,273,274,275,276,277,278,279,280,281,282,283,284,285,286,287)
+  280 |   0.0001 |            enabled             |   cached   |          1661 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_need-a-base' AND post_id IN (270,271,272,273,274,275,276,277,278,279,280,281,282,283,284,285,286,287)
+  281 |   0.0001 |            enabled             |   cached   |          1633 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_mattress-size' AND post_id IN (270,271,272,273,274,275,276,277,278,279,280,281,282,283,284,285,286,287)
+  282 |   0.0001 |            enabled             |   cached   |          1814 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_comfort-level' AND post_id IN (270,271,272,273,274,275,276,277,278,279,280,281,282,283,284,285,286,287)
+  283 |   0.0001 |            enabled             |   cached   |          1661 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_need-a-base' AND post_id IN (270,271,272,273,274,275,276,277,278,279,280,281,282,283,284,285,286,287)
+  284 |   0.0001 |            enabled             |   cached   |          1633 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_mattress-size' AND post_id IN (289,290,291,292,293,294,295,296,297,298,299,300,301,302,303,304,305,306)
+  285 |   0.0001 |            enabled             |   cached   |          1814 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_comfort-level' AND post_id IN (289,290,291,292,293,294,295,296,297,298,299,300,301,302,303,304,305,306)
+  286 |   0.0001 |            enabled             |   cached   |          1661 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_need-a-base' AND post_id IN (289,290,291,292,293,294,295,296,297,298,299,300,301,302,303,304,305,306)
+  287 |   0.0013 |            enabled             | not cached |          3676 | SELECT  t.*, tt.* FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id INNER JOIN IM767e_term_relationships AS tr ON tr.term_taxonomy_id = tt.term_taxonomy_id WHERE tt.taxonomy IN ('product_visibility') AND tr.object_id IN (288) ORDER BY t.name ASC
+  288 |   0.0002 |            enabled             |   cached   |          1633 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_mattress-size' AND post_id IN (289,290,291,292,293,294,295,296,297,298,299,300,301,302,303,304,305,306)
+  289 |   0.0001 |            enabled             |   cached   |          1814 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_comfort-level' AND post_id IN (289,290,291,292,293,294,295,296,297,298,299,300,301,302,303,304,305,306)
+  290 |   0.0001 |            enabled             |   cached   |          1661 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_need-a-base' AND post_id IN (289,290,291,292,293,294,295,296,297,298,299,300,301,302,303,304,305,306)
+  291 |   0.0002 |            enabled             |   cached   |          1633 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_mattress-size' AND post_id IN (289,290,291,292,293,294,295,296,297,298,299,300,301,302,303,304,305,306)
+  292 |   0.0001 |            enabled             |   cached   |          1814 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_comfort-level' AND post_id IN (289,290,291,292,293,294,295,296,297,298,299,300,301,302,303,304,305,306)
+  293 |   0.0001 |            enabled             |   cached   |          1661 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_need-a-base' AND post_id IN (289,290,291,292,293,294,295,296,297,298,299,300,301,302,303,304,305,306)
+  294 |   0.0002 |            enabled             |   cached   |          1633 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_mattress-size' AND post_id IN (289,290,291,292,293,294,295,296,297,298,299,300,301,302,303,304,305,306)
+  295 |   0.0001 |            enabled             |   cached   |          1814 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_comfort-level' AND post_id IN (289,290,291,292,293,294,295,296,297,298,299,300,301,302,303,304,305,306)
+  296 |   0.0001 |            enabled             |   cached   |          1661 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_need-a-base' AND post_id IN (289,290,291,292,293,294,295,296,297,298,299,300,301,302,303,304,305,306)
+  297 |   0.0001 |            enabled             |   cached   |          1633 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_mattress-size' AND post_id IN (289,290,291,292,293,294,295,296,297,298,299,300,301,302,303,304,305,306)
+  298 |   0.0001 |            enabled             |   cached   |          1814 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_comfort-level' AND post_id IN (289,290,291,292,293,294,295,296,297,298,299,300,301,302,303,304,305,306)
+  299 |   0.0001 |            enabled             |   cached   |          1661 | SELECT meta_value FROM IM767e_postmeta WHERE meta_key = 'attribute_pa_need-a-base' AND post_id IN (289,290,291,292,293,294,295,296,297,298,299,300,301,302,303,304,305,306)
+  300 |   0.0002 |            enabled             |   cached   |          1046 | SELECT tr.object_id FROM IM767e_term_relationships AS tr INNER JOIN IM767e_term_taxonomy AS tt ON tr.term_taxonomy_id = tt.term_taxonomy_id WHERE tt.taxonomy IN ('nav_menu') AND tt.term_id IN ('16') ORDER BY tr.object_id ASC
+  301 |   0.0004 |            enabled             |   cached   |         13662 | SELECT   IM767e_posts.* FROM IM767e_posts  WHERE 1=1  AND IM767e_posts.ID IN (120,121,122,123,124,125,126) AND IM767e_posts.post_type = 'nav_menu_item' AND ((IM767e_posts.post_status = 'publish'))  ORDER BY IM767e_posts.menu_order ASC
+  302 |   0.0004 |            enabled             |   cached   |         32323 | SELECT   IM767e_posts.* FROM IM767e_posts  WHERE 1=1  AND IM767e_posts.ID IN (28,21,53,12,36,112) AND IM767e_posts.post_type = 'page' AND ((IM767e_posts.post_status = 'publish'))  ORDER BY IM767e_posts.post_date DESC
+  303 |   0.0007 |            enabled             | not cached |          4977 | SELECT option_value FROM IM767e_options WHERE option_name = 'w3tc_minify' LIMIT 1
+
+[Mon, 08 May 2017 12:59:47 +0000] [/wp-content/cache/minify/63c68.js] [1494248387.95]
+Db cache debug info:
+Engine:             disk
+Total queries:      1
+Cached queries:     1
+Total query time:   0.0002
+SQL info:
+    # | Time (s) |    Caching (Reject reason)     |   Status   | Data size (b) | Query
+    1 |   0.0002 |            enabled             |   cached   |          2389 | SELECT f.id, f.title, f.date_created, f.is_active, 0 as lead_count, 0 view_count
+                FROM IM767e_rg_form f
+                WHERE is_trash=0 AND is_active=1
+                ORDER BY title ASC
+
+[Mon, 08 May 2017 12:59:47 +0000] [/wp-content/cache/minify/d5cc3.js] [1494248387.99]
+Db cache debug info:
+Engine:             disk
+Total queries:      1
+Cached queries:     1
+Total query time:   0.0002
+SQL info:
+    # | Time (s) |    Caching (Reject reason)     |   Status   | Data size (b) | Query
+    1 |   0.0002 |            enabled             |   cached   |          2389 | SELECT f.id, f.title, f.date_created, f.is_active, 0 as lead_count, 0 view_count
+                FROM IM767e_rg_form f
+                WHERE is_trash=0 AND is_active=1
+                ORDER BY title ASC
+
+[Mon, 08 May 2017 12:59:48 +0000] [/wp-content/cache/minify/eff97.js] [1494248388.21]
+Db cache debug info:
+Engine:             disk
+Total queries:      1
+Cached queries:     1
+Total query time:   0.0002
+SQL info:
+    # | Time (s) |    Caching (Reject reason)     |   Status   | Data size (b) | Query
+    1 |   0.0002 |            enabled             |   cached   |          2389 | SELECT f.id, f.title, f.date_created, f.is_active, 0 as lead_count, 0 view_count
+                FROM IM767e_rg_form f
+                WHERE is_trash=0 AND is_active=1
+                ORDER BY title ASC
+
+[Mon, 08 May 2017 12:59:48 +0000] [/wp-content/cache/minify/c82e1.js] [1494248388.33]
+Db cache debug info:
+Engine:             disk
+Total queries:      1
+Cached queries:     1
+Total query time:   0.0002
+SQL info:
+    # | Time (s) |    Caching (Reject reason)     |   Status   | Data size (b) | Query
+    1 |   0.0002 |            enabled             |   cached   |          2389 | SELECT f.id, f.title, f.date_created, f.is_active, 0 as lead_count, 0 view_count
+                FROM IM767e_rg_form f
+                WHERE is_trash=0 AND is_active=1
+                ORDER BY title ASC
+
+[Mon, 08 May 2017 12:59:48 +0000] [/wp-content/cache/minify/01b8b.js] [1494248388.49]
+Db cache debug info:
+Engine:             disk
+Total queries:      1
+Cached queries:     1
+Total query time:   0.0002
+SQL info:
+    # | Time (s) |    Caching (Reject reason)     |   Status   | Data size (b) | Query
+    1 |   0.0002 |            enabled             |   cached   |          2389 | SELECT f.id, f.title, f.date_created, f.is_active, 0 as lead_count, 0 view_count
+                FROM IM767e_rg_form f
+                WHERE is_trash=0 AND is_active=1
+                ORDER BY title ASC
+
+[Mon, 08 May 2017 12:59:51 +0000] [/wp-content/cache/minify/96ab8.css] [1494248391.29]
+Db cache debug info:
+Engine:             disk
+Total queries:      1
+Cached queries:     1
+Total query time:   0.0002
+SQL info:
+    # | Time (s) |    Caching (Reject reason)     |   Status   | Data size (b) | Query
+    1 |   0.0002 |            enabled             |   cached   |          2389 | SELECT f.id, f.title, f.date_created, f.is_active, 0 as lead_count, 0 view_count
+                FROM IM767e_rg_form f
+                WHERE is_trash=0 AND is_active=1
+                ORDER BY title ASC
+
+[Mon, 08 May 2017 12:59:53 +0000] [/?wc-ajax=get_refreshed_fragments] [1494248393.21]
+Db cache debug info:
+Engine:             disk
+Total queries:      6
+Cached queries:     6
+Total query time:   0.0010
+SQL info:
+    # | Time (s) |    Caching (Reject reason)     |   Status   | Data size (b) | Query
+    1 |   0.0002 |            enabled             |   cached   |          2389 | SELECT f.id, f.title, f.date_created, f.is_active, 0 as lead_count, 0 view_count
+                FROM IM767e_rg_form f
+                WHERE is_trash=0 AND is_active=1
+                ORDER BY title ASC
+    2 |   0.0001 |            enabled             |   cached   |           924 | SELECT post_id FROM IM767e_postmeta WHERE meta_key='_gravity_form_data'
+    3 |   0.0001 |            enabled             |   cached   |          3566 | SELECT  t.*, tt.* FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id WHERE tt.taxonomy IN ('testimonial_categories') ORDER BY t.name ASC
+    4 |   0.0002 |            enabled             |   cached   |          3559 | SELECT  t.*, tt.* FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id WHERE tt.taxonomy IN ('team_categories') ORDER BY t.name ASC
+    5 |   0.0002 |            enabled             |   cached   |          4040 | SELECT  DISTINCT t.*, tt.*, tm.meta_value FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id LEFT JOIN IM767e_termmeta AS tm ON (t.term_id = tm.term_id AND tm.meta_key = 'order')  WHERE tt.taxonomy IN ('product_cat') ORDER BY tm.meta_value+0 ASC, t.name ASC
+    6 |   0.0003 |            enabled             |   cached   |         12716 | SELECT   IM767e_posts.* FROM IM767e_posts  WHERE 1=1  AND IM767e_posts.ID = 9 AND IM767e_posts.post_type = 'page'  ORDER BY IM767e_posts.post_date DESC
+
+[Mon, 08 May 2017 13:00:21 +0000] [/wp-admin/admin-ajax.php] [1494248421.25]
+Db cache debug info:
+Engine:             disk
+Total queries:      10
+Cached queries:     0
+Total query time:   0.0473
+SQL info:
+    # | Time (s) |    Caching (Reject reason)     |   Status   | Data size (b) | Query
+    1 |   0.0069 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT umeta_id as meta_id, meta_key, meta_value
+			FROM IM767e_usermeta
+			WHERE user_id = 1
+			ORDER BY umeta_id
+    2 |   0.0086 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT f.id, f.title, f.date_created, f.is_active, 0 as lead_count, 0 view_count
+                FROM IM767e_rg_form f
+                WHERE is_trash=0 AND is_active=1
+                ORDER BY title ASC
+    3 |   0.0081 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT umeta_id FROM IM767e_usermeta WHERE meta_key = 'aioseop_yst_detected_notice_dismissed' AND user_id = 1
+    4 |   0.0065 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT post_id FROM IM767e_postmeta WHERE meta_key='_gravity_form_data'
+    5 |   0.0079 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT  t.*, tt.* FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id WHERE tt.taxonomy IN ('testimonial_categories') ORDER BY t.name ASC
+    6 |   0.0006 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT  t.*, tt.* FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id WHERE tt.taxonomy IN ('team_categories') ORDER BY t.name ASC
+    7 |   0.0007 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT  DISTINCT t.*, tt.*, tm.meta_value FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id LEFT JOIN IM767e_termmeta AS tm ON (t.term_id = tm.term_id AND tm.meta_key = 'order')  WHERE tt.taxonomy IN ('product_cat') ORDER BY tm.meta_value+0 ASC, t.name ASC
+    8 |   0.0009 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT  t.*, tt.* FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id INNER JOIN IM767e_term_relationships AS tr ON tr.term_taxonomy_id = tt.term_taxonomy_id WHERE tt.taxonomy IN ('product_shipping_class') AND tr.object_id IN (255) ORDER BY t.name ASC
+    9 |   0.0068 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT display_meta, notifications FROM IM767e_rg_form_meta WHERE form_id=1
+   10 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT confirmations FROM IM767e_rg_form_meta WHERE form_id = 1
+
+[Mon, 08 May 2017 13:00:24 +0000] [/?wc-ajax=get_refreshed_fragments] [1494248424.82]
+Db cache debug info:
+Engine:             disk
+Total queries:      6
+Cached queries:     6
+Total query time:   0.0011
+SQL info:
+    # | Time (s) |    Caching (Reject reason)     |   Status   | Data size (b) | Query
+    1 |   0.0002 |            enabled             |   cached   |          2389 | SELECT f.id, f.title, f.date_created, f.is_active, 0 as lead_count, 0 view_count
+                FROM IM767e_rg_form f
+                WHERE is_trash=0 AND is_active=1
+                ORDER BY title ASC
+    2 |   0.0001 |            enabled             |   cached   |           924 | SELECT post_id FROM IM767e_postmeta WHERE meta_key='_gravity_form_data'
+    3 |   0.0001 |            enabled             |   cached   |          3566 | SELECT  t.*, tt.* FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id WHERE tt.taxonomy IN ('testimonial_categories') ORDER BY t.name ASC
+    4 |   0.0002 |            enabled             |   cached   |          3559 | SELECT  t.*, tt.* FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id WHERE tt.taxonomy IN ('team_categories') ORDER BY t.name ASC
+    5 |   0.0001 |            enabled             |   cached   |          4040 | SELECT  DISTINCT t.*, tt.*, tm.meta_value FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id LEFT JOIN IM767e_termmeta AS tm ON (t.term_id = tm.term_id AND tm.meta_key = 'order')  WHERE tt.taxonomy IN ('product_cat') ORDER BY tm.meta_value+0 ASC, t.name ASC
+    6 |   0.0003 |            enabled             |   cached   |         12716 | SELECT   IM767e_posts.* FROM IM767e_posts  WHERE 1=1  AND IM767e_posts.ID = 9 AND IM767e_posts.post_type = 'page'  ORDER BY IM767e_posts.post_date DESC
+
+[Mon, 08 May 2017 13:00:33 +0000] [/wp-admin/admin-ajax.php] [1494248433.37]
+Db cache debug info:
+Engine:             disk
+Total queries:      23
+Cached queries:     0
+Total query time:   0.0382
+SQL info:
+    # | Time (s) |    Caching (Reject reason)     |   Status   | Data size (b) | Query
+    1 |    0.001 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT umeta_id as meta_id, meta_key, meta_value
+			FROM IM767e_usermeta
+			WHERE user_id = 1
+			ORDER BY umeta_id
+    2 |   0.0006 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT f.id, f.title, f.date_created, f.is_active, 0 as lead_count, 0 view_count
+                FROM IM767e_rg_form f
+                WHERE is_trash=0 AND is_active=1
+                ORDER BY title ASC
+    3 |   0.0069 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT umeta_id FROM IM767e_usermeta WHERE meta_key = 'aioseop_yst_detected_notice_dismissed' AND user_id = 1
+    4 |   0.0006 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT post_id FROM IM767e_postmeta WHERE meta_key='_gravity_form_data'
+    5 |   0.0054 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT  t.*, tt.* FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id WHERE tt.taxonomy IN ('testimonial_categories') ORDER BY t.name ASC
+    6 |   0.0009 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT  t.*, tt.* FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id WHERE tt.taxonomy IN ('team_categories') ORDER BY t.name ASC
+    7 |   0.0006 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT  DISTINCT t.*, tt.*, tm.meta_value FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id LEFT JOIN IM767e_termmeta AS tm ON (t.term_id = tm.term_id AND tm.meta_key = 'order')  WHERE tt.taxonomy IN ('product_cat') ORDER BY tm.meta_value+0 ASC, t.name ASC
+    8 |   0.0055 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT  t.*, tt.* FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id INNER JOIN IM767e_term_relationships AS tr ON tr.term_taxonomy_id = tt.term_taxonomy_id WHERE tt.taxonomy IN ('product_shipping_class') AND tr.object_id IN (255) ORDER BY t.name ASC
+    9 |   0.0003 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT display_meta, notifications FROM IM767e_rg_form_meta WHERE form_id=1
+   10 |   0.0053 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT confirmations FROM IM767e_rg_form_meta WHERE form_id = 1
+   11 |   0.0009 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT post_id, meta_key, meta_value FROM IM767e_postmeta WHERE post_id IN (28) ORDER BY meta_id ASC
+   12 |   0.0007 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT post_id, meta_key, meta_value FROM IM767e_postmeta WHERE post_id IN (54) ORDER BY meta_id ASC
+   13 |   0.0028 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT * FROM IM767e_posts WHERE ID = 55 LIMIT 1
+   14 |   0.0005 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT post_id, meta_key, meta_value FROM IM767e_postmeta WHERE post_id IN (55) ORDER BY meta_id ASC
+   15 |   0.0007 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT post_id, meta_key, meta_value FROM IM767e_postmeta WHERE post_id IN (112) ORDER BY meta_id ASC
+   16 |   0.0008 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT post_id, meta_key, meta_value FROM IM767e_postmeta WHERE post_id IN (12) ORDER BY meta_id ASC
+   17 |   0.0021 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT post_id, meta_key, meta_value FROM IM767e_postmeta WHERE post_id IN (36) ORDER BY meta_id ASC
+   18 |   0.0006 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT * FROM IM767e_posts WHERE ID = 56 LIMIT 1
+   19 |   0.0003 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT post_id, meta_key, meta_value FROM IM767e_postmeta WHERE post_id IN (56) ORDER BY meta_id ASC
+   20 |   0.0008 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT post_id, meta_key, meta_value FROM IM767e_postmeta WHERE post_id IN (21) ORDER BY meta_id ASC
+   21 |   0.0003 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT post_id, meta_key, meta_value FROM IM767e_postmeta WHERE post_id IN (53) ORDER BY meta_id ASC
+   22 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT * FROM IM767e_posts WHERE ID = 2 LIMIT 1
+   23 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT post_id, meta_key, meta_value FROM IM767e_postmeta WHERE post_id IN (2) ORDER BY meta_id ASC
+
+[Mon, 08 May 2017 13:00:38 +0000] [/wp-cron.php?doing_wp_cron=1494248429.6438190937042236328125] [1494248438.78]
+Db cache debug info:
+Engine:             disk
+Total queries:      6
+Cached queries:     0
+Total query time:   0.0035
+SQL info:
+    # | Time (s) |    Caching (Reject reason)     |   Status   | Data size (b) | Query
+    1 |   0.0004 | disabled (DOING_CRON constant defined) | not cached |             0 | SELECT f.id, f.title, f.date_created, f.is_active, 0 as lead_count, 0 view_count
+                FROM IM767e_rg_form f
+                WHERE is_trash=0 AND is_active=1
+                ORDER BY title ASC
+    2 |   0.0007 | disabled (DOING_CRON constant defined) | not cached |             0 | SELECT post_id FROM IM767e_postmeta WHERE meta_key='_gravity_form_data'
+    3 |   0.0007 | disabled (DOING_CRON constant defined) | not cached |             0 | SELECT  t.*, tt.* FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id WHERE tt.taxonomy IN ('testimonial_categories') ORDER BY t.name ASC
+    4 |   0.0006 | disabled (DOING_CRON constant defined) | not cached |             0 | SELECT  t.*, tt.* FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id WHERE tt.taxonomy IN ('team_categories') ORDER BY t.name ASC
+    5 |   0.0008 | disabled (DOING_CRON constant defined) | not cached |             0 | SELECT  DISTINCT t.*, tt.*, tm.meta_value FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id LEFT JOIN IM767e_termmeta AS tm ON (t.term_id = tm.term_id AND tm.meta_key = 'order')  WHERE tt.taxonomy IN ('product_cat') ORDER BY tm.meta_value+0 ASC, t.name ASC
+    6 |   0.0003 | disabled (DOING_CRON constant defined) | not cached |             0 | SELECT autoload FROM IM767e_options WHERE option_name = '_transient_doing_cron'
+
+[Mon, 08 May 2017 13:00:59 +0000] [/wp-content/cache/minify/d5cc3.js] [1494248459.76]
+Db cache debug info:
+Engine:             disk
+Total queries:      1
+Cached queries:     1
+Total query time:   0.0002
+SQL info:
+    # | Time (s) |    Caching (Reject reason)     |   Status   | Data size (b) | Query
+    1 |   0.0002 |            enabled             |   cached   |          2389 | SELECT f.id, f.title, f.date_created, f.is_active, 0 as lead_count, 0 view_count
+                FROM IM767e_rg_form f
+                WHERE is_trash=0 AND is_active=1
+                ORDER BY title ASC
+
+[Mon, 08 May 2017 13:00:59 +0000] [/wp-content/cache/minify/eff97.js] [1494248459.88]
+Db cache debug info:
+Engine:             disk
+Total queries:      1
+Cached queries:     1
+Total query time:   0.0002
+SQL info:
+    # | Time (s) |    Caching (Reject reason)     |   Status   | Data size (b) | Query
+    1 |   0.0002 |            enabled             |   cached   |          2389 | SELECT f.id, f.title, f.date_created, f.is_active, 0 as lead_count, 0 view_count
+                FROM IM767e_rg_form f
+                WHERE is_trash=0 AND is_active=1
+                ORDER BY title ASC
+
+[Mon, 08 May 2017 13:01:00 +0000] [/wp-content/cache/minify/01b8b.js] [1494248460.07]
+Db cache debug info:
+Engine:             disk
+Total queries:      1
+Cached queries:     1
+Total query time:   0.0002
+SQL info:
+    # | Time (s) |    Caching (Reject reason)     |   Status   | Data size (b) | Query
+    1 |   0.0002 |            enabled             |   cached   |          2389 | SELECT f.id, f.title, f.date_created, f.is_active, 0 as lead_count, 0 view_count
+                FROM IM767e_rg_form f
+                WHERE is_trash=0 AND is_active=1
+                ORDER BY title ASC
+
+[Mon, 08 May 2017 13:01:02 +0000] [/wp-content/cache/minify/96ab8.css] [1494248462.84]
+Db cache debug info:
+Engine:             disk
+Total queries:      15
+Cached queries:     3
+Total query time:   0.0327
+SQL info:
+    # | Time (s) |    Caching (Reject reason)     |   Status   | Data size (b) | Query
+    1 |   0.0002 |            enabled             |   cached   |          2389 | SELECT f.id, f.title, f.date_created, f.is_active, 0 as lead_count, 0 view_count
+                FROM IM767e_rg_form f
+                WHERE is_trash=0 AND is_active=1
+                ORDER BY title ASC
+    2 |   0.0045 |            enabled             | not cached |           634 | SELECT autoload FROM IM767e_options WHERE option_name = '_transient_GFCache_b8b9be346f41fc7527f04570c1c87111'
+    3 |   0.0076 |            enabled             | not cached |           642 | SELECT autoload FROM IM767e_options WHERE option_name = '_transient_timeout_GFCache_b8b9be346f41fc7527f04570c1c87111'
+    4 |   0.0001 |            enabled             |   cached   |           921 | SELECT form_id, count(id) as lead_count FROM IM767e_rg_lead l WHERE status='active' GROUP BY form_id
+    5 |   0.0039 |            enabled             | not cached |           620 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_GFCache_b8b9be346f41fc7527f04570c1c87111' LIMIT 1
+    6 |    0.001 |            enabled             | not cached |           628 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_timeout_GFCache_b8b9be346f41fc7527f04570c1c87111' LIMIT 1
+    7 |   0.0041 | disabled (query not cacheable) | not cached |             0 | INSERT INTO `IM767e_options` (`option_name`, `option_value`, `autoload`) VALUES ('_transient_timeout_GFCache_b8b9be346f41fc7527f04570c1c87111', '1494248488', 'no') ON DUPLICATE KEY UPDATE `option_name` = VALUES(`option_name`), `option_value` = VALUES(`option_value`), `autoload` = VALUES(`autoload`)
+    8 |   0.0023 | disabled (query not cacheable) | not cached |             0 | INSERT INTO `IM767e_options` (`option_name`, `option_value`, `autoload`) VALUES ('_transient_GFCache_b8b9be346f41fc7527f04570c1c87111', 'a:1:{i:0;O:8:\"stdClass\":2:{s:7:\"form_id\";s:1:\"1\";s:10:\"lead_count\";s:2:\"10\";}}', 'no') ON DUPLICATE KEY UPDATE `option_name` = VALUES(`option_name`), `option_value` = VALUES(`option_value`), `autoload` = VALUES(`autoload`)
+    9 |   0.0004 |            enabled             | not cached |           634 | SELECT autoload FROM IM767e_options WHERE option_name = '_transient_GFCache_79a7fbe967c4b5562ffc3cb0a9fd0457'
+   10 |   0.0002 |            enabled             | not cached |           642 | SELECT autoload FROM IM767e_options WHERE option_name = '_transient_timeout_GFCache_79a7fbe967c4b5562ffc3cb0a9fd0457'
+   11 |   0.0001 |            enabled             |   cached   |           925 | SELECT form_id, sum(count) as view_count FROM IM767e_rg_form_view GROUP BY form_id
+   12 |   0.0033 |            enabled             | not cached |           620 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_GFCache_79a7fbe967c4b5562ffc3cb0a9fd0457' LIMIT 1
+   13 |   0.0041 |            enabled             | not cached |           628 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_timeout_GFCache_79a7fbe967c4b5562ffc3cb0a9fd0457' LIMIT 1
+   14 |   0.0004 | disabled (query not cacheable) | not cached |             0 | INSERT INTO `IM767e_options` (`option_name`, `option_value`, `autoload`) VALUES ('_transient_timeout_GFCache_79a7fbe967c4b5562ffc3cb0a9fd0457', '1494248488', 'no') ON DUPLICATE KEY UPDATE `option_name` = VALUES(`option_name`), `option_value` = VALUES(`option_value`), `autoload` = VALUES(`autoload`)
+   15 |   0.0004 | disabled (query not cacheable) | not cached |             0 | INSERT INTO `IM767e_options` (`option_name`, `option_value`, `autoload`) VALUES ('_transient_GFCache_79a7fbe967c4b5562ffc3cb0a9fd0457', 'a:1:{i:0;O:8:\"stdClass\":2:{s:7:\"form_id\";s:1:\"1\";s:10:\"view_count\";s:3:\"145\";}}', 'no') ON DUPLICATE KEY UPDATE `option_name` = VALUES(`option_name`), `option_value` = VALUES(`option_value`), `autoload` = VALUES(`autoload`)
+
+[Mon, 08 May 2017 13:01:03 +0000] [/wp-content/cache/minify/63c68.js] [1494248463.42]
+Db cache debug info:
+Engine:             disk
+Total queries:      1
+Cached queries:     1
+Total query time:   0.0002
+SQL info:
+    # | Time (s) |    Caching (Reject reason)     |   Status   | Data size (b) | Query
+    1 |   0.0002 |            enabled             |   cached   |          2389 | SELECT f.id, f.title, f.date_created, f.is_active, 0 as lead_count, 0 view_count
+                FROM IM767e_rg_form f
+                WHERE is_trash=0 AND is_active=1
+                ORDER BY title ASC
+
+[Mon, 08 May 2017 13:01:05 +0000] [/wp-content/cache/minify/c82e1.js] [1494248465.23]
+Db cache debug info:
+Engine:             disk
+Total queries:      1
+Cached queries:     1
+Total query time:   0.0002
+SQL info:
+    # | Time (s) |    Caching (Reject reason)     |   Status   | Data size (b) | Query
+    1 |   0.0002 |            enabled             |   cached   |          2389 | SELECT f.id, f.title, f.date_created, f.is_active, 0 as lead_count, 0 view_count
+                FROM IM767e_rg_form f
+                WHERE is_trash=0 AND is_active=1
+                ORDER BY title ASC
+
+[Mon, 08 May 2017 13:01:22 +0000] [/wp-admin/admin-ajax.php] [1494248482.93]
+Db cache debug info:
+Engine:             disk
+Total queries:      10
+Cached queries:     0
+Total query time:   0.0076
+SQL info:
+    # | Time (s) |    Caching (Reject reason)     |   Status   | Data size (b) | Query
+    1 |   0.0008 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT umeta_id as meta_id, meta_key, meta_value
+			FROM IM767e_usermeta
+			WHERE user_id = 1
+			ORDER BY umeta_id
+    2 |   0.0006 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT f.id, f.title, f.date_created, f.is_active, 0 as lead_count, 0 view_count
+                FROM IM767e_rg_form f
+                WHERE is_trash=0 AND is_active=1
+                ORDER BY title ASC
+    3 |   0.0007 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT umeta_id FROM IM767e_usermeta WHERE meta_key = 'aioseop_yst_detected_notice_dismissed' AND user_id = 1
+    4 |   0.0007 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT post_id FROM IM767e_postmeta WHERE meta_key='_gravity_form_data'
+    5 |   0.0012 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT  t.*, tt.* FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id WHERE tt.taxonomy IN ('testimonial_categories') ORDER BY t.name ASC
+    6 |   0.0009 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT  t.*, tt.* FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id WHERE tt.taxonomy IN ('team_categories') ORDER BY t.name ASC
+    7 |   0.0013 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT  DISTINCT t.*, tt.*, tm.meta_value FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id LEFT JOIN IM767e_termmeta AS tm ON (t.term_id = tm.term_id AND tm.meta_key = 'order')  WHERE tt.taxonomy IN ('product_cat') ORDER BY tm.meta_value+0 ASC, t.name ASC
+    8 |   0.0009 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT  t.*, tt.* FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id INNER JOIN IM767e_term_relationships AS tr ON tr.term_taxonomy_id = tt.term_taxonomy_id WHERE tt.taxonomy IN ('product_shipping_class') AND tr.object_id IN (255) ORDER BY t.name ASC
+    9 |   0.0003 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT display_meta, notifications FROM IM767e_rg_form_meta WHERE form_id=1
+   10 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT confirmations FROM IM767e_rg_form_meta WHERE form_id = 1
+
+[Mon, 08 May 2017 13:01:41 +0000] [/?wc-ajax=get_refreshed_fragments] [1494248501.62]
+Db cache debug info:
+Engine:             disk
+Total queries:      20
+Cached queries:     8
+Total query time:   0.0062
+SQL info:
+    # | Time (s) |    Caching (Reject reason)     |   Status   | Data size (b) | Query
+    1 |   0.0002 |            enabled             |   cached   |          2389 | SELECT f.id, f.title, f.date_created, f.is_active, 0 as lead_count, 0 view_count
+                FROM IM767e_rg_form f
+                WHERE is_trash=0 AND is_active=1
+                ORDER BY title ASC
+    2 |   0.0003 |            enabled             | not cached |           634 | SELECT autoload FROM IM767e_options WHERE option_name = '_transient_GFCache_b8b9be346f41fc7527f04570c1c87111'
+    3 |   0.0003 |            enabled             | not cached |           642 | SELECT autoload FROM IM767e_options WHERE option_name = '_transient_timeout_GFCache_b8b9be346f41fc7527f04570c1c87111'
+    4 |   0.0001 |            enabled             |   cached   |           921 | SELECT form_id, count(id) as lead_count FROM IM767e_rg_lead l WHERE status='active' GROUP BY form_id
+    5 |   0.0002 |            enabled             | not cached |           620 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_GFCache_b8b9be346f41fc7527f04570c1c87111' LIMIT 1
+    6 |   0.0002 |            enabled             | not cached |           628 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_timeout_GFCache_b8b9be346f41fc7527f04570c1c87111' LIMIT 1
+    7 |   0.0004 | disabled (query not cacheable) | not cached |             0 | INSERT INTO `IM767e_options` (`option_name`, `option_value`, `autoload`) VALUES ('_transient_timeout_GFCache_b8b9be346f41fc7527f04570c1c87111', '1494248530', 'no') ON DUPLICATE KEY UPDATE `option_name` = VALUES(`option_name`), `option_value` = VALUES(`option_value`), `autoload` = VALUES(`autoload`)
+    8 |   0.0004 | disabled (query not cacheable) | not cached |             0 | INSERT INTO `IM767e_options` (`option_name`, `option_value`, `autoload`) VALUES ('_transient_GFCache_b8b9be346f41fc7527f04570c1c87111', 'a:1:{i:0;O:8:\"stdClass\":2:{s:7:\"form_id\";s:1:\"1\";s:10:\"lead_count\";s:2:\"10\";}}', 'no') ON DUPLICATE KEY UPDATE `option_name` = VALUES(`option_name`), `option_value` = VALUES(`option_value`), `autoload` = VALUES(`autoload`)
+    9 |   0.0004 |            enabled             | not cached |           634 | SELECT autoload FROM IM767e_options WHERE option_name = '_transient_GFCache_79a7fbe967c4b5562ffc3cb0a9fd0457'
+   10 |   0.0002 |            enabled             | not cached |           642 | SELECT autoload FROM IM767e_options WHERE option_name = '_transient_timeout_GFCache_79a7fbe967c4b5562ffc3cb0a9fd0457'
+   11 |   0.0002 |            enabled             |   cached   |           925 | SELECT form_id, sum(count) as view_count FROM IM767e_rg_form_view GROUP BY form_id
+   12 |   0.0002 |            enabled             | not cached |           620 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_GFCache_79a7fbe967c4b5562ffc3cb0a9fd0457' LIMIT 1
+   13 |   0.0005 |            enabled             | not cached |           628 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_timeout_GFCache_79a7fbe967c4b5562ffc3cb0a9fd0457' LIMIT 1
+   14 |   0.0004 | disabled (query not cacheable) | not cached |             0 | INSERT INTO `IM767e_options` (`option_name`, `option_value`, `autoload`) VALUES ('_transient_timeout_GFCache_79a7fbe967c4b5562ffc3cb0a9fd0457', '1494248531', 'no') ON DUPLICATE KEY UPDATE `option_name` = VALUES(`option_name`), `option_value` = VALUES(`option_value`), `autoload` = VALUES(`autoload`)
+   15 |   0.0007 | disabled (query not cacheable) | not cached |             0 | INSERT INTO `IM767e_options` (`option_name`, `option_value`, `autoload`) VALUES ('_transient_GFCache_79a7fbe967c4b5562ffc3cb0a9fd0457', 'a:1:{i:0;O:8:\"stdClass\":2:{s:7:\"form_id\";s:1:\"1\";s:10:\"view_count\";s:3:\"145\";}}', 'no') ON DUPLICATE KEY UPDATE `option_name` = VALUES(`option_name`), `option_value` = VALUES(`option_value`), `autoload` = VALUES(`autoload`)
+   16 |   0.0002 |            enabled             |   cached   |           924 | SELECT post_id FROM IM767e_postmeta WHERE meta_key='_gravity_form_data'
+   17 |   0.0002 |            enabled             |   cached   |          3566 | SELECT  t.*, tt.* FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id WHERE tt.taxonomy IN ('testimonial_categories') ORDER BY t.name ASC
+   18 |   0.0002 |            enabled             |   cached   |          3559 | SELECT  t.*, tt.* FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id WHERE tt.taxonomy IN ('team_categories') ORDER BY t.name ASC
+   19 |   0.0003 |            enabled             |   cached   |          4040 | SELECT  DISTINCT t.*, tt.*, tm.meta_value FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id LEFT JOIN IM767e_termmeta AS tm ON (t.term_id = tm.term_id AND tm.meta_key = 'order')  WHERE tt.taxonomy IN ('product_cat') ORDER BY tm.meta_value+0 ASC, t.name ASC
+   20 |   0.0005 |            enabled             |   cached   |         12716 | SELECT   IM767e_posts.* FROM IM767e_posts  WHERE 1=1  AND IM767e_posts.ID = 9 AND IM767e_posts.post_type = 'page'  ORDER BY IM767e_posts.post_date DESC
+
+[Mon, 08 May 2017 13:02:04 +0000] [/wp-content/cache/minify/772005196w3tc_rewrite_test.css] [1494248524.3]
+Db cache debug info:
+Engine:             disk
+Total queries:      1
+Cached queries:     0
+Total query time:   0.0005
+SQL info:
+    # | Time (s) |    Caching (Reject reason)     |   Status   | Data size (b) | Query
+    1 |   0.0005 |            enabled             | not cached |          2389 | SELECT f.id, f.title, f.date_created, f.is_active, 0 as lead_count, 0 view_count
+                FROM IM767e_rg_form f
+                WHERE is_trash=0 AND is_active=1
+                ORDER BY title ASC
+
+[Mon, 08 May 2017 13:02:05 +0000] [/w3tc_rewrite_test916043995] [1494248525.46]
+Db cache debug info:
+Engine:             disk
+Total queries:      0
+Cached queries:     0
+Total query time:   0.0000
+
+[Mon, 08 May 2017 13:02:05 +0000] [/wp-admin/admin.php?page=w3tc_general] [1494248525.58]
+Db cache debug info:
+Engine:             disk
+Total queries:      27
+Cached queries:     0
+Total query time:   0.0285
+SQL info:
+    # | Time (s) |    Caching (Reject reason)     |   Status   | Data size (b) | Query
+    1 |   0.0006 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = 'MPSUM' LIMIT 1
+    2 |   0.0005 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_timeout_w3tc.verify_plugins' LIMIT 1
+    3 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_w3tc.verify_plugins' LIMIT 1
+    4 |   0.0004 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_site_transient_timeout_theme_roots' LIMIT 1
+    5 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_site_transient_theme_roots' LIMIT 1
+    6 |   0.0005 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT * FROM IM767e_posts WHERE ID = 53 LIMIT 1
+    7 |   0.0005 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT f.id, f.title, f.date_created, f.is_active, 0 as lead_count, 0 view_count
+                FROM IM767e_rg_form f
+                WHERE is_trash=0 AND is_active=1
+                ORDER BY title ASC
+    8 |   0.0065 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT umeta_id FROM IM767e_usermeta WHERE meta_key = 'aioseop_yst_detected_notice_dismissed' AND user_id = 1
+    9 |   0.0011 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT post_id FROM IM767e_postmeta WHERE meta_key='_gravity_form_data'
+   10 |   0.0027 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT  t.*, tt.* FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id WHERE tt.taxonomy IN ('testimonial_categories') ORDER BY t.name ASC
+   11 |   0.0066 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT  t.*, tt.* FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id WHERE tt.taxonomy IN ('team_categories') ORDER BY t.name ASC
+   12 |    0.001 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT  DISTINCT t.*, tt.*, tm.meta_value FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id LEFT JOIN IM767e_termmeta AS tm ON (t.term_id = tm.term_id AND tm.meta_key = 'order')  WHERE tt.taxonomy IN ('product_cat') ORDER BY tm.meta_value+0 ASC, t.name ASC
+   13 |   0.0005 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_timeout_gform_update_info' LIMIT 1
+   14 |   0.0003 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_gform_update_info' LIMIT 1
+   15 |   0.0022 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT ID
+			FROM IM767e_posts
+			WHERE post_type = 'attachment'
+			AND post_mime_type LIKE 'audio%'
+			LIMIT 1
+   16 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT ID
+			FROM IM767e_posts
+			WHERE post_type = 'attachment'
+			AND post_mime_type LIKE 'video%'
+			LIMIT 1
+   17 |   0.0004 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT DISTINCT YEAR( post_date ) AS year, MONTH( post_date ) AS month
+			FROM IM767e_posts
+			WHERE post_type = 'attachment'
+			ORDER BY post_date DESC
+   18 |   0.0004 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT COUNT( * ) FROM IM767e_posts WHERE post_type = 'shop_order' AND post_status = 'wc-processing'
+   19 |   0.0005 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT display_meta, confirmations, notifications FROM IM767e_rg_form f
+                                        INNER JOIN IM767e_rg_form_meta m ON f.id = m.form_id
+                                        WHERE id in(1)
+   20 |   0.0004 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_site_transient_timeout_w3tc_rewrite_test_f74a4fbf34dfece3' LIMIT 1
+   21 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_site_transient_w3tc_rewrite_test_f74a4fbf34dfece3' LIMIT 1
+   22 |   0.0006 |      disabled (WP_ADMIN)       | not cached |             0 | INSERT INTO `IM767e_options` (`option_name`, `option_value`, `autoload`) VALUES ('_site_transient_timeout_w3tc_rewrite_test_f74a4fbf34dfece3', '1494248554', 'no') ON DUPLICATE KEY UPDATE `option_name` = VALUES(`option_name`), `option_value` = VALUES(`option_value`), `autoload` = VALUES(`autoload`)
+   23 |   0.0003 |      disabled (WP_ADMIN)       | not cached |             0 | INSERT INTO `IM767e_options` (`option_name`, `option_value`, `autoload`) VALUES ('_site_transient_w3tc_rewrite_test_f74a4fbf34dfece3', 'ok', 'no') ON DUPLICATE KEY UPDATE `option_name` = VALUES(`option_name`), `option_value` = VALUES(`option_value`), `autoload` = VALUES(`autoload`)
+   24 |   0.0003 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_timeout_w3tc_rewrite_test_d63f46816e5bab97' LIMIT 1
+   25 |   0.0003 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_w3tc_rewrite_test_d63f46816e5bab97' LIMIT 1
+   26 |   0.0007 |      disabled (WP_ADMIN)       | not cached |             0 | INSERT INTO `IM767e_options` (`option_name`, `option_value`, `autoload`) VALUES ('_transient_timeout_w3tc_rewrite_test_d63f46816e5bab97', '1494248555', 'no') ON DUPLICATE KEY UPDATE `option_name` = VALUES(`option_name`), `option_value` = VALUES(`option_value`), `autoload` = VALUES(`autoload`)
+   27 |   0.0003 |      disabled (WP_ADMIN)       | not cached |             0 | INSERT INTO `IM767e_options` (`option_name`, `option_value`, `autoload`) VALUES ('_transient_w3tc_rewrite_test_d63f46816e5bab97', '1', 'no') ON DUPLICATE KEY UPDATE `option_name` = VALUES(`option_name`), `option_value` = VALUES(`option_value`), `autoload` = VALUES(`autoload`)
+
+[Mon, 08 May 2017 13:02:07 +0000] [/wp-cron.php?doing_wp_cron=1494248519.3147799968719482421875] [1494248527.44]
+Db cache debug info:
+Engine:             disk
+Total queries:      6
+Cached queries:     0
+Total query time:   0.0171
+SQL info:
+    # | Time (s) |    Caching (Reject reason)     |   Status   | Data size (b) | Query
+    1 |   0.0083 | disabled (DOING_CRON constant defined) | not cached |             0 | SELECT f.id, f.title, f.date_created, f.is_active, 0 as lead_count, 0 view_count
+                FROM IM767e_rg_form f
+                WHERE is_trash=0 AND is_active=1
+                ORDER BY title ASC
+    2 |   0.0007 | disabled (DOING_CRON constant defined) | not cached |             0 | SELECT post_id FROM IM767e_postmeta WHERE meta_key='_gravity_form_data'
+    3 |   0.0066 | disabled (DOING_CRON constant defined) | not cached |             0 | SELECT  t.*, tt.* FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id WHERE tt.taxonomy IN ('testimonial_categories') ORDER BY t.name ASC
+    4 |   0.0005 | disabled (DOING_CRON constant defined) | not cached |             0 | SELECT  t.*, tt.* FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id WHERE tt.taxonomy IN ('team_categories') ORDER BY t.name ASC
+    5 |   0.0007 | disabled (DOING_CRON constant defined) | not cached |             0 | SELECT  DISTINCT t.*, tt.*, tm.meta_value FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id LEFT JOIN IM767e_termmeta AS tm ON (t.term_id = tm.term_id AND tm.meta_key = 'order')  WHERE tt.taxonomy IN ('product_cat') ORDER BY tm.meta_value+0 ASC, t.name ASC
+    6 |   0.0003 | disabled (DOING_CRON constant defined) | not cached |             0 | SELECT autoload FROM IM767e_options WHERE option_name = '_transient_doing_cron'
+
+[Mon, 08 May 2017 13:02:30 +0000] [/wp-admin/admin-ajax.php] [1494248550.81]
+Db cache debug info:
+Engine:             disk
+Total queries:      35
+Cached queries:     0
+Total query time:   0.0141
+SQL info:
+    # | Time (s) |    Caching (Reject reason)     |   Status   | Data size (b) | Query
+    1 |   0.0006 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT * FROM IM767e_users WHERE user_login = 'pat'
+    2 |   0.0006 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT user_id, meta_key, meta_value FROM IM767e_usermeta WHERE user_id IN (1) ORDER BY umeta_id ASC
+    3 |   0.0009 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT umeta_id as meta_id, meta_key, meta_value
+			FROM IM767e_usermeta
+			WHERE user_id = 1
+			ORDER BY umeta_id
+    4 |   0.0005 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT f.id, f.title, f.date_created, f.is_active, 0 as lead_count, 0 view_count
+                FROM IM767e_rg_form f
+                WHERE is_trash=0 AND is_active=1
+                ORDER BY title ASC
+    5 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT autoload FROM IM767e_options WHERE option_name = '_transient_GFCache_b8b9be346f41fc7527f04570c1c87111'
+    6 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT autoload FROM IM767e_options WHERE option_name = '_transient_timeout_GFCache_b8b9be346f41fc7527f04570c1c87111'
+    7 |   0.0004 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT form_id, count(id) as lead_count FROM IM767e_rg_lead l WHERE status='active' GROUP BY form_id
+    8 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_GFCache_b8b9be346f41fc7527f04570c1c87111' LIMIT 1
+    9 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_timeout_GFCache_b8b9be346f41fc7527f04570c1c87111' LIMIT 1
+   10 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | INSERT INTO `IM767e_options` (`option_name`, `option_value`, `autoload`) VALUES ('_transient_timeout_GFCache_b8b9be346f41fc7527f04570c1c87111', '1494248580', 'no') ON DUPLICATE KEY UPDATE `option_name` = VALUES(`option_name`), `option_value` = VALUES(`option_value`), `autoload` = VALUES(`autoload`)
+   11 |   0.0004 |      disabled (WP_ADMIN)       | not cached |             0 | INSERT INTO `IM767e_options` (`option_name`, `option_value`, `autoload`) VALUES ('_transient_GFCache_b8b9be346f41fc7527f04570c1c87111', 'a:1:{i:0;O:8:\"stdClass\":2:{s:7:\"form_id\";s:1:\"1\";s:10:\"lead_count\";s:2:\"10\";}}', 'no') ON DUPLICATE KEY UPDATE `option_name` = VALUES(`option_name`), `option_value` = VALUES(`option_value`), `autoload` = VALUES(`autoload`)
+   12 |   0.0003 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT autoload FROM IM767e_options WHERE option_name = '_transient_GFCache_79a7fbe967c4b5562ffc3cb0a9fd0457'
+   13 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT autoload FROM IM767e_options WHERE option_name = '_transient_timeout_GFCache_79a7fbe967c4b5562ffc3cb0a9fd0457'
+   14 |   0.0003 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT form_id, sum(count) as view_count FROM IM767e_rg_form_view GROUP BY form_id
+   15 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_GFCache_79a7fbe967c4b5562ffc3cb0a9fd0457' LIMIT 1
+   16 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_timeout_GFCache_79a7fbe967c4b5562ffc3cb0a9fd0457' LIMIT 1
+   17 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | INSERT INTO `IM767e_options` (`option_name`, `option_value`, `autoload`) VALUES ('_transient_timeout_GFCache_79a7fbe967c4b5562ffc3cb0a9fd0457', '1494248580', 'no') ON DUPLICATE KEY UPDATE `option_name` = VALUES(`option_name`), `option_value` = VALUES(`option_value`), `autoload` = VALUES(`autoload`)
+   18 |   0.0003 |      disabled (WP_ADMIN)       | not cached |             0 | INSERT INTO `IM767e_options` (`option_name`, `option_value`, `autoload`) VALUES ('_transient_GFCache_79a7fbe967c4b5562ffc3cb0a9fd0457', 'a:1:{i:0;O:8:\"stdClass\":2:{s:7:\"form_id\";s:1:\"1\";s:10:\"view_count\";s:3:\"145\";}}', 'no') ON DUPLICATE KEY UPDATE `option_name` = VALUES(`option_name`), `option_value` = VALUES(`option_value`), `autoload` = VALUES(`autoload`)
+   19 |   0.0006 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT umeta_id FROM IM767e_usermeta WHERE meta_key = 'aioseop_yst_detected_notice_dismissed' AND user_id = 1
+   20 |   0.0007 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT post_id FROM IM767e_postmeta WHERE meta_key='_gravity_form_data'
+   21 |   0.0007 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT  t.*, tt.* FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id WHERE tt.taxonomy IN ('testimonial_categories') ORDER BY t.name ASC
+   22 |   0.0005 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT  t.*, tt.* FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id WHERE tt.taxonomy IN ('team_categories') ORDER BY t.name ASC
+   23 |   0.0006 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT  DISTINCT t.*, tt.*, tm.meta_value FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id LEFT JOIN IM767e_termmeta AS tm ON (t.term_id = tm.term_id AND tm.meta_key = 'order')  WHERE tt.taxonomy IN ('product_cat') ORDER BY tm.meta_value+0 ASC, t.name ASC
+   24 |   0.0008 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT post_id, meta_key, meta_value FROM IM767e_postmeta WHERE post_id IN (249) ORDER BY meta_id ASC
+   25 |   0.0011 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT  DISTINCT t.*, tt.*, tr.object_id, tm.meta_value FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id INNER JOIN IM767e_term_relationships AS tr ON tr.term_taxonomy_id = tt.term_taxonomy_id LEFT JOIN IM767e_termmeta AS tm ON (t.term_id = tm.term_id AND tm.meta_key = 'order')  WHERE tt.taxonomy IN ('product_type', 'product_visibility', 'product_cat', 'product_tag', 'product_shipping_class', 'pa_comfort-level', 'pa_mattress-size', 'pa_need-a-base', 'pa_protectors') AND tr.object_id IN (249) ORDER BY tm.meta_value+0 ASC, t.name ASC
+   26 |   0.0003 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT * FROM IM767e_posts WHERE ID = 255 LIMIT 1
+   27 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT * FROM IM767e_posts WHERE ID = 249 LIMIT 1
+   28 |   0.0004 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT post_id, meta_key, meta_value FROM IM767e_postmeta WHERE post_id IN (255) ORDER BY meta_id ASC
+   29 |   0.0005 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT  t.*, tt.* FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id INNER JOIN IM767e_term_relationships AS tr ON tr.term_taxonomy_id = tt.term_taxonomy_id WHERE tt.taxonomy IN ('product_shipping_class') AND tr.object_id IN (255) ORDER BY t.name ASC
+   30 |   0.0003 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT display_meta, notifications FROM IM767e_rg_form_meta WHERE form_id=1
+   31 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT confirmations FROM IM767e_rg_form_meta WHERE form_id = 1
+   32 |   0.0003 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_timeout_wth_woocommerce-gravityforms-product-addons_latest_version' LIMIT 1
+   33 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_wth_woocommerce-gravityforms-product-addons_latest_version' LIMIT 1
+   34 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_site_transient_timeout_aioseop_update_check_time' LIMIT 1
+   35 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_site_transient_aioseop_update_check_time' LIMIT 1
+
+[Mon, 08 May 2017 13:02:36 +0000] [/wp-admin/admin.php?page=w3tc_general] [1494248556.86]
+Db cache debug info:
+Engine:             disk
+Total queries:      16
+Cached queries:     0
+Total query time:   0.0062
+SQL info:
+    # | Time (s) |    Caching (Reject reason)     |   Status   | Data size (b) | Query
+    1 |   0.0005 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT f.id, f.title, f.date_created, f.is_active, 0 as lead_count, 0 view_count
+                FROM IM767e_rg_form f
+                WHERE is_trash=0 AND is_active=1
+                ORDER BY title ASC
+    2 |   0.0003 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT umeta_id FROM IM767e_usermeta WHERE meta_key = 'aioseop_yst_detected_notice_dismissed' AND user_id = 1
+    3 |   0.0007 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT post_id FROM IM767e_postmeta WHERE meta_key='_gravity_form_data'
+    4 |   0.0007 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT  t.*, tt.* FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id WHERE tt.taxonomy IN ('testimonial_categories') ORDER BY t.name ASC
+    5 |   0.0005 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT  t.*, tt.* FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id WHERE tt.taxonomy IN ('team_categories') ORDER BY t.name ASC
+    6 |   0.0008 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT  DISTINCT t.*, tt.*, tm.meta_value FROM IM767e_terms AS t  INNER JOIN IM767e_term_taxonomy AS tt ON t.term_id = tt.term_id LEFT JOIN IM767e_termmeta AS tm ON (t.term_id = tm.term_id AND tm.meta_key = 'order')  WHERE tt.taxonomy IN ('product_cat') ORDER BY tm.meta_value+0 ASC, t.name ASC
+    7 |   0.0003 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_timeout_w3tc_license_status' LIMIT 1
+    8 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_w3tc_license_status' LIMIT 1
+    9 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT autoload FROM IM767e_options WHERE option_name = '_transient_w3tc_license_status'
+   10 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT autoload FROM IM767e_options WHERE option_name = '_transient_timeout_w3tc_license_status'
+   11 |   0.0003 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = 'w3tc_state' LIMIT 1
+   12 |   0.0003 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT *    FROM IM767e_links  WHERE 1=1 AND link_visible = 'Y'     ORDER BY link_name ASC
+   13 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_w3tc_message' LIMIT 1
+   14 |   0.0002 |      disabled (WP_ADMIN)       | not cached |             0 | SELECT option_value FROM IM767e_options WHERE option_name = '_transient_timeout_w3tc_message' LIMIT 1
+   15 |   0.0003 |      disabled (WP_ADMIN)       | not cached |             0 | INSERT INTO `IM767e_options` (`option_name`, `option_value`, `autoload`) VALUES ('_transient_timeout_w3tc_message', '1494249156', 'no') ON DUPLICATE KEY UPDATE `option_name` = VALUES(`option_name`), `option_value` = VALUES(`option_value`), `autoload` = VALUES(`autoload`)
+   16 |   0.0003 |      disabled (WP_ADMIN)       | not cached |             0 | INSERT INTO `IM767e_options` (`option_name`, `option_value`, `autoload`) VALUES ('_transient_w3tc_message', 'a:1:{s:13:\"59106c6ccf4f6\";a:4:{s:12:\"query_string\";a:1:{s:4:\"page\";s:12:\"w3tc_general\";}s:7:\"actions\";a:0:{}s:6:\"errors\";a:0:{}s:5:\"notes\";a:1:{i:0;s:11:\"config_save\";}}}', 'no') ON DUPLICATE KEY UPDATE `option_name` = VALUES(`option_name`), `option_value` = VALUES(`option_value`), `autoload` = VALUES(`autoload`)

@@ -1,0 +1,268 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:1714:"Junior Bake Off Showstopper bakes 66 recipes. By continuing to use our website you agree to our use of cookies. The Challenges. Prue sets her first technical - a kids' party favourite. If you're done bingeing the latest cycle of GBBO on Netflix or PBS and are itching to dig into some dough, then one of these 15 recipes will surely get your heart pumping and your oven heated. Twelve homebakers take part in a 'bake off', which will test every aspect of their baking skills as they battle it out to be crowned the Great British Bake Off's Best Amateur Baker.  Home; News; Recipes; Your bakes; The Bakers; Shop; An Extra Slice; About; Contact Us; ... On your marks, get set… bake! The Great British Bake Off is back tonight at 8pm on Channel 4, with a new team (hello Noel, Sandi and Prue) plus old favourite Paul Hollywood. To celebrate the … Plus, the trickiest showstopper ever set in the first week of Bake Off: an illusion cake. Signature bakes 103 recipes. Great British Bake Off Recipes. mail_outline. This site uses cookies to offer you the best possible experience on our website. Technical bakes 98 recipes. Classic lemon tart 1 hour Coffee and walnut battenberg cake 45 minutes The ultimate chocolate roulade 30 minutes Victoria Sandwich 45 minutes Easter Simnel Cake 1.5 hours Sachertorte 1 hour Easter biscuits 20 minutes Gingerbread house 1 hour Mary’s Florentines 20 minutes Viennese whirls 30 minutes Bakewell tart 1 hour Brandy Snaps 20 Minutes The Great British Bake Off. Toggle Navigation. Cake Week sees the bakers take on a fruity challenge. Browse more recipes . The Great British Bake Off is bound to inspire you to try your hand at achieving a "good bake.". Classic bakes 42 recipes. ";s:7:"keyword";s:30:"great british bake off recipes";s:5:"links";s:12286:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=conference-room-chairs-no-wheels'>Conference Room Chairs No Wheels</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=melissa-and-doug-pizza-oven'>Melissa And Doug Pizza Oven</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=subway-ski-run-alpine-meadows'>Subway Ski Run Alpine Meadows</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-long-to-cook-ribs-in-oven-at-350'>How Long To Cook Ribs In Oven At 350</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-plant-crocus-bulbs'>How To Plant Crocus Bulbs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=nothing-gold-can-stay-pdf'>Nothing Gold Can Stay Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=beko-washing-machine-repair-singapore'>Beko Washing Machine Repair Singapore</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=avengers-age-of-ultron-full-movie-in-hindi-watch-online-dailymotion'>Avengers Age Of Ultron Full Movie In Hindi Watch Online Dailymotion</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=forget-me-not-movie-netflix'>Forget Me Not Movie Netflix</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=used-wooden-stools-for-sale'>Used Wooden Stools For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=home-depot-black-friday-sale-2019'>Home Depot Black Friday Sale 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hgtv-urban-oasis-2019-minneapolis-address'>Hgtv Urban Oasis 2019 Minneapolis Address</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-create-a-dining-area-in-a-small-apartment'>How To Create A Dining Area In A Small Apartment</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mutton-rogan-josh-dhaba-style'>Mutton Rogan Josh Dhaba Style</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=free-log-cabin-quilt-patterns-using-jelly-rolls'>Free Log Cabin Quilt Patterns Using Jelly Rolls</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-long-can-you-keep-cooked-chicken-in-the-freezer'>How Long Can You Keep Cooked Chicken In The Freezer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bay-area-ski-bus-schedule'>Bay Area Ski Bus Schedule</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=1940s-semi-detached-house-renovation'>1940s Semi Detached House Renovation</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=traditional-dining-room-tables-and-chairs'>Traditional Dining Room Tables And Chairs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-idaho-colors-gold'>University Of Idaho Colors Gold</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-yarn-for-winter-scarves'>Best Yarn For Winter Scarves</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=tent-decorations-for-birthday-party'>Tent Decorations For Birthday Party</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ikea-play-kitchen-refrigerator-hack'>Ikea Play Kitchen Refrigerator Hack</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cross-country-skiing-world-championships-2019-results'>Cross Country Skiing World Championships 2019 Results</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=buy-lemon-verbena-essential-oil'>Buy Lemon Verbena Essential Oil</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=malaysia-international-furniture-fair-2020it-fair-malaysia-2019-mid-valley'>Malaysia International Furniture Fair 2020it Fair Malaysia 2019 Mid Valley</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bed-bug-room-heater-rental-home-depot'>Bed Bug Room Heater Rental Home Depot</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=baked-ziti-with-eggplant-and-zucchini'>Baked Ziti With Eggplant And Zucchini</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=selling-on-fine-art-america'>Selling On Fine Art America</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=What-is-Birria-made-of'>What Is Birria Made Of</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=all-you-can-eat-chinese-buffet-san-francisco'>All You Can Eat Chinese Buffet San Francisco</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=johnson-johnson-products-list-price'>Johnson Johnson Products List Price</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-restaurants-in-bangkok-2019'>Best Restaurants In Bangkok 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=authentic-mole-enchilada-sauce-recipe'>Authentic Mole Enchilada Sauce Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-set-a-beautiful-buffet-table'>How To Set A Beautiful Buffet Table</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=alternate-phrase-for-feel-free'>Alternate Phrase For Feel Free</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=apartments-for-sale-in-scotland'>Apartments For Sale In Scotland</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mung-bean-benefits-for-skin'>Mung Bean Benefits For Skin</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ikea-doll-bed-used-for-cats'>Ikea Doll Bed Used For Cats</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lemon-and-blue-kitchen-decor'>Lemon And Blue Kitchen Decor</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=laocoon-and-his-sons-khan-academy'>Laocoon And His Sons Khan Academy</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=whirlpool-french-door-refrigerator-gasket'>Whirlpool French Door Refrigerator Gasket</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=narrow-lot-acadian-house-plans'>Narrow Lot Acadian House Plans</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=comparison-between-old-schools-and-modern-schools'>Comparison Between Old Schools And Modern Schools</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=grey-colour-schemes-for-hallways'>Grey Colour Schemes For Hallways</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=homes-for-sale-downtown-bozeman-mt'>Homes For Sale Downtown Bozeman Mt</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=advantages-and-disadvantages-of-factory-system'>Advantages And Disadvantages Of Factory System</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=concealed-cistern-leaking-into-toilet'>Concealed Cistern Leaking Into Toilet</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=difference-between-different-types-of-tiles'>Difference Between Different Types Of Tiles</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=easy-chocolate-desserts-to-impress'>Easy Chocolate Desserts To Impress</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=skillet-orecchiette-with-sausage-and-broccoli-rabe'>Skillet Orecchiette With Sausage And Broccoli Rabe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-print-photos-from-ipad-at-boots'>How To Print Photos From Ipad At Boots</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=long-beans-with-minced-pork-recipe'>Long Beans With Minced Pork Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=north-carolina-wild-mushroom-guide'>North Carolina Wild Mushroom Guide</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-herbs-were-used-in-colonial-medicine'>What Herbs Were Used In Colonial Medicine</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=millionaire-shortbread-great-british-baking-show'>Millionaire Shortbread Great British Baking Show</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-does-opportunity-cost-mean'>What Does Opportunity Cost Mean</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-draw-a-fantasy-castle'>How To Draw A Fantasy Castle</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=proper-cooling-methods-for-food'>Proper Cooling Methods For Food</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=samsung-washer-top-load-not-spinning'>Samsung Washer Top Load Not Spinning</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philips-hue-starter-kit-2-bulbs'>Philips Hue Starter Kit 2 Bulbs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cute-room-ideas-for-small-rooms'>Cute Room Ideas For Small Rooms</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-many-tomatoes-does-a-beefsteak-plant-produce'>How Many Tomatoes Does A Beefsteak Plant Produce</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=string-light-clips-for-screen-enclosures-and-pool-cages'>String Light Clips For Screen Enclosures And Pool Cages</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=big-square-pillows-for-bed'>Big Square Pillows For Bed</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=do-you-have-to-stretch-carpet-with-attached-pad'>Do You Have To Stretch Carpet With Attached Pad</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=big-sky-early-season-pass-prices'>Big Sky Early Season Pass Prices</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=behr-paint-colors-for-laundry-room'>Behr Paint Colors For Laundry Room</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=deadpool-in-wolverine-origins-explained'>Deadpool In Wolverine Origins Explained</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chapter-6-sectional-conflict-summary'>Chapter 6 Sectional Conflict Summary</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pied-a-terre-san-francisco'>Pied A Terre San Francisco</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=romantic-restaurants-in-hartford-ct'>Romantic Restaurants In Hartford Ct</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=drop-in-refrigerated-display-case'>Drop In Refrigerated Display Case</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=peel-and-stick-wallpaper-canada'>Peel And Stick Wallpaper Canada</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=force-10-from-navarone-full-movie'>Force 10 From Navarone Full Movie</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=simple-chicken-tater-tot-casserole-without-soup'>Simple Chicken Tater Tot Casserole Without Soup</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=asparagus-officinalis-common-name-in-hindi'>Asparagus Officinalis Common Name In Hindi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mirror-lake-inn-phone-number'>Mirror Lake Inn Phone Number</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sears-washer-and-dryer-stackable'>Sears Washer And Dryer Stackable</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=baked-potato-in-foil-at-350'>Baked Potato In Foil At 350</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=coimbatore-institute-of-technology-address'>Coimbatore Institute Of Technology Address</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=all-star-movies-food-court-secret-menu'>All Star Movies Food Court Secret Menu</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=alpine-meadows-ski-resort-avalanche'>Alpine Meadows Ski Resort Avalanche</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=resort-the-kayon-jungle-resort-by-pramana'>Resort The Kayon Jungle Resort By Pramana</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=i-love-you-cartoon-images'>I Love You Cartoon Images</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lexington-ma-to-boston-logan-airport'>Lexington Ma To Boston Logan Airport</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=free-washer-and-dryer-craigslist'>Free Washer And Dryer Craigslist</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=imperial-college-london-medicine-fees-for-international-students'>Imperial College London Medicine Fees For International Students</a>,
+";s:7:"expired";i:-1;}

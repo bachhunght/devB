@@ -1,0 +1,260 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3053:"The HTML5 Canvas’ feature set is an ideal candidate for producing all sorts of 2D and 3D games. We can draw shapes using canvas and making them functional using javascript. The canvas element is the actual DOM node that's embedded in the HTML page. The canvas context is an object with properties and methods that you can use to render graphics inside the canvas element. The HTML canvas element provides HTML a bitmapped surface to work with. The HTML 5 <canvas> tag is used to draw graphics using scripting language like JavaScript. What is getContext in HTML5 Canvas? The HTML5 canvas element can be used to draw graphics on the webpage via JavaScript. It can be used to draw graphs, make photo compositions or do simple Tip: Learn more about the <canvas> element in our HTML Canvas Tutorial. HTML Canvas Tag. There are different methods in javascript for drawing boxes, circle, text and adding images. The <canvas> element can seem confusing at first glance. The <canvas> element is only a container for graphics, you must need a scripting language to draw the graphics. HTML Canvas; SVG has better scalability. HTML Canvas Tag. Tip: For a complete reference of all the properties and methods that can be used with the canvas object, go to our HTML Canvas Reference. Your browser does not support the <canvas> element. There are plenty of (admittedly non-trivial) reasons for using a second canvas. The canvas context is an object with properties and methods that you can use to render graphics inside the canvas element. Canvas is an HTML5 element that allows you to easily and powerfully draw graphics, on the fly, using the ubiquitous JavaScript programming language. The canvas element is part of HTML5 and allows for dynamic, scriptable rendering of 2D shapes and bitmap images. So it can be printed with high quality at any resolution: Canvas has poor scalability. It allows for dynamic and scriptable rendering of 2D shapes and bitmap images. It is used to draw graphics on the web page. The HTML <canvas> element is used to draw graphics on a web page. The <canvas> element is only a container for graphics, you must need a scripting language to draw the graphics. In Hindi Videos For Free At Learnvern.com Often described as an HTML5 element you can use for drawing purposes, the truth is, the element is only a container that you can draw in via other methods (such as JavaScript). HTML5 Canvas is a great replacement for Flash-based banners and ads. Advertising. The HTML <canvas> element is used to draw graphics on a web page. The HTML canvas element provides HTML a bitmapped surface to work with. The <canvas> element is only a container for graphics, you must need a scripting language to draw the graphics. The HTML canvas element provides HTML a bitmapped surface to work with. So it can be printed with high quality at any resolution: Canvas has poor scalability. Javascript Web Development Front End Scripts The canvas element has a DOM method called getContext, used to obtain the rendering context and its drawing functions. ";s:7:"keyword";s:22:"what is canvas in html";s:5:"links";s:10744:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=easy-baking-recipes-for-beginners-indian'>Easy Baking Recipes For Beginners Indian</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-plan-backyard-landscape'>How To Plan Backyard Landscape</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mai-tai-with-dark-rum-floater'>Mai Tai With Dark Rum Floater</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-there-snow-in-jackson-hole-in-march'>Is There Snow In Jackson Hole In March</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sculptures-made-from-scrap-metal'>Sculptures Made From Scrap Metal</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=down-to-earth-vegetable-garden'>Down To Earth Vegetable Garden</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=carpenter-work-meaning-in-tamil'>Carpenter Work Meaning In Tamil</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cheap-farm-houses-for-sale-in-france'>Cheap Farm Houses For Sale In France</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=welcome-to-our-patio-signs'>Welcome To Our Patio Signs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-bridge-season-3-recap'>The Bridge Season 3 Recap</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-is-a-referral-agent'>What Is A Referral Agent</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-led-light-strips-for-room'>Best Led Light Strips For Room</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ikea-singapore-online-delivery-charges'>Ikea Singapore Online Delivery Charges</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=2-piece-sectional-with-chaise-leather'>2 Piece Sectional With Chaise Leather</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hgtv-dream-home-2019-winner'>Hgtv Dream Home 2019 Winner</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-air-layer-a-tree'>How To Air Layer A Tree</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-return-something-online'>How To Return Something Online</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=small-front-entrance-ideas-exterior'>Small Front Entrance Ideas Exterior</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=microsoft-by-the-numbers-2018'>Microsoft By The Numbers 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-long-to-bake-lamb-chops-at-375'>How Long To Bake Lamb Chops At 375</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-does-halloween-mean-in-the-bible'>What Does Halloween Mean In The Bible</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-death-of-superman-animated-movie'>The Death Of Superman Animated Movie</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-price-karcher-pressure-washer'>Best Price Karcher Pressure Washer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=opening-and-closing-checklist-for-kitchen-pdf'>Opening And Closing Checklist For Kitchen Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=3d-brick-wallpaper-peel-and-stick'>3d Brick Wallpaper Peel And Stick</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=can-you-use-instant-mash-for-shepherds-pie'>Can You Use Instant Mash For Shepherds Pie</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mammoth-weather-15-day-forecast'>Mammoth Weather 15 Day Forecast</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-do-you-spell-dictionary-in-french'>How Do You Spell Dictionary In French</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=karcher-k7-display-not-working'>Karcher K7 Display Not Working</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=renew-long-stay-visa-france'>Renew Long Stay Visa France</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=things-to-do-in-march-2020'>Things To Do In March 2020</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=toshiba-washing-machine-saudi-arabia'>Toshiba Washing Machine Saudi Arabia</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-prune-a-large-philodendron'>How To Prune A Large Philodendron</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-remove-zestimate-from-zillow'>How To Remove Zestimate From Zillow</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-herbs-for-indoor-vertical-garden'>Best Herbs For Indoor Vertical Garden</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-steam-mop-2019-uk'>Best Steam Mop 2019 Uk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-above-ground-pools-consumer-reports'>Best Above Ground Pools Consumer Reports</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=home-expo-2019-bukit-jalil'>Home Expo 2019 Bukit Jalil</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=place-of-supply-malayalam-meaning'>Place Of Supply Malayalam Meaning</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=shopee-home-and-living-fair'>Shopee Home And Living Fair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=information-about-isle-royale-national-park'>Information About Isle Royale National Park</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=joy-of-cooking-2006-pdf'>Joy Of Cooking 2006 Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-sea-shall-not-have-them-youtube'>The Sea Shall Not Have Them Youtube</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=new-restaurants-coming-to-owensboro-ky'>New Restaurants Coming To Owensboro Ky</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=drafting-chair-vs-office-chair'>Drafting Chair Vs Office Chair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=technical-university-of-munich-admission-requirements-for-international-students'>Technical University Of Munich Admission Requirements For International Students</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=oprah-winfrey-email-address-2018'>Oprah Winfrey Email Address 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=houses-for-sale-in-germany-countryside'>Houses For Sale In Germany Countryside</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=covet-meaning-in-the-bible'>Covet Meaning In The Bible</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ikea-plastic-cam-lock-removal'>Ikea Plastic Cam Lock Removal</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-tall-is-abigail-lawrie-height'>How Tall Is Abigail Lawrie Height</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=overstock-furniture-north-little-rock-ar'>Overstock Furniture North Little Rock Ar</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pivot-front-door-for-sale'>Pivot Front Door For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=build-a-simple-secretary-desk'>Build A Simple Secretary Desk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=glass-house-upstate-new-york'>Glass House Upstate New York</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=when-does-gardeners-world-start-2019'>When Does Gardeners World Start 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cream-and-black-wallpaper-uk'>Cream And Black Wallpaper Uk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=melissa-and-doug-pots-and-pans-target'>Melissa And Doug Pots And Pans Target</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-oregon-tuition-2020'>University Of Oregon Tuition 2020</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cleaning-herman-miller-mirra-chair'>Cleaning Herman Miller Mirra Chair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=simple-wall-painting-designs-for-living-room'>Simple Wall Painting Designs For Living Room</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sliding-mirror-closet-doors-for-bedrooms'>Sliding Mirror Closet Doors For Bedrooms</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philips-hue-recessed-downlight-color'>Philips Hue Recessed Downlight Color</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=elk-island-national-park-weather'>Elk Island National Park Weather</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lemon-and-blue-kitchen-decor'>Lemon And Blue Kitchen Decor</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=omaha-ne-events-next-14-days'>Omaha Ne Events Next 14 Days</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=housemaid-jobs-in-palm-jumeirah'>Housemaid Jobs In Palm Jumeirah</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-pronounce-cucumber-american'>How To Pronounce Cucumber American</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=luminus-led-retrofit-light-kit-costco'>Luminus Led Retrofit Light Kit Costco</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rectangle-pool-designs-with-spa'>Rectangle Pool Designs With Spa</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=makeup-vanity-table-with-lighted-mirror-for-sale'>Makeup Vanity Table With Lighted Mirror For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-grow-iceberg-lettuce-from-scraps'>How To Grow Iceberg Lettuce From Scraps</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=raymour-and-flanigan-credit-card-payment-td-phone-number'>Raymour And Flanigan Credit Card Payment Td Phone Number</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=isle-royale-national-park-timeline'>Isle Royale National Park Timeline</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bench-partner-meaning-in-hindi'>Bench Partner Meaning In Hindi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=a-quote-from-rachael-ray'>A Quote From Rachael Ray</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bridger-bowl-season-pass-msu-student'>Bridger Bowl Season Pass Msu Student</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=st-anton-ski-map-2020'>St Anton Ski Map 2020</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-a-park-with-cardboard'>How To Make A Park With Cardboard</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=asparagus-officinalis-common-name-in-hindi'>Asparagus Officinalis Common Name In Hindi</a>,
+";s:7:"expired";i:-1;}

@@ -1,0 +1,205 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2827:"It's been seven years since the Environmental Protection Agency announced the phase-out of chromated-copper-arsenate (CCA)treated lumber. This is typically done to protect the lumber from insects and extend its longevity. 10 ** Forms of copper may vary in toxicity. ACQ treated wood does not contain hazardous chemicals and is therefore regarded as a safe to use. Treated wood is wood that has been appropriately treated with preservative chemicals with the intent of prolonging its intended usefulness lifecycle compared to untreated wood. The old treated lumber used an Arsenic-based preservative solution, and was known as CCA treated lumber (chromated copper arsenate). The general appearance of wood treated with copper azole preservative is similar to CCA with a green colouration. ACQ-D is manufac-tured with amine copper, which gives the treated wood a light brown color. Tricks for Treated Lumber. Wood for any outdoor project should be pressure-treated; wood for indoor projects should be left as is. There are a few exceptions to this rule, though you should check with your local building inspector to be sure. The absence of chemicals like arsenic or chromium has made ACQ one of the most widely used residential wood preservatives. These compounds react with the wood fibers to slow natural decay and have properties to resist termites, fungus, moisture and other elements that promote rot and cause structural degradation. The active ingredients commonly used in treated wood are alkaline copper quaternary (ACQ), copper azole (CA) or micronized copper azole (MCA). Different types of applications and preservatives are used to protect wood fibers from structural degradation, decay fungi, termites, marine organisms and flames. While many homeowners wonder if they should use pressure-treated wood for a specific project, the answer is simple. The soluble copper makes the wood very resistant to biological attack, and a quaternary ammonium compound (quat) acts as biocide and insecticide, increasing the tolerance of the treated lumber to copper-resistant bacteria and fungi. ACQ. Unlike the old formula, ACQ contains no arsenic but has high copper content. Toxicity studies with micronized forms of copper are available. In response to consumer concerns, U.S. manufacturers of arsenical wood preservative began a voluntary transition from CCA to other wood preservatives for certain residential wood products. The American Wood Protection Association (AWPA) specifies the use of treated lumber for horticultural purposes to be Ground Contact. Pressure-treated wood is now treated with Alkaline Copper (AC) and Quaternary Ammonium Compounds (ACQ). Pressure-treated wood is intended for outdoor use only! Of these chemicals, ACQ currently is the most widely used wood preservative for residential applications. ";s:7:"keyword";s:24:"what is acq treated wood";s:5:"links";s:3261:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=have-ikea-bed-sizes-changed'>Have Ikea Bed Sizes Changed</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=Path-in-the-Wheat-at-Pourville'>Path In The Wheat At Pourville</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ice-cream-sandwich-face-reveal'>Ice Cream Sandwich Face Reveal</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=four-seasons-sharm-el-sheikh-email-address'>Four Seasons Sharm El Sheikh Email Address</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=drinking-every-night-after-work'>Drinking Every Night After Work</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=catch-me-if-you-can-netflix'>Catch Me If You Can Netflix</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=samsung-class-action-lawsuit-tv'>Samsung Class Action Lawsuit Tv</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bunk-bed-in-al-quoz'>Bunk Bed In Al Quoz</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=furniture-design-images-download-free'>Furniture Design Images Download Free</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ways-to-protect-tourist-destination'>Ways To Protect Tourist Destination</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-ask-for-real-estate-referrals-on-facebook'>How To Ask For Real Estate Referrals On Facebook</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=charmed-season-4-episode-19'>Charmed Season 4 Episode 19</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=homes-for-sale-rumford-maine'>Homes For Sale Rumford Maine</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=home-depot-storm-door-installation-cost'>Home Depot Storm Door Installation Cost</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-a-park-with-cardboard'>How To Make A Park With Cardboard</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sofa-colors-for-small-living-room'>Sofa Colors For Small Living Room</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hom-furniture-black-friday-ad-2019'>Hom Furniture Black Friday Ad 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-do-you-spell-mere'>How Do You Spell Mere</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=antique-claw-foot-table-value'>Antique Claw Foot Table Value</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=jackson-hole-discount-lift-tickets'>Jackson Hole Discount Lift Tickets</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chow-chow-north-indian-recipe'>Chow Chow North Indian Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=newtown-st-boswells-property-for-sale'>Newtown St Boswells Property For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=second-breakfast-know-your-meme'>Second Breakfast Know Your Meme</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=managing-dust-in-a-warehouse'>Managing Dust In A Warehouse</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rv-antifreeze-in-fresh-water-tank'>Rv Antifreeze In Fresh Water Tank</a>,
+";s:7:"expired";i:-1;}

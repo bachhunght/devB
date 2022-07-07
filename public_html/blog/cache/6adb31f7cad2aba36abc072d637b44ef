@@ -1,0 +1,247 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3365:"As the focus has switched to the environment, reducing greenhouse gases and phasing out HFCs (hydrofluorocarbons), ammonia is becoming the alternative. of using Anhydrous Ammonia Refrigerant in the Process Industries THE GOOD, THE BAD, AND THE UGLY OF USING ANHYDROUS AMMONIA REFRIGERANT IN THE PROCESS INDUSTRIES Walter S. Kessler, Senior Process Safety Engineer Introduction: Ammonia (azane (1) or R-717) was among the early refrigerants, first used in 1850 in France(2). Concentrated ammonia is much colder than typical room temperature, which makes it an excellent choice for keeping things cool. But you might be asking yourself why we use this, as ammonia to … When the pressure is released, the liquid evaporates rapidly, generally forming an invisible vapor or gas. it carries much more heat per pound than most other refrigerants, around twice as efficient as HFC's in this respect. Ammonia is used as a refrigerant because it has several physical properties that make it almost ideal for use in many types of refrigeration systems. Ammonia as a refrigerant isn’t a new concept. Why Ammonia? It is not used in modern home refrigeration, anymore, because its fumes can be toxic. Ammonia is not a universal refrigerant, and mainly suitable for industrial and heavy commercial applications. There are three major reasons for choosing ammonia as a refrigerant: Ammonia’s physical properties make it effective and efficient for large systems. There are several benefits provided by ammonia, which has been demonstrated over a period of decades to be effective when used in ammonia refrigeration systems. The reason is that it is far more efficient in comparison to the competitive refrigerants. Finally, we need to take a look at some desirable and undesirable properties of water as a … Last month, a 5000 pound ammonia leak occurred at a Boston-area seafood warehouse that killed one worker and forced a shelter-in-place order from Boston Police. To understand why we pick these substances over water, we first need to understand the refrigeration cycle. Anhydrous ammonia is widely used in industrial refrigeration applications and hockey rinks because of its high energy efficiency and low cost. While you will not usually find an ammonia-based system inside a home (ammonia is a very toxic substance, and the refrigerators are very expensive), they are used in factories that need large refrigeration devices that can cool substances very quickly. Ammonia emerges as the ideal choice for a refrigerant used in large cooling systems such as those used in industrial facilities. Why then do we not use it as a refrigerant but instead use other substances like ammonia, carbon dioxide, and sulfur dioxide.  In refrigeration systems, the liquid is stored in closed containers under pressure. An industrial ammonia refrigeration system is used for large-scale operations. Ammonia is a very-efficient refrigerant, and one of the most cost-effective refrigerants for commercial use. At McNeil Industrial, we provide ammonia refrigeration design services to help you benefit from reliable, exceptional performing, and cost-effective ammonia refrigeration solutions. Ammonia refrigeration systems are, as the name implies, a system of refrigeration that uses ammonia. Ammonia is used for refrigeration in an absorption type plant use for large cold stores. ";s:7:"keyword";s:34:"why ammonia is used as refrigerant";s:5:"links";s:8913:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=whirlpool-washer-and-dryer-front-load'>Whirlpool Washer And Dryer Front Load</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=command-pattern-vs-strategy-pattern'>Command Pattern Vs Strategy Pattern</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=900-sq-ft-apartment-design'>900 Sq Ft Apartment Design</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=warrior-pose-1-2-3'>Warrior Pose 1 2 3</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=battle-of-leyte-gulf-order-of-battle'>Battle Of Leyte Gulf Order Of Battle</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-led-recessed-lights-2018'>Best Led Recessed Lights 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rustic-french-country-house-plans'>Rustic French Country House Plans</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=y-40-pool-cost-to-build'>Y 40 Pool Cost To Build</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=nerium-oleander-uses-in-landscape'>Nerium Oleander Uses In Landscape</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=skyrim-se-becoming-a-landlord'>Skyrim Se Becoming A Landlord</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=types-of-flooring-in-india'>Types Of Flooring In India</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-raymour-and-flanigan-platinum-protection-plan-worth-it'>Is Raymour And Flanigan Platinum Protection Plan Worth It</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=appium-python-tutorial-for-beginners'>Appium Python Tutorial For Beginners</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=yard-house-happy-hour-riverside'>Yard House Happy Hour Riverside</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ibm-manyata-tech-park-reviews'>Ibm Manyata Tech Park Reviews</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=taste-of-home-holiday-recipes'>Taste Of Home Holiday Recipes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=meaning-of-sofa-in-hindi'>Meaning Of Sofa In Hindi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fiberglass-pool-installation-gone-wrong'>Fiberglass Pool Installation Gone Wrong</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=samsung-french-door-mullion-not-closing'>Samsung French Door Mullion Not Closing</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philips-hue-outdoor-light-strip-cutting'>Philips Hue Outdoor Light Strip Cutting</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wisteria-poisoning-symptoms-in-humans'>Wisteria Poisoning Symptoms In Humans</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=product-catalogue-template-free-download-word'>Product Catalogue Template Free Download Word</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=navy-blue-and-gray-living-room-combination'>Navy Blue And Gray Living Room Combination</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=can-i-put-vinegar-in-my-steam-mop'>Can I Put Vinegar In My Steam Mop</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-it-hard-to-breathe-in-salt-lake-city'>Is It Hard To Breathe In Salt Lake City</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lg-fridge-water-dispenser-parts'>Lg Fridge Water Dispenser Parts</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=miami-to-key-west-road-trip'>Miami To Key West Road Trip</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=30-minute-meals-alright-its-taco-night'>30 Minute Meals Alright Its Taco Night</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=i-like-to-watch-sentences'>I Like To Watch Sentences</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=unforgettable-memories-of-school-life'>Unforgettable Memories Of School Life</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cartoon-images-of-open-books'>Cartoon Images Of Open Books</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rental-kitchen-before-and-after'>Rental Kitchen Before And After</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=part-time-jobs-in-sharjah-home'>Part Time Jobs In Sharjah Home</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=public-interest-groups-examples-in-india'>Public Interest Groups Examples In India</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-eat-avocado-for-breakfast'>How To Eat Avocado For Breakfast</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cheap-bedroom-furniture-sets-under-200'>Cheap Bedroom Furniture Sets Under 200</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=succession-season-2-episode-8'>Succession Season 2 Episode 8</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-hide-fridge-water-line'>How To Hide Fridge Water Line</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-creeping-jenny-toxic-to-fish'>Is Creeping Jenny Toxic To Fish</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=free-real-estate-bio-template'>Free Real Estate Bio Template</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=whole-foods-careers-kansas-city'>Whole Foods Careers Kansas City</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chicken-tikka-masala-slow-cooker'>Chicken Tikka Masala Slow Cooker</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=target-photo-print-to-store-coupon-code'>Target Photo Print To Store Coupon Code</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=quebec-city-events-september-2019'>Quebec City Events September 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wall-tiles-design-for-bedroom'>Wall Tiles Design For Bedroom</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-do-i-download-the-new-scotiabank-app'>How Do I Download The New Scotiabank App</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=korean-bbq-sauce-recipe-for-ribs'>Korean Bbq Sauce Recipe For Ribs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=6-seater-round-dining-table-dimensions-in-cm'>6 Seater Round Dining Table Dimensions In Cm</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=e14-led-bulb-100w-equivalent'>E14 Led Bulb 100w Equivalent</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lennar-homes-atlantic-beach-fl'>Lennar Homes Atlantic Beach Fl</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-chicken-biryani-near-me'>Best Chicken Biryani Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=white-barn-door-medicine-cabinet'>White Barn Door Medicine Cabinet</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bbq-and-buffalo-sauce-mix'>Bbq And Buffalo Sauce Mix</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=resort-at-squaw-creek-webcam'>Resort At Squaw Creek Webcam</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=simple-wall-painting-designs-for-living-room'>Simple Wall Painting Designs For Living Room</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-sydney-scholarships-2020'>University Of Sydney Scholarships 2020</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-did-the-first-refrigerator-look-like'>What Did The First Refrigerator Look Like</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=celery-juice-detox-side-effects'>Celery Juice Detox Side Effects</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=great-british-bake-off-winners'>Great British Bake Off Winners</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=triple-glazed-french-doors-price'>Triple Glazed French Doors Price</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=diy-mid-century-modern-desk'>Diy Mid Century Modern Desk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-washington-qs-ranking-2019'>University Of Washington Qs Ranking 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-canned-san-marzano-tomatoes'>Best Canned San Marzano Tomatoes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cross-country-skiing-holidays-beginners'>Cross Country Skiing Holidays Beginners</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-find-the-root-of-a-word'>How To Find The Root Of A Word</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=big-lots-3-piece-table-set'>Big Lots 3 Piece Table Set</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=crystal-mountain-parking-lot-map'>Crystal Mountain Parking Lot Map</a>,
+";s:7:"expired";i:-1;}

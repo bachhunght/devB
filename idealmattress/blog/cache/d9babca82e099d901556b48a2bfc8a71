@@ -1,0 +1,248 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4616:"bleach per 10,000 gallons of water, in addition to regular chlorination, algae growth can be prevented. A 10,000 gallon pool requires 6 to 8 ounces of granular chlorinator each day. 1 gallon of 6% bleach in 10,000 gallons raises the FC by 6.17 ppm (I won't get into why it's not exactly 6 or 5.7, but a rough approximation is just to use 6). The 1 gallon of bleach per 1,000 gallons, if the bleach were Clorox Regular or an off-brand Ultra at 6% concentration, would raise the FC to nearly 62 ppm so would be WAY too high. The final result will be an estimate of how much water your pool holds. normally 12% or 10% being sold in the pool store, and 5% or 6% in grocery store. And about how many ppm does say a 1/2 gallon raise it ... 1 gal of 5.25% bleach will raise 10000 gal 5.25 ppm FC 1 gal of 6% bleach or liquid pool chlorine will raise 10000 gal 6 ppm FC 1 gal of 10% liquid pool chlorine will raise 10000 gal 10 ppm FC The amount of chlorine required per gallon of water depends on the type of chlorine used to treat the pool. You are correct that it probably should have been 1 gallon of bleach per 10,000 gallons which would raise the FC by 6.2 ppm which is far more reasonable (assuming there is some CYA in the water). If you need to calculate how much bleach or Clorox you need to shock your pool, you will have to use 1/2 gallon of bleach per 10,000 gallons of water to raise the chlorine levels by 5 ppm. A typical bottle of Clorox bleach is 121 ounces of 8.3 percent sodium hypochlorite. If you are shocking the pool, you will have to use ½ gallon of bleach per 10,000 gallons of water to raise the chlorine levels to 5 ppm. You can't just stand there and guess how much water is in there. When shocking your 1000 gallons pool, you need to use 0.05 gallons of bleach to take the chlorine level to 5 PPM. If you simply want to raise the chlorine level, use 0.025 gallons of bleach to raise a 1000 gallons pool by 2.5 PPM. If you use liquid bleach, it will cost you $50 … Simply multiply the number of gallons in the pool, such as 4,978, … Step 4 Add the bleach to the pool during the late afternoon or early evening. However, it depends on several factors including how much the pool is used, sun exposure, and water quality. 1 gal bleach of 6% will give 10000 gal water 6ppm of chlorine, and 60ppm on 1000 gal water. To raise the level of chlorine in your above ground pools to 5 pmm, you need to use a maximum of gallon of bleach for every 10000 gallons of pool water. It takes way more than a couple of teaspoons of Cal-Hypo 65% or Dichlor to raise the FC that much in 10,000 gallons -- it takes almost a pound, as indicated above.  Using regular chlorine bleach (5% solution) at a rate of 6.5 ounces of bleach per 1000 gallons of water gives a chlorination level of 2ppm per 1000 gallons. This means you need 1/2 gallon of bleach for every 10,000 gallons of pool water. KNOW YOUR POOL SIZE: Just about every chemical calculation is based on 10,000 gallons of pool water. From experience, my pool, which is a 25,000-gallon in-ground pool located near the woods (lots of leaves and tree debris) with a rather high bather load (including lots of kids), will use about 1-3 ppm of chlorine per day. The same pool needs two 3-inch, 8-ounce jumbo tablets each week. A daily dosage of 11 ounces of liquid chlorine is recommended for every 10,000 gallons of water. bleach = sodium hypo = liquid chlorine in pool store, the difference is the concentration of chlorine. So knowing your pool size is critically important. On an ongoing basis, if you super-chlorinate the pool with 100-200 oz. Shocking a pool requires increasing the chlorine to 5 parts per million. Thus, if the chlorine level is already 1 ppm and you want it higher, add 0.00013 ounces per gallon to raise the chlorine by 1 ppm. It is actually quite deceiving sometimes how large your pool actually is. To raise it to 10 ppm, you need 5 gallons. If you need to mildly shock a 30,000-gallon pool by raising the free chlorine concentration to 5 ppm, you need 2.5 gallons of bleach. If you are just trying to raise the chlorine level by 2.5 ppm, then you will have to use as much as ¼ gallon of bleach per 10,000 gallons of water. The amount of bleach used to shock a pool depends on the size of the pool. However, to bleach 1000 of pool water, you will require (1000*1/2) /10000 which gives you 0.05 gallons of bleach. Just go by the granular chlorine. It takes a couple of teaspoons of granular chlorine to make 1 gallon of bleach. One pound of granular is $3, and will yield about 24 gallons of bleach (which costs about $2 a gallon). ";s:7:"keyword";s:37:"how much bleach for 10000 gallon pool";s:5:"links";s:9062:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=portes-du-soleil-summer-map'>Portes Du Soleil Summer Map</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=american-restaurants-in-ogden-utah'>American Restaurants In Ogden Utah</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-bend-thick-wood'>How To Bend Thick Wood</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=living-room-too-small-for-sofa'>Living Room Too Small For Sofa</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=st-anton-am-arlberg-hotels'>St Anton Am Arlberg Hotels</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-melbourne-world-ranking-2019'>University Of Melbourne World Ranking 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-cook-bacon-in-a-pan'>How To Cook Bacon In A Pan</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=console-table-with-drawers-ikea'>Console Table With Drawers Ikea</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=herman-miller-mirra-2-canada'>Herman Miller Mirra 2 Canada</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=difference-between-zone-6a-and-6b'>Difference Between Zone 6a And 6b</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bed-bug-room-heater-rental-home-depot'>Bed Bug Room Heater Rental Home Depot</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=storage-bench-seat-plans-free'>Storage Bench Seat Plans Free</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hon-file-cabinets-remove-drawers'>Hon File Cabinets Remove Drawers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=small-walk-in-closet-dimensions'>Small Walk In Closet Dimensions</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=national-elk-refuge-sleigh-ride'>National Elk Refuge Sleigh Ride</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=t-shaped-house-feng-shui'>T Shaped House Feng Shui</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=two-jack-lake-skating-conditions-2019'>Two Jack Lake Skating Conditions 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=san-pedro-cactus-cuttings-for-sale-us'>San Pedro Cactus Cuttings For Sale Us</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=houses-for-rent-in-naperville-il-craigslist'>Houses For Rent In Naperville Il Craigslist</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=authentic-tandoori-chicken-recipe-pakistani'>Authentic Tandoori Chicken Recipe Pakistani</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=leather-chairs-for-sale-near-me'>Leather Chairs For Sale Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=weird-food-habits-around-world'>Weird Food Habits Around World</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-to-do-with-old-bathroom-vanity'>What To Do With Old Bathroom Vanity</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=quaker-oats-meatloaf-recipe-with-milk'>Quaker Oats Meatloaf Recipe With Milk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=things-to-cook-at-home-easy'>Things To Cook At Home Easy</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=solid-wood-platform-bed-no-headboard'>Solid Wood Platform Bed No Headboard</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=battery-operated-paper-star-lanterns'>Battery Operated Paper Star Lanterns</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=different-types-of-veg-koftas'>Different Types Of Veg Koftas</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=in-ground-pool-lighting-options'>In Ground Pool Lighting Options</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=small-u-shaped-kitchen-floor-plans'>Small U Shaped Kitchen Floor Plans</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rubbermaid-brute-20-gallon-storage'>Rubbermaid Brute 20 Gallon Storage</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=round-dining-table-for-4-white'>Round Dining Table For 4 White</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=easy-meatball-subs-with-frozen-meatballs'>Easy Meatball Subs With Frozen Meatballs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=second-breakfast-know-your-meme'>Second Breakfast Know Your Meme</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lexington-ma-town-trick-or-treat-2019'>Lexington Ma Town Trick Or Treat 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lakshmi-nair-cookery-show-malayalam'>Lakshmi Nair Cookery Show Malayalam</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-does-military-1st-ship-from'>Where Does Military 1st Ship From</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=against-her-will-an-incident-in-baltimore'>Against Her Will An Incident In Baltimore</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=macy-promo-code-jan-2019'>Macy Promo Code Jan 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-is-livingstone-countertop-made-of'>What Is Livingstone Countertop Made Of</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=black-pudding-recipe-using-dried-blood'>Black Pudding Recipe Using Dried Blood</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=when-do-asters-bloom-uk'>When Do Asters Bloom Uk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=silk-vanilla-soy-milk-review'>Silk Vanilla Soy Milk Review</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-steam-clean-carpet-yourself'>How To Steam Clean Carpet Yourself</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=missouri-star-quilt-tutorial-tumbling-blocks'>Missouri Star Quilt Tutorial Tumbling Blocks</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-far-is-hatch-new-mexico'>How Far Is Hatch New Mexico</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-get-a-job-at-wayfair'>How To Get A Job At Wayfair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=small-bedroom-layout-queen-bed'>Small Bedroom Layout Queen Bed</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=godrej-slimline-3-door-with-overhead'>Godrej Slimline 3 Door With Overhead</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=step-2-neat-and-tidy-cottage-stickers'>Step 2 Neat And Tidy Cottage Stickers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=four-seasons-resort-sharm-el-sheikh'>Four Seasons Resort Sharm El Sheikh</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=childrens-garden-ideas-on-a-budget'>Childrens Garden Ideas On A Budget</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philips-hue-adore-mirror-review'>Philips Hue Adore Mirror Review</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-utilize-a-narrow-hallway'>How To Utilize A Narrow Hallway</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-temperature-do-you-roast-vegetables-in-convection-oven'>What Temperature Do You Roast Vegetables In Convection Oven</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=simple-baby-back-ribs-in-oven'>Simple Baby Back Ribs In Oven</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=10-lines-on-vegetables-in-english'>10 Lines On Vegetables In English</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=beet-vs-radish-vs-turnip'>Beet Vs Radish Vs Turnip</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hoover-twin-tank-handheld-steam-cleaner-instructions'>Hoover Twin Tank Handheld Steam Cleaner Instructions</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=royal-blue-chaise-lounge-chair'>Royal Blue Chaise Lounge Chair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=saturday-brunch-places-near-me'>Saturday Brunch Places Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=john-lewis-metal-wall-art'>John Lewis Metal Wall Art</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=stores-going-out-of-business-2020'>Stores Going Out Of Business 2020</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fabric-swivel-glider-recliner-costco'>Fabric Swivel Glider Recliner Costco</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lightweight-folding-stool-with-canvas-seat'>Lightweight Folding Stool With Canvas Seat</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-barbecue-restaurants-in-bangalore'>Best Barbecue Restaurants In Bangalore</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=beer-garden-near-me-now'>Beer Garden Near Me Now</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-gardening-books-of-all-time'>Best Gardening Books Of All Time</a>,
+";s:7:"expired";i:-1;}

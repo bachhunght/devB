@@ -1,0 +1,221 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4657:"Food preservation - Food preservation - Fungi: The two types of fungi that are important in food spoilage are yeasts and molds. The water activity does not say how much water in total sits in the food. The following points highlight the two main factors that lead to the spoilage of food. This is in turn affected by a range of factors such as water, pH, oxygen and temperature as well the physical structure of the food itself. Food spoilage is caused by microbes. Spoilage bacteria will make themselves known in a variety of ways. The food may develop an uncharacteristic odor, color and/or become sticky or slimy. Keep vacuum packaged perishable foods in the refrigerator or freezer. Find out what makes bacteria grow, and how to stop them from contaminating your food. Many types of microorganisms can cause food problems. The microbial quality of fish and especially shellfish is heavily influenced by the quality of the water from which they were harvested. This intake of moisture into the tissue of the food source is the perfect vector for micro organisms to infest it. To understand how to maintain the quality of food and prevent spoilage, we need to know what can cause it. Food spoilage refers to undesirable changes occurring in food due to the influence of air, heat, light, moisture, which foster the growth of microorganisms. Foods take different period of time to lose their natural form though spoilage. This is a very good example of how food spoilage occurs and food hygiene breakdowns happen. Microbial Food Spoilage can define the biological process which involves microorganisms can degrade and decompose the food material, at optimal environmental conditions (temperature, ph, oxygen, moisture etc.) Food spoilage increases microbial activity. Controlling heat, moisture and pH helps to inhibit spoilage by preventing microbial growth and slowing down the food's natural breakdown process. Spoilage organisms, such as bacteria, yeasts and mould grow on the food making it undesirable or just unsafe to eat all require moisture to feed on the food. A temperature of 40 °F should be maintained in the refrigerator. Dehydration is the process of removing moisture from foods, thereby slowing or stopping the growth of spoilage bacteria. Collect carrots, oranges, garden eggs, kontomire and pepper and leave them on a plate for ten days. Food’s Own Chemical Properties. In contrast to freezer storage, perishable foods will gradually spoil in the refrigerator. The water activity does not say how much water in total sits in the food. Spores are formed in large numbers and are easily dispersed through the air. Foods take different period of time to lose their natural form though spoilage. and brings some undesirable changes which make the food inedible to eat. The factors are: 1. Molds are multicellular fungi that reproduce by the formation of spores (single cells that can grow into a mature fungus). This form of tissue deterioration is a major cause of food spoilage. This intake of moisture into the tissue of the food source is the perfect vector for micro organisms to infest it. Controlling heat, moisture and pH helps to inhibit spoilage by preventing microbial growth and slowing down the food's natural breakdown process. You can use a conventional oven set to warm with the door open or an actual food dehydrator. Dehydration is the process of removing moisture from foods, thereby slowing or stopping the growth of spoilage bacteria. For years, safety (i.e., the exclusion or elimination of pathogens from food) has been studied separately from the prevention of spoilage. Microbial Food Spoilage can define the biological process which involves microorganisms can degrade and decompose the food material, at optimal environmental conditions (temperature, ph, oxygen, moisture etc.) Spoiled Food. Food preservation methods such as drying, freezing and adding salt or sugar work by lowering the available moisture in foods. Food spoilage and food poisoning are caused by bacteria. Molds may also grow and become visible. Spoilage can occur either in the field or in storage. Foods with the same water activity may have a very different water content. Cooking food deactivates enzymes and kills bacteria and fungi, but this process is only permanent for enzymes. Heat can further deteriorate food packaging, particularly if it comes from sunlight. The rate of spoilage depends on micro-organisms is dependent on the ability of these microbes to grow and multiply. Consequently, package deterioration could cause food contamination or spoilage. and brings some undesirable changes which make the food inedible to eat. ";s:7:"keyword";s:38:"how does moisture affect food spoilage";s:5:"links";s:5525:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-coffee-shops-to-work-in-manhattan'>Best Coffee Shops To Work In Manhattan</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=promo-codes-that-always-work'>Promo Codes That Always Work</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=2-piece-sectional-with-chaise-leather'>2 Piece Sectional With Chaise Leather</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-scorpion-king-full-movie'>The Scorpion King Full Movie</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=youtube-kidney-in-a-cooler'>Youtube Kidney In A Cooler</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mechanical-engineer-meaning-in-urdu'>Mechanical Engineer Meaning In Urdu</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mstar-international-sanders-6-piece-modular-fabric-sectional-sofa'>Mstar International Sanders 6 Piece Modular Fabric Sectional Sofa</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=new-york-new-york-roller-coaster-height'>New York New York Roller Coaster Height</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=baked-chicken-and-cauliflower-recipe'>Baked Chicken And Cauliflower Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lg-front-load-washing-machine-7kg'>Lg Front Load Washing Machine 7kg</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-braid-schefflera-plant'>How To Braid Schefflera Plant</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wayfair-virtual-customer-service-pay'>Wayfair Virtual Customer Service Pay</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=white-live-edge-dining-table'>White Live Edge Dining Table</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lg-fridge-not-cooling-but-freezer-working'>Lg Fridge Not Cooling But Freezer Working</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=large-outdoor-fairy-garden-ideas'>Large Outdoor Fairy Garden Ideas</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cheap-rural-property-in-scotland'>Cheap Rural Property In Scotland</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=alain-passard-cours-de-cuisine'>Alain Passard Cours De Cuisine</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philips-hue-recessed-downlight-color'>Philips Hue Recessed Downlight Color</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=who-won-the-battle-of-britain'>Who Won The Battle Of Britain</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=healthy-green-bean-casserole-greek-yogurt'>Healthy Green Bean Casserole Greek Yogurt</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=top-box-office-movies-this-weekend'>Top Box Office Movies This Weekend</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=karcher-pressure-washer-problems-electric'>Karcher Pressure Washer Problems Electric</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=birthday-party-themes-for-adults-unique'>Birthday Party Themes For Adults Unique</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wells-fargo-bank-owned-properties'>Wells Fargo Bank Owned Properties</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=meatloaf-made-with-tomato-sauce'>Meatloaf Made With Tomato Sauce</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-haunting-in-connecticut-full-movie'>The Haunting In Connecticut Full Movie</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=top-box-office-movies-this-weekend'>Top Box Office Movies This Weekend</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=groove-armada-at-the-river-live'>Groove Armada At The River Live</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=eso-shadowrend-vs-maw-of-the-infernal'>Eso Shadowrend Vs Maw Of The Infernal</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=color-changing-light-bulb-app'>Color Changing Light Bulb App</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-zimmern-list-portland-maine'>The Zimmern List Portland Maine</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-garden-of-earthly-delights-hd'>The Garden Of Earthly Delights Hd</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chocolate-and-vanilla-panna-cotta'>Chocolate And Vanilla Panna Cotta</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sofa-colors-for-small-living-room'>Sofa Colors For Small Living Room</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=appliances-repair-shop-near-me'>Appliances Repair Shop Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-pressure-washer-for-patio'>Best Pressure Washer For Patio</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=furniture-shops-in-deira-dubai'>Furniture Shops In Deira Dubai</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=jbs-on-the-beach-parking'>Jbs On The Beach Parking</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=peach-benefits-and-side-effects'>Peach Benefits And Side Effects</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=t3-300w-halogen-bulb-led-replacement'>T3 300w Halogen Bulb Led Replacement</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fun-restaurants-in-wilmington-nc'>Fun Restaurants In Wilmington Nc</a>,
+";s:7:"expired";i:-1;}

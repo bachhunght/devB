@@ -1,0 +1,266 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4905:"Your Spa Day Includes * £140 to spend on your choice of treatments * Dining experience: Two course lunch or afternoon tea * Full use of Utopia spa facilities for 6 hours All of our restaurants here at Alexander House Hotel & Utopia Spa have their own dedicated kitchen, ensuring that each offering is truly unique. Enjoy the classic British tradition of Afternoon Tea with finger sandwiches, scones with clotted cream and preserves, cakes and pastries, tea and coffee and a glass of Champagne. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Afternoon Tea at the Alexander House and The Crown serve a selection of meals within 300 feet from the hotel. No good day out is ever complete without enjoying a delicious cream tea. Afternoon Tea will be enjoyed in one of our intimate lounges or weather permitting, al fresco on our terrace. Relax with a Pamper Treat and Afternoon Tea for Two. Sink into our hub of pools and bubble tubs, and with £140 towards your choice of treatments, you really can tailor make your perfect spa day to suit you and your wants. It offers a welcome break during a long day shopping or sightseeing. You can start your day with a full breakfast, which costs GBP 19.50 per person per day. Leisure. Enjoy the classic British tradition of Afternoon Tea with finger sandwiches, scones with clotted cream and preserves, cakes and pastries, tea and coffee and a glass of Champagne. Our Full Afternoon Tea includes a yummy selection of finger sandwiches, homemade scones, clotted cream & strawberry jam and our sticky eclairs, with your choice of tea. See 2,797 traveller reviews, 2,196 candid photos, and great deals for Alexander House Hotel & Utopia Spa, ranked #2 of 4 hotels in East Grinstead and rated 4.5 of 5 at Tripadvisor. Two Step. Afternoon Tea at the Alexander House: Afternoon Tea - See 182 traveler reviews, 26 candid photos, and great deals for East Grinstead, UK, at Tripadvisor. Prices are calculated as of 24/02/2020 based on a check-in date of 08/03/2020. We are so proud that our food has been awarded with a third AA Rosette. Set within 120 acres of glorious Sussex countryside, Alexander House is a 5* luxury manor house with beautiful vistas, a choice of restaurants, an award-winning Utopia Spa and rooms designed for absolute comfort. Last entry for teas is at 4.15pm. Outdoor enthusiasts, please pay attention to the following tips, for which can help you save a lot of money. Find places to take afternoon tea in London, Manchester, Edinburgh, Birmingham, Leeds and more. Dear Matt B Thank you for taking the time to review Cisswood House – as I said in my email to you on Monday 11th March to which you did not respond until wednesday the 27th March– my sincerest apologies to you for the inconveniences you encountered whilst staying with us over the weekend of the 9th and 10th. Now £150 on Tripadvisor: Alexander House Hotel & Utopia Spa, East Grinstead. Relax at the award-winning spa, indulge in mouthwatering meals, or enjoy afternoon tea, and you're always guaranteed a good night's sleep! Available in The Camellia restaurant, sitting in one of the lounges in the spring sunshine, relaxing outside on the terrace on a blazing summer's day, overlooking the display of autumn colours or snuggled deep in a sofa in The Drawing Room during the winter months. For Afternoon Tea reservations, your table will be reserved for up to two hours. Teas are served in the magnificent Ballroom, open from 2pm – 4.30pm on Open Days, for visitors taking a tour of the House. Amidst the rush of urban life, Afternoon Tea at the Mary Cassatt Tea Room offers an intimate daily escape and the continuance of the age-old tradition of afternoon tea, Philadelphia-style. NOW WITH UP TO £50 OFF! A traditional and comforting treat, afternoon tea at South Lodge is a delight. Enjoy the classic British tradition with finger sandwiches, scones with clotted cream and preserves, cakes and pastries, tea and coffee. Please note that there is a smart dress code in the AG's restaurant. A continental breakfast is served at the price of GBP 15.50 per person per day. Afternoon Tea at the Alexander House: Afternoon tea - See 180 traveler reviews, 26 candid photos, and great deals for East Grinstead, UK, at TripAdvisor. Afternoon Tea Online has over 400 tea rooms and restaurants in the UK. You can also choose a big slice of one of our homemade cakes, and if we still haven’t satisfied your sweet tooth tuck into some of our daily pick and mix treats. Welcome to Afternoon Tea Online. If you wish to reserve a table for afternoon tea for six or more guests, please contact us on 01342 714914 (option 4). Afternoon tea is one of the UK's most famous pastimes. Dating back to 1598 this former family home is steeped in history and was once a smugglers hideout and store in the 17th Century. ";s:7:"keyword";s:34:"alexander house afternoon tea cost";s:5:"links";s:11608:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dubizzle-abu-dhabi-kitchen-items'>Dubizzle Abu Dhabi Kitchen Items</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=free-fonts-for-commercial-use'>Free Fonts For Commercial Use</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=darvin-barrel-chair-and-ottoman'>Darvin Barrel Chair And Ottoman</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=buying-furniture-at-big-lots'>Buying Furniture At Big Lots</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=small-console-table-with-drawers'>Small Console Table With Drawers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=joanna-gaines-wallpaper-sherwin-williams'>Joanna Gaines Wallpaper Sherwin Williams</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-draw-a-shadow-of-an-object'>How To Draw A Shadow Of An Object</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=8-heads-in-a-duffel-bag-tamil-dubbed-movie-download'>8 Heads In A Duffel Bag Tamil Dubbed Movie Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=benefits-of-rosemary-infused-water'>Benefits Of Rosemary Infused Water</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=black-and-white-paintings-with-color-accents'>Black And White Paintings With Color Accents</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=herman-miller-embody-weight-limit'>Herman Miller Embody Weight Limit</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=does-olive-oil-go-rancid-on-wood'>Does Olive Oil Go Rancid On Wood</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=virgin-of-the-rocks-medium'>Virgin Of The Rocks Medium</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=small-roof-garden-design-ideas'>Small Roof Garden Design Ideas</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=anchor-switches-price-list-2019-pdf'>Anchor Switches Price List 2019 Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bright-kitchen-lighting-flush-mount'>Bright Kitchen Lighting Flush Mount</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=narrow-console-tables-for-narrow-hall'>Narrow Console Tables For Narrow Hall</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sterilite-3-drawer-small-walmart'>Sterilite 3 Drawer Small Walmart</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=traveling-titanic-exhibit-2019-schedule'>Traveling Titanic Exhibit 2019 Schedule</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chick-fil-a-food-truck-kittery-maine'>Chick Fil A Food Truck Kittery Maine</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=table-made-from-tree-trunk'>Table Made From Tree Trunk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=why-i-want-to-be-in-national-honor-society-essay-examples'>Why I Want To Be In National Honor Society Essay Examples</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=side-by-side-refrigerator-sale'>Side By Side Refrigerator Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=40000-psi-pressure-washer-rental'>40000 Psi Pressure Washer Rental</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=craigslist-free-stuff-lowell-ma'>Craigslist Free Stuff Lowell Ma</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=plants-for-east-facing-balcony'>Plants For East Facing Balcony</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=white-corner-shelf-unit-living-room'>White Corner Shelf Unit Living Room</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=simplehuman-rectangular-step-can-55l'>Simplehuman Rectangular Step Can 55l</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-restaurants-in-palermo-buenos-aires-2019'>Best Restaurants In Palermo Buenos Aires 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=nylon-6-vs-nylon-66'>Nylon 6 Vs Nylon 66</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pottery-barn-vanities-look-alikes'>Pottery Barn Vanities Look Alikes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-hills-have-eyes-2'>The Hills Have Eyes 2</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=1000-sq-ft-house-plans-duplex'>1000 Sq Ft House Plans Duplex</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=most-famous-houses-in-america'>Most Famous Houses In America</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=jasper-and-sardius-stone-images'>Jasper And Sardius Stone Images</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=testng-interview-questions-for-6-years-experience'>Testng Interview Questions For 6 Years Experience</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=social-media-words-and-phrases'>Social Media Words And Phrases</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cross-country-ski-rentals-south-lake-tahoe'>Cross Country Ski Rentals South Lake Tahoe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-draw-shelves-on-a-wall'>How To Draw Shelves On A Wall</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=stir-fry-peas-from-frozen'>Stir Fry Peas From Frozen</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=broyhill-outdoor-furniture-4-piece-set'>Broyhill Outdoor Furniture 4 Piece Set</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-write-an-application-letter'>How To Write An Application Letter</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=plants-vs-zombies-heroes-unblocked'>Plants Vs Zombies Heroes Unblocked</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=floor-and-decor-near-me'>Floor And Decor Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=most-popular-cookie-in-the-world'>Most Popular Cookie In The World</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=twelve-oaks-mall-holiday-hours-2019'>Twelve Oaks Mall Holiday Hours 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=james-badge-dale-movies-and-tv-shows'>James Badge Dale Movies And Tv Shows</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-a-swimming-pool-profitable'>How To Make A Swimming Pool Profitable</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=movie-buff-meaning-in-tamil'>Movie Buff Meaning In Tamil</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=unsw-fees-for-domestic-students'>Unsw Fees For Domestic Students</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=when-to-use-singleton-and-prototype-scope-in-spring'>When To Use Singleton And Prototype Scope In Spring</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=narrow-console-cabinet-with-doors'>Narrow Console Cabinet With Doors</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=strictly-come-dancing-professionals-2018'>Strictly Come Dancing Professionals 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=map-of-newport-ri-harbor'>Map Of Newport Ri Harbor</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=map-of-portland-oregon-neighborhoods'>Map Of Portland Oregon Neighborhoods</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=portable-pool-steps-for-inground-pools'>Portable Pool Steps For Inground Pools</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=gucci-watch-repair-san-francisco'>Gucci Watch Repair San Francisco</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=do-black-eyed-susans-spread'>Do Black Eyed Susans Spread</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-western-ontario-agriculture'>University Of Western Ontario Agriculture</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=furniture-row-in-chattanooga-tn'>Furniture Row In Chattanooga Tn</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=white-sand-volume-3-release-date'>White Sand Volume 3 Release Date</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=serie-a-team-of-the-season-2019'>Serie A Team Of The Season 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=carpenter-work-meaning-in-tamil'>Carpenter Work Meaning In Tamil</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ryobi-3100-psi-pressure-washer-manual'>Ryobi 3100 Psi Pressure Washer Manual</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-tile-for-shower-walls-ceramic-or-porcelain'>Best Tile For Shower Walls Ceramic Or Porcelain</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=list-of-plants-that-grow-from-leaves'>List Of Plants That Grow From Leaves</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=breakfast-casserole-with-potatoes-and-ham'>Breakfast Casserole With Potatoes And Ham</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-remove-rental-price-history-from-zillow'>How To Remove Rental Price History From Zillow</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=acrylic-makeup-drawers-dollar-tree'>Acrylic Makeup Drawers Dollar Tree</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=top-ten-grilled-chicken-breast-recipes'>Top Ten Grilled Chicken Breast Recipes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=black-and-white-striped-accent-chair'>Black And White Striped Accent Chair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=part-time-indian-cook-in-dubai-silicon-oasis'>Part Time Indian Cook In Dubai Silicon Oasis</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-use-dried-figs'>How To Use Dried Figs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-color-light-is-best-for-seedlings'>What Color Light Is Best For Seedlings</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=coq-au-vin-ina-garten'>Coq Au Vin Ina Garten</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=liberty-furniture-farmhouse-reimagined-vanity'>Liberty Furniture Farmhouse Reimagined Vanity</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=used-tools-for-sale-online'>Used Tools For Sale Online</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=summer-rayne-oakes-house-tour'>Summer Rayne Oakes House Tour</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=on-it-transit-calgary-to-banff'>On It Transit Calgary To Banff</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=german-residence-permit-for-spouse'>German Residence Permit For Spouse</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fresh-figs-carbs-per-100g'>Fresh Figs Carbs Per 100g</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=love-your-garden-2019-episode-4'>Love Your Garden 2019 Episode 4</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hue-play-hdmi-sync-box-australia'>Hue Play Hdmi Sync Box Australia</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-adjust-dual-monitor-arms'>How To Adjust Dual Monitor Arms</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-do-you-spell-dictionary-in-french'>How Do You Spell Dictionary In French</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=historic-environment-scotland-search-room'>Historic Environment Scotland Search Room</a>,
+";s:7:"expired";i:-1;}

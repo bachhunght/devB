@@ -1,0 +1,242 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3459:"Change a rich text field to plain text. There are a number of arguments that can be made for the continued use of plain text emails: Universal readability. This question needs to be more focused. In order for HTML functionality to be used in the creation of an email, the Rich Text editor must be turned on. Therefore no text formatting (such as font sizes and colors, bolding or italics) can be used. When viewed in a text editor, HTML appears as plain text -- the text content of the site -- interspersed with codes contained in angle brackets. Plain text is used for much e-mail. Plain Text: Text documents come in two flavors - rich text and plain text. A plain text resume is most often sent by e-mail, but can also be sent by fax, postal mail, or courier. Plain text email cons. Plain text format allows only the use of, well…plain text. Plain text is different from formatted text, where style information is included; from structured text, where … Plain Text Approach vs. HTML Email. I am using a view page display to render this output, but the output for this field is displaying data as plain text (no formatting) along with HTML code instead of formatted data same as in the editor. HTML allows you a variety of ways to format your message text, graphics and color. python beautifulsoup No colors, graphics, or formatting. When email was first invented in 1971 as part of the early Internet (ARAPANet), it was intended to be “text-only“, which meant just that… it was plain text with no pretty formatting. Instead, a Web browser reads the HTML formatting tags in a website's code and displays the site's content accordingly. But Word's formatted text is in Word's native file format, not RTF. Closed. elements are rendered) in Python? I would also like to know how to maintain the font surrounding the autocorrect entry, e.g., the text was in Times Roman font but the autocorrect entry was in Cambria - plus it added a return (new line) at the end of my autocorrect entry. Open the table that contains the field in Design View. Every email client can render plain text emails, so using this format means that you never have to worry about your formatting being a stumbling block to deliverability. Word's native file format for 2007 and 2010 is Word Open XML. How … In the “Format” section, select “HTML“, “Rich Text“, or “Plain Text” as desired. If you select the Read all standard mail in plain text option, however, Outlook formats your reply in plain text. It supports standard ASCII characters, including numbers, symbols, and spaces, but does not support any type of text formatting. It may also include a limited number of characters that control simple arrangement of text, such as spaces, line breaks, or tabulation characters. The plain text approach involves only text - no formatting, no links, and no images. A plain text message looks like something written in a basic text editor. In the message window, on the Format Text tab, in the Format group, click HTML, Rich Text, or Plain Text. This makes it a bad choice if you’re looking to create a great looking email signature . I was able to get it to work in Word 2010. \par) ... Get a RTF-formatted string to a RichTextBox. Plain Text is regular text, with no special formatting options such as bold, italics, underlines, or special layout options. Since it allows for text formatting, Rich Text is a popular default format for the creation of emails. ";s:7:"keyword";s:28:"plain text vs formatted text";s:5:"links";s:8228:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=schengen-visa-for-spouse-of-british-citizen'>Schengen Visa For Spouse Of British Citizen</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=plastic-pots-for-plants-wholesale'>Plastic Pots For Plants Wholesale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-wall-color-in-india'>Best Wall Color In India</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lift-and-slide-patio-doors-cost'>Lift And Slide Patio Doors Cost</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mid-century-modern-chair-cushions'>Mid Century Modern Chair Cushions</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=living-stones-church-crown-point-in'>Living Stones Church Crown Point In</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=benefits-of-eating-raw-tomatoes'>Benefits Of Eating Raw Tomatoes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-leeds-acceptance-rate-for-international-students'>University Of Leeds Acceptance Rate For International Students</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dirt-devil-featherlite-canister-sd40100'>Dirt Devil Featherlite Canister Sd40100</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=michelin-star-restaurants-2019-map'>Michelin Star Restaurants 2019 Map</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-branch-a-dracaena'>How To Branch A Dracaena</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-wine-for-boeuf-bourguignon'>Best Wine For Boeuf Bourguignon</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=old-wood-windows-for-sale-near-me'>Old Wood Windows For Sale Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-last-married-couple-in-america-trailer'>The Last Married Couple In America Trailer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-pier-1-dog-friendly'>Is Pier 1 Dog Friendly</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bars-in-north-little-rock-ar'>Bars In North Little Rock Ar</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=walnut-grove-dubai-mall-zomato'>Walnut Grove Dubai Mall Zomato</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pottery-barn-vanities-look-alikes'>Pottery Barn Vanities Look Alikes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-use-virtualbox-for-linux'>How To Use Virtualbox For Linux</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=good-luck-bamboo-growth-spray'>Good Luck Bamboo Growth Spray</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-many-metres-for-kurti'>How Many Metres For Kurti</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-draw-a-bike-with-a-person-riding-it'>How To Draw A Bike With A Person Riding It</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=here-are-some-information-about-me'>Here Are Some Information About Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=classical-electricity-and-magnetism-pdf-download'>Classical Electricity And Magnetism Pdf Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-size-art-over-king-bed'>What Size Art Over King Bed</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pretty-maids-all-in-a-row-trailer'>Pretty Maids All In A Row Trailer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cucumber-dependencies-in-pom-xml'>Cucumber Dependencies In Pom Xml</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=aqua-jet-roof-cleaning-equipment'>Aqua Jet Roof Cleaning Equipment</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=glass-and-wood-side-table'>Glass And Wood Side Table</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=crested-butte-lift-tickets-2020'>Crested Butte Lift Tickets 2020</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dfs-management-remove-server-from-replication-group'>Dfs Management Remove Server From Replication Group</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-bristol-about-us'>University Of Bristol About Us</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mid-century-modern-reclining-loveseat'>Mid Century Modern Reclining Loveseat</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-michigan-college-of-engineering'>University Of Michigan College Of Engineering</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=difference-between-kilos-and-kg'>Difference Between Kilos And Kg</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-craft-beer-bars-near-times-square'>Best Craft Beer Bars Near Times Square</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-alloy-of-law-review'>The Alloy Of Law Review</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=karcher-floor-scrubber-and-dryer'>Karcher Floor Scrubber And Dryer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cute-bathroom-ideas-for-apartments'>Cute Bathroom Ideas For Apartments</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=4x7-roll-up-door-menards'>4x7 Roll Up Door Menards</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=top-lighting-companies-in-the-world'>Top Lighting Companies In The World</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=this-war-of-mine-hotel'>This War Of Mine Hotel</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=decorative-led-lights-for-home'>Decorative Led Lights For Home</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kubota-harvester-price-in-odisha-2019'>Kubota Harvester Price In Odisha 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=when-trumpets-fade-historical-accuracy'>When Trumpets Fade Historical Accuracy</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=healthy-sandwich-recipes-for-weight-loss'>Healthy Sandwich Recipes For Weight Loss</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-to-buy-zymurgorium-gin'>Where To Buy Zymurgorium Gin</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=light-gray-leather-recliner-chair'>Light Gray Leather Recliner Chair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=alpaca-fiber-processing-near-me'>Alpaca Fiber Processing Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=small-roof-garden-design-ideas'>Small Roof Garden Design Ideas</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sara-moulton-recipes-create-tv'>Sara Moulton Recipes Create Tv</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pier-one-credit-card-phone-number'>Pier One Credit Card Phone Number</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=60-inch-round-table-rental'>60 Inch Round Table Rental</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=my-pretty-rose-tree-lyrics'>My Pretty Rose Tree Lyrics</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=grey-grasscloth-peel-and-stick-wallpaper'>Grey Grasscloth Peel And Stick Wallpaper</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wagner-flexio-3000-home-depot'>Wagner Flexio 3000 Home Depot</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dyson-cyclone-v10-animal-review'>Dyson Cyclone V10 Animal Review</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=studio-room-for-rent-in-ajman-monthly-basis'>Studio Room For Rent In Ajman Monthly Basis</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ettore-sottsass-most-famous-design'>Ettore Sottsass Most Famous Design</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-grow-up-emotionally'>How To Grow Up Emotionally</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rustic-end-tables-set-of-2'>Rustic End Tables Set Of 2</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-button-pictures'>How To Make Button Pictures</a>,
+";s:7:"expired";i:-1;}

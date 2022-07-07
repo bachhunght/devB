@@ -1,0 +1,223 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3430:"Strategy Pattern “Define a family of algorithm and make them interchangeable. .NET Optimized code in C#. State pattern is one of the behavioral design pattern.State design pattern is used when an Object changes its behavior based on its internal state. In Strategy pattern, a class behavior or its algorithm can be changed at run time. This pattern is close to the concept of finite-state machines.The state pattern can be interpreted as a strategy pattern, which is able to switch a strategy through invocations of methods defined in the pattern's interface. State vs. Strategy Pattern If we have to change behavior of an object based on its state, we can have a state variable in the Object and use if-else condition block to perform different actions based on the state. However, one big difference is the following: Strategy Pattern is used when the whole algorithm is changed to another algorithm and the client is responsible for that, whereas, in State Pattern, the class itself manages the strategy based on the state. But, depending on our needs and requirements, that might or might not be an issue. State pattern is always stateful but Strategy will not. State pattern drawback is the payoff when implementing transition between the states. This pattern is close to the concept of finite-state machines.The state pattern can be interpreted as a strategy pattern, which is able to switch a strategy through invocations of methods defined in the pattern's interface. The strategy design encapsulates a various set of algorithms for runtime execution. This type of design pattern comes under behavior pattern. Hello Hans, There are many discussions on the difference in State and Strategy Pattern because both share the same class diagram. State Game Programming Patterns Design Patterns Revisited. That makes the state hardcoded, which is a bad practice in general. State pattern is one of the behavioral design pattern.State design pattern is used when an Object changes its behavior based on its internal state. In State pattern, we create objects which represent various states and a context object whose behavior varies as its state object changes. In this pattern, an object is created which represent various states and a context object whose behavior varies as it's state object changes. This type of design pattern comes under behavior pattern. This pattern seems like a dynamic version of the Strategy pattern. However, one big difference is the following: Strategy Pattern is used when the whole algorithm is changed to another algorithm and the client is responsible for that, whereas, in State Pattern, the class itself manages the strategy based on the state. I hope you make a conclusion that it will be easier to change the program realized by state pattern than the one realized by strategy pattern in this case. Here , I tried to collect for better understanding . I hope you make a conclusion that it will be easier to change the program realized by state pattern than the one realized by strategy pattern in this case. This pattern seems like a dynamic version of the Strategy pattern. State pattern is useful when we want to maintain various states for a scenario in our program. In fact, Strategy pattern is nothing but a clever way of achieving functional programming in Java, even before Java 8. State Design Pattern is used to alter the behavior of an object when it’s internal state changes. ";s:7:"keyword";s:33:"state pattern vs strategy pattern";s:5:"links";s:5747:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mac-and-cheese-beer-pairing'>Mac And Cheese Beer Pairing</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chocolate-pavlova-with-chocolate-mascarpone-mousse'>Chocolate Pavlova With Chocolate Mascarpone Mousse</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=williams-college-athletics-staff-directory'>Williams College Athletics Staff Directory</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=annie-leibovitz-portraits-2005-to-2016'>Annie Leibovitz Portraits 2005 To 2016</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-diy-network-on-youtube-tv'>Is Diy Network On Youtube Tv</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=300g-of-broccoli-in-cups'>300g Of Broccoli In Cups</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=string-light-clips-for-screen-enclosures-and-pool-cages'>String Light Clips For Screen Enclosures And Pool Cages</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=2-panel-hollow-core-interior-door-slab'>2 Panel Hollow Core Interior Door Slab</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=health-benefits-of-roasted-peanuts'>Health Benefits Of Roasted Peanuts</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=things-to-do-in-utah'>Things To Do In Utah</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philips-gu10-dimmable-warm-white'>Philips Gu10 Dimmable Warm White</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=foam-mattress-meaning-in-tamil'>Foam Mattress Meaning In Tamil</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=study-table-and-chair-for-kid'>Study Table And Chair For Kid</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=do-you-send-flowers-to-the-viewing-or-the-funeral'>Do You Send Flowers To The Viewing Or The Funeral</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=feedback-methods-in-the-workplace'>Feedback Methods In The Workplace</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=batman-the-killing-joke-comic-pdf-free'>Batman The Killing Joke Comic Pdf Free</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=call-the-midwife-cast-2019'>Call The Midwife Cast 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-much-sugar-in-angel-food-cake'>How Much Sugar In Angel Food Cake</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=interiors-woody-allen-full-movie'>Interiors Woody Allen Full Movie</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=can-you-propagate-pilea-from-a-leaf-cutting'>Can You Propagate Pilea From A Leaf Cutting</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=a-bridge-too-far-meaning'>A Bridge Too Far Meaning</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-to-buy-cheap-vinyl-flooring'>Where To Buy Cheap Vinyl Flooring</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=glass-top-dining-table-with-wooden-base'>Glass Top Dining Table With Wooden Base</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=can-you-roast-canned-beets'>Can You Roast Canned Beets</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=snake-plant-benefits-in-bedroom'>Snake Plant Benefits In Bedroom</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=can-i-eat-tacos-while-pregnant'>Can I Eat Tacos While Pregnant</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-ivy-poisonous-to-touch'>Is Ivy Poisonous To Touch</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=deep-seating-replacement-cushions-for-indoor-furniture'>Deep Seating Replacement Cushions For Indoor Furniture</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=60-inch-round-table-rental'>60 Inch Round Table Rental</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-taste-of-india-slogan'>The Taste Of India Slogan</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=feel-good-food-plan-2018'>Feel Good Food Plan 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=captain-america-winter-soldier-movie'>Captain America Winter Soldier Movie</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=german-beer-garden-near-me'>German Beer Garden Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=versanora-romanza-tripod-floor-lamp'>Versanora Romanza Tripod Floor Lamp</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=karcher-k4-hose-pops-off'>Karcher K4 Hose Pops Off</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bubble-chair-with-stand-ikea'>Bubble Chair With Stand Ikea</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=homemade-healthy-snacks-for-school-indian'>Homemade Healthy Snacks For School Indian</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=heroes-of-the-storm-new-heroes'>Heroes Of The Storm New Heroes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-prepare-a-guest-room'>How To Prepare A Guest Room</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-did-the-potato-come-from-ireland-or-south-america'>Where Did The Potato Come From Ireland Or South America</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pure-black-wallpaper-4k-download'>Pure Black Wallpaper 4k Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fried-aloo-gobi-recipe-in-hindi'>Fried Aloo Gobi Recipe In Hindi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=black-tie-ski-rentals-whistler'>Black Tie Ski Rentals Whistler</a>,
+";s:7:"expired";i:-1;}

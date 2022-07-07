@@ -1,0 +1,250 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4679:"Our signature breakfasts feature rich Vermont-roasted coffee, freshly squeezed juice, fresh fruit, and creative, hearty entrees. The Inn at Roundstone Farm from Mapcarta, the free map. Breakfast at The Inn at Round Barn Farm is an unparalleled Vermont bed and breakfast experience. This celebrated inn is a place of serenity where guests discover the pleasurable company of new friends, the sights and sounds of nature's harmonies, delightfully fresh breakfasts ... and the freedom to explore the Pt. The PYO also allows you and your family to enjoy fresh and delicious crops daily, during the summer months. Pt Reyes Lodging - Inn at Roundstone Farm Guest Rooms - located in California's Point Reyes National Seashore. Photo of Roundstone Farm - "Inn at Roundstone Farm" - Olema, CA The Inn at Roundstone Farm Map - Point Reyes National Seashore, California - Mapcarta Our chefs use only the finest seasonal and locally sourced foods, many of which are grown in our very own organic gardens. If you want peace and quiet with beaches nearby with some trad at night this is it. We stayed in the Pond room, and it was spacious, with a comfortable bed, lots of light, comfortable chairs, a large bathroom, and a fireplace. Book Roundstone Farm Bed and Breakfast Inn, Olema on TripAdvisor: See 89 traveller reviews, 23 candid photos, and great deals for Roundstone Farm Bed and Breakfast Inn, ranked #1 of 2 B&Bs / inns in Olema and rated 4.5 of 5 at TripAdvisor. Welcome to the Inn at Roundstone Farm - a Point Reyes Bed and Breakfast Inn located in the town of Olema within the Point Reyes National Seashore on the Marin County Coast of Northern California. Book Roundstone Farm Bed and Breakfast Inn, Olema on Tripadvisor: See 89 traveler reviews, 23 candid photos, and great deals for Roundstone Farm Bed and Breakfast Inn, ranked #1 of 2 B&Bs / inns in Olema and rated 4.5 of 5 at Tripadvisor. Our chefs use only the finest seasonal and locally sourced foods, many of which are grown in our very own organic gardens. This contemporary, lodgelike B&B, set on 10 acres of rolling hills, is a mile from the Point Reyes National Seashore. Roundstone Farm Bed and Breakfast Inn, Olema: See 89 traveller reviews, 23 user photos and best deals for Roundstone Farm Bed and Breakfast Inn, ranked #1 of 2 Olema B&Bs / inns and rated 4.5 of 5 at TripAdvisor. To locate the Roundstone Farm Bed and Breakfast Inn just select the map tab above. Pt Reyes Lodging - Inn at Roundstone Farm Bed and Breakfast - located in California's Point Reyes National Seashore. Guest rooms are named for the views they offer (Meadow, Ridge, Pond, etc.) Our signature breakfasts feature rich Vermont-roasted coffee, freshly squeezed juice, fresh fruit, and creative, hearty entrees. From AU$217 per night on TripAdvisor: Roundstone Farm Bed and Breakfast Inn, Olema. We provide top quality homegrown fruit and vegetables. We provide top quality homegrown fruit and vegetables. and, dressed in pastels and floral patterns, have a country inn feel. Guests enjoy spacious rooms with views and fireplaces, hearty country breakfasts and panoramic views of Mt. Roundstone Farm Bed and Breakfast Inn, Olema: See 89 traveller reviews, 23 user photos and best deals for Roundstone Farm Bed and Breakfast Inn, ranked #1 of 2 Olema B&Bs / inns and rated 4.5 of 5 at TripAdvisor. The PYO also allows you and your family to enjoy fresh and delicious crops daily, during the summer months. Inn at Roundstone Farm 9940 Sir Francis Drake Blvd Olema, CA 94950 415-663-1020 www.roundstonefarm.com. Book Roundstone Farm Bed and Breakfast Inn, Olema on TripAdvisor: See 89 traveller reviews, 23 candid photos, and great deals for Roundstone Farm Bed and Breakfast Inn, ranked #1 of 2 hotels in Olema and rated 4.5 of 5 at TripAdvisor. Photo of Roundstone Farm - "Inn at Roundstone Farm" - Olema, CA. Enjoy beautiful views, warm hospitality and delicious breakfasts. All our fruit and vegetables are grown using environmentally friendly methods, on our beautifully kept and historic farmland. Book Roundstone Farm Bed and Breakfast Inn, Olema on TripAdvisor: See 89 traveler reviews, 23 candid photos, and great deals for Roundstone Farm Bed and Breakfast Inn, ranked #1 of 2 B&Bs / inns in Olema and rated 4.5 of 5 at TripAdvisor. Breakfast at The Inn at Round Barn Farm is an unparalleled Vermont bed and breakfast experience. The Inn at Roundstone Farm is an excellent B&B in Olema, close to hiking, ocean, and restaurants. Emily T. said "My husband and I spent a Sunday night here for our 1st wedding anniversary. Inn at Roundstone Farm Olema Bed & Breakfast on a Peaceful 10 acre farm Book Your Room. Pastoral Olema getaway. ";s:7:"keyword";s:26:"the inn at roundstone farm";s:5:"links";s:9282:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rent-to-own-homes-milton-fl'>Rent To Own Homes Milton Fl</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-is-cotton-made-step-by-step'>How Is Cotton Made Step By Step</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ikea-bryne-how-to-hang'>Ikea Bryne How To Hang</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-strawberry-ice-cream-without-heavy-cream'>How To Make Strawberry Ice Cream Without Heavy Cream</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-owensboro-public-schools-closed-tomorrow'>Is Owensboro Public Schools Closed Tomorrow</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hard-plastic-paddling-pool-nz'>Hard Plastic Paddling Pool Nz</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=l-shaped-bathroom-vanity-suite'>L Shaped Bathroom Vanity Suite</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=are-mums-poisonous-to-humans'>Are Mums Poisonous To Humans</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=money-tree-leaves-turning-yellow-with-brown-spots'>Money Tree Leaves Turning Yellow With Brown Spots</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=in-this-moment-call-me'>In This Moment Call Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=virgin-of-the-rocks-medium'>Virgin Of The Rocks Medium</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=types-of-offices-in-a-company'>Types Of Offices In A Company</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=tables-and-chairs-rental-makati'>Tables And Chairs Rental Makati</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=my-living-room-in-french'>My Living Room In French</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cotton-vs-polyester-for-gym'>Cotton Vs Polyester For Gym</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=when-was-the-tower-of-london-built'>When Was The Tower Of London Built</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dimmable-e14-led-candle-bulbs'>Dimmable E14 Led Candle Bulbs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=quiche-lorraine-recette-sans-creme'>Quiche Lorraine Recette Sans Creme</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=growing-plants-in-glass-bottles'>Growing Plants In Glass Bottles</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=shuttle-from-slc-to-park-city-sundance'>Shuttle From Slc To Park City Sundance</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-to-buy-in-amsterdam'>What To Buy In Amsterdam</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rac-large-fabric-pet-carrier'>Rac Large Fabric Pet Carrier</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=longest-ski-run-in-us'>Longest Ski Run In Us</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bird-of-paradise-plant-indoor'>Bird Of Paradise Plant Indoor</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=onion-during-pregnancy-first-trimester'>Onion During Pregnancy First Trimester</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=on-the-go-portable-beach-lounger'>On The Go Portable Beach Lounger</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-waterloo-fees-for-international-students-2018'>University Of Waterloo Fees For International Students 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hearth-and-hand-stoneware-dinner-plate'>Hearth And Hand Stoneware Dinner Plate</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=friday-night-family-dinner-ideas'>Friday Night Family Dinner Ideas</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=tall-lucky-bamboo-for-sale'>Tall Lucky Bamboo For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=coq-au-vin-julia-child'>Coq Au Vin Julia Child</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=should-i-disable-third-party-cookies'>Should I Disable Third Party Cookies</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=small-bedroom-layout-queen-bed'>Small Bedroom Layout Queen Bed</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=advantages-and-disadvantages-of-factory-system'>Advantages And Disadvantages Of Factory System</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-does-walmart-prevent-theft-with-scan-and-go'>How Does Walmart Prevent Theft With Scan And Go</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sony-xperia-1-release-date'>Sony Xperia 1 Release Date</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=american-best-restaurants-in-new-haven'>American Best Restaurants In New Haven</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-idaho-grad-app'>University Of Idaho Grad App</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=used-washer-and-dryer-hamilton-ontario'>Used Washer And Dryer Hamilton Ontario</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=popeye-the-sailor-man-movie'>Popeye The Sailor Man Movie</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ie-school-of-architecture-and-design-fees'>Ie School Of Architecture And Design Fees</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=5ft-french-doors-with-side-panels'>5ft French Doors With Side Panels</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=opening-and-closing-checklist-for-kitchen-pdf'>Opening And Closing Checklist For Kitchen Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=tertiary-sector-meaning-in-tamil'>Tertiary Sector Meaning In Tamil</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-man-who-never-was-book'>The Man Who Never Was Book</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=karcher-k4-stuck-on-mix'>Karcher K4 Stuck On Mix</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chicken-and-waffle-bar-ideas'>Chicken And Waffle Bar Ideas</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=trent-university-residence-mailing-address'>Trent University Residence Mailing Address</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=my-bakery-empire-game-free-download-for-pc'>My Bakery Empire Game Free Download For Pc</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=why-i-want-to-be-in-national-honor-society-essay-examples'>Why I Want To Be In National Honor Society Essay Examples</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=small-console-table-with-drawers'>Small Console Table With Drawers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philips-hue-bridge-range-reddit'>Philips Hue Bridge Range Reddit</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=menards-exterior-french-doors-with-frame'>Menards Exterior French Doors With Frame</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=natural-history-museum-free-day'>Natural History Museum Free Day</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=broyhill-dining-table-with-leaf'>Broyhill Dining Table With Leaf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lady-helen-taylor-engagement-ring'>Lady Helen Taylor Engagement Ring</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=samsung-vrt-plus-front-load-washer-reviews'>Samsung Vrt Plus Front Load Washer Reviews</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=new-houses-for-sale-montreal'>New Houses For Sale Montreal</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-to-buy-behr-paint'>Where To Buy Behr Paint</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=expedition-unknown-season-6-episodes'>Expedition Unknown Season 6 Episodes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=macelli-sectional-rooms-to-go'>Macelli Sectional Rooms To Go</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=brett-favre-hall-of-fame'>Brett Favre Hall Of Fame</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=watermelon-and-lemon-side-effects'>Watermelon And Lemon Side Effects</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=swing-arm-wall-lamp-lowes'>Swing Arm Wall Lamp Lowes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=small-gold-metal-wall-decor'>Small Gold Metal Wall Decor</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wisteria-poisoning-symptoms-in-humans'>Wisteria Poisoning Symptoms In Humans</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-lakes-to-skate-on'>Best Lakes To Skate On</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=vietnam-veterans-of-america-detroit'>Vietnam Veterans Of America Detroit</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lazy-boy-chairs-tafelberg-furnishers'>Lazy Boy Chairs Tafelberg Furnishers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kashmir-stag-enemies-or-threats'>Kashmir Stag Enemies Or Threats</a>,
+";s:7:"expired";i:-1;}

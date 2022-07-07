@@ -1,0 +1,236 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2111:"The Netherlands is gearing up in full swing for the forthcoming 2020 Eurovision Song Contest in Rotterdam. The Netherlands is On Tuesday 28 January at 17:00 CET the Semi-final allocation draw takes place live from Rotterdam's City Hall. Eurovision 2020 Semi-Final Allocation Draw pots Stijn Smulders. ROTTERDAM 2020 Eurovision 2020: Who's in which Semi-final?  The draw determined which country will perform in which of the two Semi-finals The Netherlands is gearing up in full swing for the forthcoming 2020 Eurovision Song Contest in Rotterdam. The allocation draw determines which countries are in which Semi-final at Eurovision Song Contest 2020. Eurovision news: NPO, the 2020 Eurovision host broadcaster and the EBU have set a date for the 2020 Eurovision Song Contest Semi-final Allocation Draw. The 35 Semi-finalists have been allocated into 5 pots, based on historical voting patterns. From each Semi-Final, only 10 countries will qualify for the Grand Final, bringing the total number of Grand Final participants to 26. See the result of the Semi-final allocation draw for Eurovision Song Contest 2020. Stories Semi-Final Allocation Draw pots for Eurovision 2020 revealed! Chantal Janzen, Edsilia Rombley and Jan Smit, who will present the upcoming Eurovision, hosted the draw from the Rotterdam’s City Hall.This event also featured the traditional insignia exchange between the city of Tel Aviv to the Mayor of Rotterdam. The Semi-Final Allocation Draw for this year’s Eurovision Song Contest has just concluded in Rotterdam… Check the results now! Posted 25 January 2020 at 09:00 CET On Tuesday 28 January at 16:10 CET, the Semi-Final Allocation Draw will take place to decide which country will perform in which of the 2 Semi-Finals. NPO, the 2020 Eurovision host broadcaster and the EBU have set a date for the 2020 Eurovision Song Contest Semi-final Allocation Draw.. Eurovision 2020: Semi-final Allocation Draw date set 14-11-2019 18:00 Leave a Comment NPO, the 2020 Eurovision host broadcaster and the EBU have set a date for the 2020 Eurovision Song Contest Semi-final Allocation Draw.. ";s:7:"keyword";s:31:"eurovision 2020 semi final draw";s:5:"links";s:7634:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=why-is-a-chefs-life-ending'>Why Is A Chefs Life Ending</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-much-is-membership-of-rhs'>How Much Is Membership Of Rhs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fresh-green-bean-casserole-with-cream-of-mushroom'>Fresh Green Bean Casserole With Cream Of Mushroom</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-ikea-coming-to-chennai'>Is Ikea Coming To Chennai</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=plastic-pots-for-plants-wholesale'>Plastic Pots For Plants Wholesale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=a-kind-of-stew-meaning-in-hindi'>A Kind Of Stew Meaning In Hindi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chicken-ginger-recipe-by-faiza'>Chicken Ginger Recipe By Faiza</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=army-of-shadows-english-subtitles'>Army Of Shadows English Subtitles</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=water-painting-images-free-download'>Water Painting Images Free Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-grow-a-pool-service-business'>How To Grow A Pool Service Business</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=occasional-chairs-at-the-range'>Occasional Chairs At The Range</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mi-tm-professional-1500-psi-electric-cold-water-pressure-washer'>Mi Tm Professional 1500 Psi Electric Cold Water Pressure Washer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=greek-italian-restaurant-near-me'>Greek Italian Restaurant Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wall-hanging-ideas-for-school'>Wall Hanging Ideas For School</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=havells-company-jobs-in-faridabad'>Havells Company Jobs In Faridabad</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=download-microsoft-office-2016-free'>Download Microsoft Office 2016 Free</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-son-of-man-rene-magritte'>The Son Of Man Rene Magritte</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-choose-an-accent-wall-in-living-room'>How To Choose An Accent Wall In Living Room</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=we-are-the-gardeners-review'>We Are The Gardeners Review</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=discount-front-doors-with-sidelights'>Discount Front Doors With Sidelights</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-does-mint-make-money'>How Does Mint Make Money</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=big-couloir-big-sky-death'>Big Couloir Big Sky Death</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=round-glass-dining-table-set-for-6'>Round Glass Dining Table Set For 6</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rubbermaid-1304-utility-cart-wheels'>Rubbermaid 1304 Utility Cart Wheels</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=condos-for-sale-in-bloomington-mn'>Condos For Sale In Bloomington Mn</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=round-dining-table-for-4-white'>Round Dining Table For 4 White</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=description-of-a-beautiful-house-essay'>Description Of A Beautiful House Essay</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-swimming-pool-water-blue'>How To Make Swimming Pool Water Blue</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=can-i-use-a-pottery-barn-gift-card-at-williams-sonoma'>Can I Use A Pottery Barn Gift Card At Williams Sonoma</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=diners-drive-ins-and-dives-season-30-episode-2'>Diners Drive Ins And Dives Season 30 Episode 2</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=genesis-credit-home-depot-apply'>Genesis Credit Home Depot Apply</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=home-sign-with-wreath-kirklands'>Home Sign With Wreath Kirklands</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-are-dreams-based-on'>What Are Dreams Based On</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=34-inch-square-fold-in-half-table-walmart'>34 Inch Square Fold In Half Table Walmart</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=tomato-plant-flowers-but-no-fruit'>Tomato Plant Flowers But No Fruit</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=non-stop-begonias-for-sale'>Non Stop Begonias For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=growing-bromeliads-outside-in-florida'>Growing Bromeliads Outside In Florida</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-cook-lettuce-indian-style'>How To Cook Lettuce Indian Style</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=market-gardening-example-ap-human-geography'>Market Gardening Example Ap Human Geography</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=samsung-french-door-refrigerator-reviews'>Samsung French Door Refrigerator Reviews</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-chicken-biryani-rice'>How To Make Chicken Biryani Rice</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=williams-sonoma-customer-service-jobs'>Williams Sonoma Customer Service Jobs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bank-owned-commercial-properties-for-sale-in-california'>Bank Owned Commercial Properties For Sale In California</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=little-tikes-smart-shopping-cart'>Little Tikes Smart Shopping Cart</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=eco-friendly-alternatives-to-tinsel'>Eco Friendly Alternatives To Tinsel</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=luther-season-2-episode-2-cast'>Luther Season 2 Episode 2 Cast</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-notch-a-fiddle-leaf-fig-tree-for-branching'>How To Notch A Fiddle Leaf Fig Tree For Branching</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-wine-for-boeuf-bourguignon'>Best Wine For Boeuf Bourguignon</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philips-eesl-street-light-price'>Philips Eesl Street Light Price</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=little-tikes-smart-shopping-cart'>Little Tikes Smart Shopping Cart</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=manjula-pothos-vs-marble-queen'>Manjula Pothos Vs Marble Queen</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=whirlpool-refrigerator-size-by-model-number'>Whirlpool Refrigerator Size By Model Number</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-wine-for-boeuf-bourguignon'>Best Wine For Boeuf Bourguignon</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=t-shaped-house-feng-shui'>T Shaped House Feng Shui</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-does-carol-klein-live-now'>Where Does Carol Klein Live Now</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=samsung-refrigerator-dual-ice-maker-problems'>Samsung Refrigerator Dual Ice Maker Problems</a>,
+";s:7:"expired";i:-1;}

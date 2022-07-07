@@ -1,0 +1,203 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3115:"The Kayon Jungle Resort is 5 star luxury nestled in a forested hillside of Ubud, 90 minutes from Denpasar Airport and 25 minutes from downtown Ubud. Popular attractions Campuhan Ridge Walk and Ubud Royal Palace are located nearby. Relax & Recharge. Surrounded by tropical greenery, The Kayon Jungle Resort offers accommodation with an outdoor pool in Ubud. The Kayon Jungle Resort is a Five Stars plus Luxury Boutique resort with just 38 suites and villas. Due to their location in the lower part of the property so their view is not the most selling point therefore we name them Jungle Pool Villa. Kayon means tree of life creations and secret that grows from earth towards heaven. Services & Activities; Luxury Service; Facilities. Each unit has its own distinctive character with bespoke furnishings, hand-carved embellishments and personal touches to enhance overall quality of stay. H aving romance days only two of you at very private atmosphere and some romantic activities at The Kayon resort. However a stuck water outlet in the bathtub resulted in a less than perfect experience. The Kayon Jungle Resort is a Five Stars plus Luxury Boutique resort with just 38 suites and villas. The Kayon Jungle Resort is a Five Stars plus Luxury Boutique resort with just 38 suites and villas. Each unit has its own distinctive character with bespoke furnishings, hand-carved embellishments and personal touches to enhance overall quality of stay. Services & Activities The Yoga Start a day with morning yoga to balance body and soul at roof top Yoga pavilion while enjoy the cool morning breeze, a warm sunrise entering every space of the jungle leaves. You will be served with honeymoon decoration in your room upon arrival, Special romantic candle light dinner under the stars and surrounded with heart flower decoration, the last day you will be treated by a romantic treatment at our Serayu SPA. The Kayon Jungle Resort makes you feel that you are the only resort surrounded by surrounding forest. The Kayon resort is perched on Ubud hills side, surrounded with holy Petanu River and lush tropical rainforest gives a relaxing vibe. The resort is situated in traditional village of Bresela, Payangan only 20 minutes from Ubud center. The resort features six valley deluxe rooms with jungles view on the two storey north wing, twelve Kayon river suites in three floor south wing with view down to river and five river edge private pool villas with thatched roofs, each enhanced by its infinity pool overlooking to river bellow. 10 units of private individual villas feature with infinity plunge pool and Gazebo. You can enjoy a drink at one of the bars, which include 2 bars/lounges and a poolside bar. Surrounded by tropical greenery, The Kayon Jungle Resort offers accommodation with an outdoor pool in Ubud. Valley Deluxe Room; Kayon River Suite; River Edge Pool Villa; Rate; Services. River Pool Villa. Each unit has its own distinctive character with bespoke furnishings, hand-carved embellishments and personal touches to enhance overall quality of stay. The 3-stage pool create the feel of step paddy fields. ";s:7:"keyword";s:30:"kayon jungle resort pool villa";s:5:"links";s:3065:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=george-brown-college-continuing-education'>George Brown College Continuing Education</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=snake-and-peony-tattoo-meaning'>Snake And Peony Tattoo Meaning</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pied-a-terre-san-francisco'>Pied A Terre San Francisco</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philips-ambient-light-4k-tv'>Philips Ambient Light 4k Tv</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=succession-planting-chart-zone-7'>Succession Planting Chart Zone 7</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-ball-moss-poisonous-to-dogs'>Is Ball Moss Poisonous To Dogs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-many-different-types-of-wool-are-there'>How Many Different Types Of Wool Are There</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=de-filter-pressure-rises-fast'>De Filter Pressure Rises Fast</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ikea-plastic-cam-lock-removal'>Ikea Plastic Cam Lock Removal</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=buffalo-cauliflower-tacos-with-slaw'>Buffalo Cauliflower Tacos With Slaw</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-greenwich-ranking-2018'>University Of Greenwich Ranking 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-indian-food-san-francisco'>Best Indian Food San Francisco</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=scratch-and-dent-appliances-miami'>Scratch And Dent Appliances Miami</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=unusual-wallpaper-apk-2020-abc'>Unusual Wallpaper Apk 2020 Abc</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=daddy-joes-gaffney-sc-menu'>Daddy Joes Gaffney Sc Menu</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=liberty-furniture-sofa-table-with-stools'>Liberty Furniture Sofa Table With Stools</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-a-refrigeration-system-works'>How A Refrigeration System Works</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=eternal-sunshine-of-the-spotless-mind-netflix'>Eternal Sunshine Of The Spotless Mind Netflix</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philanthropy-used-in-a-short-sentence'>Philanthropy Used In A Short Sentence</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-tilapia-fish-good-for-you'>Is Tilapia Fish Good For You</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-tasting-alcohol-to-drink-straight'>Best Tasting Alcohol To Drink Straight</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=trip-from-montreal-to-quebec-city'>Trip From Montreal To Quebec City</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pre-owned-washing-machine-near-me'>Pre Owned Washing Machine Near Me</a>,
+";s:7:"expired";i:-1;}

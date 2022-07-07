@@ -1,0 +1,382 @@
+[06-Apr-2022 15:59:11 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 621416 bytes) in /home/ideammat/public_html/wp-includes/wp-db.php on line 1372
+[06-Apr-2022 16:01:25 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/ideammat/public_html/wp-content/plugins/revslider/includes/operations.class.php on line 2722
+[06-Apr-2022 16:01:25 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/ideammat/public_html/wp-content/plugins/revslider/includes/operations.class.php on line 2726
+[06-Apr-2022 16:01:25 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/ideammat/public_html/wp-content/plugins/revslider/includes/output.class.php on line 3624
+[06-Apr-2022 16:01:26 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/ideammat/public_html/wp-content/plugins/woocommerce-gravityforms-product-addons/inc/gravityforms-product-addons-cart.php on line 520
+[06-Apr-2022 16:01:26 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/ideammat/public_html/wp-content/plugins/woocommerce-gravityforms-product-addons/inc/gravityforms-product-addons-cart.php on line 527
+[06-Apr-2022 16:01:26 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/ideammat/public_html/wp-content/plugins/woocommerce-gravityforms-product-addons/inc/gravityforms-product-addons-cart.php on line 540
+[06-Apr-2022 16:01:26 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 16:01:26 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 16:01:57 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 16:01:57 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 16:02:14 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 16:02:14 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 16:02:20 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 16:02:20 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 16:02:52 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 16:02:52 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 16:02:55 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 16:02:55 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 16:02:56 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 16:02:56 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 16:02:57 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 16:02:57 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 16:03:04 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 16:03:04 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 16:03:56 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 16:03:56 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 16:04:57 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 16:04:57 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 16:05:00 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 16:05:00 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 16:05:25 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 16:05:25 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 16:05:29 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 16:05:29 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 16:05:35 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 16:05:36 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 16:05:42 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 16:05:42 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 16:05:54 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 16:05:54 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 16:05:57 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 16:05:57 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 16:06:03 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 16:06:03 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 16:06:14 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 16:06:14 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 16:06:29 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 16:06:29 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 16:06:46 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 16:06:46 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 16:07:01 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 16:07:01 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 16:07:12 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 16:07:12 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 16:07:27 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 16:07:27 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 16:07:39 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 16:07:39 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 16:07:59 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 16:07:59 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 16:08:02 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/ideammat/public_html/wp-content/plugins/revslider/includes/operations.class.php on line 2722
+[06-Apr-2022 16:08:02 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/ideammat/public_html/wp-content/plugins/revslider/includes/operations.class.php on line 2726
+[06-Apr-2022 16:08:02 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/ideammat/public_html/wp-content/plugins/revslider/includes/output.class.php on line 3624
+[06-Apr-2022 16:08:03 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/ideammat/public_html/wp-content/plugins/woocommerce-gravityforms-product-addons/inc/gravityforms-product-addons-cart.php on line 520
+[06-Apr-2022 16:08:03 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/ideammat/public_html/wp-content/plugins/woocommerce-gravityforms-product-addons/inc/gravityforms-product-addons-cart.php on line 527
+[06-Apr-2022 16:08:03 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/ideammat/public_html/wp-content/plugins/woocommerce-gravityforms-product-addons/inc/gravityforms-product-addons-cart.php on line 540
+[06-Apr-2022 16:08:03 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 16:08:03 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 16:08:17 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 16:08:17 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 16:08:20 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 16:08:20 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 16:08:30 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 16:08:30 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 16:08:59 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 16:08:59 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 16:09:07 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 16:09:07 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 16:09:59 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 16:09:59 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 16:11:10 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 16:11:10 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 16:11:26 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 16:11:26 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 16:11:27 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 16:11:27 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 16:12:00 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 16:12:00 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 16:12:30 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 16:12:30 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 16:12:31 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 16:12:31 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 16:14:04 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 16:14:04 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 16:14:32 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 16:14:32 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 16:16:32 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 16:16:32 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 16:18:35 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 16:18:35 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 16:20:35 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 16:20:35 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 16:22:36 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 16:22:36 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 16:24:37 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 16:24:37 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 16:26:40 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 16:26:40 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 16:27:37 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 16:27:37 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 16:28:40 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 16:28:40 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 16:28:47 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 16:28:47 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 16:29:40 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 16:29:40 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 16:29:41 UTC] PHP Warning:  A non-numeric value encountered in /home/ideammat/public_html/wp-content/themes/aven/includes/custom-skins.php on line 1915
+[06-Apr-2022 16:29:47 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 16:29:47 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 16:30:42 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 16:30:42 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 16:31:48 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 16:31:48 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 16:32:42 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 16:32:42 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 16:33:50 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 16:33:50 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 16:34:43 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 16:34:43 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 16:35:52 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 16:35:52 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 16:36:45 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 16:36:45 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 16:37:54 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 16:37:54 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 16:38:45 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 16:38:45 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 16:39:55 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 16:39:55 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 16:40:46 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 16:40:46 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 16:42:47 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 16:42:47 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 16:44:47 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 16:44:47 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 16:46:49 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 16:46:49 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 16:48:35 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 16:48:35 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 16:48:50 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 16:48:50 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 16:49:50 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 16:49:50 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 16:49:53 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 16:49:53 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 16:50:50 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 16:50:50 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 16:51:55 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 16:51:55 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 16:52:51 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 16:52:51 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 16:53:59 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 16:53:59 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 16:54:51 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 16:54:51 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 16:56:00 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 16:56:00 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 16:56:52 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 16:56:52 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 16:58:06 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 16:58:06 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 16:58:53 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 16:58:53 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 16:59:06 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 16:59:06 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 16:59:55 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 16:59:55 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 17:01:08 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 17:01:08 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 17:01:55 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 17:01:55 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 17:02:56 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 17:02:56 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 17:03:08 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 17:03:08 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 17:04:58 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 17:04:58 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 17:05:09 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 17:05:09 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 17:06:59 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 17:06:59 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 17:07:10 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 17:07:10 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 17:09:01 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 17:09:01 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 17:10:02 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 17:10:02 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 17:11:02 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 17:11:02 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 17:12:06 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 17:12:06 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 17:12:07 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 17:12:07 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 17:13:06 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 17:13:07 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 17:13:08 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 17:13:08 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 17:14:08 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 17:14:08 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 17:15:09 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 17:15:09 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 17:16:08 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 17:16:08 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 17:17:10 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 17:17:10 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 17:18:09 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 17:18:09 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 17:19:11 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 17:19:11 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 17:20:10 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 17:20:10 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 17:21:12 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 17:21:12 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 17:21:12 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 17:21:12 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 17:22:33 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 17:22:33 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 17:23:35 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 17:23:35 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 17:24:35 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 17:24:35 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 17:26:15 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 17:26:15 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 17:28:16 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 17:28:16 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 17:30:19 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 17:30:20 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 17:32:21 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 17:32:21 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 17:34:20 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 17:34:21 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 17:36:22 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 17:36:22 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 17:45:50 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/ideammat/public_html/wp-content/plugins/revslider/includes/operations.class.php on line 2722
+[06-Apr-2022 17:45:50 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/ideammat/public_html/wp-content/plugins/revslider/includes/operations.class.php on line 2726
+[06-Apr-2022 17:45:50 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/ideammat/public_html/wp-content/plugins/revslider/includes/output.class.php on line 3624
+[06-Apr-2022 17:45:51 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/ideammat/public_html/wp-content/plugins/woocommerce-gravityforms-product-addons/inc/gravityforms-product-addons-cart.php on line 520
+[06-Apr-2022 17:45:51 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/ideammat/public_html/wp-content/plugins/woocommerce-gravityforms-product-addons/inc/gravityforms-product-addons-cart.php on line 527
+[06-Apr-2022 17:45:51 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/ideammat/public_html/wp-content/plugins/woocommerce-gravityforms-product-addons/inc/gravityforms-product-addons-cart.php on line 540
+[06-Apr-2022 17:45:51 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[06-Apr-2022 17:45:51 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[06-Apr-2022 17:56:00 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 599050 bytes) in /home/ideammat/public_html/wp-includes/wp-db.php on line 1372
+[06-Apr-2022 17:57:25 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 619587 bytes) in /home/ideammat/public_html/wp-includes/class-requests.php on line 752
+[06-Apr-2022 18:31:09 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 619587 bytes) in /home/ideammat/public_html/wp-includes/class-requests.php on line 752
+[07-Apr-2022 01:08:27 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[07-Apr-2022 01:08:27 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[07-Apr-2022 01:08:28 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[07-Apr-2022 01:08:28 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[10-Apr-2022 04:25:35 UTC] PHP Warning:  Use of undefined constant DB_USER - assumed 'DB_USER' (this will throw an Error in a future version of PHP) in /home/ideammat/public_html/wp-includes/load.php on line 404
+[10-Apr-2022 04:25:35 UTC] PHP Warning:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' (this will throw an Error in a future version of PHP) in /home/ideammat/public_html/wp-includes/load.php on line 404
+[10-Apr-2022 04:25:35 UTC] PHP Warning:  Use of undefined constant DB_NAME - assumed 'DB_NAME' (this will throw an Error in a future version of PHP) in /home/ideammat/public_html/wp-includes/load.php on line 404
+[10-Apr-2022 04:25:35 UTC] PHP Warning:  Use of undefined constant DB_HOST - assumed 'DB_HOST' (this will throw an Error in a future version of PHP) in /home/ideammat/public_html/wp-includes/load.php on line 404
+[17-Apr-2022 10:17:32 UTC] PHP Warning:  Use of undefined constant DB_USER - assumed 'DB_USER' (this will throw an Error in a future version of PHP) in /home/ideammat/public_html/wp-includes/load.php on line 404
+[17-Apr-2022 10:17:32 UTC] PHP Warning:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' (this will throw an Error in a future version of PHP) in /home/ideammat/public_html/wp-includes/load.php on line 404
+[17-Apr-2022 10:17:32 UTC] PHP Warning:  Use of undefined constant DB_NAME - assumed 'DB_NAME' (this will throw an Error in a future version of PHP) in /home/ideammat/public_html/wp-includes/load.php on line 404
+[17-Apr-2022 10:17:32 UTC] PHP Warning:  Use of undefined constant DB_HOST - assumed 'DB_HOST' (this will throw an Error in a future version of PHP) in /home/ideammat/public_html/wp-includes/load.php on line 404
+[17-Apr-2022 11:24:28 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/ideammat/public_html/wp-content/plugins/revslider/includes/operations.class.php on line 2722
+[17-Apr-2022 11:24:28 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/ideammat/public_html/wp-content/plugins/revslider/includes/operations.class.php on line 2726
+[17-Apr-2022 11:24:28 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/ideammat/public_html/wp-content/plugins/revslider/includes/output.class.php on line 3624
+[17-Apr-2022 11:24:30 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/ideammat/public_html/wp-content/plugins/woocommerce-gravityforms-product-addons/inc/gravityforms-product-addons-cart.php on line 520
+[17-Apr-2022 11:24:30 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/ideammat/public_html/wp-content/plugins/woocommerce-gravityforms-product-addons/inc/gravityforms-product-addons-cart.php on line 527
+[17-Apr-2022 11:24:30 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/ideammat/public_html/wp-content/plugins/woocommerce-gravityforms-product-addons/inc/gravityforms-product-addons-cart.php on line 540
+[17-Apr-2022 11:24:30 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[17-Apr-2022 11:24:30 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[17-Apr-2022 11:24:35 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[17-Apr-2022 11:24:35 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[17-Apr-2022 11:24:37 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/ideammat/public_html/wp-content/plugins/woocommerce/includes/admin/reports/class-wc-admin-report.php on line 131
+[17-Apr-2022 11:24:37 UTC] PHP Warning:  preg_match_all(): Compilation failed: invalid range in character class at offset 11 in /home/ideammat/public_html/wp-content/plugins/js_composer/include/autoload/hook-vc-grid.php on line 162
+[17-Apr-2022 11:24:40 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[17-Apr-2022 11:24:40 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[17-Apr-2022 11:24:40 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[17-Apr-2022 11:24:40 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[17-Apr-2022 11:24:50 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[17-Apr-2022 11:24:50 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[17-Apr-2022 11:25:18 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[17-Apr-2022 11:25:18 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[17-Apr-2022 11:25:29 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[17-Apr-2022 11:25:29 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[17-Apr-2022 11:26:30 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[17-Apr-2022 11:26:30 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[17-Apr-2022 11:27:02 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[17-Apr-2022 11:27:02 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[17-Apr-2022 11:27:09 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[17-Apr-2022 11:27:09 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[17-Apr-2022 11:27:36 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[17-Apr-2022 11:27:36 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[17-Apr-2022 11:27:38 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[17-Apr-2022 11:27:38 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[17-Apr-2022 11:27:38 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[17-Apr-2022 11:27:38 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[17-Apr-2022 11:27:39 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[17-Apr-2022 11:27:39 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[17-Apr-2022 11:28:12 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[17-Apr-2022 11:28:12 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[17-Apr-2022 11:28:22 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[17-Apr-2022 11:28:22 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[17-Apr-2022 11:28:52 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[17-Apr-2022 11:28:52 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[17-Apr-2022 11:28:55 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[17-Apr-2022 11:28:55 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[17-Apr-2022 11:29:35 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[17-Apr-2022 11:29:36 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[17-Apr-2022 11:30:00 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[17-Apr-2022 11:30:00 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[17-Apr-2022 11:30:02 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[17-Apr-2022 11:30:02 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[17-Apr-2022 11:30:38 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[17-Apr-2022 11:30:38 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[17-Apr-2022 11:30:41 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[17-Apr-2022 11:30:41 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[17-Apr-2022 11:30:48 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[17-Apr-2022 11:30:48 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[17-Apr-2022 11:31:18 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[17-Apr-2022 11:31:18 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[17-Apr-2022 11:31:20 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[17-Apr-2022 11:31:20 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[17-Apr-2022 11:31:53 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[17-Apr-2022 11:31:53 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[17-Apr-2022 11:32:21 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[17-Apr-2022 11:32:21 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[17-Apr-2022 11:32:33 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[17-Apr-2022 11:32:34 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[17-Apr-2022 11:32:34 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[17-Apr-2022 11:32:34 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[17-Apr-2022 11:32:41 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[17-Apr-2022 11:32:41 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[17-Apr-2022 11:33:09 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[17-Apr-2022 11:33:09 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[17-Apr-2022 11:33:14 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[17-Apr-2022 11:33:14 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[17-Apr-2022 11:34:36 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[17-Apr-2022 11:34:36 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[17-Apr-2022 11:34:37 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[17-Apr-2022 11:34:37 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[17-Apr-2022 11:34:44 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[17-Apr-2022 11:34:44 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[17-Apr-2022 11:35:47 UTC] PHP Warning:  Creating default object from empty value in /home/ideammat/public_html/wp-content/themes/aven/framework/admin/ReduxCore/inc/class.redux_filesystem.php on line 29
+[17-Apr-2022 11:35:47 UTC] PHP Warning:  Illegal string offset 'Theme Color' in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php on line 66
+[17-Apr-2022 11:36:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function vc_get_shared() in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/vc-params.php:474
+Stack trace:
+#0 /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php(32): require_once()
+#1 /home/ideammat/public_html/wp-includes/class-wp-hook.php(307): aven_zozo_vc_extend_params_init('')
+#2 /home/ideammat/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#3 /home/ideammat/public_html/wp-includes/plugin.php(474): WP_Hook->do_action(Array)
+#4 /home/ideammat/public_html/wp-settings.php(587): do_action('init')
+#5 /home/ideammat/public_html/wp-config.php(109): require_once('/home/ideammat/...')
+#6 /home/ideammat/public_html/wp-load.php(50): require_once('/home/ideammat/...')
+#7 /home/ideammat/public_html/wp-admin/admin-ajax.php(22): require_once('/home/ideammat/...')
+#8 {main}
+  thrown in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/vc-params.php on line 474
+[17-Apr-2022 11:37:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function vc_get_shared() in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/vc-params.php:474
+Stack trace:
+#0 /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/visual-composer.php(32): require_once()
+#1 /home/ideammat/public_html/wp-includes/class-wp-hook.php(307): aven_zozo_vc_extend_params_init('')
+#2 /home/ideammat/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#3 /home/ideammat/public_html/wp-includes/plugin.php(474): WP_Hook->do_action(Array)
+#4 /home/ideammat/public_html/wp-settings.php(587): do_action('init')
+#5 /home/ideammat/public_html/wp-config.php(109): require_once('/home/ideammat/...')
+#6 /home/ideammat/public_html/wp-load.php(50): require_once('/home/ideammat/...')
+#7 /home/ideammat/public_html/wp-admin/admin-ajax.php(22): require_once('/home/ideammat/...')
+#8 {main}
+  thrown in /home/ideammat/public_html/wp-content/themes/aven/includes/visual-composer/vc-params.php on line 474
+[17-Apr-2022 11:50:07 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/ideammat/public_html/wp-content/plugins/woocommerce-gravityforms-product-addons/inc/gravityforms-product-addons-cart.php on line 520
+[17-Apr-2022 11:50:07 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/ideammat/public_html/wp-content/plugins/woocommerce-gravityforms-product-addons/inc/gravityforms-product-addons-cart.php on line 527
+[17-Apr-2022 11:50:07 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/ideammat/public_html/wp-content/plugins/woocommerce-gravityforms-product-addons/inc/gravityforms-product-addons-cart.php on line 540
+[17-Apr-2022 12:02:49 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/ideammat/public_html/wp-content/plugins/woocommerce-gravityforms-product-addons/inc/gravityforms-product-addons-cart.php on line 520
+[17-Apr-2022 12:02:49 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/ideammat/public_html/wp-content/plugins/woocommerce-gravityforms-product-addons/inc/gravityforms-product-addons-cart.php on line 527
+[17-Apr-2022 12:02:49 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/ideammat/public_html/wp-content/plugins/woocommerce-gravityforms-product-addons/inc/gravityforms-product-addons-cart.php on line 540
+[17-Apr-2022 12:08:22 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/ideammat/public_html/wp-content/plugins/woocommerce-gravityforms-product-addons/inc/gravityforms-product-addons-cart.php on line 520
+[17-Apr-2022 12:08:22 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/ideammat/public_html/wp-content/plugins/woocommerce-gravityforms-product-addons/inc/gravityforms-product-addons-cart.php on line 527
+[17-Apr-2022 12:08:22 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/ideammat/public_html/wp-content/plugins/woocommerce-gravityforms-product-addons/inc/gravityforms-product-addons-cart.php on line 540

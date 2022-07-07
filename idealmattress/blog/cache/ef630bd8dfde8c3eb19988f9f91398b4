@@ -1,0 +1,202 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3227:"Assuming everyone knows at least 44 people, and that each of those people knows an entirely new 44 people, and so on, the maths shows that in just six steps everyone could be connected to 44^6, or 7.26 billion people - more than are alive on Earth today. See how Martin Scorsese is six-degrees separated from every Best Picture Oscar nominee ... charting the iconic Irishman director’s six degrees of separation from all of this year’s nominees … Winners & Nominees. Search All; Search Winners & Nominees; Winners & Nominees. View by Category; ... Six Degrees of Separation. 2 Nominations. The play was nominated for the Pulitzer Prize for Drama and was nominated for the Tony Award for Best Play. Six degrees of separation is the theory that any person on the planet can be connected to any other person on the planet through a chain of acquaintances that has no more than five intermediaries. Ouisa… 1 Nomination. The play was nominated for the Pulitzer Prize for Drama and was nominated for the Tony Award for Best Play. This crisp adaptation opened in limited theatrical release last month, to qualify for Oscar nominations, and is now getting wider distribution. Music (Original Song) - A Wink And A Smile in "Sleepless in Seattle" Music by Marc Shaiman; Lyric by Ramsey McLean. Golden Globes: 1 Nomination. ... the nominations lined up with my predictions, ... Six Degrees of Separation. An affluent New York couple find their lives touched, intruded upon, and compelled by a mysterious young black man who is never quite who he says he is.  Guare also was nominated for a Pulitzer Prize for Drama, and the 1993 film version, featuring actors Will Smith and Stockard Channing, earned Oscar and Golden Globe nominations. Search Winners & Nominees. Inspired by true events and spawning a major motion picture, “Six Degrees of Separation” follows the trail of a young black con man, Paul, who insinuates himself into the lives of a wealthy New York couple, claiming he is the son of actor Sidney Poitier and that he knows their son from school. Music (Original Song) - A Wink And A Smile in "Sleepless in Seattle" Music by … That line, spoken by Allison Janney (West Wing, Broadway's 9 to 5), as the well -off Ouisa, breaks the hanging silence and sense of wonder. Fred Schepisi’s Six Degrees of Separation, based on John Guare’s long-running play, is as “Off-Hollywood” movie as any can be. The nominations for the 2017 Tony Awards were revealed May 2 at the New York Public Library for the Performing Arts at Lincoln Center. [1] The play explores the existential premise that everyone in the world is connected to everyone else in the world by a chain of no more than six acquaintances, thus, “six degrees … Actress in a Leading Role - Stockard Channing in "Six Degrees of Separation" Sleepless in Seattle. Six Degrees of Separation: Very Well, Indeed. Best Book of a Musical. Emmy champ Allison Janney was to headline the first Broadway revival … Six Degrees of Separation is a play written by American playwright John Guare that premiered in 1990. ... Six Degrees of Separation. If you just take a look at the numbers, the six degrees of separation idea seems pretty plausible. 1 Nomination. ";s:7:"keyword";s:37:"six degrees of separation nominations";s:5:"links";s:2898:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=why-did-my-pavlova-spread'>Why Did My Pavlova Spread</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pinterest-small-bathroom-tile-ideas'>Pinterest Small Bathroom Tile Ideas</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=confederation-of-british-industry-india'>Confederation Of British Industry India</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cibc-swift-code-11-digits'>Cibc Swift Code 11 Digits</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=savoy-sharm-el-sheikh-yellow-page'>Savoy Sharm El Sheikh Yellow Page</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-long-does-lowes-hold-pick-up-orders'>How Long Does Lowes Hold Pick Up Orders</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=2000-psi-pressure-washer-pump'>2000 Psi Pressure Washer Pump</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=amaryllis-bulbs-sale-home-depot'>Amaryllis Bulbs Sale Home Depot</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=realspace-mftc-200-assembly-instructions'>Realspace Mftc 200 Assembly Instructions</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=diy-mid-century-modern-mirror'>Diy Mid Century Modern Mirror</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-traditional-mumu'>How To Make Traditional Mumu</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=beauty-benefits-of-drinking-water'>Beauty Benefits Of Drinking Water</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-biscuits-at-home'>How To Make Biscuits At Home</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=vinegar-wood-floor-cleaner-recipe'>Vinegar Wood Floor Cleaner Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=las-vegas-villas-for-sale'>Las Vegas Villas For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-ninja-saviors-return-of-the-warriors-metacritic'>The Ninja Saviors Return Of The Warriors Metacritic</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=6-panel-solid-wood-interior-doors-prehung'>6 Panel Solid Wood Interior Doors Prehung</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=antique-gift-shop-in-bangalore'>Antique Gift Shop In Bangalore</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=depth-of-pool-to-dive'>Depth Of Pool To Dive</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=are-ferns-poisonous-to-babies'>Are Ferns Poisonous To Babies</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=roller-coaster-meaning-in-tamil'>Roller Coaster Meaning In Tamil</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=torres-del-paine-national-park-hotels'>Torres Del Paine National Park Hotels</a>,
+";s:7:"expired";i:-1;}

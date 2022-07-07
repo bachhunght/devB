@@ -1,0 +1,234 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:5133:"Philips Hue Bridge 2nd gen user discussions. The heart of your Philips Hue system . The second generation Philips Hue starter kit comes with compatibility for Apple HomeKit technology. This is actually the brain of the operation that enables you to control all of your Philips Hue products via the Philips Hue app. This 3rd generation Philips Hue white and color ambiance bulbs produce true blues and greens, unlike the 2nd generation bulbs. Just ask Siri to recall presets, turn on lights or dim lights even without touching a single button. I have seen instructions for migrating attached Hue devices from a 1st to 2nd generation bridge, but found no instructions for migrating devices between more than one (2nd generation) bridge. With the release of the second generation of bulbs, Philips redesigned the bridge — so both the Philips Hue 2 and 3 starter kits come with the updated, square-shaped bridge. Philips didn't make any drastic changes to its smart lighting kit for generation two. I have now obtained a second bridge to add to my network and I want to migrate some of my accessories to the second. Third light indicates that the bridge is connected to the internet. In our previous article about the most common Philips Hue connection issues, we showed an image of the hue bridge and what each light means (see below). Read on as we show you how to migrate your old Hue bulbs to your new system as well as how to take advantage of the HomeKit integration. Philips Hue Bridge 2.0 - Apple Home Kit Compatible Philips recently released a new Hue bridge with support for Apple’s new HomeKit bridge. The first light shows that the bridge is receiving power. The second light shows that your Hue bridge is connected to a network. First thing we need to setup is your Philips Hue Bridge. Free shipping for many products! The first light shows that the bridge is receiving power. Getting Started with Philips Hue. They do differ, however, in the type of bridge that the starter kits ship with. Philips Hue White and Color 9W E26 Starter kit (3rd Gen) This starter kit gets you going with the best of what Hue has to offer. Amazon.in: Buy Philips 2nd Generation Hue Bridge (White) online at low price in India on Amazon.in. Details The Philips Hue 2nd Generation Bridge is the heart of the Philips Hue system; it lets you control all of your Hue products with the Hue app even when you are away from home. I have now obtained a second bridge to add to my network and I want to migrate some of my accessories to the second. With the release of the second generation of bulbs, Philips redesigned the bridge — so both the Philips Hue 2 and 3 starter kits come with the updated, square-shaped bridge. Details Philips Hue Bridge 2nd gen user discussions. Philips Hue Bridge – As mentioned above, all three generations of Philips Hue bulbs require a Philips Hue Bridge in order to operate. You can easily control your lighting with HomeKit for your iOS 9-powered Apple® iPhone®. Philips Hue White and Color 9W E26 Starter kit (3rd Gen) This starter kit gets you going with the best of what Hue has to offer. A bridge and 4 color bulbs can set color and warmth to any scene in your home! Forum, Problems & Help and Frequently Asked Questions (FAQ) The following area is a forum of the devicebase community for the product Philips Hue Bridge 2nd gen. Frequently asked questions (FAQ), problems and helpful tips from users and possibly representatives of Philips are discussed here. In fact, I hesitate to call this a second generation product at all. In October 2015 Philips launched the 2nd gen version of Hue and the Hue Bridge had some big changes. The Philips Hue bridge is all you need to set up your personal Philips Hue system. Plus, connect your existing Zigbee and … Philips Hue Bridge 2nd Generation: Get the level of control you need with this hue bridge, which features internal storage space for enhanced functionality. Forum, Problems & Help and Frequently Asked Questions (FAQ) The following area is a forum of the devicebase community for the product Philips Hue Bridge 2nd gen. Support have suggested it is due to my overloading the bridge with too many accessories. Find helpful customer reviews and review ratings for Philips 2nd Generation Hue Bridge (White) at Amazon.com. The 2nd and 3rd generation Hue light bulbs are 25% brighter than 1st-gen bulbs. This 3rd generation Philips Hue white and color ambiance bulbs produce true blues and greens, unlike the 2nd generation bulbs. Difference #2: Technical specifications – 2nd and 3rd generation of Philips Hue light bulbs have identical technical specifications, which are slightly better than the 1st generation Philips Hue bulbs. Philips Hue Smart Bridge - 2nd Generation, Latest Model - Compatible with Alexa, Apple HomeKit and Google Assistant (Renewed) A bridge and 4 color bulbs can set color and warmth to any scene in your home! Third light indicates that the bridge is connected to the internet. Free Shipping. Frequently asked questions (FAQ), problems and helpful tips from users and possibly representatives of Philips are discussed here. ";s:7:"keyword";s:32:"The Making of a Chef' and 'x'='x";s:5:"links";s:7336:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=noah-webster-1828-dictionary-free-download'>Noah Webster 1828 Dictionary Free Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=janie-show-wood-chair-review'>Janie Show Wood Chair Review</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philips-hue-flourish-ceiling-light'>Philips Hue Flourish Ceiling Light</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=importance-of-rhyme-in-literacy-development'>Importance Of Rhyme In Literacy Development</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-cook-kamut-in-rice-cooker'>How To Cook Kamut In Rice Cooker</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-a-fabric-covered-headboard'>How To Make A Fabric Covered Headboard</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=glass-garage-doors-for-houses'>Glass Garage Doors For Houses</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-watercolor-artists-on-etsy'>Best Watercolor Artists On Etsy</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=technical-university-of-munich-requirements'>Technical University Of Munich Requirements</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=door-to-door-door-company'>Door To Door Door Company</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=understanding-the-basic-kitchen-layout'>Understanding The Basic Kitchen Layout</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=battle-of-coral-sea-date'>Battle Of Coral Sea Date</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lowes-peel-and-stick-vinyl-wallpaper'>Lowes Peel And Stick Vinyl Wallpaper</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=liberty-furniture-sofa-table-with-stools'>Liberty Furniture Sofa Table With Stools</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dark-brown-nightstand-with-drawers'>Dark Brown Nightstand With Drawers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=safed-musli-benefits-in-hindi'>Safed Musli Benefits In Hindi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=twin-xl-bed-with-bookcase-headboard'>Twin Xl Bed With Bookcase Headboard</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dfs-management-remove-server-from-replication-group'>Dfs Management Remove Server From Replication Group</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kitchen-backsplash-ideas-for-dark-cabinets'>Kitchen Backsplash Ideas For Dark Cabinets</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=whirlpool-refrigerator-water-filter-replacement-instructions'>Whirlpool Refrigerator Water Filter Replacement Instructions</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=handy-portable-steamer-smooth-finish'>Handy Portable Steamer Smooth Finish</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ice-cream-names-in-different-languages'>Ice Cream Names In Different Languages</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=art-van-living-room-ideas'>Art Van Living Room Ideas</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=who-won-the-battle-of-the-alamo'>Who Won The Battle Of The Alamo</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sunroom-kits-home-depot-canada'>Sunroom Kits Home Depot Canada</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dollar-tree-contact-paper-as-wallpaper'>Dollar Tree Contact Paper As Wallpaper</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=salad-to-serve-with-chicken-tikka-masala'>Salad To Serve With Chicken Tikka Masala</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=simplehuman-rectangular-step-can-55l'>Simplehuman Rectangular Step Can 55l</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hall-design-for-medium-family'>Hall Design For Medium Family</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=laocoon-and-his-sons-sculpture-date'>Laocoon And His Sons Sculpture Date</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=vegan-keto-pasta-dough-recipe'>Vegan Keto Pasta Dough Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-greenwich-accommodation-service'>University Of Greenwich Accommodation Service</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=manjula-pothos-vs-marble-queen'>Manjula Pothos Vs Marble Queen</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=zen-bathroom-on-a-budget'>Zen Bathroom On A Budget</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-fridge-repair-near-me'>Best Fridge Repair Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=free-list-of-foreclosures-by-zip-code'>Free List Of Foreclosures By Zip Code</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=funding-for-community-garden-projects'>Funding For Community Garden Projects</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hepa-vacuum-rental-for-lead'>Hepa Vacuum Rental For Lead</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cross-country-ski-bindings-and-boots'>Cross Country Ski Bindings And Boots</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=they-were-expendable-filming-locations'>They Were Expendable Filming Locations</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-build-a-she-shed'>How To Build A She Shed</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-tell-if-you-have-hardwood-floors-under-carpet'>How To Tell If You Have Hardwood Floors Under Carpet</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=5-sentences-about-strawberry-in-english'>5 Sentences About Strawberry In English</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=feel-good-food-plan-2018'>Feel Good Food Plan 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=why-is-my-radicchio-green'>Why Is My Radicchio Green</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=meatless-baked-ziti-without-ricotta'>Meatless Baked Ziti Without Ricotta</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=little-big-town-girl-crush'>Little Big Town Girl Crush</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philips-mastercolor-ceramic-metal-halide-400w'>Philips Mastercolor Ceramic Metal Halide 400w</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=brunel-university-qs-ranking-2019'>Brunel University Qs Ranking 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-calgary-admissions-rate'>University Of Calgary Admissions Rate</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-much-is-sony-pictures-worth-2019'>How Much Is Sony Pictures Worth 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-burger-names-in-the-world'>Best Burger Names In The World</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=24-inch-frosted-glass-door'>24 Inch Frosted Glass Door</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sofa-set-meaning-in-english'>Sofa Set Meaning In English</a>,
+";s:7:"expired";i:-1;}

@@ -1,0 +1,218 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2880:"On Safari, the X icon won't appear until you place your mouse cursor over the tab. Set aside tabs on Firefox. How to Close Tabs on Kindle Fire. Disco Stew 177,471 views I run the same test on the firestick and I get around 200Mbps. From device main menu, scroll to the left to hover over search icon and type Silk. 1. This killed the podcast. You'll find the X icon on the right side of the tab; clicking it will immediately close the tab. Why are the numbers so drastically different? All you’ll need are Firefox on both devices and a free Firefox Account. I have installed AllCast on both devices with no success. Here, you will get step by step installation guide of chrome browser on fire tv.We have also shared a video tutorial to make this process easier. The Kindle Fire's Silk browser allows you to surf multiple tabs on the internet. If you’d like to set aside tabs on Firefox, you can use an add-on called Set Aside. If i put my phone directly next to the firestick i get around 800Mbps. Firefox has a ton of shortcut keys, but this is one of the most useful. Save to (or bookmark) and remove links from your How to Close Tabs on Kindle Fire. Many Firestick users install a 3rd party application called ES File Explorer that works as an all-around tool for your device. Same test, same range, same connection should result in similar speeds. Receive tabs on Firefox for Fire TV Send websites from your phone, tablet or computer to your Fire TV! How to Close All Tabs in Firefox On Windows 10 To close down or Minimize the opened tabs in Mozilla Firefox PC, you need to press the following shortcut key. Click it, and all the tabs that you have open in the current window will be set aside. Google Chrome is not an official web browser for Firestick, so if you want to get this wonderful browser on your device, you need to use some third party sources … How To Install Browser On Fire TV Or Stick Tutorial How To Install Silk Browser on Firestick/Fire TV. How To Delete Apps on Firestick Extras. 3. Windows Key + M If you wish to quit the Mozilla Firefox application on To move Firefox Quantum tabs from top to bottom, you need to follow the below steps. I had written before about how to select a specific tab with a keyboard hotkey, which I use to easily switch back to my RSS reader of choice (Google Reader).. Today I was wondering how I could quickly close a tab that I had opened. Let’s check it out without wasting more time. [How To]Restore Recently Closed Tabs in Firefox, Chrome, Opera and IE Everytime when i am researching something on the internet, i prefer to open multiple tabs simultaneously in the web browser. While the guide above is the easiest way to uninstall Firestick/Fire TV apps, it is not the only way. It sounds simple but im not able just to copy any link, for example links from a google search result, or any other possibile Link. ";s:7:"keyword";s:38:"how to close tabs on firestick firefox";s:5:"links";s:5286:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-garden-hose-foam-gun'>Best Garden Hose Foam Gun</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-factory-reset-toshiba-satellite-laptop-windows-7-without-cd'>How To Factory Reset Toshiba Satellite Laptop Windows 7 Without Cd</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-increase-desire-in-a-woman'>How To Increase Desire In A Woman</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=luther-season-5-episode-1-netflix'>Luther Season 5 Episode 1 Netflix</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=How-to-draw-a-church'>How To Draw A Church</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-fat-duck-price-2019'>The Fat Duck Price 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lg-24-cu-ft-refrigerator-bottom-freezer'>Lg 24 Cu Ft Refrigerator Bottom Freezer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=honor-10-lite-6gb-ram-128gb-price-in-india'>Honor 10 Lite 6gb Ram 128gb Price In India</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kid-friendly-pizza-dough-recipe'>Kid Friendly Pizza Dough Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=villa-interior-design-in-hyderabad'>Villa Interior Design In Hyderabad</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-coffee-table-garden-books'>Best Coffee Table Garden Books</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=identify-christmas-tree-light-bulbs'>Identify Christmas Tree Light Bulbs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=custom-ranch-home-builders-maryland'>Custom Ranch Home Builders Maryland</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=individual-contribution-to-group-work-example'>Individual Contribution To Group Work Example</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=banff-snow-forecast-14-day'>Banff Snow Forecast 14 Day</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=restaurants-in-midtown-for-large-groups'>Restaurants In Midtown For Large Groups</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hayward-led-pool-light-bulb'>Hayward Led Pool Light Bulb</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chicken-and-tomato-recipes-easy'>Chicken And Tomato Recipes Easy</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cartoon-ice-cream-coloring-pages'>Cartoon Ice Cream Coloring Pages</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=session-and-cookies-in-java-servlets'>Session And Cookies In Java Servlets</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=Paint-for-walls-in-house'>Paint For Walls In House</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=high-back-fabric-dining-room-chairs'>High Back Fabric Dining Room Chairs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rooms-to-go-veterans-day-sale-2019'>Rooms To Go Veterans Day Sale 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=testng-selenium-interview-questions-pdf'>Testng Selenium Interview Questions Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fly-insect-meaning-in-hindi'>Fly Insect Meaning In Hindi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=yarrow-tea-where-to-buy'>Yarrow Tea Where To Buy</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=delft-university-of-technology-ranking'>Delft University Of Technology Ranking</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=homes-for-sale-rumford-maine'>Homes For Sale Rumford Maine</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=store-in-the-fridge-crossword-clue'>Store In The Fridge Crossword Clue</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wrong-turn-at-tahoe-ending-explained'>Wrong Turn At Tahoe Ending Explained</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=facebook-profile-picture-downloader-online'>Facebook Profile Picture Downloader Online</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-many-days-in-whistler-summer'>How Many Days In Whistler Summer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=difference-between-crustose-and-foliose-lichen'>Difference Between Crustose And Foliose Lichen</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philips-80ct-christmas-led-c9-faceted-string-lights-multicolored'>Philips 80ct Christmas Led C9 Faceted String Lights Multicolored</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=big-little-lies-season-1-episode-3'>Big Little Lies Season 1 Episode 3</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=free-download-windows-8-ultimate-full-version'>Free Download Windows 8 Ultimate Full Version</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=american-society-for-the-prevention-of-cruelty-to-animals-dba-aspca'>American Society For The Prevention Of Cruelty To Animals Dba Aspca</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=michelin-star-restaurants-singapore-2019'>Michelin Star Restaurants Singapore 2019</a>,
+";s:7:"expired";i:-1;}

@@ -1,0 +1,247 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2050:"At Johnson & Johnson Vision, our top priority is patient safety and we hold ourselves to high standards for product quality and customer satisfaction. Johnson & Johnson Vision (J&JV) and the Medicine and Healthcare Products Regulatory Agency have issued a UK-wide recall for the 1-Day Acuvue Moist for Astigmatism contact lenses. ACUVUE ® Brand Contact Lenses not affected by this recall are safe when used as directed and can continue to be used with confidence. The recall affects a low level of stock of certain lots of 1-day Acuvue Moist for Astigmatism lenses. Fears over faulty batch of Johnson & Johnson Acuvue daily disposable lenses Firm are recalling 1-day Acuvue Moist for Astigmatism lenses, says MHRA The lenses are being recalled because they may have been contaminated with … Users of certain Johnson & Johnson Acuvue daily disposable contact lenses are being urged by the Medicines and Healthcare products Regulatory Agency (MHRA) to check their lenses. Users of certain Johnson & Johnson Acuvue daily disposable contact lenses are being urged by the MHRA to check their lenses, due to a voluntary product recall … This recall is due to fears that the contact lenses may have dangerous particles on the lens or in the solution, which could cause irritation or damage to the eye surface. Johnson & Johnson has announced that it's initiating a voluntary recall in the United States of a specific lot of its popular Johnson's Baby Powder due to … Johnson & Johnson has notified affected opticians and optometrists - recalling the affected lots - and has instructed them to contact patients who may have received the contaminated products. Users of certain Johnson & Johnson Acuvue daily disposable contact lenses are being urged by the Medicines and Healthcare products Regulatory Agency (MHRA) to check their lenses, due to a product recall of specific lots. Why are Johnson & Johnson contact lenses being recalled? For questions on whether your lenses are affected, please refer to the chart below or call us at 0800 022 4222.  ";s:7:"keyword";s:33:"johnson and johnson lenses recall";s:5:"links";s:9181:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=modern-garage-doors-home-depot'>Modern Garage Doors Home Depot</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=why-did-molly-leave-last-man-standing'>Why Did Molly Leave Last Man Standing</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-to-do-with-shady-part-of-garden'>What To Do With Shady Part Of Garden</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-haunting-of-molly-hartley-the-final'>The Haunting Of Molly Hartley The Final</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mgb-dynamo-to-alternator-conversion'>Mgb Dynamo To Alternator Conversion</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=muhammad-ali-vs-mike-tyson'>Muhammad Ali Vs Mike Tyson</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=one-of-the-best-moments-of-my-life-meaning-in-hindi'>One Of The Best Moments Of My Life Meaning In Hindi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=small-tv-stand-with-storage'>Small Tv Stand With Storage</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=right-at-home-albuquerque-reviews'>Right At Home Albuquerque Reviews</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=val-thorens-ski-pass-prices-2019'>Val Thorens Ski Pass Prices 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=venue-restaurant-new-philadelphia-ohio'>Venue Restaurant New Philadelphia Ohio</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=macheesmo-com-slow-roasted-wings'>Macheesmo Com Slow Roasted Wings</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-play-chinese-mahjong'>How To Play Chinese Mahjong</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-cabinet-doors-from-plywood'>How To Make Cabinet Doors From Plywood</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=jump-into-a-swimming-pool'>Jump Into A Swimming Pool</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=recipes-with-ground-beef-and-potatoes'>Recipes With Ground Beef And Potatoes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=portable-carpet-extractor-for-auto-detailing'>Portable Carpet Extractor For Auto Detailing</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=find-words-made-up-only-from-these-letters'>Find Words Made Up Only From These Letters</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philips-hue-color-starter-kit'>Philips Hue Color Starter Kit</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-lay-a-garden-path'>How To Lay A Garden Path</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kenmore-elite-refrigerator-manual-temperature-settings'>Kenmore Elite Refrigerator Manual Temperature Settings</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=when-does-a-hybrid-solar-eclipse-occur'>When Does A Hybrid Solar Eclipse Occur</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=download-instagram-for-pc-windows-8'>Download Instagram For Pc Windows 8</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-stackable-washer-dryer-2019'>Best Stackable Washer Dryer 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=white-dining-table-set-for-6'>White Dining Table Set For 6</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=british-academy-of-garden-design-reviews'>British Academy Of Garden Design Reviews</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dining-table-seats-14-ikea'>Dining Table Seats 14 Ikea</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cross-country-skiing-holidays-beginners'>Cross Country Skiing Holidays Beginners</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dazed-and-confused-lyrics-yardbirds'>Dazed And Confused Lyrics Yardbirds</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=150-lumens-per-watt-led'>150 Lumens Per Watt Led</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-plant-crocus-bulbs'>How To Plant Crocus Bulbs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=west-elm-mid-century-media-console'>West Elm Mid Century Media Console</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=verticillium-wilt-black-eyed-susan'>Verticillium Wilt Black Eyed Susan</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=commercial-kitchen-equipment-near-me'>Commercial Kitchen Equipment Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sprouts-farmers-market-near-me'>Sprouts Farmers Market Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-ski-resorts-in-colorado-for-beginners'>Best Ski Resorts In Colorado For Beginners</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pan-fried-chicken-tikka-recipe-sanjeev-kapoor'>Pan Fried Chicken Tikka Recipe Sanjeev Kapoor</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=i-still-see-you-sequel'>I Still See You Sequel</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ebay-global-shipping-program-uk'>Ebay Global Shipping Program Uk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=salvation-army-online-store-singapore'>Salvation Army Online Store Singapore</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-play-chinese-mahjong'>How To Play Chinese Mahjong</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=master-bedroom-plans-with-bath-and-walk-in-closet'>Master Bedroom Plans With Bath And Walk In Closet</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-container-store-job-descriptions'>The Container Store Job Descriptions</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=national-gardening-association-houseplant-sales'>National Gardening Association Houseplant Sales</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=clean-food-dirty-girl-baked-beans'>Clean Food Dirty Girl Baked Beans</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=airdrie-and-coatbridge-advertiser-court-cases'>Airdrie And Coatbridge Advertiser Court Cases</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=virgin-of-the-rocks-medium'>Virgin Of The Rocks Medium</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-cocktail-bars-amsterdam-2019'>Best Cocktail Bars Amsterdam 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mahindra-mounted-combine-harvester-arjun-605-price'>Mahindra Mounted Combine Harvester Arjun 605 Price</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-far-is-lexington-virginia-from-richmond-virginia'>How Far Is Lexington Virginia From Richmond Virginia</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=when-does-a-hybrid-solar-eclipse-occur'>When Does A Hybrid Solar Eclipse Occur</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=paint-colors-for-hallways-and-stairs'>Paint Colors For Hallways And Stairs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=How-to-knit-a-heart'>How To Knit A Heart</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bunk-bed-in-al-quoz'>Bunk Bed In Al Quoz</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-is-feces-made-of'>What Is Feces Made Of</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rac-large-fabric-pet-carrier'>Rac Large Fabric Pet Carrier</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-fast-food-breakfast-sandwich-2019'>Best Fast Food Breakfast Sandwich 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=village-at-the-summit-snoqualmie'>Village At The Summit Snoqualmie</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-do-you-take-care-of-a-dipladenia-in-the-winter'>How Do You Take Care Of A Dipladenia In The Winter</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-assemble-collapsible-wardrobe'>How To Assemble Collapsible Wardrobe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=decimal-to-inches-conversion-calculator'>Decimal To Inches Conversion Calculator</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hgtv-dream-home-2019-canada'>Hgtv Dream Home 2019 Canada</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=summon-person-meaning-in-marathi'>Summon Person Meaning In Marathi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-place-to-buy-computer-chair'>Best Place To Buy Computer Chair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=simplehuman-triple-wall-mount-shower-pump-installation'>Simplehuman Triple Wall Mount Shower Pump Installation</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=portland-cost-of-living-vs-seattle'>Portland Cost Of Living Vs Seattle</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=why-are-charophytes-closely-related-to-plants'>Why Are Charophytes Closely Related To Plants</a>,
+";s:7:"expired";i:-1;}

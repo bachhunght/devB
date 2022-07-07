@@ -1,0 +1,227 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4680:"Enter one value and choose the number of decimal places. Circle calculator, formula, work with steps, step by step calculation, real world and practice problems to learn how to find the area, circumference & diameter of a circle … If the surface is complex in shape, it may be possible to section the surface into simple shapes and add their square footages together. Then click Calculate. Enter one value and choose the number of decimal places. Below the form you can find more on this subject from area formulas for various shapes to some example calculations. Area of a circle. Area = 3.1416 x r 2. This shows us that the circumference of the circle is three “and a little” times as long as the diameter. Area of a cyclic quadrilateral. Disclaimer. Calculations at a regular hexagon, a polygon with 6 vertices. Circle area calculator and circumference calculator provide you with a simple way of determining the square footage area for various shapes. Area of a regular polygon. This number is the radius. Side of polygon given area. Area of a parallelogram given sides and angle. Hexagon Calculator. Given any one variable A, C, r or d of a circle you can calculate the other three unknowns. The resulting number is the square footage of your circle area. Radius (in units of length): Fill in the radius to find the area of a circle. The Square Footage Calculator estimates the square footage of a lot, house, or other surfaces in several common shapes. The hexagon is the highest regular polygon which allows a regular tesselation (tiling). Hexagon Calculator. Square Footage Calculator. Calculate the area of a (right-angled) triangle with this calculation. Radius of circle given area. Then click Calculate. Therefore, the formula for finding out the circumference of the circle is Circumference of circle = π x Diameter of circle, which we typically write in the short form as C = πd. Its mathematically accurate and useful for Construction projects, wood workers, home owners, students, and real estate. Whilst every effort has been made in building this square footage calculator, we are not to be held liable for any special, incidental, indirect or consequential damages or monetary losses of any kind arising out of or in connection with the use of the converter tools … Calculate square footage, yardage, meters and acres for landscape, flooring, carpet, or tiling projects to estimate area and the amount of material you will need. r = radius d = diameter C = circumference A = area π = pi = 3.1415926535898 √ = square root. Calculate the area of a triangle. Use this circle calculator to find the area, circumference, radius or diameter of a circle. Square footage is the area in square feet. This square foot calculator determines the square footage of a room, lot, land, property or house no matter the shape. Then multiply the radius by itself (radius ²) and then multiply that number by 3.14 (otherwise known as π). This calculation will calculate the area of a circle using either the diameter, the radius or the circumference as input. Area of a quadrilateral. Area of a parallelogram given base and height. Area of a rectangle. Circle Shape. Area of a trapezoid. Area of a square. Find the area with this circle area formula: Multiply Pi (3.1416) with the square of the radius (r) 2. Circle Area Calculator Find the area of a circle by using this online Circle Calculator. Choose a Calculator Determine the area of cricle, ellipse, rectangle, square, polygon, trapezoid, parallelogram and triangle using our online area calculators below: Area of a Circle Enter value, select unit and click on calculate. How do you find the area of a circle? Use this calculator to find the square footage, square yardage, square meters or acres for a building, home, garden or construction project. Find the middle point of the circle and measure that point to the edge of the circle. Calculations at a regular hexagon, a polygon with 6 vertices. The hexagon is the highest regular polygon which allows a regular tesselation (tiling). Calculate the area of a circle. The easiest way to calculate it is by measuring the length and width of your area in feet then multiplying those two numbers together to get the area in feet squared. Pi or π is nearly equal to 3.14. Use this calculation to calculate the area of a square or a rectangle. Calculate the surface area of a sphere. Calculator Use. Area of a rhombus.  Circle calculator, formula, work with steps, step by step calculation, real world and practice problems to learn how to find the area, circumference & diameter of a circle … Result will be displayed. Area of a Circle Radius and Diameter . ";s:7:"keyword";s:37:"square footage of a circle calculator";s:5:"links";s:6297:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=star-wars-the-rise-of-skywalker-rotten-tomatoes'>Star Wars The Rise Of Skywalker Rotten Tomatoes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=senior-management-performance-appraisal-examples'>Senior Management Performance Appraisal Examples</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=small-tv-room-ideas-pinterest'>Small Tv Room Ideas Pinterest</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=karcher-pressure-washer-repair-manual'>Karcher Pressure Washer Repair Manual</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-care-for-lavender-plants-in-pots'>How To Care For Lavender Plants In Pots</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=food-network-recipe-of-the-day'>Food Network Recipe Of The Day</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=zucchini-noodles-recipe-with-chicken'>Zucchini Noodles Recipe With Chicken</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cambridge-apartments-for-rent-by-owner'>Cambridge Apartments For Rent By Owner</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-office-tv-show-wall-decal'>The Office Tv Show Wall Decal</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=average-salary-in-india-in-rupees'>Average Salary In India In Rupees</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ultimate-veg-jamie-oliver-recipes'>Ultimate Veg Jamie Oliver Recipes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-prevent-refrigerator-fire'>How To Prevent Refrigerator Fire</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=carrot-juice-skin-before-after'>Carrot Juice Skin Before After</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=deviled-eggs-with-bacon-and-avocado'>Deviled Eggs With Bacon And Avocado</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=3-room-bto-open-concept-kitchen'>3 Room Bto Open Concept Kitchen</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-affordable-restaurants-in-paris-2019'>Best Affordable Restaurants In Paris 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=olx-furniture-for-sale-nashik'>Olx Furniture For Sale Nashik</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=spicy-potato-salad-with-bacon'>Spicy Potato Salad With Bacon</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-bar-soap-holder-for-shower'>Best Bar Soap Holder For Shower</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=beat-bobby-flay-judges-2019'>Beat Bobby Flay Judges 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-long-to-spend-on-banff-gondola'>How Long To Spend On Banff Gondola</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=squaw-mountain-maine-name-change'>Squaw Mountain Maine Name Change</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mobile-homes-for-sale-in-largo-fl-by-owner'>Mobile Homes For Sale In Largo Fl By Owner</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-dance-of-intimacy-quotes'>The Dance Of Intimacy Quotes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=gas-repair-service-near-me'>Gas Repair Service Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=5-piece-canvas-art-frames'>5 Piece Canvas Art Frames</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-is-feces-made-of'>What Is Feces Made Of</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=townhomes-for-sale-near-me-zillow'>Townhomes For Sale Near Me Zillow</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-big-is-key-west'>How Big Is Key West</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-good-food-revolution-quizlet'>The Good Food Revolution Quizlet</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=great-british-bake-off-2020-contestants'>Great British Bake Off 2020 Contestants</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-beet-sugar'>How To Make Beet Sugar</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=can-eu-permanent-resident-work-in-germany'>Can Eu Permanent Resident Work In Germany</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=new-restaurants-coming-to-owensboro-ky'>New Restaurants Coming To Owensboro Ky</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=collapsible-plastic-crates-with-lids'>Collapsible Plastic Crates With Lids</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=narrow-storage-cabinet-with-drawers'>Narrow Storage Cabinet With Drawers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-east-london-address'>University Of East London Address</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dr-sandra-lee-videos-youtube'>Dr Sandra Lee Videos Youtube</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=three-sisters-national-theatre-review'>Three Sisters National Theatre Review</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=home-bargains-plastic-storage-units'>Home Bargains Plastic Storage Units</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=built-in-bedroom-cabinets-ikea'>Built In Bedroom Cabinets Ikea</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=overgrown-garden-where-to-start'>Overgrown Garden Where To Start</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kitchen-standard-operating-procedures-pdf'>Kitchen Standard Operating Procedures Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=slimming-world-slow-cooker-chicken-biryani'>Slimming World Slow Cooker Chicken Biryani</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=a-burning-hot-summer-trailer'>A Burning Hot Summer Trailer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fudge-recipe-evaporated-milk-no-marshmallows'>Fudge Recipe Evaporated Milk No Marshmallows</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lifetime-personal-folding-table-costco'>Lifetime Personal Folding Table Costco</a>,
+";s:7:"expired";i:-1;}

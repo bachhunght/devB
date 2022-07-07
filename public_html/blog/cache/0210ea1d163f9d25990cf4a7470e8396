@@ -1,0 +1,239 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4721:"This website uses own and third party cookies to measure and manage visits to the website as well as to provide a better experience and service based on the browsing habits of users. The Department of Nautical Science and Engineering within the Universitat Politècnica de Catalunya ( UPC ) delivers the Degree and second cycle Programs at the Faculty of Nautical Studies of Barcelona (FNB). Address: Avinguda Diagonal, 530 - 08006 Barcelona (SPAIN) Beneficiary name: Universitat Politècnica de Catalunya (UPC) Beneficiary address: C. Jordi Girona, 31, 08034 Barcelona (Spain) Registration. UIC Barcelona, #morethanuniversity de Ciències de la Computació You can narrow down the results with additional information. DAMA-UPC, the DAta MAnagement group at Universitat Politècnica de Catalunya (UPC) is part of the Computer Architecture Department ().The work of our group focuses on the research and technology transfer in topics related to Smart Mobiliy and Graph Databases applications & analysis. Welcome to UPCmaps . BarcelonaTech (UPC) is a public institution of research and higher education in the fields of engineering, architecture, sciences and technology, and one of the leading technical universities in Europe.Every year, more than 6,000 bachelor’s and master’s students and more than 500 doctoral students graduate. Information on the Universitat Politècnica de Catalunya - contacts, students, faculty, finances. UPC - Universitat Politècnica de Catalunya Barcelona, Spain . UPC (Universidad Politècnica de Catalunya) is the Polytechnic University of Catalonia, or BarcelonaTech as it is sometimes called. A doctorate Programme covering several maritime disciplines is also available. Welcome to UPCmaps . By continuing to browse, we understand that our cookies policy. All participants must register in order to appear in the conference programme and to receive a certificate of participation. UPC (Universidad Politècnica de Catalunya) is the Polytechnic University of Catalonia, or BarcelonaTech as it is sometimes called. La Universitat Politècnica de Catalunya UPC – Barcelona Tech is the University for the people who contribute to the imagination of the future and to moving the world. By continuing to browse, we understand that our cookies policy. BarcelonaTech. Universitat Politècnica de Catalunya. UIC Barcelona I Universitat Internacional de Catalunya. UPC La Universitat per a la gent que contribueix a imaginar el futur i a moure el món. UPC. Contact Choose a topic General information Bachelor's degree courses Master's degrees courses Doctoral courses Academic procedures Continuing education master's degrees and postgraduate courses Mobility and international relations Research Business Job bank UPC Alumni News UPC website A doctorate Programme covering several maritime disciplines is also available. UPC - Universitat Politècnica de Catalunya Barcelona, Spain . The eHealth Center is an academic centre open to the world whose goal is to educate and empower professionals and ordinary citizens, through the use of technologies, to lead the paradigm shift in health. So that you become the person you want to be. La UPC és la universitat pública de la recerca i l'educació superior en els àmbits de l'arquitectura, l'enginyeria, les ciència i la tecnologia. Address: Universitat Politècnica de Catalunya Facultat d'Informàtica de Barcelona Campus Nord, Building B3, Jordi Girona, 1-3 E-08034 Barcelona, Spain Phone: (+34) 93 401 77 29 Fax: (+34) 93 401 77 13: Academic Organization Secretary: Ms. Mercè Juan Address: Universitat Politècnica de Catalunya Dept. candidate at the Universitat Politècnica de Catalunya (UPC). The Department of Nautical Science and Engineering within the Universitat Politècnica de Catalunya ( UPC ) delivers the Degree and second cycle Programs at the Faculty of Nautical Studies of Barcelona (FNB). ... Universitat Politècnica de Catalunya. DAMA-UPC. Menu. vèrtex, etseib, jordi girona, personnel service, etc. E.g. UPC The UPC is a public university that carries out research and provides higher education in the fields of architecture, engineering, sciences and technology.The university for people who want to imagine the future and move the world vèrtex, etseib, jordi girona, personnel service, etc. If you want to study at the UPC or have specific questions about bachelor's degree courses, you can find the information you need on admission requirements, availability of places, minimum entrance grades, timetables, curricula, etc..  Universitat Politècnica de Catalunya - UPC, Barcelona, Spain. degree in Automatic Control and Robotics at the Universitat Politècnica de Catalunya (UPC), Barcelona, Spain, in 2012. ";s:7:"keyword";s:45:"universitat politècnica de catalunya address";s:5:"links";s:7919:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=small-house-plans-under-1000-sq-ft'>Small House Plans Under 1000 Sq Ft</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=custom-wood-sliding-closet-doors'>Custom Wood Sliding Closet Doors</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=warm-white-or-cool-white-better-for-eyes'>Warm White Or Cool White Better For Eyes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=downton-abbey-season-7-episode-guide'>Downton Abbey Season 7 Episode Guide</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-remove-pebble-shower-floor'>How To Remove Pebble Shower Floor</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-fanatic-box-office-budget'>The Fanatic Box Office Budget</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=who-invented-the-color-tv'>Who Invented The Color Tv</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hanging-lights-for-bedroom-wall'>Hanging Lights For Bedroom Wall</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bathroom-with-separate-toilet-room'>Bathroom With Separate Toilet Room</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=perfume-warehouse-sale-corus-hotel'>Perfume Warehouse Sale Corus Hotel</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pvc-pipe-fittings-names-pdf'>Pvc Pipe Fittings Names Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=minimum-salary-for-filipino-maid-in-dubai-2019'>Minimum Salary For Filipino Maid In Dubai 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=why-is-eating-local-food-instead-of-food-produced-elsewhere-often-helpful-to-the-environment-brainly'>Why Is Eating Local Food Instead Of Food Produced Elsewhere Often Helpful To The Environment Brainly</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=72-round-dining-table-with-lazy-susan'>72 Round Dining Table With Lazy Susan</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mid-century-modern-furniture-nj'>Mid Century Modern Furniture Nj</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-is-dresser-in-medical'>What Is Dresser In Medical</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-pollinate-air-plants'>How To Pollinate Air Plants</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-decorate-a-bedroom-with-white-walls'>How To Decorate A Bedroom With White Walls</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=national-association-of-realtors-phone-number'>National Association Of Realtors Phone Number</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=barn-door-console-table-plans'>Barn Door Console Table Plans</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mid-century-modern-high-back-chair'>Mid Century Modern High Back Chair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sweetie-pies-mac-and-cheese-small-batch'>Sweetie Pies Mac And Cheese Small Batch</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=parking-tiles-design-at-home'>Parking Tiles Design At Home</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=path-of-defense-wow-classic'>Path Of Defense Wow Classic</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=used-news-set-for-sale'>Used News Set For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=are-poblano-pepper-seeds-hot'>Are Poblano Pepper Seeds Hot</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hobby-lobby-coming-soon-2020'>Hobby Lobby Coming Soon 2020</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=patton-1970-movie-download-480p'>Patton 1970 Movie Download 480p</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=queen-of-the-night-lyrics-hey-violet-meaning'>Queen Of The Night Lyrics Hey Violet Meaning</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-fine-dining-restaurants-in-dubai'>Best Fine Dining Restaurants In Dubai</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=teaching-jobs-in-sharjah-indian-school'>Teaching Jobs In Sharjah Indian School</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fridge-and-freezer-temperature-log-sheet'>Fridge And Freezer Temperature Log Sheet</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=grey-and-pink-dining-room'>Grey And Pink Dining Room</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-crow-stairway-to-heaven-trailer'>The Crow Stairway To Heaven Trailer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=samsung-french-door-mullion-not-closing'>Samsung French Door Mullion Not Closing</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-washing-machine-malaysia-2019'>Best Washing Machine Malaysia 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=html-table-flexible-column-width'>Html Table Flexible Column Width</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=We-Gotta-Get-out-of-This-Place'>We Gotta Get Out Of This Place</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=walking-with-the-enemy-123movies'>Walking With The Enemy 123movies</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lean-to-utility-room-ideas'>Lean To Utility Room Ideas</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=renew-long-stay-visa-france'>Renew Long Stay Visa France</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=How-to-knit-a-heart'>How To Knit A Heart</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=under-armour-project-rock-1'>Under Armour Project Rock 1</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wholesale-linen-fabric-by-the-bolt'>Wholesale Linen Fabric By The Bolt</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-to-do-with-leftover-bread-rolls'>What To Do With Leftover Bread Rolls</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=outdoor-pool-table-for-sale-near-me'>Outdoor Pool Table For Sale Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=portable-shower-caddy-for-gym'>Portable Shower Caddy For Gym</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lazy-boy-calvin-rocker-recliner'>Lazy Boy Calvin Rocker Recliner</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=winterizing-ornamental-grasses-in-pots'>Winterizing Ornamental Grasses In Pots</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=black-wall-decor-for-bathroom'>Black Wall Decor For Bathroom</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=gray-carpet-bedroom-home-depot'>Gray Carpet Bedroom Home Depot</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=national-elk-refuge-sleigh-ride'>National Elk Refuge Sleigh Ride</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mystery-diners-season-1-episode-1-dailymotion'>Mystery Diners Season 1 Episode 1 Dailymotion</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-does-ibm-stand-for'>What Does Ibm Stand For</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=andhra-chilli-chicken-recipe-vahrehvah'>Andhra Chilli Chicken Recipe Vahrehvah</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ottoman-double-sofa-bed-uk'>Ottoman Double Sofa Bed Uk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=january-gardening-to-do-list'>January Gardening To Do List</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=looking-like-a-snack-captions-for-instagram'>Looking Like A Snack Captions For Instagram</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ready-made-sofa-covers-sale'>Ready Made Sofa Covers Sale</a>,
+";s:7:"expired";i:-1;}

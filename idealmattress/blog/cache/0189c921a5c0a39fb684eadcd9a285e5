@@ -1,0 +1,272 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2937:"Our release of the Top 100 Fast Casual Innovators Report breaks down the top fast casual restaurant performers in the segment as analyzed by our Foodable Labs data index. The annual list, sponsored by Oracle, that recognizes brands and leaders for their contributions to the growth of the fast casual segment. While 2016 was a rough year for chain restaurants, more than half of the industry’s $521.9 billion still comes from the Top 500 chains—and nearly 94% of those dollars and 93% of those units are represented in the Top 250. This restaurant concept – a mash-up of fast food and casual dining – has been one of the strongest segments in the restaurant industry over the past decade. It continues to thrive, despite the recession and it continues to evolve to fit customer’s needs and preferences. What are the best fast casual restaurants in the country? FastCasual.com refers to the top fast-casual restaurant chains as the "Movers & Shakers" of the restaurant industry. Click to see the winners for Best Fast Casual Restaurant , chosen by the readers of 10Best and USA TODAY. Jan. 2, 2019. Jolt. When Mackinnon-Patterson and Bobby Stuckey opened Frasca Food & Wine in 2004 in Boulder, Colorado, Chipotle founder Steve Ells … The list, sponsored by Oracle Hospitality, recognizes 75 brands and 25 leaders for their contributions to the growth of the fast casual restaurant segment. Nation’s Restaurant News presents its annual Top 100 report, a proprietary ranking of the largest restaurant chains and parent companies. When Mackinnon-Patterson and Bobby Stuckey opened Frasca Food & Wine in 2004 in Boulder, Colorado, Chipotle founder Steve Ells was a … When it comes to creativity, progressiveness and hard work, these 100 brands and executives are leading the restaurant industry as a whole. Not only is the restaurant operated by Lachlan Mackinnon-Patterson, a James Beard Award winner, but it is also backed by the big daddy of fast casual itself: Chipotle. 2019 Fast Casual Top 100 call for nominations now open. Decrease Font Size Increase Font Size Text Size Print This Page Send by Email. The segment may be maturing, but these growing fast-casual concepts have found plenty of opportunity. Each of these fast casual chains represents a different kind of food option, but each has done extremely well. The Operations Hurdles Facing Restaurants in 2020 ; The Roaring 2020s: Restaurant Predictions for the Next Decade ... A Fast Casual Exec on the Impact of Rising Minimum Wage Top 10 Fast Casual Restaurants of 2019 December 19, 2019 8:00 am Best of CU. Restaurant Business tapped Technomic’s Top 250 Fast Casual Chain Restaurant Report to uncover the top 25 fastest-growing brands in a segment that continues to … Top 250 Fast-Casual Chain Restaurant Report Gain access to performance, rankings and forecasts for the U.S. restaurant industry with the 2019 Top 250 Fast-Casual Chain Restaurant Report. ";s:7:"keyword";s:31:"top 100 fast casual restaurants";s:5:"links";s:12380:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dining-bench-seat-with-back'>Dining Bench Seat With Back</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=patterned-wall-to-wall-carpet'>Patterned Wall To Wall Carpet</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=easy-baking-recipes-for-beginners-indian'>Easy Baking Recipes For Beginners Indian</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=miami-to-key-west-road-trip'>Miami To Key West Road Trip</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chef-full-form-in-hindi'>Chef Full Form In Hindi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=weather-park-city-ut-84098'>Weather Park City Ut 84098</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philips-hue-aurelle-led-panel'>Philips Hue Aurelle Led Panel</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cherry-tomato-salad-recipes-indian'>Cherry Tomato Salad Recipes Indian</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=beko-fridge-freezer-recall-model-numbers'>Beko Fridge Freezer Recall Model Numbers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=romantic-things-to-do-in-owensboro-ky'>Romantic Things To Do In Owensboro Ky</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=coastal-peel-and-stick-wallpaper'>Coastal Peel And Stick Wallpaper</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=why-grapefruit-is-bad-for-you'>Why Grapefruit Is Bad For You</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=are-chinese-evergreen-plants-poisonous-to-humans'>Are Chinese Evergreen Plants Poisonous To Humans</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=big-cook-little-cook-recipe-cards'>Big Cook Little Cook Recipe Cards</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=tall-storage-cabinet-with-baskets'>Tall Storage Cabinet With Baskets</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=extra-large-planters-for-outside'>Extra Large Planters For Outside</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=school-lunch-ideas-for-kindergarten-vegetarian'>School Lunch Ideas For Kindergarten Vegetarian</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ideas-to-cover-an-open-kitchen'>Ideas To Cover An Open Kitchen</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-there-a-22-inch-dishwasher'>Is There A 22 Inch Dishwasher</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=solid-wood-platform-bed-no-headboard'>Solid Wood Platform Bed No Headboard</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=brown-university-computer-science-ranking'>Brown University Computer Science Ranking</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mid-century-modern-power-recliner'>Mid Century Modern Power Recliner</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bay-laurel-tree-for-sale'>Bay Laurel Tree For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mrt-ke-chinese-garden-singapore'>Mrt Ke Chinese Garden Singapore</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dry-fruits-in-different-languages'>Dry Fruits In Different Languages</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bacon-and-cheese-stuffed-meatloaf'>Bacon And Cheese Stuffed Meatloaf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dahi-vada-recipe-step-by-step'>Dahi Vada Recipe Step By Step</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=types-of-bolts-used-in-furniture'>Types Of Bolts Used In Furniture</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-pavlova-white-not-brown'>How To Make Pavlova White Not Brown</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-use-wagner-power-sprayer-120'>How To Use Wagner Power Sprayer 120</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philips-hue-ascend-wall-light'>Philips Hue Ascend Wall Light</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=live-by-night-rotten-tomatoes'>Live By Night Rotten Tomatoes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=difference-between-awadhi-and-mughlai-cuisine'>Difference Between Awadhi And Mughlai Cuisine</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=indian-food-names-a-to-z-vegetarian'>Indian Food Names A To Z Vegetarian</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=a-look-at-the-history-of-vertical-farming'>A Look At The History Of Vertical Farming</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-can-i-buy-r32-refrigerant'>Where Can I Buy R32 Refrigerant</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-eat-spinach-for-weight-loss'>How To Eat Spinach For Weight Loss</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=oliver-coopersmith-homes-under-the-hammer'>Oliver Coopersmith Homes Under The Hammer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=car-wash-foam-gun-home-depot'>Car Wash Foam Gun Home Depot</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=imperial-college-london-notable-alumni'>Imperial College London Notable Alumni</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=steam-clean-car-seats-near-me'>Steam Clean Car Seats Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=things-to-do-in-cincinnati'>Things To Do In Cincinnati</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=amla-powder-and-beetroot-for-hair'>Amla Powder And Beetroot For Hair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=department-stores-that-sell-furniture'>Department Stores That Sell Furniture</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=are-hummingbirds-good-for-gardens'>Are Hummingbirds Good For Gardens</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=call-the-midwife-season-6-episode-1'>Call The Midwife Season 6 Episode 1</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=when-does-iron-chef-showdown-start'>When Does Iron Chef Showdown Start</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=adding-a-bathroom-to-a-shed'>Adding A Bathroom To A Shed</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=i-like-to-watch-sentences'>I Like To Watch Sentences</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=when-did-shepard-fairey-die'>When Did Shepard Fairey Die</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=we-are-all-greta-review'>We Are All Greta Review</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=succession-season-2-episode-8'>Succession Season 2 Episode 8</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=morris-name-meaning-in-urdu'>Morris Name Meaning In Urdu</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=walk-behind-floor-scrubber-rental'>Walk Behind Floor Scrubber Rental</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=target-peel-and-stick-wallpaper'>Target Peel And Stick Wallpaper</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-gardening-websites-2019-india'>Best Gardening Websites 2019 India</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=badger-pass-ski-resort-reviews'>Badger Pass Ski Resort Reviews</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=building-a-covered-porch-on-a-mobile-home'>Building A Covered Porch On A Mobile Home</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=relationship-between-sociology-and-anthropology-slideshare'>Relationship Between Sociology And Anthropology Slideshare</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=canadian-imperial-bank-of-commerce-earnings'>Canadian Imperial Bank Of Commerce Earnings</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=boreal-ski-opening-day-2019'>Boreal Ski Opening Day 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-do-bent-lamination'>How To Do Bent Lamination</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-bachelor-season-23-episode-12'>The Bachelor Season 23 Episode 12</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=editable-map-of-massachusetts-towns'>Editable Map Of Massachusetts Towns</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ebay-global-shipping-program-uk'>Ebay Global Shipping Program Uk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=marigolds-in-garden-for-pest-control'>Marigolds In Garden For Pest Control</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=serta-smart-layers-air-arlington-executive-chair-assembly-instructions'>Serta Smart Layers Air Arlington Executive Chair Assembly Instructions</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=green-bean-recipes-for-christmas-dinner'>Green Bean Recipes For Christmas Dinner</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chicken-leg-piece-pronunciation-by-google-in-hindi'>Chicken Leg Piece Pronunciation By Google In Hindi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=perisher-ski-tube-prices-2018'>Perisher Ski Tube Prices 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=candy-from-around-the-world-box-no-subscription'>Candy From Around The World Box No Subscription</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=download-instagram-for-pc-windows-8'>Download Instagram For Pc Windows 8</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=landscape-design-front-of-house'>Landscape Design Front Of House</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-to-do-with-shady-part-of-garden'>What To Do With Shady Part Of Garden</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=simpson-power-washer-3000-psi'>Simpson Power Washer 3000 Psi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-duck-meat-red-meat'>Is Duck Meat Red Meat</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lexington-ma-to-boston-logan-airport'>Lexington Ma To Boston Logan Airport</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ideal-standard-toilet-seat-fitting-instructions'>Ideal Standard Toilet Seat Fitting Instructions</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-use-a-chaise-lounge'>How To Use A Chaise Lounge</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mid-century-modern-built-in-desk'>Mid Century Modern Built In Desk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hannah-hart-food-network-cancelled'>Hannah Hart Food Network Cancelled</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=low-calorie-meals-for-one'>Low Calorie Meals For One</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=smart-tiles-peel-and-stick-backsplash'>Smart Tiles Peel And Stick Backsplash</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=great-white-shark-interesting-facts'>Great White Shark Interesting Facts</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=high-paying-ski-resort-jobs'>High Paying Ski Resort Jobs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=gwendoline-christie-movies-and-tv-shows'>Gwendoline Christie Movies And Tv Shows</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-many-inches-is-4-feet'>How Many Inches Is 4 Feet</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dining-chairs-and-bench-set'>Dining Chairs And Bench Set</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=samsung-washer-and-dryer-set-home-depot'>Samsung Washer And Dryer Set Home Depot</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=environmental-scientists-and-specialists-jobs'>Environmental Scientists And Specialists Jobs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=raised-garden-bed-vs-planter-box'>Raised Garden Bed Vs Planter Box</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=samsung-10kg-top-loader-wa10j7750gw1'>Samsung 10kg Top Loader Wa10j7750gw1</a>,
+";s:7:"expired";i:-1;}

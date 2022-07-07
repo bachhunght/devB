@@ -1,0 +1,272 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3966:"Alison Roman—cookbook author, Instagram microlebrity, and creator of a viral chickpea stew—is a hugger. Praise for Nothing Fancy With Nothing Fancy, any night of the week is worth celebrating. She's just a home cook in New York City, sitting at her dining room table, talking to cookbook authors. For the month of January, I selected Nothing Fancy by Alison Roman as my choice for Cookbook of the Month. Alison Roman: Hi, I'm Alison Roman, a cookbook author of Nothing Fancy: Unfussy Food for Having People Over. Roman’s attitude is invitingly laid-back, and her food bright and buoyant: there’s a joyfulness in … With Nothing Fancy, any night of the week is worth celebrating Nothing Fancy By Alison Roman Dinner Party Recipes. Three simple but fancy-looking dishes with not many ingredients from Alison Roman's new cookbook, Nothing Fancy. Alison Roman, the food writer whose recipes are the stuff of Instagram rapture, celebrates her second cookbook, Nothing Fancy—first in New York (above), and … The social media star It’s having people over. Michele Moses on Alison Roman’s recent cookbook, “Nothing Fancy,” and its advocacy of making both food and entertaining accessible and stress-free. With Nothing Fancy, any night of the week is worth celebrating. Snacks & Condiments; Vegetables; Salads; Pasta & Grains Reading Alison Roman’s “Nothing Fancy: Unfussy Food for Having People Over” (Potter, $42.50) makes me nostalgic for those days. Praise for Nothing Fancy What is it about the word 'entertaining' that sends people into a state of panic? Intro: Welcome to the number one cookbook podcast, Cookery by the Book, with Suzy Chase. Alison Roman will give you the food your people want (think DIY martini bar, platters of tomatoes, pots of coconut-braised chicken and chickpeas, pans of lemony turmeric tea cake) plus the tips, sass, and confidence to pull it all off. You don't have to prepare a picture perfect moment to share a good meal with friends. Alison Roman is one sweet potato dish away from the end of a whirlwind cookbook tour that took her across 13 cities before landing in the Star’s test kitchen. And Nothing Fancy is full of just such recipes: you can’t read it without feeling like you want - and would be so easily able - to gather your good friends around the table and feed them. In her new cookbook, Nothing Fancy, Alison Roman is rebranding how we think of having people over for dinner. For the month of January, I selected Nothing Fancy by Alison Roman as my choice for Cookbook of the Month.January (and all the months post-holidays but pre-spring) can be a tricky food month because after the holidays we sometimes crave lighter fare, but sometimes the … Nothing Fancy; Dining In; RECIPES. Alison Roman may be a food-world insider—after all, she’s a columnist for both the New York Times Food section and Bon Appétit—but she’s also a passionate champion of the home cook. Three simple but fancy-looking dishes with not many ingredients from Alison Roman's new cookbook, Nothing Fancy. In Nothing Fancy, New York Times food columnist Alison Roman shows you instead how to 'have people over', with her signature laid-back, approachable style and visually stunning recipes. NEW YORK TIMES BESTSELLER • It’s not entertaining. Soups, Stocks & Stews — view — Desserts & Baked Goods — view — Breakfast — view — *FREE* shipping on qualifying offers. Alison Roman will give you the food your people want (think DIY martini bar, platters of tomatoes, pots of coconut-braised chicken and chickpeas, pans of lemony turmeric tea cake) plus the tips, sass, and confidence to pull it all off. ALISON ROMAN is a cook, writer and author of the best selling cookbook "Dining In," published by Clarkson Potter in Fall 2017. January (and all the months post-holidays but pre-spring) can be a tricky food month because after the holidays we sometimes crave lighter fare, but sometimes the … ";s:7:"keyword";s:35:"alison roman cookbook nothing fancy";s:5:"links";s:12734:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=village-square-leisure-centre-swimming-pool-prices'>Village Square Leisure Centre Swimming Pool Prices</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=marshalls-20-off-coupon-in-store'>Marshalls 20 Off Coupon In Store</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-cook-sausage-links'>How To Cook Sausage Links</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=can-you-propagate-pilea-from-a-leaf-cutting'>Can You Propagate Pilea From A Leaf Cutting</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=importance-of-kitchen-layout-in-restaurant'>Importance Of Kitchen Layout In Restaurant</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=my-kitchen-rules-season-5-watch-online'>My Kitchen Rules Season 5 Watch Online</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=white-console-table-with-drawers-and-shelves'>White Console Table With Drawers And Shelves</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rough-opening-for-36-inch-metal-frame-door'>Rough Opening For 36 Inch Metal Frame Door</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=shuttle-from-slc-to-park-city-sundance'>Shuttle From Slc To Park City Sundance</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-liberation-of-the-philippines-summary'>The Liberation Of The Philippines Summary</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=original-pigs-in-a-blanket-recipe'>Original Pigs In A Blanket Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-apply-for-scjp-certification'>How To Apply For Scjp Certification</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=why-is-ina-called-barefoot-contessa'>Why Is Ina Called Barefoot Contessa</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=do-you-have-to-stretch-carpet-with-attached-pad'>Do You Have To Stretch Carpet With Attached Pad</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=stair-runner-installation-near-me'>Stair Runner Installation Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mortgage-lifter-tomato-plants-for-sale-near-mefaux-leather-vs-bonded-leather'>Mortgage Lifter Tomato Plants For Sale Near Mefaux Leather Vs Bonded Leather</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=flo-from-progressive-net-worth-2018'>Flo From Progressive Net Worth 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=plain-white-wallpaper-for-mobile'>Plain White Wallpaper For Mobile</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philips-led-street-light-price-list-2019-pdf'>Philips Led Street Light Price List 2019 Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=new-hearth-and-hand-target'>New Hearth And Hand Target</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=are-incandescent-light-bulbs-coming-back'>Are Incandescent Light Bulbs Coming Back</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-can-i-find-my-wayfair-account-number'>Where Can I Find My Wayfair Account Number</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=part-time-jobs-in-dubai-every-friday'>Part Time Jobs In Dubai Every Friday</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=overstock-furniture-north-little-rock-ar'>Overstock Furniture North Little Rock Ar</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=american-furniture-warehouse-fort-collins'>American Furniture Warehouse Fort Collins</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-revive-thyme-plant'>How To Revive Thyme Plant</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=introduction-to-food-production-pdf'>Introduction To Food Production Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=biblical-meaning-of-royal-diadem'>Biblical Meaning Of Royal Diadem</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=modern-contemporary-doors-entry-front-doors'>Modern Contemporary Doors Entry Front Doors</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philips-glass-india-ltd-share-price'>Philips Glass India Ltd Share Price</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=diy-photo-collage-for-boyfriend'>Diy Photo Collage For Boyfriend</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=closetmaid-fabric-drawers-home-depot'>Closetmaid Fabric Drawers Home Depot</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=diners-drive-ins-and-dives-boulder-city'>Diners Drive Ins And Dives Boulder City</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=theodore-roosevelt-national-park-hotels'>Theodore Roosevelt National Park Hotels</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=Benefits-of-tomatoes-for-skin'>Benefits Of Tomatoes For Skin</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=types-of-seafood-with-pictures'>Types Of Seafood With Pictures</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lemon-and-blue-kitchen-decor'>Lemon And Blue Kitchen Decor</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=theory-of-cookery-parvinder-s-bali-pdf-download'>Theory Of Cookery Parvinder S Bali Pdf Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wooden-window-frame-designs-in-kerala'>Wooden Window Frame Designs In Kerala</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=olympic-size-pool-near-me'>Olympic Size Pool Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=japanese-kitchen-vs-american-kitchen'>Japanese Kitchen Vs American Kitchen</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fold-down-sofa-bed-floor-couch'>Fold Down Sofa Bed Floor Couch</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=madonna-of-the-rocks-symbolism'>Madonna Of The Rocks Symbolism</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=powder-coated-metal-kitchen-cabinets'>Powder Coated Metal Kitchen Cabinets</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lowes-special-order-return-policy'>Lowes Special Order Return Policy</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sony-corporation-of-america-ceo'>Sony Corporation Of America Ceo</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dinner-date-with-friends-quotes'>Dinner Date With Friends Quotes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=3-4-lite-fiberglass-entry-door'>3 4 Lite Fiberglass Entry Door</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cost-of-building-a-garden'>Cost Of Building A Garden</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=taramira-oil-benefits-in-hindi'>Taramira Oil Benefits In Hindi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lake-louise-inn-discount-code'>Lake Louise Inn Discount Code</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=solicitors-fees-for-selling-a-house-2018-uk'>Solicitors Fees For Selling A House 2018 Uk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-identify-male-and-female-papaya-seeds'>How To Identify Male And Female Papaya Seeds</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wagner-425-paint-sprayer-manual'>Wagner 425 Paint Sprayer Manual</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chinese-baked-sweet-and-sour-chicken-wing-recipes'>Chinese Baked Sweet And Sour Chicken Wing Recipes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=social-media-words-and-phrases'>Social Media Words And Phrases</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rent-pressure-washer-with-water-tank'>Rent Pressure Washer With Water Tank</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-to-do-with-leftover-fried-chicken-strips'>What To Do With Leftover Fried Chicken Strips</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-your-room-aesthetic-without-buying-anything'>How To Make Your Room Aesthetic Without Buying Anything</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-power-recliner-for-elderly-woman'>Best Power Recliner For Elderly Woman</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=modern-l-shaped-desk-white'>Modern L Shaped Desk White</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-disassemble-rubbermaid-storage'>How To Disassemble Rubbermaid Storage</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=history-of-the-tulip-table'>History Of The Tulip Table</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fire-and-ice-hotel-restaurant-menu'>Fire And Ice Hotel Restaurant Menu</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=baby-boy-names-and-meanings'>Baby Boy Names And Meanings</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=can-i-swallow-garlic-for-weight-loss'>Can I Swallow Garlic For Weight Loss</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-decorate-a-narrow-hallway'>How To Decorate A Narrow Hallway</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-become-a-dentist'>How To Become A Dentist</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=new-zealand-hard-rock-bands'>New Zealand Hard Rock Bands</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kootenay-lake-ferry-schedule-2018'>Kootenay Lake Ferry Schedule 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=zuari-furniture-bed-price-list'>Zuari Furniture Bed Price List</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=https-www-greensgrow-org-urban-farm-what-is-urban-farming'>Https Www Greensgrow Org Urban Farm What Is Urban Farming</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=at-home-store-black-friday-hours'>At Home Store Black Friday Hours</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-massage-chair-under-3000'>Best Massage Chair Under 3000</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-petrol-pressure-washer-australia-2019'>Best Petrol Pressure Washer Australia 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=home-office-ideas-for-him'>Home Office Ideas For Him</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=betty-crocker-cake-mix-cupcakes'>Betty Crocker Cake Mix Cupcakes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-cook-beets-in-oven'>How To Cook Beets In Oven</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=why-i-want-to-be-in-national-honor-society-essay-examples'>Why I Want To Be In National Honor Society Essay Examples</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mainstays-aluminum-web-folding-chair'>Mainstays Aluminum Web Folding Chair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=jackson-hole-lift-ticket-coupon-code'>Jackson Hole Lift Ticket Coupon Code</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=modern-house-interior-designs-plans'>Modern House Interior Designs Plans</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-island-of-dr-moreau-summary'>The Island Of Dr Moreau Summary</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=main-dish-casseroles-for-entertaining'>Main Dish Casseroles For Entertaining</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=paper-pieced-christmas-tree-wall-hanging-pattern'>Paper Pieced Christmas Tree Wall Hanging Pattern</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=indoor-house-plant-nursery-near-me'>Indoor House Plant Nursery Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mystery-diners-season-1-episode-1-dailymotion'>Mystery Diners Season 1 Episode 1 Dailymotion</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=giorgio-armani-foundation-near-me'>Giorgio Armani Foundation Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=names-with-ivy-in-them'>Names With Ivy In Them</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=roasted-broccoli-with-cheese-sauce'>Roasted Broccoli With Cheese Sauce</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=park-city-main-street-bars'>Park City Main Street Bars</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chicken-and-waffles-near-me'>Chicken And Waffles Near Me</a>,
+";s:7:"expired";i:-1;}

@@ -1,0 +1,216 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3900:"Due to their outstanding properties, these materials are indispensable in engineering for components and machine parts, such as high-quality electrical insulating materials. Material Notes: Capron GR15 is a 15% glass reinforced polyamide 6 injection molding compound possessing a balance of engineering properties combined with excellent processability and surface aesthetics. Ultramid polyamides are exceptional for their high mechanical strength, rigidity and thermal stability. The physical properties such as Density (ASTM-D-792), Tensile Strength & Elongation (ASTM-D-638), Compressive Strength (ASTM-D-695), Deformation under Load (ASTM-D-621), Impact Strength (ASTM-D-256), Hardness (ASTM-D-2240), Coefficient of Friction (ASTM-D … - - - 25% Glass Filled PTFE 25 Carbon Filled PTFE Specific gravity ASTM D792 - 2,17 2,23 2,10 Tensile strength ASTM D1457 N/mm2 30 16 15 Elongation at break ASTM D1457 % 300 260 180 Compressive strength 1% deformation ASTM D695 N/mm2 4,5 7,0 10,0 Another important class of polyamides are semi-aromatic polyamides, also knowns as polyphthalamides (PPA). To see MatWeb's complete data sheet for this material (including material property data, metal compositions, material suppliers, etc), please click the button below. It also has a high level of thermal stability, with the glass fibres serving to hold the nylon matrix together at elevated temperatures. 15% Glass Filled PTFE. Property Data; This page displays only the text of a material data sheet. Polymer; Thermoplastic; Nylon (Polyamide PA); Nylon 6 (PA6); Nylon 6, 20% Glass Fiber Filled. TECAMID 66 GF30 black PA66 GF30 is a 30 % glass fibre reinforced PA 66. Glass fibres are the most frequently used reinforcing fibres in reinforced polymers. Other commercially available polyamides include Nylon 4,6, Nylon 6,10 and Nylon 11. However, ULTEM 9085,* (available … This reinforcement improves material characteristics. If Like us you ever wondered what glass filled nylon or PTFE or other engineering plastics was all about, or did you even know that these every day engineering plastics even had a glass filled grade? Offering improved tensile, compressive and flexural properties over unfilled Nylon, 30% Glass-Filled Nylon provides increased load bearing characteristics and is the choice in applications where added stiffness, rigidity and dimensional stability are required. A customer was considering a switch from a traditional manufacturing process to direct digital manufacturing, and he asked, "What material matches the properties of a glass-filled nylon (GFN) and can be used with the Stratasys FDM (Fused Deposition Modeling) process?" www.theplasticshop.co.uk Technical Data Sheet for Ertalon Glass Filled 30 Rod & Sheet Availablility: see "Guide to Diameter/Sheet Tolerances and Weights" or contact us ® The glass filled Teflon is basically a PTFE material reinforced with 15% glass fiber. Materials » Polymers » Polyamide » Nylon (PA 6), Cast » Type 6 / 612 Blend Materials » Polymers » Polystyrene » Copolymer » 20% Glass Fiber Reinforced » High Heat Resistant Materials » Polymers » Polyphthalamide » 15% Glass Reinforced, V-0 FILLED VS. REINFORCED ACETAL . None of the materials available for FDM have properties with an exact match to GFN. Ultramid polyamides from BASF are polyamide molding compounds based on PA 6, PA 66 and copolyamides such as PA 66/6. TDS & MSDS of PTFE Products Technical Data Sheet - TDS - Physical Properties of PTFE & Filled Grades of PTFE Products. Mechanical Properties of Plastic Materials Material Formula Abrasive resistance - ASTM D1044 mg/1000 cycles Coefficient of friction Compression set after 24 hr at 175C % Compressive modulus GPa Compressive strength MPa Elongation at break % Hardness - Rockwell Izod impact strengt h J m-1 Poisson's ratio Tear strength N mm-1 Tensile modulus GPa Tensile strength MPa Cellulose Acetate … ";s:7:"keyword";s:32:"15 glass filled nylon properties";s:5:"links";s:4932:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=concrete-blocks-without-fly-ash'>Concrete Blocks Without Fly Ash</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=operation-finale-movie-download-in-hindi'>Operation Finale Movie Download In Hindi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=stein-eriksen-lodge-deer-valley'>Stein Eriksen Lodge Deer Valley</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=diamond-vibe-vs-diamond-distinction'>Diamond Vibe Vs Diamond Distinction</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=learning-german-language-for-beginners-pdf'>Learning German Language For Beginners Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lg-inverter-direct-drive-8kg-unlock'>Lg Inverter Direct Drive 8kg Unlock</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=gordon-ramsay-ultimate-home-cooking-pdf-free-downloadamerican-craftsman-windows-installation-guide'>Gordon Ramsay Ultimate Home Cooking Pdf Free Downloadamerican Craftsman Windows Installation Guide</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=swing-arm-wall-lamp-lowes'>Swing Arm Wall Lamp Lowes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=importance-of-elements-of-design'>Importance Of Elements Of Design</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=first-dictionary-in-the-world'>First Dictionary In The World</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=amana-bottom-freezer-refrigerator-troubleshooting'>Amana Bottom Freezer Refrigerator Troubleshooting</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=small-pool-with-hot-tub'>Small Pool With Hot Tub</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=warp-drive-in-a-sentence'>Warp Drive In A Sentence</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=good-luck-plants-for-business'>Good Luck Plants For Business</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=horn-and-cantle-dinner-menu'>Horn And Cantle Dinner Menu</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=farmhouse-outdoor-dining-table-set'>Farmhouse Outdoor Dining Table Set</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hobby-lobby-store-closing-2019'>Hobby Lobby Store Closing 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mint-app-not-working-on-iphone'>Mint App Not Working On Iphone</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=snake-and-peony-tattoo-meaning'>Snake And Peony Tattoo Meaning</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=modern-garage-plans-with-loft'>Modern Garage Plans With Loft</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=which-of-the-following-is-not-a-keyword-in-writing-feature-file-in-cucumber'>Which Of The Following Is Not A Keyword In Writing Feature File In Cucumber</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-sofa-goes-with-eames-chair'>What Sofa Goes With Eames Chair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=jason-goodwin-william-and-mary'>Jason Goodwin William And Mary</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=royal-dutch-shell-investor-relations'>Royal Dutch Shell Investor Relations</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=funny-group-pictures-for-whatsapp'>Funny Group Pictures For Whatsapp</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=samsung-vrt-steam-washer-parts'>Samsung Vrt Steam Washer Parts</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-monocle-guide-to-cosy-homes'>The Monocle Guide To Cosy Homes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=beauty-benefits-of-drinking-water'>Beauty Benefits Of Drinking Water</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chemical-properties-of-metals-and-nonmetals-for-class-8-ppt'>Chemical Properties Of Metals And Nonmetals For Class 8 Ppt</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=at-home-realogy-sign-in'>At Home Realogy Sign In</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=can-you-replace-led-christmas-light-bulbs'>Can You Replace Led Christmas Light Bulbs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dry-fruits-in-different-languages'>Dry Fruits In Different Languages</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=advantages-of-pressure-in-science'>Advantages Of Pressure In Science</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=tile-pro-vs-tile-mate'>Tile Pro Vs Tile Mate</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=st-regis-park-city-spa'>St Regis Park City Spa</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pink-dining-chair-set-of-4'>Pink Dining Chair Set Of 4</a>,
+";s:7:"expired";i:-1;}

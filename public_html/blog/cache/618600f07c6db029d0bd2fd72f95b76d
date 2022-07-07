@@ -1,0 +1,217 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4652:"About the Site. Previously known as Times Higher Education–QS World University Rankings, the publisher had collaborated with Times Higher Education (THE) magazine to publish its international league tables from 2004 to 2009 before both started to announce their own versions. UK … The Center for World University Rankings (CWUR) is a leading consulting organization and publisher of the largest academic ranking of global universities. Our team of experienced career professionals is dedicated to supporting all current UCL students, researchers, (staff and students), and recent graduates to help you find the right path to ensure success in your future career. Since 2003, ARWU has been presenting the world Top 500 universities annually based on transparent methodology and objective third-party data. RUR World University Rankings evaluate performance of 820 world’s leading higher education institutions by 20 indicators grouped into 4 key areas of university activity: Teaching, Research, International Diversity, Financial Sustainability. We help students around the world to research courses, universities and colleges. UCL is ranked 16th in the world and fourth in the UK behind Oxford, which came first, Cambridge, which jumped two places to second, and Imperial College, London, which was eighth. The University of London’s member institutions have performed exceptionally well in the QS World University Rankings by Subject 2018 which were published earlier this week, appearing in the top 10 of exactly half of the 48 individual subject tables. 25 of these universities are listed in at least one institution or subject specific ranking. Our independent UK University League Tables and Rankings 2020 provide you with a helpful guide to which university is best for you, overall and by subject. United Kingdom > University of London web ranking & review including accreditation, study areas, degree levels, tuition range, admission policy, facilities, services and official social media. The university was founded in 1894. QS World University Rankings is an annual publication of university rankings by Quacquarelli Symonds (QS). UCL has confirmed its position among the top 20 "super-elite" universities in the world, according to the Times Higher Education's (THE) annual rankings published today. Located in the heart of London, UCL is a constituent college of the University of London and a member of the Russell Group, with approximately 850 professors and over 6,000 academic and research staff. In 1878, it became the first university in England to admit women on equal terms as men. See the US News ranking for the top universities in the world. The considerable disparity in rankings has been attributed to the different methodology and purpose of global university rankings such as the Academic Ranking of World Universities, QS World University Rankings and Times Higher Education World University Rankings. You can also sort the ranking results based on the six individual indicators used (see the full methodology here, or become a member of the site for free to access additional information. What are the most popular Universities in the United Kingdom? uniRank tries to answer this question by publishing the 2020 UK University Ranking of 161 UK higher-education institutions meeting the following uniRank selection criteria: . There are over 150 higher education institutions to choose from in the UK, and it is important you have all the … Whatever you want to do in the future – whether your career path is clear or not – UCL Careers is here to assist you. The uniRank University Ranking ™ is not an academic ranking and should not be adopted as the main criteria for selecting a higher education organization where to enroll. The University of the Arts London is Europe’s largest higher education institute dedicated to the study of fashion, art, design and the performing arts. 51 of UK’s 76 ranked universities fall London, 8 th June 2017: QS Quacquarelli Symonds, global education analysts, have today released the fourteenth edition of their flagship QS World University Rankings, the most popular of their kind. The Best Global Universities list includes schools from the USA, Canada, Asia, Europe and more. THE (Times Higher Education) has been providing trusted performance data on universities for students and their families, university academics, university leaders, governments and industry, since 2004.. Our flagship analysis, the THE World University Rankings, is the definitive list of the top universities globally, including more than 1,250 institutions across 86 countries in 2019. ";s:7:"keyword";s:34:"university of london world ranking";s:5:"links";s:5089:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chicken-curry-with-coconut-milk-jamie-oliver'>Chicken Curry With Coconut Milk Jamie Oliver</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-filament-of-an-electric-bulb-is-made-of-which-metal'>The Filament Of An Electric Bulb Is Made Of Which Metal</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=importance-of-poultry-farming-in-india'>Importance Of Poultry Farming In India</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-is-cork-cambium-formed'>How Is Cork Cambium Formed</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=storms-in-the-pacific-right-now'>Storms In The Pacific Right Now</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bird-of-paradise-leaves-toxic-to-cats'>Bird Of Paradise Leaves Toxic To Cats</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=tommy-bahama-folding-beach-chair-costco'>Tommy Bahama Folding Beach Chair Costco</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=freedom-task-chair-with-headrest-advanced-duron'>Freedom Task Chair With Headrest Advanced Duron</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=walk-in-closet-designs-bangalore'>Walk In Closet Designs Bangalore</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=loft-bedroom-ideas-for-adults'>Loft Bedroom Ideas For Adults</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=greta-thunberg-no-one-is-too-small-to-make-a-difference-pdf'>Greta Thunberg No One Is Too Small To Make A Difference Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-a-raised-rose-bed'>How To Make A Raised Rose Bed</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=free-electric-wheelchair-for-disabled'>Free Electric Wheelchair For Disabled</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kentucky-state-employee-salaries-2018'>Kentucky State Employee Salaries 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=when-was-the-tower-of-london-built'>When Was The Tower Of London Built</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=top-load-vs-front-load-power-consumption'>Top Load Vs Front Load Power Consumption</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=protein-in-1-cherry-tomato'>Protein In 1 Cherry Tomato</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lg-refrigerator-compressor-replacement-cost'>Lg Refrigerator Compressor Replacement Cost</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-is-green-treated-wood'>What Is Green Treated Wood</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=recessed-lighting-housing-4-inch'>Recessed Lighting Housing 4 Inch</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=junkmail-kitchen-units-for-sale'>Junkmail Kitchen Units For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=How-to-draw-a-church'>How To Draw A Church</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-tall-was-dorothy-child'>How Tall Was Dorothy Child</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=suffolk-sheep-pros-and-cons'>Suffolk Sheep Pros And Cons</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=craftsman-pressure-washer-unloader-valve'>Craftsman Pressure Washer Unloader Valve</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=are-daisies-toxic-to-humans'>Are Daisies Toxic To Humans</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=restaurants-near-grand-central-hotel-glasgow'>Restaurants Near Grand Central Hotel Glasgow</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-measure-stairs-for-carpet-runner'>How To Measure Stairs For Carpet Runner</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-did-cogongrass-originate-from'>Where Did Cogongrass Originate From</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sarah-j-maas-throne-of-glass'>Sarah J Maas Throne Of Glass</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=steam-clean-car-interior-price'>Steam Clean Car Interior Price</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=things-to-do-in-heavenly-village-summer'>Things To Do In Heavenly Village Summer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=stretch-seat-covers-for-dining-chairs'>Stretch Seat Covers For Dining Chairs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=beaver-creek-ski-school-3-year-old'>Beaver Creek Ski School 3 Year Old</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ikea-strandmon-chair-and-ottoman'>Ikea Strandmon Chair And Ottoman</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=modern-garage-plans-with-loft'>Modern Garage Plans With Loft</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=step-2-grand-walk-in-wood-kitchen-instructions'>Step 2 Grand Walk In Wood Kitchen Instructions</a>,
+";s:7:"expired";i:-1;}

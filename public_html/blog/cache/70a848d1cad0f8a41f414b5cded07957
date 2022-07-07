@@ -1,0 +1,269 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3897:"If you decide to use Table Styles, you can format your table all at once, and even see a preview of what your table will look like formatted in a particular style before you actually apply the style. Formatting text In this example we are going to Format (alter) the text "The Big Picture Show" typed in MS Word 2007 To make changes to the format of the text it must always be selected first. 1 Type and format a paragraph of text.  With the first technique, you choose a text-formatting command first, and then type the text. from one piece of text … Formatting text box in word 2007 When you insert a text box into a word doc and select "format text box" and then select "fill effects" and choose "two colors" like black and yellow the the box is filled with the two colors. 1 Type and format a paragraph of text. The format painter allows you to copy easily the formatting (font size, color, effect etc.) Introduction Children, you learned about the usage of Microsoft Word 2007 as a powerful documentation software but where lies its actual in its various editing and formatting features. from one piece of text to another. In this lesson, you will learn to format the font size, style, and color of text, as well as how to use the Bold, Italic, Underline, and Change Case commands. Select the text that is already aligned to the center. After you place a text box in a Word 2007 document, you probably want to format it. The formatting options are: font type, font size, bold, italics, underline, strike-through, subscript, superscript and change case. You can use the Word 2007 Format Painter to quickly copy character and paragraph formatting from one bit of text to another. If you have not Classic Menu for Office:. Click again the “center” button, this will cancel the center alignment and set it back to the left. It … You can insert a rectangle from the Insert > Shapes gallery and add text to it. You can also format the text box itself by using any of the controls on the Text Box Tools Format […] How to Format Text in Microsoft Word 2007 - 2010 and later To Format Text in MS Word Click the Home Tab on the Ribbon. Using the format painter. For more complex formatting, it’s better to type the text first, go back, mark the […] When you copy the text from a Microsoft Office Word 2007 document and then paste the text into a Word 97 - 2003 document, one of the following symptoms may occur. Duplicating table cells and formatting in Word 2007 I'm trying to duplicate several cells in a table and insert the duplicates below one another. Formatting text box in word 2007 When you insert a text box into a word doc and select "format text box" and then select "fill effects" and choose "two colors" like black and yellow the the box is filled with the two colors. You can use the Format Painter to format either one section or multiple sections of text. Select the text that is already aligned to the center. When you create a style in your Word 2007 document, you can base it on a paragraph of text that you have formatted the way you like. That also changed in Word 2010. In this video tutorial, viewers will learn how to change text alignment and formatting in Microsoft Word 2007. That capability first appeared in Word 2010. Keep all text formats (font, size, attributes) the same inside the block. No, Word 2007 can't rotate a text box. How to Format Text in Microsoft Word 2007 - 2010 and later To Format Text in MS Word Click the Home Tab on the Ribbon. If you decide to use Table Styles, you can format your table all at once, and even see a preview of what your table will look like formatted in a particular style before you actually apply the style. Using the format painter. Word 2007, part of the Microsoft Office 2007 suite, has many built-in features that can enhance your documents and the manner in which you communicate information to your audience. ";s:7:"keyword";s:31:"text formatting in ms word 2007";s:5:"links";s:12053:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=queen-of-the-south-cast-season-4'>Queen Of The South Cast Season 4</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-to-eat-before-gym'>What To Eat Before Gym</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=symbiosis-centre-for-management-studies-nagpur'>Symbiosis Centre For Management Studies Nagpur</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=reverse-glass-painting-on-the-danube'>Reverse Glass Painting On The Danube</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=red-white-and-blue-flag-with-one-star'>Red White And Blue Flag With One Star</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bubble-chair-with-stand-ikea'>Bubble Chair With Stand Ikea</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=thor-ragnarok-full-movie-2018-123movies'>Thor Ragnarok Full Movie 2018 123movies</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mt-bachelor-senior-season-pass'>Mt Bachelor Senior Season Pass</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cape-cod-shingle-style-house'>Cape Cod Shingle Style House</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wayfair-corporate-office-contact-number'>Wayfair Corporate Office Contact Number</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=toyota-used-cars-in-sharjah'>Toyota Used Cars In Sharjah</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=surface-mount-led-lights-12v'>Surface Mount Led Lights 12v</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=crafts-for-1-year-olds'>Crafts For 1 Year Olds</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=shark-reef-aquarium-shark-reef-aquarium-at-mandalay-bay-november-4'>Shark Reef Aquarium Shark Reef Aquarium At Mandalay Bay November 4</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=melissa-and-doug-dish-set'>Melissa And Doug Dish Set</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=folding-table-home-depot-canada'>Folding Table Home Depot Canada</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-dishwasher-cleaner-for-smell'>Best Dishwasher Cleaner For Smell</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=road-to-perdition-church-scene'>Road To Perdition Church Scene</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=national-association-of-realtors-utah'>National Association Of Realtors Utah</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=phpunit-assert-exception-not-thrown'>Phpunit Assert Exception Not Thrown</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=big-sky-real-estate-guide'>Big Sky Real Estate Guide</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=23-inch-dishwasher-home-depot'>23 Inch Dishwasher Home Depot</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mcmaster-university-acceptance-rate-for-international-students'>Mcmaster University Acceptance Rate For International Students</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-is-nursery-in-horticulture'>What Is Nursery In Horticulture</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=jason-goldberger-sur-la-table-email'>Jason Goldberger Sur La Table Email</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=crystal-coaster-alpine-slide-location'>Crystal Coaster Alpine Slide Location</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=karcher-k4-hose-pops-off'>Karcher K4 Hose Pops Off</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=What-is-Birria-made-of'>What Is Birria Made Of</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=desks-for-small-spaces-walmart'>Desks For Small Spaces Walmart</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kill-em-with-kindness-album'>Kill Em With Kindness Album</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=oxford-english-dictionary-latest-edition'>Oxford English Dictionary Latest Edition</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=above-ground-pool-deck-ideas'>Above Ground Pool Deck Ideas</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=soldier-hollow-nordic-center-wedding'>Soldier Hollow Nordic Center Wedding</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=we-want-out-dagames-animation'>We Want Out Dagames Animation</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=testng-annotations-order-with-example'>Testng Annotations Order With Example</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-much-broccoli-is-too-much-per-day'>How Much Broccoli Is Too Much Per Day</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hobby-lobby-stores-coming-soon-2019'>Hobby Lobby Stores Coming Soon 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=industrial-hoover-hire-for-dust'>Industrial Hoover Hire For Dust</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ammonia-refrigeration-system-flow-diagram'>Ammonia Refrigeration System Flow Diagram</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fitted-wardrobes-for-small-bedrooms'>Fitted Wardrobes For Small Bedrooms</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=200-years-of-alabama-agriculture-facts'>200 Years Of Alabama Agriculture Facts</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=portes-du-soleil-plan-des-pistes'>Portes Du Soleil Plan Des Pistes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=new-york-city-population-2019'>New York City Population 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sure-fit-couch-covers-australia'>Sure Fit Couch Covers Australia</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=modern-built-in-tv-wall-unit-designs-2018'>Modern Built In Tv Wall Unit Designs 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=island-strings-daily-themed-crossword'>Island Strings Daily Themed Crossword</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cosco-5-piece-table-set-home-depot'>Cosco 5 Piece Table Set Home Depot</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hurricane-dorian-national-hurricane-center'>Hurricane Dorian National Hurricane Center</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wallpaper-engine-alternative-windows-10'>Wallpaper Engine Alternative Windows 10</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=large-metal-folding-dog-crate'>Large Metal Folding Dog Crate</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-long-do-you-cook-bbq-chicken-in-the-oven'>How Long Do You Cook Bbq Chicken In The Oven</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=why-are-hydrothermal-vents-important'>Why Are Hydrothermal Vents Important</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-remove-limescale-from-slate-tiles'>How To Remove Limescale From Slate Tiles</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dinner-ideas-for-friends-coming-over'>Dinner Ideas For Friends Coming Over</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=founder-of-ikea-never-went-to-school'>Founder Of Ikea Never Went To School</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-kitchen-garden-harry-dodson'>The Kitchen Garden Harry Dodson</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fake-fiddle-leaf-fig-tree'>Fake Fiddle Leaf Fig Tree</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=why-is-ina-called-barefoot-contessa'>Why Is Ina Called Barefoot Contessa</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-michigan-college-of-engineering'>University Of Michigan College Of Engineering</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-root-a-palm-cutting'>How To Root A Palm Cutting</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=summer-vacation-rentals-in-aspen-colorado'>Summer Vacation Rentals In Aspen Colorado</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=signify-innovations-india-limited-gurgaon'>Signify Innovations India Limited Gurgaon</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pressure-washer-for-sale-in-inland-empire'>Pressure Washer For Sale In Inland Empire</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=restaurant-in-international-city-phase-2'>Restaurant In International City Phase 2</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=campfire-tales-1997-full-movie-online'>Campfire Tales 1997 Full Movie Online</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=portes-du-soleil-mtb-2019'>Portes Du Soleil Mtb 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=love-wall-art-for-bedroom'>Love Wall Art For Bedroom</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=are-you-the-one-season-8-watch-online'>Are You The One Season 8 Watch Online</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=louisville-orchestra-iroquois-amphitheater-september-7'>Louisville Orchestra Iroquois Amphitheater September 7</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=why-ammonia-is-used-as-refrigerant'>Why Ammonia Is Used As Refrigerant</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-ground-coffee-for-drip-machine'>Best Ground Coffee For Drip Machine</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=second-hand-market-in-nashik'>Second Hand Market In Nashik</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-guelph-admission-requirements'>University Of Guelph Admission Requirements</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=double-chaise-lounge-sofa-outdoor'>Double Chaise Lounge Sofa Outdoor</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hue-outdoor-light-strip-extension'>Hue Outdoor Light Strip Extension</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ice-cold-in-alex-cast'>Ice Cold In Alex Cast</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=synonyms-for-feel-free-to-contact-me'>Synonyms For Feel Free To Contact Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-long-to-cook-ribs-wrapped-in-foil-on-grill'>How Long To Cook Ribs Wrapped In Foil On Grill</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=learning-german-language-for-beginners-pdf'>Learning German Language For Beginners Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-many-muscles-in-the-foot'>How Many Muscles In The Foot</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hummus-and-pita-co-catering'>Hummus And Pita Co Catering</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=397-lewis-ave-tahoma-ca'>397 Lewis Ave Tahoma Ca</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=godrej-furniture-price-list-pdf'>Godrej Furniture Price List Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=japanese-pickled-mustard-greens-recipe'>Japanese Pickled Mustard Greens Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cheap-rural-property-in-scotland'>Cheap Rural Property In Scotland</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-do-red-brocket-deer-eat'>What Do Red Brocket Deer Eat</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=paula-deen-air-fryer-manual'>Paula Deen Air Fryer Manual</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ikea-plastic-storage-boxes-with-lids'>Ikea Plastic Storage Boxes With Lids</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sex-in-the-city-or-sex-and-the-city'>Sex In The City Or Sex And The City</a>,
+";s:7:"expired";i:-1;}

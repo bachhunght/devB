@@ -1,0 +1,201 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:1882:"The Great British Baking Show 2010 TV-14 7 Seasons Competition Reality TV A talented batch of amateur bakers face off in a 10-week competition, whipping up their best dishes in the hopes of being named the U.K.'s best. The bakers tackle signature biscuits that will say something both about them and a place in the British Isles. Mary Berry, a leading cookbook writer, and Paul Hollywood, a top artisan baker, serve as judges. The Great British Baking Show should have gone stale long ago. The Great British Baking Show Season 10 finale was full of tears, fumbles, and backstage drama as Steph, David, and Alice battled for the win. Click through our photo gallery highlighting all of 'The Great British Baking Show' winners through the years. The Great British Bake-Off season 9 just finished airing on Oct. 30, after debuting late this summer in the U.K. on Channel 4. Follow the trials and tribulations of passionate amateur bakers whose goal is to be named the U.K.’s best. Prue and Paul set some tricky challenges for the remaining bakers, including a Technical that dates back to Henry VIII and a Showstopper that's usually found at Indian weddings. Season 5 premieres June 22nd at 9/8c. “The Great British Baking Show” has managed to produce nine seasons of culinary perfection. TVGuide has every full episode so you can stay-up-to-date and watch your favorite show The Great British Baking Show anytime, anywhere.  Next the bakers face their first Technical, and hiding under the gingham cloth is one of Paul's childhood favourites - an iconic biscuit that's sure to send the bakers round in circles. So what did each season’s winner do next? Like the season, the drama came before the bakes. Each week, the bakers tackle a different skill, the difficulty of which increases as the competition unfolds. The Great British Baking Show should have gone stale long ago. ";s:7:"keyword";s:38:"the great british baking show season 9";s:5:"links";s:2779:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=The-Lady-with-a-Fan'>The Lady With A Fan</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=face-to-face-lyrics-hillsong'>Face To Face Lyrics Hillsong</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kubota-harvester-price-in-odisha-2019'>Kubota Harvester Price In Odisha 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=living-stones-church-crown-point-in'>Living Stones Church Crown Point In</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=used-cornet-for-sale-near-me'>Used Cornet For Sale Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=light-dinner-recipes-vegetarian-indian'>Light Dinner Recipes Vegetarian Indian</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cravings-by-chrissy-teigen-cookware'>Cravings By Chrissy Teigen Cookware</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-thai-chicken-stir-fry-recipe'>Best Thai Chicken Stir Fry Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=frigidaire-fftr1814qw4a-door-handle-replacement'>Frigidaire Fftr1814qw4a Door Handle Replacement</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=tile-store-open-near-me'>Tile Store Open Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=surface-maxx-professional-surface-cleaner'>Surface Maxx Professional Surface Cleaner</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=when-did-shepard-fairey-die'>When Did Shepard Fairey Die</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=carrot-juice-benefits-for-cancer'>Carrot Juice Benefits For Cancer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=See-You-in-the-Morning'>See You In The Morning</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=isaac-newton-apple-tree-location'>Isaac Newton Apple Tree Location</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-often-should-carpet-be-replaced-in-a-rental-home'>How Often Should Carpet Be Replaced In A Rental Home</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pan-roasted-chicken-and-cauliflower'>Pan Roasted Chicken And Cauliflower</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wayfair-labor-day-sale-2018'>Wayfair Labor Day Sale 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=here-is-some-or-here-are-some-information'>Here Is Some Or Here Are Some Information</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=The-Hottie-and-the-Nottie'>The Hottie And The Nottie</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=brief-moment-meaning-in-hindi'>Brief Moment Meaning In Hindi</a>,
+";s:7:"expired";i:-1;}

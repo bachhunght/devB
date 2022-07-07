@@ -1,0 +1,268 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2750:"high-capacity applications) and/or want to transport renewable energy a long distance (e.g. Hence, it is proposed that ammonia, with its established transportation network and high flexibility, could provide a practical next generation system for energy transportation, storage … Methods of hydrogen storage for subsequent use span many approaches including high pressures, cryogenics, and chemical compounds that reversibly release H 2 upon heating. “Because it can be deployed at scale and is relatively easy to transport, ammonia energy storage is likely to be advantageous in situations where you need to store a large amount of energy (i.e. Transportation & Delivery of Anhydrous Ammonia By Ray Hattenbach Chemical Marketing Services, Inc. ... Anhydrous Ammonia Transportation Container Regulations ... prevent the placement of ammonia storage tanks within city limits. NH3 Storage and Transportation TerraVest is a leading supplier of equipment to all parts of the anhydrous ammonia (NH3) supply chain in North America. Comparing the transportation of the two fuels showed that ammonia is more efficient and less expensive than hydrogen to transport in a pipeline. Of these, ammonia is a carbon free carrier which offers high energy density; higher than compressed air. Anhydrous ammonia is significantly less expensive for SCR applications; however, aqueous ammonia is often specified due to permitting and safety considerations in transport, storage and handling. As a fertilizer, it provides essential nitrogen for plants and is imperative that proper precautions are taken to ensure that it is handled correctly. Anhydrous ammonia, as its name suggests, is ammonia kept separate from water. It is not intended to replace or limit safety procedures in your facility. Hydrogen storage and transportation technology is essentially necessary to realize hydrogen economy. This presentation will also highlight the use of ammonia for energy generation and as a hydrogen carrier to enable the infrastructure of hydrogen fueling stations for public fuel cell transportation.  Hydrogen can be stored in many different forms, as compressed or liquefied hydrogen in tanks, or as hydrogen carriers: a hydrogen-absorbing alloy, metal hydrides with light elements, organic hydrides and carbon-based hydrogen storage materials. The aggregate storage capacity of these 153 terminals was 2,734,000 tons, and individual capacities ranged from a few hundred tons to 121,000 tons (1). In addition, ammonia has a storage cost advantage over hydrogen with an estimated cost for 182 days of storage to be 14.83 $/kg-H2 and 0.51 $/kg-H2, respectively. A comparison of thermal and electrochemical methods for hydrogen generation from ammonia will be presented. ";s:7:"keyword";s:37:"storage and transportation of ammonia";s:5:"links";s:11578:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=security-gate-installation-near-me'>Security Gate Installation Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=jenn-air-panel-ready-refrigerator'>Jenn Air Panel Ready Refrigerator</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=black-wall-decor-for-bathroom'>Black Wall Decor For Bathroom</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=yarrow-tea-where-to-buy'>Yarrow Tea Where To Buy</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=apartment-bedroom-ideas-for-college'>Apartment Bedroom Ideas For College</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-eames-chair-replica-reddit'>Best Eames Chair Replica Reddit</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=when-not-to-use-an-impact-driver'>When Not To Use An Impact Driver</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=miele-vacuum-parts-near-me'>Miele Vacuum Parts Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-haunting-of-hill-house-book'>The Haunting Of Hill House Book</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=twin-mattress-under-50-dollars'>Twin Mattress Under 50 Dollars</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hearth-and-hand-stoneware-dinner-plate'>Hearth And Hand Stoneware Dinner Plate</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-edge-a-garden-with-stone'>How To Edge A Garden With Stone</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hgtv-dream-home-giveaway-2020'>Hgtv Dream Home Giveaway 2020</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=order-place-meaning-in-hindi'>Order Place Meaning In Hindi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=battle-of-bull-run-significance'>Battle Of Bull Run Significance</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rubbermaid-brute-20-gallon-storage'>Rubbermaid Brute 20 Gallon Storage</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=shed-plans-8x12-with-porch'>Shed Plans 8x12 With Porch</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=succession-season-2-episode-8'>Succession Season 2 Episode 8</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=samsung-washing-machine-error-code-se'>Samsung Washing Machine Error Code Se</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=landscape-architecture-salary-per-month'>Landscape Architecture Salary Per Month</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=korean-fried-chicken-air-fryer'>Korean Fried Chicken Air Fryer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bay-window-installation-near-me'>Bay Window Installation Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=salt-lake-city-public-library-events'>Salt Lake City Public Library Events</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=height-placement-of-shelf-above-toilet'>Height Placement Of Shelf Above Toilet</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bank-of-america-reo-properties'>Bank Of America Reo Properties</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=easy-chicken-and-dumplings-recipe'>Easy Chicken And Dumplings Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-does-being-referred-to-oncology-mean'>What Does Being Referred To Oncology Mean</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-to-bbq-near-me'>Where To Bbq Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=gordon-ramsay-uncharted-watch-online'>Gordon Ramsay Uncharted Watch Online</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=keep-clean-meaning-in-hindi'>Keep Clean Meaning In Hindi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-become-an-urban-planner'>How To Become An Urban Planner</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=schengen-visa-for-spouse-of-british-citizen'>Schengen Visa For Spouse Of British Citizen</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chapter-6-sectional-conflict-summary'>Chapter 6 Sectional Conflict Summary</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=black-sabbath-war-pigs-song-download'>Black Sabbath War Pigs Song Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hom-furniture-card-synchrony-bank'>Hom Furniture Card Synchrony Bank</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fun-facts-about-jacques-pepin'>Fun Facts About Jacques Pepin</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=heirloom-tomato-seeds-cherokee-purple'>Heirloom Tomato Seeds Cherokee Purple</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=royal-conservatoire-of-scotland-drama'>Royal Conservatoire Of Scotland Drama</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rocky-road-recipe-jamie-oliver'>Rocky Road Recipe Jamie Oliver</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-taste-season-1-contestants'>The Taste Season 1 Contestants</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ikea-glider-chair-and-ottoman'>Ikea Glider Chair And Ottoman</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=paneer-butter-masala-recipe-in-malayalam'>Paneer Butter Masala Recipe In Malayalam</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=light-decoration-ideas-for-home-outdoor'>Light Decoration Ideas For Home Outdoor</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=home-sweet-home-sign-michaels'>Home Sweet Home Sign Michaels</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-did-the-pilgrims-eat-everyday'>What Did The Pilgrims Eat Everyday</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=black-southern-potato-salad-recipe'>Black Southern Potato Salad Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=30-minute-vegetarian-meals-cookbook'>30 Minute Vegetarian Meals Cookbook</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wings-and-pasta-near-me'>Wings And Pasta Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=different-flowers-names-in-malayalam'>Different Flowers Names In Malayalam</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=discounts-for-seniors-over-55'>Discounts For Seniors Over 55</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=in-a-valley-of-violence-netflix'>In A Valley Of Violence Netflix</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=high-pressure-dry-steam-cleaner'>High Pressure Dry Steam Cleaner</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=from-scratch-to-hatch-meaning'>From Scratch To Hatch Meaning</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sue-sue-in-the-city'>Sue Sue In The City</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=art-institute-of-vancouver-game-design'>Art Institute Of Vancouver Game Design</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-start-an-urban-garden'>How To Start An Urban Garden</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=oh-she-glows-not-vegan'>Oh She Glows Not Vegan</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=types-of-garage-doors-openers'>Types Of Garage Doors Openers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=whirlpool-service-center-phone-number'>Whirlpool Service Center Phone Number</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=r407c-refrigerant-suction-pressure-discharge-pressure'>R407c Refrigerant Suction Pressure Discharge Pressure</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-taste-season-1-contestants'>The Taste Season 1 Contestants</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=craigslist-ct-cars-by-owner'>Craigslist Ct Cars By Owner</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=enclosing-a-deck-to-make-a-room'>Enclosing A Deck To Make A Room</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=west-elm-mid-century-media-console'>West Elm Mid Century Media Console</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-cheap-rum-for-rum-and-coke'>Best Cheap Rum For Rum And Coke</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=easy-chicken-fried-steak-recipe'>Easy Chicken Fried Steak Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=german-alps-festival-hunter-mountain-2019'>German Alps Festival Hunter Mountain 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fig-wasp-and-fig-relationship'>Fig Wasp And Fig Relationship</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ras-al-khaimah-to-dubai'>Ras Al Khaimah To Dubai</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=korean-food-near-me-delivery'>Korean Food Near Me Delivery</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=repast-meaning-in-merriam-webster'>Repast Meaning In Merriam Webster</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=navy-grasscloth-peel-and-stick-wallpaper'>Navy Grasscloth Peel And Stick Wallpaper</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-pronounce-poem-in-scottish'>How To Pronounce Poem In Scottish</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-gloucestershire-business-school'>University Of Gloucestershire Business School</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=free-wallpaper-samples-by-mail-usa'>Free Wallpaper Samples By Mail Usa</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hearth-and-hand-stoneware-bowls'>Hearth And Hand Stoneware Bowls</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=vanity-kit-meaning-in-tamil'>Vanity Kit Meaning In Tamil</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-electric-kettle-for-coffee'>Best Electric Kettle For Coffee</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philips-40-watt-fluorescent-tube-light-price'>Philips 40 Watt Fluorescent Tube Light Price</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kootenay-national-park-to-banff'>Kootenay National Park To Banff</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-steam-clean-carpet-yourself'>How To Steam Clean Carpet Yourself</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=toshiba-tec-corporation-annual-report'>Toshiba Tec Corporation Annual Report</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=forget-me-not-movie-netflix'>Forget Me Not Movie Netflix</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-taste-of-india-slogan'>The Taste Of India Slogan</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cape-upvc-windows-cape-town'>Cape Upvc Windows Cape Town</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=slow-cooker-corn-on-the-cob-with-milk'>Slow Cooker Corn On The Cob With Milk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-cabinet-design-software-for-mac'>Best Cabinet Design Software For Mac</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bed-bath-and-beyond-store-card'>Bed Bath And Beyond Store Card</a>,
+";s:7:"expired";i:-1;}

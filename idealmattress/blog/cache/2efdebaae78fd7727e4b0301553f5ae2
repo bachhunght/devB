@@ -1,0 +1,200 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3351:"We attended the opening of “Falls Landing”, a new gourmet Supper Club at the Artisan Plaza complex south of Cannon Falls, and found it to be a great new foodie destination. It's where the "locals gather". A delicious supper at Falls Landing! JD Fratzke, the celebrated chef who made a name for himself in Saint Paul restaurants, is heading to Cannon Falls to open up a supper club and game hall inside a burgeoning freeway-side food hall. Wow. Falls Landing will strive to provide comfort, laughter and deliciousness to everyone who graces us with their presence. What a great day to be out and about in Minnesota! This is a throwback to the golden age of road trips, just a hop and skip outside of the Twin Cities in Cannon Falls.  Falls Landing . Falls Landing, the new restaurant from lauded chef JD Fratzke will open for dinner tomorrow night, Tuesday June 25. He has opened nine restaurants in his career and helmed several kitchens in Saint Paul, MN including Muffuletta in the Park, Bar Brigade and The Strip Club Meat and Fish where for ten years he was Chef and managing partner. Offering great food, excellent service at great prices. Falls Landing, you see, is outside the metro proper, in tiny Cannon Falls, Minn., but for those of us who live in the south metro, it takes 30 minutes or less to get there. The business is located in 1223 4th St S, Cannon Falls, MN 55009, USA. Our equally popular Cuban sandwich is served with smoked pulled-pork, ham, Swiss cheese and … The owner of the highly regarded Strip Club (now closed) in St. Paul has relocated to Cannon Falls. Photo by Darin Kamnetz “I was excited to take this job because it’s something I’ve never done before,” he says. Falls Landing at Artisan Plaza Eatery and Market, 1223 4th St. S., Cannon Falls The next step for St. Paul mainstay J.D. Fratzke (Bar Brigade, Strip Club Meat and Fish) is a supper club-style restaurant at the Artisan Plaza in Cannon Falls. He notes that Cannon Falls reminds him of the community in Winona where he grew up, and that it harkens back to America’s rural-nation roots. Falls Landing, Cannon Falls: See 6 unbiased reviews of Falls Landing, rated 4.5 of 5 on Tripadvisor and ranked #11 of 19 restaurants in Cannon Falls. Opens June 2019. Offering great food, excellent service at great prices. Variances are needed for projects that will vary from required standards in the City of Cannon Falls Zoning Code. Falls Landing. Both items require a public hearing in front of the Planning Commission and City Council approval. Restaurant in Cannon Falls, MN Foursquare uses cookies to provide you with an optimal experience, to personalize ads that you may see, and to help advertisers measure the results of their ad campaigns. 918 River Road Cannon Falls, MN 55009 | Phone: (507) 263-9300 Their telephone number is +1 651-829-1640. View the online menu of Falls Landing and other restaurants in Cannon Falls, Minnesota. “This is my eleventh restaurant opening. Conditional Use Permits are required for various types of development in the City. Read reviews and book now. See 1 photo from 7 visitors to Falls Landing. We hope you mix in a visit to Artisan Plaza Food Hall!We've got got something for everyone! Fratzke (Bar Brigade, Strip Club Meat and Fish) is a supper club-style restaurant at the Artisan Plaza in Cannon Falls. ";s:7:"keyword";s:29:"falls landing cannon falls mn";s:5:"links";s:2720:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-pressure-washer-gun-for-cars'>Best Pressure Washer Gun For Cars</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-hotel-in-hakuba-japan'>Best Hotel In Hakuba Japan</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ice-skate-rentals-bozeman-mt'>Ice Skate Rentals Bozeman Mt</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=baron-resort-sharm-el-sheikh-tui'>Baron Resort Sharm El Sheikh Tui</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cream-cheese-pound-cake-with-self-rising-flour'>Cream Cheese Pound Cake With Self Rising Flour</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pork-afritada-recipe-del-monte'>Pork Afritada Recipe Del Monte</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-much-did-silk-cost-in-ancient-china'>How Much Did Silk Cost In Ancient China</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=deep-freezer-repair-near-me'>Deep Freezer Repair Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chopped-season-43-episode-4'>Chopped Season 43 Episode 4</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-decorate-an-outdated-apartment'>How To Decorate An Outdated Apartment</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wood-display-cabinets-with-glass-doors'>Wood Display Cabinets With Glass Doors</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=app-for-selling-home-cooked-food'>App For Selling Home Cooked Food</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mount-baldy-village-upcoming-events'>Mount Baldy Village Upcoming Events</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=green-chile-chicken-enchiladas-with-flour-tortillas'>Green Chile Chicken Enchiladas With Flour Tortillas</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lost-lake-resort-oregon-weather'>Lost Lake Resort Oregon Weather</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-much-bleach-for-10000-gallon-pool'>How Much Bleach For 10000 Gallon Pool</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=industrial-carpet-tiles-for-sale'>Industrial Carpet Tiles For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=authentic-japanese-chicken-teriyaki-recipe'>Authentic Japanese Chicken Teriyaki Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=characteristics-of-plants-for-grade-1'>Characteristics Of Plants For Grade 1</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sunroom-kits-home-depot-canada'>Sunroom Kits Home Depot Canada</a>,
+";s:7:"expired";i:-1;}

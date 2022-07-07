@@ -1,0 +1,221 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:5078:"The Public Health Agency of Canada is advising people in Ontario and Quebec not to eat romaine lettuce after an outbreak of E. coli. The bacteria are then spread when that person touches someone or something else, like food. They are fecal coliforms, and are normally found in the intestines of animals (including humans). This is how E. coli gets into your salad CNN Business. Research on E. coli and Salmonella in lettuce and spinach will help industry make better decisions on growing practices, risk reduction, and regulatory and food safety policies. While outbreaks of vegetable-associated E. coli outbreaks are rare in the UK as a result of strict control measures at all stages of the food chain from plough to plate, they do still occur, as was seen in 2013 when contaminated watercress entered the food chain resulting in seven people being hospitalised. There are steps from the store to your table that can keep you healthy. Vegetables and fruit: You might eat fresh vegetables or fruit that’s been tainted by water that has the bacteria. E. coli really only lives in the intestines of mammals - that's where it is adapted to. An estimated 76 million cases of foodborne disease occur each year in the United States, according to the CDC, and the bacteria that cause these illnesses, such as Salmonella or E. coli, can hang on tight to food even through a washing. Contamination can occur on the farm when birds make frequent flights overhead or low-lying fields flood with contaminated water. Here are 5 facts you can't unlearn about them. Loading... Unsubscribe from CNN Business? E. coli can get into the milk from the cow’s udder or from milking equipment. Loading... Unsubscribe from CNN Business? Vegetables and fruit: You might eat fresh vegetables or fruit that’s been tainted by water that has the bacteria. Bacteria can contaminate raw vegetables in several ways, according to the U.S.  Types. Nursing homes, schools, and child care facilities are … A 2002 article by Department of Agriculture researchers in the Journal of Food Protection showed that the O157 strain of E. coli can get into the root system of leaf lettuce—which may mean it can also invade the roots of a … Update: On Jan. 25, 2018, U.S. food safety and health officials declared an end to the E. coli outbreak linked to leafy greens. The most common way to acquire an E. coli infection is by eating contaminated food, such as: Ground beef. Types. E. coli can get into the milk from the cow’s udder or from milking equipment. When cattle are slaughtered and processed, E. coli bacteria in their intestines can get on the meat. This happens most often when manure from nearby animals mixes with the water supply. Person to person. RELATED: Everything You Need to Know About E. Coli Symptoms—in Case There’s Another Outbreak The network of contamination can expand from there: Raw vegetables that have come into contact with runoff from cattle farms are another cause of E. coli infections. This has been an increasing problem. Lettuce is often the culprit in illness outbreaks linked to E. coli due to how it is grown, handled and transported -- and because we often eat it raw. Raw vegetables are not the only food that can be contaminated, though. E. coli bacteria, scientifically called Escherichia coli, lives in the intestinal tracts of both humans and animals. As … Ground beef combines meat from many different cattle, increasing the risk of contamination. Bacteria From Eating Raw Vegetables Process. Lettuce is often the culprit in illness outbreaks linked to E. coli due to how it is grown, handled and transported -- and because we often eat it raw. Vegetables and fruit: You might eat fresh vegetables or fruit that’s been tainted by water that has the bacteria. ... E. coli infections are gross. “But once the bacteria have attached themselves to the surface of a vegetable, they become much harder to kill.” When these bacteria attach to a surface, they produce a substance called “biofilm,” which encases the bacteria in a sort of shell and helps them stick to … E. coli can also be spread by farmworkers who don’t wash their hands or via farm equipment that has manure on it. ... E. coli infections are gross. Between 20-30 percent of food-poisoning outbreaks linked to disease-causing strains of the bacterium Escherichia coli are caused by people eating contaminated vegetables. If you consume raw vegetables contaminated with bacteria,...  Strategies. In some cases there have been E. Coli on greens and vegetables that have not been fertilized this way. Spinach and lettuce are high-value leafy vegetable crops that are grown extensively in California. There are lots of bacteria in vegetables, just most of them aren't pathogens. To help prevent: Cook meats thoroughly and wash hands. You can get an E. coli infection from contaminated water or food, and through contact with animals or people. "There’s a specific type of E. coli. Though we work to rid our foods of pesky E. coli and Salmonella, our bodies are covered in bacteria. ";s:7:"keyword";s:33:"how does e coli get on vegetables";s:5:"links";s:5551:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=on-an-island-with-you-cast'>On An Island With You Cast</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=you-make-me-sick-urban-dictionary'>You Make Me Sick Urban Dictionary</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mushrooms-of-the-pacific-northwest-pdf'>Mushrooms Of The Pacific Northwest Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dewalt-pressure-washer-3100-psi'>Dewalt Pressure Washer 3100 Psi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-far-is-hatch-new-mexico'>How Far Is Hatch New Mexico</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hailo-35l-replacement-bin-canada'>Hailo 35l Replacement Bin Canada</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=frigidaire-fftr1814qw4a-door-handle-replacement'>Frigidaire Fftr1814qw4a Door Handle Replacement</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-pretoria-courses-and-requirements'>University Of Pretoria Courses And Requirements</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=powers-of-ten-anchor-chart'>Powers Of Ten Anchor Chart</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ebay-chairs-for-living-room'>Ebay Chairs For Living Room</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dora-and-the-lost-city-of-gold-box-office-bomb'>Dora And The Lost City Of Gold Box Office Bomb</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=folding-beach-mat-with-backrest'>Folding Beach Mat With Backrest</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lifetime-personal-folding-table-costco'>Lifetime Personal Folding Table Costco</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=How-to-eat-dragon-fruit'>How To Eat Dragon Fruit</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=beef-liver-pate-nutrition-facts'>Beef Liver Pate Nutrition Facts</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=apartments-with-sunrooms-in-atlanta'>Apartments With Sunrooms In Atlanta</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-toronto-computer-science-acceptance-rate'>University Of Toronto Computer Science Acceptance Rate</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hotel-lobby-floor-plan-design'>Hotel Lobby Floor Plan Design</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-notch-a-fiddle-leaf-fig-tree-for-branching'>How To Notch A Fiddle Leaf Fig Tree For Branching</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=jaquar-bathroom-fittings-catalogue-with-price-list-2018-pdf-india'>Jaquar Bathroom Fittings Catalogue With Price List 2018 Pdf India</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=yoyogi-national-gymnasium-3d-model'>Yoyogi National Gymnasium 3d Model</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=prehung-interior-french-doors-lowes'>Prehung Interior French Doors Lowes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-tandoori-chicken-near-me'>Best Tandoori Chicken Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=corner-bench-dining-table-set'>Corner Bench Dining Table Set</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mah-jong-sofa-replica-india'>Mah Jong Sofa Replica India</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bitter-daisies-netflix-season-2'>Bitter Daisies Netflix Season 2</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ceramic-pots-with-drainage-holes'>Ceramic Pots With Drainage Holes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=force-10-from-navarone-book-review'>Force 10 From Navarone Book Review</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=steam-cleaner-for-curtains-and-upholstery'>Steam Cleaner For Curtains And Upholstery</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=guy-fieri-net-worth-2020'>Guy Fieri Net Worth 2020</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cheap-appliance-parts-near-me'>Cheap Appliance Parts Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-many-ads-do-you-see-on-social-media'>How Many Ads Do You See On Social Media</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sharp-washing-machine-price-philippines'>Sharp Washing Machine Price Philippines</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=https-www-overstock-com-stock'>Https Www Overstock Com Stock</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=full-lite-exterior-door-slab'>Full Lite Exterior Door Slab</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-can-i-buy-margarita-mix-uk'>Where Can I Buy Margarita Mix Uk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-to-buy-a-fern-peony'>Where To Buy A Fern Peony</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=does-wyndham-own-smugglers-notch'>Does Wyndham Own Smugglers Notch</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=grey-living-room-ideas-pinterest'>Grey Living Room Ideas Pinterest</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fruit-salad-day-for-kindergarten'>Fruit Salad Day For Kindergarten</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-get-to-rothorn-from-zermatt'>How To Get To Rothorn From Zermatt</a>,
+";s:7:"expired";i:-1;}

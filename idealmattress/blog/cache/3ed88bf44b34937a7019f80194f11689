@@ -1,0 +1,200 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3482:"Rita has been an active member of Dayton Rotary since 2005. The following trademarks used herein are owned by McDonald's Corporation and its affiliates; McDonald's, Ronald McDonald House Charities, Ronald McDonald House Charities Logo, RMHC, Ronald McDonald House, Ronald McDonald Family Room, and Ronald McDonald Care Mobile. We are fortunate to have one of the largest Ronald McDonald Houses across the street from Cincinnati Children's. An expanded Ronald McDonald House is a home away from home for patient families at Cincinnati Children’s. Salaries posted anonymously by Ronald McDonald House Charities employees. RMHC of Central Ohio is recognized as a public charity under Internal Revenue Code section 509(a) and has 501(c)(3) status. Anyone under the age of 18 must be accompanied by an adult at all times. She was born and raised in Cincinnati; her parents still live in her childhood home in Eastgate. Jump to.  Their gifts of love and compassion make this House more than just a place to stay, they make it a home. Rita joined RMHC’s leadership team in 2002. Ronald McDonald House Charities of Central Ohio cannot provide adult supervision. The following trademarks used herein are owned by McDonald’s Corporation and its affiliates; McDonald’s, Ronald McDonald House Charities, Ronald McDonald House Charities Logo, RMHC, Ronald McDonald House, Ronald McDonald Family Room, and Ronald McDonald Care Mobile. Ronald McDonald House Charities of Dayton provides a temporary home-away-from-home for families of critically ill, hospitalized children and supports efforts that improve children’s health within our region. Ronald McDonald House offers families: A comfortable place to sleep; a … The following trademarks used herein are owned by McDonald's Corporation and its affiliates; McDonald's, Ronald McDonald House Charities, Ronald McDonald House Charities Logo, RMHC, Ronald McDonald House, Ronald McDonald Family Room, and Ronald McDonald Care Mobile. Whether you are an individual wanting to support our families in or out of House, or a group looking to come to the House for a few hours, there is an opportunity to give that is perfect for all! She has a Bachelor's degree in Communications and Vocal Performance, and a … 6 reviews of Ronald McDonald House Charities "Every other Sunday, you'll find me at Ronald McDonald House. Jennifer is a frequent local and national speaker on … But it has been 30 years since the mother and daughter celebrated Mother’s Day together. 868 likes. Ronald McDonald House Charities of Greater Cincinnati offers a community of compassion, support and the comforts of home to families with critically ill children, steps … The following trademarks used herein are owned by McDonald’s Corporation and its affiliates; McDonald’s, Ronald McDonald House Charities, Ronald McDonald House Charities Logo, RMHC, Ronald McDonald House, Ronald McDonald Family Room, and Ronald McDonald Care Mobile. The Ronald McDonald House is supported by a strong foundation of volunteers. For nearly four decades, Ronald McDonald House Charities of Central Ohio (RMHC) has been keeping families close at the Columbus Ronald McDonald House. Our Staff; Our Partnerships; Red Shoe Society; ... Ronald McDonald House Charities Logo, RMHC, Ronald McDonald House, Ronald McDonald Family Room, and Ronald McDonald Care Mobile. Her resume includes working for Ronald McDonald House, Cincinnati Symphony and most recently, Mercy Health. ";s:7:"keyword";s:38:"ronald mcdonald house cincinnati staff";s:5:"links";s:2568:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=un-general-service-salary-scale'>Un General Service Salary Scale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-braise-red-cabbage'>How To Braise Red Cabbage</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=36-inch-tall-outdoor-planters'>36 Inch Tall Outdoor Planters</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wall-art-sayings-on-wood'>Wall Art Sayings On Wood</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=can-anyone-walk-the-red-carpet'>Can Anyone Walk The Red Carpet</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=when-was-st-george-born'>When Was St George Born</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=swimming-pool-rules-and-regulations-signs'>Swimming Pool Rules And Regulations Signs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=twelve-oaks-mall-holiday-hours-2019'>Twelve Oaks Mall Holiday Hours 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=tapi-carpets-delivery-and-care-package'>Tapi Carpets Delivery And Care Package</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=white-coffee-table-with-drawers'>White Coffee Table With Drawers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=3ds-max-2019-system-requirements'>3ds Max 2019 System Requirements</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=python-connection-pool-sql-server'>Python Connection Pool Sql Server</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=subaru-pressure-washer-repair-near-me'>Subaru Pressure Washer Repair Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=alabama-white-sauce-amazing-ribs'>Alabama White Sauce Amazing Ribs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-sell-on-houzz-uk'>How To Sell On Houzz Uk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-neutralize-aluminum-corrosion'>How To Neutralize Aluminum Corrosion</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=white-console-table-with-storage'>White Console Table With Storage</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=office-doors-with-glass-panels'>Office Doors With Glass Panels</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ikea-kitchen-island-with-seating'>Ikea Kitchen Island With Seating</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=1-kg-mutton-price-uk'>1 Kg Mutton Price Uk</a>,
+";s:7:"expired";i:-1;}

@@ -1,0 +1,250 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3468:"Disclaimer: I happen to be the author of Karate. 12 hours course with java latest features, lambda, stream, functional style programming etc. The main goal is to provide an introduction to testing the basic correctness of the API – and we're going to be using the latest version of the GitHub REST API for the examples. However, REST-Assured can test SOAP webservices by adding xml request in the body and execute POST HTTP request. I have implemented a REST API in java and using Jersey Test framework for unit testing the REST API. Pandaria – Java based http testing framework. We will be creating a simple Rest Testing Framework in Java and JUnit that… POST, GET, PUT, and DELETE. REST-Assured Java API is to test REST webservices and has no direct support for SOAP webservices. It will be a reusable asset for REST API testing which can be further integrated with Jenkins to achieve Continuous Integration. Utilises Cucumber JVM. REST API testing is testing API using 4 major methods i.e. Hi, If you would love to test REST Api using TestNG framework then I would recommend you to use Rest Assured which is a Java Library. You'll need to mock your code - use Mockito (Jersey 1.19 Test configuration - mock classes) or in-memory testing database. REST Template. Rest Assured is one of the most popular libraries which is highly used in API Test Automation in most of the companies. This tutorial focuses on the basic principles and mechanics of testing a REST API with live Integration Tests (with a JSON payload). Karate – Java based framework for api test automation, api performance testing and api mocking. Karate Test Automation Made Simple.. Karate is the only open-source tool to combine API test-automation, mocks, performance-testing and even UI automation into a single, unified framework. This library behaves like a headless Client to access REST web services. Uses Cucumber JVM for BDD part. REST API Testing(Automation Framework)-Rest Assured java 3.7 (10 ratings) Course Ratings are calculated from individual students’ ratings and a variety of other signals, like age of rating and reliability, to ensure that they reflect course quality fairly and accurately. In this guide, we are going to present solutions which are easily understandable and quick to implement and use. This is a full-fledged tutorial on Rest API Automation testing using one of a very popular Java-based API i.e’ Rest Assured ‘ library. It has also been listed as one of the top 5 open-source API testing tools, just within 6 months of its release. What are the good java Frameworks/Libraries for REST API Automation Testing? Gatling – Scala based powerful http testing framework. Chakram is an API testing framework designed to perform tests on JSON REST endpoints. It’s about how to get the step definitions to execute for the rest-testing module specifically, since this module is the one whose source code is referred on this post: “REST API Testing with Cucumber”. It is in high demand among automation testers. We assume that students have no experience in automation/coding and start every topic from scratch and basics. This rest assured course covers from basics to advance levels of Rest Assured, Postman, Java, Testing, Framework implementation from scratch with real examples Rest API Automation Testing in JAVA | Rest Assured Tutorial So, In this article, lets see how to include REST API related testing in your existing selenium framework. ";s:7:"keyword";s:31:"java rest api testing framework";s:5:"links";s:9382:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=100-vocabulary-words-with-meaning-and-sentence-pdf'>100 Vocabulary Words With Meaning And Sentence Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-restaurants-in-richmond-hill'>Best Restaurants In Richmond Hill</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=above-ground-pool-sand-filter-installation'>Above Ground Pool Sand Filter Installation</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=battle-of-jutland-crew-lists'>Battle Of Jutland Crew Lists</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=peer-assessment-examples-for-students'>Peer Assessment Examples For Students</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-save-power-consumption-in-refrigerator'>How To Save Power Consumption In Refrigerator</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-much-does-it-cost-to-stay-at-rock-harbor-lodge'>How Much Does It Cost To Stay At Rock Harbor Lodge</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-taste-season-1-contestants'>The Taste Season 1 Contestants</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-long-to-marinate-tandoori-chicken'>How Long To Marinate Tandoori Chicken</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=synonyms-list-pdf-for-ielts'>Synonyms List Pdf For Ielts</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=particle-board-vs-plywood-cabinets'>Particle Board Vs Plywood Cabinets</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-color-light-is-best-for-seedlings'>What Color Light Is Best For Seedlings</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ikea-galant-desk-for-sale'>Ikea Galant Desk For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-pronounce-toronto-street-names'>How To Pronounce Toronto Street Names</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=signature-by-ashley-end-tables'>Signature By Ashley End Tables</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=panorama-ridge-or-black-tusk'>Panorama Ridge Or Black Tusk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=when-did-martha-raddatz-get-married'>When Did Martha Raddatz Get Married</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=brenton-studio-jancy-task-chair-assembly-instructions'>Brenton Studio Jancy Task Chair Assembly Instructions</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=non-alcoholic-pina-colada-punch-with-ice-cream'>Non Alcoholic Pina Colada Punch With Ice Cream</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philips-hue-bridge-no-router'>Philips Hue Bridge No Router</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=healthy-chicken-salad-meal-prep'>Healthy Chicken Salad Meal Prep</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=albany-new-york-upcoming-events'>Albany New York Upcoming Events</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=colorado-log-cabin-quilt-pattern'>Colorado Log Cabin Quilt Pattern</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=tuscan-faux-finish-paint-walls'>Tuscan Faux Finish Paint Walls</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lavender-and-grey-living-room-ideas'>Lavender And Grey Living Room Ideas</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=baby-couscous-recipe-7-months'>Baby Couscous Recipe 7 Months</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=farm-city-week-buyers-list'>Farm City Week Buyers List</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=long-term-rentals-burlington-ontario'>Long Term Rentals Burlington Ontario</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=can-i-cut-the-aerial-roots-off-my-monstera'>Can I Cut The Aerial Roots Off My Monstera</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=r32-refrigerant-suction-and-discharge-pressure'>R32 Refrigerant Suction And Discharge Pressure</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=quotes-about-prints-in-fashion'>Quotes About Prints In Fashion</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wooden-double-cot-price-in-kerala'>Wooden Double Cot Price In Kerala</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=on-the-snow-nevados-de-chillan'>On The Snow Nevados De Chillan</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ski-lessons-for-kids-in-nh'>Ski Lessons For Kids In Nh</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cozzia-qi-se-for-sale'>Cozzia Qi Se For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=johnson-and-johnson-india-careers'>Johnson And Johnson India Careers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=daybed-with-pop-up-trundle-assembly-instructions'>Daybed With Pop Up Trundle Assembly Instructions</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=download-microsoft-office-2016-free'>Download Microsoft Office 2016 Free</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=big-square-pillows-for-bed'>Big Square Pillows For Bed</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=black-krim-tavern-randolph-vt'>Black Krim Tavern Randolph Vt</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ryobi-1600-psi-pressure-washer-foam-cannon'>Ryobi 1600 Psi Pressure Washer Foam Cannon</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philips-hue-best-buy-canada'>Philips Hue Best Buy Canada</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-remove-gamey-taste-from-meat'>How To Remove Gamey Taste From Meat</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=panasonic-india-pvt-ltd-chennai'>Panasonic India Pvt Ltd Chennai</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=jim-croce-operator-midi-file'>Jim Croce Operator Midi File</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=l-shaped-sleeper-sofa-bed'>L Shaped Sleeper Sofa Bed</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=target-upper-east-side-open'>Target Upper East Side Open</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=glass-house-upstate-new-york'>Glass House Upstate New York</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=procedure-for-allotment-of-shares-to-existing-shareholders-under-companies-act-2013'>Procedure For Allotment Of Shares To Existing Shareholders Under Companies Act 2013</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=white-console-table-with-drawers-and-shelves'>White Console Table With Drawers And Shelves</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=used-bar-stools-for-sale'>Used Bar Stools For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=amazon-work-from-home-jobs'>Amazon Work From Home Jobs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=importance-of-rice-in-india'>Importance Of Rice In India</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=oven-beef-stroganoff-with-stew-meat'>Oven Beef Stroganoff With Stew Meat</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=college-meal-prep-grocery-list'>College Meal Prep Grocery List</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dum-biryani-in-pressure-cooker'>Dum Biryani In Pressure Cooker</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=floor-and-decor-near-me'>Floor And Decor Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kenmore-elite-refrigerator-parts-manual'>Kenmore Elite Refrigerator Parts Manual</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-lodge-at-vail-spa'>The Lodge At Vail Spa</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-lesson-eug%C3%A8ne-ionesco-pdf'>The Lesson Eugène Ionesco Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=backless-bar-stools-set-of-2'>Backless Bar Stools Set Of 2</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=canvas-art-ideas-for-beginners'>Canvas Art Ideas For Beginners</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=junkmail-kitchen-units-for-sale'>Junkmail Kitchen Units For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mcmaster-university-international-students-fees'>Mcmaster University International Students Fees</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=set-of-2-recliner-chairs'>Set Of 2 Recliner Chairs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=maadi-thottam-kit-in-chennai-address'>Maadi Thottam Kit In Chennai Address</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-grow-black-tomatoes'>How To Grow Black Tomatoes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=husky-1500-psi-pressure-washer'>Husky 1500 Psi Pressure Washer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=black-friday-2019-skis-sale'>Black Friday 2019 Skis Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cape-cod-shingle-style-house'>Cape Cod Shingle Style House</a>,
+";s:7:"expired";i:-1;}

@@ -1,0 +1,204 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2852:"A vent in the surface of the Earth through which magma and associated gases and ash erupt; also, the form or structure, usually conical, that is produced by the ejected material. Magma that cools slowly within a magma chamber usually ends up forming bodies of plutonic rocks such as gabbro, diorite and granite, depending upon the composition of the magma. Ring of Fire. noun. Magma chamber (Magna reservoir) The subterranean cavity containing the gas-rich liquid magma which feeds a volcano. The molten rock material that originates under the Earth's crust and forms igneous rock when it has cooled. Find all the synonyms and alternative words for magma chamber at Synonyms.com, the largest free online thesaurus, antonyms, definitions and translations resource on the web. The molten matter within the earth, the source of the material of lava flows, dikes of eruptive rocks, etc. Magma. a reservoir of magma in the earth's crust where the magma may reside temporarily on its way from the upper mantle to the earth's surface. You can see a large caldera in Yellowstone Park, and these craters are usually formed when the magma chamber of a volcano becomes empty. Although, the Mogi model represents an oversimplified magma magma chamber. 3.2 Magma and Magma Formation Magmas can vary widely in composition, but in general they are made up of only eight elements; in order of importance: oxygen, silicon, aluminum, iron, calcium, sodium, magnesium, and potassium (Figure 3.6). The magma also has a lot of unstable gases and melted rock, and it can form very large calderas, which are depressions or craters found on larger volcanoes. The words that describe composition of igneous rocks also describe magma composition. Mantle. Magma is a mixture of molten and semi-molten rock found below Earth's surface. The tunnel would have to be done before the magma started to move. Cinder cone volcano: the most common and smallest type of volcano, usually not more than 300 m (1000 ft) tall, produced by pyroclastic flows. MAGMA, noun. Stratovolcano within the magma chamber, before the magma begins it's journey through conduits to the surface, thus affording more time for hazard mitigation and evacuation. Types of Magma Types of magma are determined by chemical composition of the magma. Mafic magmas are low in silica and contain more dark, magnesium and iron rich … Most magma consists of four types of materials: liquid rock, crystallized minerals, solid pieces of rock, and dissolved gases. On the other hand, the magma could find weaknesses we haven't detected. Caldera: a large, cauldron-shaped depression caused by the collapse of the ground when the magma chamber is empty. The molten rock in such a chamber is under great pressure, and given enough time, that pressure can gradually fracture the rock around it creating outlets for the magma. ";s:7:"keyword";s:33:"associated words of magma chamber";s:5:"links";s:3268:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=one-straw-revolution-in-tamil'>One Straw Revolution In Tamil</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=samsung-diamond-drum-washing-machine-6kg-user-manual'>Samsung Diamond Drum Washing Machine 6kg User Manual</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chicken-tikka-marinade-jamie-oliver'>Chicken Tikka Marinade Jamie Oliver</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=types-of-cold-storage-in-hotel'>Types Of Cold Storage In Hotel</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=private-swimming-pool-codes-and-regulations'>Private Swimming Pool Codes And Regulations</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kohler-cimarron-toilet-reviews-2018'>Kohler Cimarron Toilet Reviews 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-doctor-kit-for-older-child'>Best Doctor Kit For Older Child</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=country-inn-and-suites-carlisle-pa'>Country Inn And Suites Carlisle Pa</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wool-carpet-cleaning-near-me'>Wool Carpet Cleaning Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=microsoft-office-2016-download-link'>Microsoft Office 2016 Download Link</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=navy-grasscloth-peel-and-stick-wallpaper'>Navy Grasscloth Peel And Stick Wallpaper</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=round-glass-top-dining-table-set-6-chairs'>Round Glass Top Dining Table Set 6 Chairs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=why-is-umbra-darker-than-penumbra'>Why Is Umbra Darker Than Penumbra</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=houses-for-sale-in-prague-ok'>Houses For Sale In Prague Ok</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=diners-drive-ins-and-dives-vietnamese'>Diners Drive Ins And Dives Vietnamese</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=t-34-movie-full-movie-2018-free'>T 34 Movie Full Movie 2018 Free</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=are-bed-frames-standard-for-headboards'>Are Bed Frames Standard For Headboards</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=it-chapter-2-age-rating'>It Chapter 2 Age Rating</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=homemade-chicken-nuggets-with-ground-chicken'>Homemade Chicken Nuggets With Ground Chicken</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=diy-overhead-garage-storage-plans'>Diy Overhead Garage Storage Plans</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sakina-jaffrey-lost-in-space'>Sakina Jaffrey Lost In Space</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=suny-college-of-optometry-cat-experiments'>Suny College Of Optometry Cat Experiments</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bensons-for-beds-discount-code'>Bensons For Beds Discount Code</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kidney-shaped-pool-with-jacuzzi'>Kidney Shaped Pool With Jacuzzi</a>,
+";s:7:"expired";i:-1;}

@@ -1,0 +1,251 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:5426:"Crystal clear algae free pool water is what Trouble Free Pool Math is committed to. Add of % bleach. This tool will tell you what you need to do in order to correctly shock your pool. Welcome to our website where you’ll find real answers to your questions about oxygen based water treatment for your residential pool. Pool Volume: If you do not know your pool volume please visit our Basic Pool Calculator. PoolMath makes swimming pool care, maintenance and management easy by tracking chlorine, pH, alkalinity and other levels to help calculate how much salt, bleach and other chemicals to add. It is being practiced by thousands of pool owners just like you. fl oz … Bleach - Liquid Chlorine Common bleach sold in grocery stores is the same thing as liquid chlorine or liquid shock sold by pool stores in some states. Only 1 question to start-where can I find this "bleach calculator" that I have heard so much about. Irregularly shaped pools can be approximated by estimating the average length and width and using rectangular. Chlorine bleach, as discussed above, is not bound to a stabilizer, so when you add chlorine bleach to the pool, it will go right to work killing microbes and sanitizing. It is intended for use by public health units, health care facilities, child care centres, swimming pool operators, and the general public (e.g., … Total alkalinity is to pH what cyanuric acid is to free chlorine. Amount Conversions: oz → lb. Please select the type of pool shock and your preferred sanitizer, and enter your pool's current free chlorine (FC) and cyanuric acid (CYA) / stabilizer levels below. Pool Math performs all the calculations you need to keep … Use our interactive Bleach Dilution Calculator for finding the proper bleach to water ratio for disinfecting. fl oz … Free time card calculator calculates your daily hours and lunch breaks on a convenient weekly online timesheet. If the depth varies, use the average depth of the pool. As mentioned above, the pH level of your spa directly correlates to … In this video I will walk you through using a great online tool: The Pool Calculator.com.  Keep swimming in your TroubleFreePool with Pool Math. You want bleach without any additives, typically labeled unscented or "original scent". Need an easy way to figure out how to dilute bleach to the proper concentration? Keep swimming in your TroubleFreePool with Pool Math. Check pool chlorine levels often. Need an easy way to figure out how to dilute bleach to the proper concentration? For a proper comparison of chlorine costs, see this post.Prices vary around the country (see this thread for example), but generally Trichlor is the least expensive, but not that much less than some bleach (on sale) or chlorinating liquid (depending on pool store) and then Cal-Hypo is somewhat similar, Dichlor is then … Adjust sliders to calculate the amount of bleach or chlorine to raise free chlorine levels in the pool. 15,000 gallon AG pool w/sand filter At Oxygen Pools, we have families just like you and our first concern is the safety of everyone who swims in a pool. A good approximation is the shallow end depth plus the deep end depth divided by two. Pool Volume: If you do not know your pool volume please visit our Basic Pool Calculator. Pool Calculator Maintenance Blog – The Relationship Between pH & Total Alkalinity. Chlorine is the most popular disinfectant for swimming pools. Do you know the pool volume (gal.)? About us. Jug size ... Estimating pool volume A wide by long by deep pool holds . Crystal clear algae free pool water is what Trouble Free Pool Math is committed to. Pool Free Chlorine Calculator A Swimming Pool Chemical Calculator. Crystal clear algae free pool water is what Trouble Free Pool Math is committed to. This easy-to-use calculator tells you how much bleach product to dilute with water to get your desired concentration (ppm) of chlorine solution. Free Pool Shock Calculator; Shock your pool! Check salt water pool salt often. Re: The BBB System and Pool Calculator You can go ahead and drizzle some bleach in as the pool fills. Please select the type of pool shock and your preferred sanitizer, and enter your pool's current free chlorine (FC) and cyanuric acid (CYA) / stabilizer levels below. Access PoolMath on Your Windows 10 Devices For the Same Great Features. Crystal clear algae free pool water is what Trouble Free Pool Math is committed to. Total alkalinity stabilizes pH levels. Keep swimming in your TroubleFreePool with Pool Math. Chlorine bleach, as discussed above, is not bound to a stabilizer, so when you add chlorine bleach to the pool, it will go right to work killing microbes and sanitizing. It is being practiced by … Check the strength of the bleach when comparing prices. PoolMath makes swimming pool care, maintenance and management easy by tracking chlorine, pH, alkalinity and other levels to help calculate how much salt, bleach and other chemicals to add. Check the strength of the bleach when comparing prices. The reason is simple: TFPC (Trouble Free Pool Care) is a methodology, not a product that you must purchase. Bleach Price Calculator - Find the best deals on bleach easily. It is intended for use by public health units, health care facilities, child care centres, swimming pool operators, and the general public (e.g., … This tool will tell you what you need to do in order to correctly shock your pool. ";s:7:"keyword";s:35:"trouble free pool bleach calculator";s:5:"links";s:9645:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=park-city-main-street-bars'>Park City Main Street Bars</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-check-cucumber-version'>How To Check Cucumber Version</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=samsung-ecobubble-washer-dryer-not-drying'>Samsung Ecobubble Washer Dryer Not Drying</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=eu-family-member-residence-card-ireland'>Eu Family Member Residence Card Ireland</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=country-fried-steak-cracker-barrel-price'>Country Fried Steak Cracker Barrel Price</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bacardi-frozen-pina-colada-mix-walmart'>Bacardi Frozen Pina Colada Mix Walmart</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-can-i-buy-frozen-duck-near-me'>Where Can I Buy Frozen Duck Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=park-city-main-street-webcam'>Park City Main Street Webcam</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-time-to-go-to-neptune-oyster'>Best Time To Go To Neptune Oyster</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-paint-a-swimming-pool-with-epoxy-paint'>How To Paint A Swimming Pool With Epoxy Paint</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=everybody-loves-raymond-funniest-episodes'>Everybody Loves Raymond Funniest Episodes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=my-school-garden-essay-in-english-for-class-5'>My School Garden Essay In English For Class 5</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=please-find-below-the-information-you-need'>Please Find Below The Information You Need</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=slate-floor-tiles-for-sale'>Slate Floor Tiles For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=15-quick-easy-grilling-recipes'>15 Quick Easy Grilling Recipes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=red-and-white-c9-led-christmas-lights'>Red And White C9 Led Christmas Lights</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=top-100-fast-casual-restaurants'>Top 100 Fast Casual Restaurants</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hobby-lobby-sale-schedule-2020'>Hobby Lobby Sale Schedule 2020</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=Mother-Joan-of-the-Angels'>Mother Joan Of The Angels</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=python-connection-pool-sql-server'>Python Connection Pool Sql Server</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mango-kulfi-recipe-in-hindi'>Mango Kulfi Recipe In Hindi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wooden-park-benches-for-sale'>Wooden Park Benches For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=queen-bed-frame-with-headboard-walmart'>Queen Bed Frame With Headboard Walmart</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=office-space-interior-design-ideas'>Office Space Interior Design Ideas</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=vodka-drinks-with-mint-leaves'>Vodka Drinks With Mint Leaves</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lazy-boy-bonded-leather-class-action-lawsuit'>Lazy Boy Bonded Leather Class Action Lawsuit</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=replacement-christmas-tree-light-bulbs'>Replacement Christmas Tree Light Bulbs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-sofa-goes-with-eames-chair'>What Sofa Goes With Eames Chair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=logan-full-movie-in-hindi-hd'>Logan Full Movie In Hindi Hd</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cool-things-for-lake-house'>Cool Things For Lake House</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lowes-flyer-april-25-2019'>Lowes Flyer April 25 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=spotted-lake-osoyoos-best-time-to-visit'>Spotted Lake Osoyoos Best Time To Visit</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-aisle-is-soy-sauce-in-at-kroger'>What Aisle Is Soy Sauce In At Kroger</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=big-bear-cabins-for-less'>Big Bear Cabins For Less</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=vitamins-for-brain-memory-and-concentration'>Vitamins For Brain Memory And Concentration</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=building-a-covered-porch-on-a-mobile-home'>Building A Covered Porch On A Mobile Home</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=another-brick-in-the-wall-part-2'>Another Brick In The Wall Part 2</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-adjust-dual-monitor-arms'>How To Adjust Dual Monitor Arms</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=why-did-my-pavlova-spread'>Why Did My Pavlova Spread</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-harvest-yarrow-seeds'>How To Harvest Yarrow Seeds</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=shark-lift-away-pro-steam-pocket-mop-accessories'>Shark Lift Away Pro Steam Pocket Mop Accessories</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rolling-meadows-high-school-rating'>Rolling Meadows High School Rating</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rooms-to-go-leather-sofa-recliner'>Rooms To Go Leather Sofa Recliner</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=clothes-storage-boxes-for-wardrobes'>Clothes Storage Boxes For Wardrobes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=why-is-it-called-the-jacobean-era'>Why Is It Called The Jacobean Era</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=potato-production-in-india-2020'>Potato Production In India 2020</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=birthday-food-ideas-for-adults'>Birthday Food Ideas For Adults</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=national-honor-society-induction-ceremony-2019'>National Honor Society Induction Ceremony 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=this-week-with-george-stephanopoulos-roundtable-members-today'>This Week With George Stephanopoulos Roundtable Members Today</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=alice-in-wonderland-full-movie'>Alice In Wonderland Full Movie</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=summit-at-snoqualmie-lift-tickets'>Summit At Snoqualmie Lift Tickets</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=indo-western-gown-for-reception'>Indo Western Gown For Reception</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sue-sue-in-the-city'>Sue Sue In The City</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=queen-mary-university-of-london-law'>Queen Mary University Of London Law</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=leaving-neverland-part-2-release-date'>Leaving Neverland Part 2 Release Date</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=easy-to-care-for-air-purifying-plants'>Easy To Care For Air Purifying Plants</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pictures-of-beautiful-roses-bouquet'>Pictures Of Beautiful Roses Bouquet</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=should-i-cut-yellow-leaves-off-bamboo'>Should I Cut Yellow Leaves Off Bamboo</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cheap-aluminium-bifold-doors-uk'>Cheap Aluminium Bifold Doors Uk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=toshiba-satellite-windows-7-intel-core-i3'>Toshiba Satellite Windows 7 Intel Core I3</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=things-to-do-in-breckenridge-this-week'>Things To Do In Breckenridge This Week</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=modern-garage-doors-home-depot'>Modern Garage Doors Home Depot</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=game-of-throne-meaning-in-tamil'>Game Of Throne Meaning In Tamil</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=never-talk-to-strangers-movie-download-300mb'>Never Talk To Strangers Movie Download 300mb</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-ground-beef-stroganoff-recipe'>Best Ground Beef Stroganoff Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=london-metropolitan-university-contact-number'>London Metropolitan University Contact Number</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=gas-repair-service-near-me'>Gas Repair Service Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=low-to-the-ground-chairs'>Low To The Ground Chairs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bed-headboard-design-in-india'>Bed Headboard Design In India</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=upholstered-dining-chair-black-legs'>Upholstered Dining Chair Black Legs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=when-to-use-singleton-and-prototype-scope-in-spring'>When To Use Singleton And Prototype Scope In Spring</a>,
+";s:7:"expired";i:-1;}

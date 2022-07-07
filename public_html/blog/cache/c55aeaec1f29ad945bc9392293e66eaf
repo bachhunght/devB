@@ -1,0 +1,212 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3837:"Starck designs a whole street block, La Rue Starck. PRODUCT DESIGNER. This lamp is from a collection for Flos. 144. Starck Philippe Starck was born 18 January 1949, son of Andre Starck, aeronautics engineer. Philippe Starck, (born January 18, 1949, Paris, France), French designer known for his wide range of designs, including everything from interior design to household objects to boats to watches. It is suspected that his interest for design was influenced by his father, an aeronautical engineer. Philippe Starck has repeatedly demonstrated that whatever its size or purpose, the honest object – in the introduction we evoked the honest approach of the man and designer Starck – does what it can do to the best of its means, most efficiently, most usefully and most respectfully, with a minimum of materials. Philippe Starck is a world-renowned French designer, known for his work in interior design, industrial design and architecture. He changes visual perceptions and plays with materials. Starck spent his childhood under his father’s drawing board, where he would spend hours sawing, cutting, gluing and sanding. With his vision of a better world. It's essential. I met Philippe Starck at his gleaming white studio in Paris. Known for his industrial design and his architectural creations, Philippe Starck is a French designer who takes versatility to a whole new level.His work can be seen in European and American Museums such as the Musee National d’Art Moderne, the MOMA, the Brooklyn Museum of the Design Museum in London. His creations harbour a responsibility for society and the environment. Product Design, is concerned with the design of objects, which have a practical purpose. Starck's eye was very natural. His work embodies the principles of elite design - that the designed world must have its own aesthetic and spiritual identity both separable from and serving its function. 1. After introducing us to his wife Jasmine, he asked what he could do for us. He studied at the Ecole Camondo in Paris. When these objects are manufactured and sold they become products. An extrovert. His respect for the environment and men also arrived in France for what he is granted the realization of the State Higher School of Fine Arts in Paris and the incinerator Paris area and the construction of the tower Bordeaux airport control. In an extraordinary thirty year career, Starck has made a profound and often revolutionary contribution to almost every facet of the ever expanding and ever reconfiguring world of design. PHILIPPE STARCK. He also created individual items of furniture to be manufactured by firms all over the world. With his vision of a better world. Philippe Starck: 'I couldn't care less about my life' ... Action needs style and elegance, and a little humour. French designer Philippe Starck was born in Paris on January 18, 1949. Startling. Courtesy Starck Network/JB Mondino. ... Cardin's style was a turn–off for Starck and made him more determined than ever to unleash simpler lines on the world. He has also worked as an architect. Philippe Starck is also a writer: Impression d’Ailleurs, avec Gilles Vanderpooten, Editions de l’Aube (2012) is his first adventure as writer. He liked lines in his furniture that were natural and smooth. A free spirit with an unconventional style. Philippe is a prolific designer of furniture and lighting. His creations harbour a responsibility for society and the environment. FR EN. Philippe Starck. Photo Courtesy of Starck Network. Philippe Starck on creativity, philosophy and ecology We are not put on this earth to be happy but to work, create and understand the world around us, said the acclaimed French designer, Philippe Starck, at the D&AD president's lecture last night. Philippe Starck is one of the most prolific designers of our time. ";s:7:"keyword";s:39:"what style does philippe starck work in";s:5:"links";s:4428:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-check-paypal-balance-2019'>How To Check Paypal Balance 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=blue-pampas-grass-for-sale'>Blue Pampas Grass For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=my-army-salvation-army-ultipro-login'>My Army Salvation Army Ultipro Login</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=second-hand-wooden-doors-for-sale-durban'>Second Hand Wooden Doors For Sale Durban</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-do-bent-lamination'>How To Do Bent Lamination</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=interiors-woody-allen-full-movie'>Interiors Woody Allen Full Movie</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ge-profile-refrigerator-not-cooling-or-freezing'>Ge Profile Refrigerator Not Cooling Or Freezing</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=five-a-day-vegetables-poem'>Five A Day Vegetables Poem</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hearth-and-hand-dinner-plates'>Hearth And Hand Dinner Plates</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=top-ten-wood-door-design'>Top Ten Wood Door Design</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=anchor-hocking-trueseal-glass-food-storage-containers-with-airtight-lids-green-6-piece-round-set'>Anchor Hocking Trueseal Glass Food Storage Containers With Airtight Lids Green 6 Piece Round Set</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kenmore-refrigerator-repair-near-me'>Kenmore Refrigerator Repair Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cheap-lamp-shades-for-table-lamps'>Cheap Lamp Shades For Table Lamps</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=can-i-leave-my-coleman-pool-up-in-the-winter'>Can I Leave My Coleman Pool Up In The Winter</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=nordic-ware-snowflake-pan-recipes'>Nordic Ware Snowflake Pan Recipes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cost-of-kitchen-cabinets-installed'>Cost Of Kitchen Cabinets Installed</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lemon-verbena-essential-oil-doterra'>Lemon Verbena Essential Oil Doterra</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=most-popular-cheese-in-germany'>Most Popular Cheese In Germany</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=karcher-wv-anniversary-edition-window-vacuum-cleaner'>Karcher Wv Anniversary Edition Window Vacuum Cleaner</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-grow-aloe-vera'>How To Grow Aloe Vera</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hue-play-hdmi-sync-box'>Hue Play Hdmi Sync Box</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=broyhill-tripoli-sectional-big-lots'>Broyhill Tripoli Sectional Big Lots</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=3-t-cushion-sofa-slipcover'>3 T Cushion Sofa Slipcover</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chrissy-teigen-cravings-2-recipes'>Chrissy Teigen Cravings 2 Recipes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=park-forest-il-zip-code'>Park Forest Il Zip Code</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-ground-coffee-for-drip-machine'>Best Ground Coffee For Drip Machine</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dry-cleaning-couch-cushion-covers'>Dry Cleaning Couch Cushion Covers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-cook-sausage-patties-in-the-oven'>How To Cook Sausage Patties In The Oven</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=when-ordering-flowers-for-a-funeral-who-is-the-recipient'>When Ordering Flowers For A Funeral Who Is The Recipient</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=screw-in-pendant-light-conversion-kit-lowes'>Screw In Pendant Light Conversion Kit Lowes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=zuan-yuan-chinese-restaurant-menu-2020'>Zuan Yuan Chinese Restaurant Menu 2020</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=zillow-rental-manager-vs-cozy'>Zillow Rental Manager Vs Cozy</a>,
+";s:7:"expired";i:-1;}

@@ -1,0 +1,250 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2798:"Fees Domestic students. The UNSW has determined to charge the Fee to any domestic student enrolled in a Research Training Scheme supported program. Tuition fees are reviewed annually and may increase each year. The table above shows indicative tuition fee amounts. If you’re an international student, find out about international student tuition fees by faculty along with information about deposits and voluntary upfront payments. There are costs that all UNSW students, including HDR candidates, will incur and these are outlined on the UNSW Fees page. The fees listed on this table are in Australian dollars (AUD). If you are an Australian citizen, Australian permanent resident or New Zealand citizen, you are a domestic student. The quick facts section on the postgraduate degree pages will provide you with the indicative fee information. Domestic student fees. For programs offered through the AGSM @ UNSW Business School, please refer to the Fee pages under each AGSM degree. (Minimum 75% from a non-211 university in China). 48 UOC is the standard full-time load for one year and most courses at UNSW are worth 6 UOC each. If you’re an international student, find out about international student tuition fees by faculty along with information about deposits and voluntary upfront payments. For further information about UNSW fees, please click here. Most postgraduate coursework students pay tuition fees. The table above shows indicative tuition fee amounts. For information regarding UNSW tuition and other student fees, please refer to fees. The fees for the degree can be found on the various degree pages. You can also check indicative fees for future years at UNSW. Undergraduate students have different options for paying fees depending on their residency status. UNSW reserves the right to vary student fees during enrolment in line with relevant legislation. Textbooks are not considered compulsory, but we recommend budgeting around A$1,000 per year for books. We have highlighted some of the key costs below but they will vary on a case by case basis. On this page you can access links to the Student Fee Policy and Student Fee Procedure for students at UNSW. Need more information about your Undergraduate degree's fee structure? The fees listed on this table are in Australian dollars (AUD). Here you can access information on student fees and payment. UNSW Arts and Social Sciences. If you’re a domestic full fee paying student, find out about domestic full fee paying student tuition fees by faculty. Current students can access fees on the Fee Statement in myUNSW at the beginning of each teaching period. International. Tuition fees vary by student cohort based on residency status and course career type (undergraduate, postgraduate or research), also known as … ";s:7:"keyword";s:31:"unsw fees for domestic students";s:5:"links";s:9550:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=collins-cobuild-advanced-british-english-learners-dictionary'>Collins Cobuild Advanced British English Learners Dictionary</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-creeping-jenny-drought-tolerant'>Is Creeping Jenny Drought Tolerant</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=buffalo-wild-wings-menu-prices'>Buffalo Wild Wings Menu Prices</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fish-bone-stuck-in-throat-home-remedy'>Fish Bone Stuck In Throat Home Remedy</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=new-york-times-slaw-recipes'>New York Times Slaw Recipes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=black-canyon-of-the-gunnison-national-park-facts'>Black Canyon Of The Gunnison National Park Facts</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-garlic-bread-with-regular-bread'>How To Make Garlic Bread With Regular Bread</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=canmore-events-next-7-days'>Canmore Events Next 7 Days</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=2000-psi-pressure-washer-pump'>2000 Psi Pressure Washer Pump</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=family-restaurants-in-richmond-hill'>Family Restaurants In Richmond Hill</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=holland-bar-stool-assembly-instructions'>Holland Bar Stool Assembly Instructions</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=eureka-blaze-3-in-1-swivel-vacuum-cleaner'>Eureka Blaze 3 In 1 Swivel Vacuum Cleaner</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sharp-washing-machine-price-philippines'>Sharp Washing Machine Price Philippines</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=little-green-bookworm-sutton-coldfield'>Little Green Bookworm Sutton Coldfield</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hard-time-losin-man-lyrics'>Hard Time Losin Man Lyrics</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=william-sonoma-burlington-ma-closing'>William Sonoma Burlington Ma Closing</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=land-for-sale-in-magnolia-tx-by-owner'>Land For Sale In Magnolia Tx By Owner</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=interesting-facts-about-self-care'>Interesting Facts About Self Care</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=study-table-for-kids-amazon'>Study Table For Kids Amazon</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-color-towels-for-gray-bathroom'>What Color Towels For Gray Bathroom</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cheap-hotels-in-old-quebec-city'>Cheap Hotels In Old Quebec City</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-much-protein-in-broccoli-sprouts'>How Much Protein In Broccoli Sprouts</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=foot-powered-non-electric-washing-machine'>Foot Powered Non Electric Washing Machine</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=jasper-national-park-winter-driving'>Jasper National Park Winter Driving</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-did-italians-eat-before-tomatoes'>What Did Italians Eat Before Tomatoes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=in-the-shadow-of-the-moon-imdb'>In The Shadow Of The Moon Imdb</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=courtyard-by-marriott-edinburgh-tripadvisor'>Courtyard By Marriott Edinburgh Tripadvisor</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=german-residence-permit-for-spouse'>German Residence Permit For Spouse</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-plague-dogs-full-movie'>The Plague Dogs Full Movie</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=importance-of-kitchen-garden-in-school'>Importance Of Kitchen Garden In School</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=anchor-switches-price-list-2019-pdf'>Anchor Switches Price List 2019 Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-often-do-you-water-tomato-plants-in-hot-weather'>How Often Do You Water Tomato Plants In Hot Weather</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=1-cable-length-to-meters'>1 Cable Length To Meters</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-toronto-engineering-ranking'>University Of Toronto Engineering Ranking</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=deer-valley-closing-date-2019'>Deer Valley Closing Date 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=Father-of-the-Bride-Part-II'>Father Of The Bride Part II</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lg-24-cu-ft-refrigerator-bottom-freezer'>Lg 24 Cu Ft Refrigerator Bottom Freezer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=giant-dog-crate-airline-approved'>Giant Dog Crate Airline Approved</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=homes-for-sale-downtown-bozeman-mt'>Homes For Sale Downtown Bozeman Mt</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=when-ordering-flowers-for-a-funeral-who-is-the-recipient'>When Ordering Flowers For A Funeral Who Is The Recipient</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dining-in-alison-roman-pdf'>Dining In Alison Roman Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=aspidistra-elatior-milky-way-care'>Aspidistra Elatior Milky Way Care</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=macys-promo-code-jan-2020'>Macys Promo Code Jan 2020</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=north-bar-north-little-rock'>North Bar North Little Rock</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=find-a-grave-washington-cemetery-brooklyn'>Find A Grave Washington Cemetery Brooklyn</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=coq-au-vin-julia-child'>Coq Au Vin Julia Child</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=whole-foods-amazon-prime-delivery'>Whole Foods Amazon Prime Delivery</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rocking-horse-ranch-resort-reviews'>Rocking Horse Ranch Resort Reviews</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hurricane-dorian-national-hurricane-center'>Hurricane Dorian National Hurricane Center</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=setting-up-a-school-garden'>Setting Up A School Garden</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=assumption-of-hutchinson-system-of-classification'>Assumption Of Hutchinson System Of Classification</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ashley-furniture-delivery-phone-number'>Ashley Furniture Delivery Phone Number</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=salisbury-steak-with-mushroom-gravy-pioneer-woman'>Salisbury Steak With Mushroom Gravy Pioneer Woman</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rauma-2-door-wardrobe-assembly'>Rauma 2 Door Wardrobe Assembly</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=why-was-hurricane-emily-not-retired'>Why Was Hurricane Emily Not Retired</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=free-things-to-do-in-vancouver-in-november'>Free Things To Do In Vancouver In November</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-swimming-pool-business-profitable'>Is Swimming Pool Business Profitable</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=old-fashioned-rice-pudding-recipe'>Old Fashioned Rice Pudding Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-are-dreams-based-on'>What Are Dreams Based On</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=clear-heat-resistant-table-protector'>Clear Heat Resistant Table Protector</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=birds-nest-fern-brown-tips'>Birds Nest Fern Brown Tips</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-return-an-item-to-wayfair'>How To Return An Item To Wayfair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-build-a-french-door-frame'>How To Build A French Door Frame</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=m-arch-urban-design-syllabus'>M Arch Urban Design Syllabus</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-color-light-is-best-for-kitchen'>What Color Light Is Best For Kitchen</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=old-vintage-doors-for-sale'>Old Vintage Doors For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=daegu-department-store-co-ltd'>Daegu Department Store Co Ltd</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=plants-for-east-facing-balcony'>Plants For East Facing Balcony</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-permanently-fix-posture'>How To Permanently Fix Posture</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=clearwater-cascades-mobile-homes-for-sale'>Clearwater Cascades Mobile Homes For Sale</a>,
+";s:7:"expired";i:-1;}

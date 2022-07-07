@@ -1,0 +1,237 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:5253:"Great lighting. Along with general overhead lighting, try wall sconces, a pendant or a lamp next to your table for task lighting. Any work space, whether it’s a craft room or a home office, requires excellent lighting. For your hobby room, consider the following options. My sewing room is where I do my hand stitching, and it is fitted with two four-foot long florescent lights. Good overall lighting in your sewing space can reduce eye strain and fatigue, helping you sew for longer periods of time. A comfortable chair Light coverage isn't the best from a single fitting, but many bulb options available. Find the notions used in … I'm guessing GU10 is a dying socket type. There are real benefits associated with sewing in rooms that offer abundant natural light. I have so much to update you on my craft room progress and I just couldn’t wait because it is looking amazing!!! Task Lighting Task lighting might not be important for your living room, but it is essential for the craft room. It has an integrated LED which generates 1660 lumens and blazes bright only to the lighting needed in your bedroom, living room, children’s room, craft room or your office. You can turn the power on and off easily because it has a touch switch and dim with a built-in dimmer. Since that’s too bright for the daytime any regular lights in the room have three-way switch options. Research has proven that natural lighting helps people be more productive. Well, today, I am adding a little “fancy” to the room! Warm halogens and CFL's for lounge rooms and bedrooms, bright daylight CFL's for kitchens etc as above. So I think I need a large CFL but all the surface-mount fixtures I've found look terrible and the wife won't have ugly! Want a nice low profile fitting? Personally, I prefer 120-watt (or equivalent LED) bulbs to provide light for close sewing work. In this living room by designer Kari Wilbanks, multiple lighting fixtures provide ambient lighting.It works in this space without becoming overwhelming to the eye because the fixtures are simple with clean lines. Also even with all 8 bulbs it wasn't bright enough and created a lot of shadows. Any work space, whether it’s a craft room or a home office, requires excellent lighting. For any crafting or sewing project to be successful, you will agree that sufficient lighting is important. Big windows, south windows. Great lighting. Learn more tips and tricks from the craft room experts at Stamp-n-Storage! It has an integrated LED which generates 1660 lumens and blazes bright only to the lighting needed in your bedroom, living room, children’s room, craft room or your office. (You can read all about it HERE.)) Buy products related to living room bright lighting products and see what customers say about living room bright lighting products on Amazon.com FREE DELIVERY possible on eligible purchases Create a perfect in-home studio craft room complete with proper lighting and plenty of electrical outlets. I have previous shared how my style for this room is an industrial barn fancy style. Whether you sew at the kitchen table or have a dedicated sewing room, you can never have enough light. It’s proven that natural lighting reduces eye strain and makes it easier for people to see. I have put “daylight” bulbs in them and the light is great. Lighting psychology says that bright light creates a more positive and energizing environment. Today is fast and furious! GU10. In many craft rooms, a simple flush mount light will suffice in providing even illumination to support various types of crafting (make sure to get a 45 watt LED instead if you need really bright light). My sewing room has two big windows so I have good natural light and I really like it. Natural light is free, and the more you have, the better you see. Along with general overhead lighting, try wall sconces, a pendant or a lamp next to your table for task lighting. A retractable, height-adjustable, fully dimmable multiple pendant light ceiling fixture. Some areas of the room might be shadowed by equipment and there you need to install task lights which will illuminate these working spaces (sewing machine, drill press, etc. ). Bulbs. You can turn the power on and off easily because it has a touch switch and dim with a built-in dimmer. I use higher wattage bulbs to increase the total amount of light available. Here are our best sewing room lighting tips including an amazing giveaway from our friends at the Daylight Company! Lighting psychology says that bright light creates a more positive and energizing environment. This is for her craft room and she needs it to look good AND be functional. Whether you choose to sew during the day or night, there comes a time when the existing light in the room or even natural light may not be enough. In this large living room, a single overhead fixture wouldn't be enough to illuminate the space. When walking the dog out in the front yard, with the craft room lights on, it looks like you could land a plane in there it is so bright!  Low power LED options, but they tend to exacerbate the shadow issue due to the multiple light sources on a single bulb. Here are the three top picks for lighting your sewing space. A comfortable chair ";s:7:"keyword";s:30:"bright lighting for craft room";s:5:"links";s:7859:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=can-i-use-a-pottery-barn-gift-card-at-williams-sonoma'>Can I Use A Pottery Barn Gift Card At Williams Sonoma</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=tropaeolum-majus-extract-for-hair'>Tropaeolum Majus Extract For Hair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hip-hop-night-clubs-minneapolis'>Hip Hop Night Clubs Minneapolis</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=samsung-dryer-parts-store-near-me'>Samsung Dryer Parts Store Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=power-reclining-sofa-and-loveseat'>Power Reclining Sofa And Loveseat</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=House-of-the-Dead-2'>House Of The Dead 2</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=Shrimp-and-grits-with-egg'>Shrimp And Grits With Egg</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-to-buy-in-paris-souvenirs'>What To Buy In Paris Souvenirs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bath-leisure-centre-gym-membership'>Bath Leisure Centre Gym Membership</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=plumbing-pipe-types-and-sizes'>Plumbing Pipe Types And Sizes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-oil-for-french-fries'>Best Oil For French Fries</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-season-collard-greens-without-salt'>How To Season Collard Greens Without Salt</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wharton-top-grain-leather-dining-chair'>Wharton Top Grain Leather Dining Chair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=modern-reclaimed-wood-dining-table'>Modern Reclaimed Wood Dining Table</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=daffodil-flower-drawing-easy-step-by-step'>Daffodil Flower Drawing Easy Step By Step</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=moss-vr-gameplay-no-commentary'>Moss Vr Gameplay No Commentary</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-pressure-washer-detergent-for-concrete'>Best Pressure Washer Detergent For Concrete</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=easy-meatball-subs-with-frozen-meatballs'>Easy Meatball Subs With Frozen Meatballs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=create-wifi-login-page-in-android'>Create Wifi Login Page In Android</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-string-tomatoes-in-greenhouse'>How To String Tomatoes In Greenhouse</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-bbq-in-dallas-2019'>Best Bbq In Dallas 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=htc-desire-10-pro-battery'>Htc Desire 10 Pro Battery</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=can-you-overcook-dumplings-in-slow-cooker'>Can You Overcook Dumplings In Slow Cooker</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lg-front-load-washing-machine-7kg'>Lg Front Load Washing Machine 7kg</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=design-patterns-in-java-with-realtime-examples-pdf'>Design Patterns In Java With Realtime Examples Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-do-you-become-an-iron-chef-on-food-network'>How Do You Become An Iron Chef On Food Network</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philanthropy-used-in-a-short-sentence'>Philanthropy Used In A Short Sentence</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=walk-in-closet-designs-for-a-master-bedroom'>Walk In Closet Designs For A Master Bedroom</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=king-soopers-lift-tickets-2019'>King Soopers Lift Tickets 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=james-clerk-maxwell-for-dummies'>James Clerk Maxwell For Dummies</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bedroom-ceiling-lights-flush-mount'>Bedroom Ceiling Lights Flush Mount</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=liberty-by-vita-sackville-west'>Liberty By Vita Sackville West</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-is-ownership-in-law'>What Is Ownership In Law</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=things-to-do-in-vancouver-in-november'>Things To Do In Vancouver In November</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=3-egg-pavlova-recipe-nz'>3 Egg Pavlova Recipe Nz</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=christmas-trifle-with-baileys-irish-cream'>Christmas Trifle With Baileys Irish Cream</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kitchen-furniture-names-list-with-pictures'>Kitchen Furniture Names List With Pictures</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=jasper-national-park-to-banff'>Jasper National Park To Banff</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=marble-living-room-furniture-sets'>Marble Living Room Furniture Sets</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=grey-dust-on-bottom-of-pool'>Grey Dust On Bottom Of Pool</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=growth-and-yield-performance-of-lettuce'>Growth And Yield Performance Of Lettuce</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-hyderabadi-chicken-biryani'>How To Make Hyderabadi Chicken Biryani</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=modesto-mall-shooting-8-25-19'>Modesto Mall Shooting 8 25 19</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hindware-chimney-customer-care-toll-free-number'>Hindware Chimney Customer Care Toll Free Number</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=shoe-dept-lake-charles-la'>Shoe Dept Lake Charles La</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ucl-masters-application-deadline-2020'>Ucl Masters Application Deadline 2020</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mainstays-adjustable-height-bar-stools-3-pack'>Mainstays Adjustable Height Bar Stools 3 Pack</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ikea-catalogue-2019-pdf-download'>Ikea Catalogue 2019 Pdf Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=american-furniture-warehouse-fort-collins'>American Furniture Warehouse Fort Collins</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=crystal-mountain-discount-lift-tickets'>Crystal Mountain Discount Lift Tickets</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=modern-house-interior-designs-plans'>Modern House Interior Designs Plans</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=crate-and-barrel-swivel-chair'>Crate And Barrel Swivel Chair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=anchor-hocking-trueseal-glass-food-storage-containers-with-airtight-lids-green-6-piece-round-set'>Anchor Hocking Trueseal Glass Food Storage Containers With Airtight Lids Green 6 Piece Round Set</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-it-too-late-to-plant-bulbs-in-pots'>Is It Too Late To Plant Bulbs In Pots</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lighting-shop-in-ang-mo-kio'>Lighting Shop In Ang Mo Kio</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=beni-shoga-where-to-buy'>Beni Shoga Where To Buy</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=when-is-at-home-opening-in-turnersville-nj'>When Is At Home Opening In Turnersville Nj</a>,
+";s:7:"expired";i:-1;}

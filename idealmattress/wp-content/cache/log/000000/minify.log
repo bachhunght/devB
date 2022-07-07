@@ -1,0 +1,123 @@
+[Mon, 08 May 2017 12:58:56 +0000] [/wp-admin/admin.php?page=w3tc_dashboard] [http://idealmattress.com.au/wp-admin/admin.php?page=w3tc_dashboard] Minify flush called from
+[Mon, 08 May 2017 12:58:56 +0000] [/wp-admin/admin.php?page=w3tc_dashboard] [http://idealmattress.com.au/wp-admin/admin.php?page=w3tc_dashboard] [{"file":"\/home\/idealmattress\/public_html\/wp-content\/plugins\/w3-total-cache\/CacheFlush_Locally.php","line":77,"function":"flush","class":"W3TC\\Minify_MinifiedFileRequestHandler","object":{"_config":{},"_error_occurred":false},"type":"-.","args":[]},{"file":"\/home\/idealmattress\/public_html\/wp-content\/plugins\/w3-total-cache\/CacheFlush_Locally.php","line":87,"function":"minifycache_flush","class":"W3TC\\CacheFlush_Locally","object":{},"type":"-.","args":[null]},{"function":"minifycache_flush_all","class":"W3TC\\CacheFlush_Locally","object":{},"type":"-.","args":[null]},{"file":"\/home\/idealmattress\/public_html\/wp-includes\/class-wp-hook.php","line":298,"function":"call_user_func_array","args":[[{},"minifycache_flush_all"],[null]]},{"file":"\/home\/idealmattress\/public_html\/wp-includes\/class-wp-hook.php","line":323,"function":"apply_filters","class":"WP_Hook","object":{"callbacks":{"50":{"00000000756b627d0000000010da2eb7opcache_flush":{"function":[{},"opcache_flush"],"accepted_args":1}},"100":{"00000000756b627d0000000010da2eb7dbcache_flush":{"function":[{},"dbcache_flush"],"accepted_args":1}},"200":{"00000000756b627d0000000010da2eb7objectcache_flush":{"function":[{},"objectcache_flush"],"accepted_args":1}},"1000":{"00000000756b627d0000000010da2eb7minifycache_flush_all":{"function":[{},"minifycache_flush_all"],"accepted_args":1}},"1100":{"00000000756b64680000000010da2eb7w3tc_flush_posts":{"function":[{},"w3tc_flush_posts"],"accepted_args":1}},"2000":{"00000000756b64140000000010da2eb7varnish_flush":{"function":[{},"varnish_flush"],"accepted_args":1}}}},"type":"-.","args":["",[null]]},{"file":"\/home\/idealmattress\/public_html\/wp-includes\/plugin.php","line":453,"function":"do_action","class":"WP_Hook","object":{"callbacks":{"50":{"00000000756b627d0000000010da2eb7opcache_flush":{"function":[{},"opcache_flush"],"accepted_args":1}},"100":{"00000000756b627d0000000010da2eb7dbcache_flush":{"function":[{},"dbcache_flush"],"accepted_args":1}},"200":{"00000000756b627d0000000010da2eb7objectcache_flush":{"function":[{},"objectcache_flush"],"accepted_args":1}},"1000":{"00000000756b627d0000000010da2eb7minifycache_flush_all":{"function":[{},"minifycache_flush_all"],"accepted_args":1}},"1100":{"00000000756b64680000000010da2eb7w3tc_flush_posts":{"function":[{},"w3tc_flush_posts"],"accepted_args":1}},"2000":{"00000000756b64140000000010da2eb7varnish_flush":{"function":[{},"varnish_flush"],"accepted_args":1}}}},"type":"-.","args":[[null]]},{"file":"\/home\/idealmattress\/public_html\/wp-content\/plugins\/w3-total-cache\/CacheFlush_Locally.php","line":201,"function":"do_action","args":["w3tc_flush_all",null]},{"file":"\/home\/idealmattress\/public_html\/wp-content\/plugins\/w3-total-cache\/CacheFlush.php","line":158,"function":"flush_all","class":"W3TC\\CacheFlush_Locally","object":{},"type":"-.","args":[null]},{"file":"\/home\/idealmattress\/public_html\/wp-content\/plugins\/w3-total-cache\/w3-total-cache-api.php","line":214,"function":"flush_all","class":"W3TC\\CacheFlush","object":{"_executor":{}},"type":"-.","args":[]},{"file":"\/home\/idealmattress\/public_html\/wp-content\/plugins\/w3-total-cache\/Generic_AdminActions_Flush.php","line":19,"function":"w3tc_flush_all","args":[]},{"file":"\/home\/idealmattress\/public_html\/wp-content\/plugins\/w3-total-cache\/Root_AdminActions.php","line":25,"function":"w3tc_flush_all","class":"W3TC\\Generic_AdminActions_Flush","object":{},"type":"-.","args":[]},{"file":"\/home\/idealmattress\/public_html\/wp-content\/plugins\/w3-total-cache\/Generic_Plugin_Admin.php","line":159,"function":"execute","class":"W3TC\\Root_AdminActions","object":{},"type":"-.","args":["w3tc_flush_all"]},{"function":"load","class":"W3TC\\Generic_Plugin_Admin","object":{},"type":"-.","args":[""]},{"file":"\/home\/idealmattress\/public_html\/wp-includes\/class-wp-hook.php","line":298,"function":"call_user_func_array","args":[[{},"load"],[""]]},{"file":"\/home\/idealmattress\/public_html\/wp-includes\/class-wp-hook.php","line":323,"function":"apply_filters","class":"WP_Hook","object":{"callbacks":{"10":{"00000000756b64150000000010da2eb7load":{"function":[{},"load"],"accepted_args":1}}}},"type":"-.","args":["",[""]]},{"file":"\/home\/idealmattress\/public_html\/wp-includes\/plugin.php","line":453,"function":"do_action","class":"WP_Hook","object":{"callbacks":{"10":{"00000000756b64150000000010da2eb7load":{"function":[{},"load"],"accepted_args":1}}}},"type":"-.","args":[[""]]},{"file":"\/home\/idealmattress\/public_html\/wp-admin\/admin.php","line":212,"function":"do_action","args":["load-toplevel_page_w3tc_dashboard"]}]
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] processing tag .script.
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] its not src=, flushing
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] processing tag .script type="text/javascript".
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl"
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] its not src=, flushing
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] processing tag .script type='text/javascript'.
+/* .![CDATA[ */
+var aven_zozo_js_vars = {"zozo_template_uri":"http:\/\/idealmattress.com.au\/wp-content\/themes\/aven"
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] its not src=, flushing
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] processing tag .script type='text/javascript' src='http://idealmattress.com.au/wp-includes/js/jquery/jquery.js'../script.
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] is_file_for_minification: true for file wp-includes/js/jquery/jquery.js path /home/idealmattress/public_html/wp-includes/js/jquery/jquery.js
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] processing tag .script type='text/javascript' src='http://idealmattress.com.au/wp-includes/js/jquery/jquery-migrate.min.js'../script.
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] is_file_for_minification: true for file wp-includes/js/jquery/jquery-migrate.min.js path /home/idealmattress/public_html/wp-includes/js/jquery/jquery-migrate.min.js
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] processing tag .script type='text/javascript' src='http://idealmattress.com.au/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js'../script
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] is_file_for_minification: true for file wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js path /home/idealmattress/public_html/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] processing tag .script type='text/javascript' src='http://idealmattress.com.au/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js'../s
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] is_file_for_minification: true for file wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js path /home/idealmattress/public_html/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] processing tag .script type='text/javascript'.
+/* .![CDATA[ */
+var wcps_ajax = {"wcps_ajaxurl":"http:\/\/idealmattress.com.au\/wp-admin\/admin-ajax.php"};
+/* ]]. */
+
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] its not src=, flushing
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] processing tag .script type='text/javascript' src='http://idealmattress.com.au/wp-content/plugins/woocommerce-products-slider/assets/front/js/scripts.js'../script.
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] is_file_for_minification: true for file wp-content/plugins/woocommerce-products-slider/assets/front/js/scripts.js path /home/idealmattress/public_html/wp-content/plugins/woocommerce-products-slider/assets/front/js/scripts.js
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] processing tag .script type='text/javascript' src='http://idealmattress.com.au/wp-content/plugins/woocommerce-products-slider/assets/front/js/owl.carousel.min.js'../
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] is_file_for_minification: true for file wp-content/plugins/woocommerce-products-slider/assets/front/js/owl.carousel.min.js path /home/idealmattress/public_html/wp-content/plugins/woocommerce-products-slider/assets/front/js/owl.carousel.min.js
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] processing tag .script type='text/javascript'.
+/* .![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpo
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] its not src=, flushing
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] processing tag .script type='text/javascript' src='//idealmattress.com.au/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js'../script.
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] is_file_for_minification: true for file wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js path /home/idealmattress/public_html/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] processing tag .script type='text/javascript' src='http://idealmattress.com.au/wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-cart.js'../script.
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] is_file_for_minification: true for file wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-cart.js path /home/idealmattress/public_html/wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-cart.js
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] processing tag .script type='text/javascript' src='http://idealmattress.com.au/wp-content/themes/aven/js/plugins/theme-init.min.js'../script.
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] is_file_for_minification: true for file wp-content/themes/aven/js/plugins/theme-init.min.js path /home/idealmattress/public_html/wp-content/themes/aven/js/plugins/theme-init.min.js
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] processing tag ./head.
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] its not src=, flushing
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] processing tag .script.var htmlDiv = document.getElementById("rs-plugin-settings-inline-css"); var htmlDivCss="";
+						if(htmlDiv) {
+							htmlDiv.innerHTML = ht
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] its not src=, flushing
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] processing tag .script.var htmlDiv = document.getElementById("rs-plugin-settings-inline-css"); var htmlDivCss="";
+				if(htmlDiv) {
+					htmlDiv.innerHTML = htmlDi
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] its not src=, flushing
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] processing tag .script type="text/javascript".
+						/******************************************
+				-	PREPARE PLACEHOLDER FOR SLIDER	-
+			***********************
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] its not src=, flushing
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] processing tag .script.
+					var htmlDivCss = unescape(".persephone.tparrows%20%7B%0A%09cursor%3Apointer%3B%0A%09background%3Argba%28201%2C201%2C201%2C0.75%29%3B%0A
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] its not src=, flushing
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] processing tag .script.
+	jQuery(document).ready(function($)
+	{
+		$("#wcps-313").owlCarousel({
+			
+			items : 3, //10 items above 1000px browser width
+
+
+			re
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] its not src=, flushing
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] processing tag .script type="text/javascript".
+			function revslider_showDoubleJqueryError(sliderID) {
+				var errorMessage = "Revolution Slider Error: You have so
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] its not src=, flushing
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] processing tag .script type='text/javascript' src='//idealmattress.com.au/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js'../script.
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] is_file_for_minification: true for file wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js path /home/idealmattress/public_html/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] processing tag .script type='text/javascript'.
+/* .![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%en
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] its not src=, flushing
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] processing tag .script type='text/javascript' src='//idealmattress.com.au/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js'../script.
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] is_file_for_minification: true for file wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js path /home/idealmattress/public_html/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] processing tag .script type='text/javascript' src='http://idealmattress.com.au/wp-content/themes/aven/js/theme-min.js'../script.
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] is_file_for_minification: true for file wp-content/themes/aven/js/theme-min.js path /home/idealmattress/public_html/wp-content/themes/aven/js/theme-min.js
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] processing tag .script type='text/javascript' src='http://idealmattress.com.au/wp-content/themes/aven-child/js/theme.js'../script.
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] is_file_for_minification: true for file wp-content/themes/aven-child/js/theme.js path /home/idealmattress/public_html/wp-content/themes/aven-child/js/theme.js
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] processing tag .script type='text/javascript' src='http://idealmattress.com.au/wp-includes/js/wp-embed.min.js'../script.
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] is_file_for_minification: true for file wp-includes/js/wp-embed.min.js path /home/idealmattress/public_html/wp-includes/js/wp-embed.min.js
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] processing tag .script type='text/javascript' src='http://idealmattress.com.au/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js'../script.
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] is_file_for_minification: true for file wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js path /home/idealmattress/public_html/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] processing tag .script. jQuery(function($){ $(".widget_meta a[href='http://idealmattress.com.au/comments/feed/']").parent().remove(); }); ./script.
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] its not src=, flushing
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] processing tag .script.
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date()
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] its not src=, flushing
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] adding http://idealmattress.com.au/wp-content/plugins/revslider/public/assets/css/settings.css
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] is_file_for_minification: true for file wp-content/plugins/revslider/public/assets/css/settings.css path /home/idealmattress/public_html/wp-content/plugins/revslider/public/assets/css/settings.css
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] adding http://idealmattress.com.au/wp-content/plugins/woocommerce-products-slider/assets/front/css/style.css
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] is_file_for_minification: true for file wp-content/plugins/woocommerce-products-slider/assets/front/css/style.css path /home/idealmattress/public_html/wp-content/plugins/woocommerce-products-slider/assets/front/css/style.css
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] adding http://idealmattress.com.au/wp-content/plugins/woocommerce-products-slider/assets/global/css/style.themes.css
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] is_file_for_minification: true for file wp-content/plugins/woocommerce-products-slider/assets/global/css/style.themes.css path /home/idealmattress/public_html/wp-content/plugins/woocommerce-products-slider/assets/global/css/style.themes.css
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] adding http://idealmattress.com.au/wp-content/plugins/woocommerce-products-slider/assets/front/css/owl.carousel.css
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] is_file_for_minification: true for file wp-content/plugins/woocommerce-products-slider/assets/front/css/owl.carousel.css path /home/idealmattress/public_html/wp-content/plugins/woocommerce-products-slider/assets/front/css/owl.carousel.css
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] adding http://idealmattress.com.au/wp-content/plugins/js_composer/assets/css/js_composer.min.css
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] is_file_for_minification: true for file wp-content/plugins/js_composer/assets/css/js_composer.min.css path /home/idealmattress/public_html/wp-content/plugins/js_composer/assets/css/js_composer.min.css
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] adding http://idealmattress.com.au/wp-content/themes/aven/css/main-min.css
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] is_file_for_minification: true for file wp-content/themes/aven/css/main-min.css path /home/idealmattress/public_html/wp-content/themes/aven/css/main-min.css
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] adding http://idealmattress.com.au/wp-content/themes/aven/style.css
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] is_file_for_minification: true for file wp-content/themes/aven/style.css path /home/idealmattress/public_html/wp-content/themes/aven/style.css
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] adding //idealmattress.com.au/wp-content/uploads/aven/theme_1.css
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] is_file_for_minification: true for file wp-content/uploads/aven/theme_1.css path /home/idealmattress/public_html/wp-content/uploads/aven/theme_1.css
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] adding http://idealmattress.com.au/wp-content/plugins/zozothemes-core/shortcodes.css
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] is_file_for_minification: true for file wp-content/plugins/zozothemes-core/shortcodes.css path /home/idealmattress/public_html/wp-content/plugins/zozothemes-core/shortcodes.css
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] adding http://idealmattress.com.au/wp-content/themes/aven-child/style.css
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] is_file_for_minification: true for file wp-content/themes/aven-child/style.css path /home/idealmattress/public_html/wp-content/themes/aven-child/style.css
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] adding http://fonts.googleapis.com/css?family=Hind%3A300%2C400%2C500%2C600%2C700%7CPoppins%3A300%2C400%2C500%2C600%2C700
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] is_file_for_minification: unknown extension .com/css for http://fonts.googleapis.com/css?family=Hind%3A300%2C400%2C500%2C600%2C700%7CPoppins%3A300%2C400%2C500%2C600%2C700
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] adding http://fonts.googleapis.com/css?family=Crete+Round%3A400
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] is_file_for_minification: unknown extension .com/css for http://fonts.googleapis.com/css?family=Crete+Round%3A400
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] adding http://fonts.googleapis.com/css?family=Poppins%3A400
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] is_file_for_minification: unknown extension .com/css for http://fonts.googleapis.com/css?family=Poppins%3A400
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] adding http://idealmattress.com.au/wp-content/plugins/revslider/public/assets/fonts/font-awesome/css/font-awesome.css
+[Mon, 08 May 2017 12:59:38 +0000] [/] [-] is_file_for_minification: true for file wp-content/plugins/revslider/public/assets/fonts/font-awesome/css/font-awesome.css path /home/idealmattress/public_html/wp-content/plugins/revslider/public/assets/fonts/font-awesome/css/font-awesome.css

@@ -1,0 +1,237 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3046:"Main Drains and associated equipment, universal main drain covers, hydrostatic valves and removal tools. You should not have to clean the main drain unless you have a massive amount of debris. Australia wide delivery. Here's my 'dumb' question: when the pump and filter are running, is water pulled from the main drain as well as the skimmer generally? I would guess that you are taking suction from the main drain as well as from the skimmer(s). I know this isn't normal. If you have other pressure side lines, like an automatic cleaner line or a spa return line, blow each of these out separately. You aren’t required to have any – but you can’t have just one. Just had the pump and filter plumbed in and I have realised that the main drain has not been connected to the pump. Purchased a home with a pool recently and I'm a bit confused as to how the plumbing is setup and if it's working correctly. Pump and filter are made by Sta-Rite, and the returns, skimmer, main drain (i think), etc, are all made by Jacuzzi. The drain - called main drain- is or should be connected with the skimmer plumbing and that goes to the pump. The pool is probably 40 years old. When the main drain begins to blow strongly, the double plug is slammed-fast into the hole, which seals both drain and skimmer at the same time. pool main drain valve. Details on using a Cyclone blower to blow out pool plumbing. This eliminates the suction on the blocked drain. Skimmer Setups. Combination skimmer diagram showing a connected main drain. The skimmer has two holes. If the pool receives a lot of leaves and other debris, more suction may be required at the skimmer than the main drain to adequately strain debris floating on the surface. Hello, I just bought a house that has a gunite pool with a single main drain. If you have other pressure side lines, like an automatic cleaner line or a spa return line, blow each of these out separately. Unless the pool has a dedicated main drain line and a positive seal valve it is best to use a submersible pump. Just because some pools can limp along and get by with the main drain deleted does not mean that deleting the main drain in your pool is a good idea. A pool’s so-called main drain is not actually a drain; that is, it is not used to drain the pool. Combination skimmer diagram showing a connected main drain. Let’s start with your Main Drains, and I said Drains because if you do install them in your pool you must have two drains installed, side by side. This is all underground, no mistake or screw up from my side. One goes to the pump, and the other is covered with a flap and runs down to the main drain. I haven't been able to locate valves that deal with the main drain nor the skimmer. I noticed that dirt around the main drain doesn't get sucked in and also confirmed that the main drain doesn't seem to be working. Rob Hampton. Equalizer Line Plumbing Back in the day, it was common (not so much anymore) to plumb the skimmer with a built-in low water protection, known as an equalizer line. ";s:7:"keyword";s:31:"main drain connected to skimmer";s:5:"links";s:7631:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=copper-mountain-ski-resort-coupon-code'>Copper Mountain Ski Resort Coupon Code</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hsn-bertolia-mid-century-modern-coffee-table'>Hsn Bertolia Mid Century Modern Coffee Table</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lazy-boy-tamla-reviews-uk'>Lazy Boy Tamla Reviews Uk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=small-black-dresser-with-mirror'>Small Black Dresser With Mirror</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=jenn-air-30-inch-electric-cooktop'>Jenn Air 30 Inch Electric Cooktop</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hyatt-resort-at-squaw-creek'>Hyatt Resort At Squaw Creek</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=finance-companies-in-manyata-tech-park'>Finance Companies In Manyata Tech Park</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=barefoot-contessa-back-to-basics-food-network'>Barefoot Contessa Back To Basics Food Network</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=alabama-white-sauce-how-to-bbq-right'>Alabama White Sauce How To Bbq Right</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-old-is-the-blackcomb-glacier'>How Old Is The Blackcomb Glacier</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=a-treatise-on-electricity-and-magnetism'>A Treatise On Electricity And Magnetism</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=massey-university-world-ranking-2019'>Massey University World Ranking 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=double-impatiens-buds-not-opening'>Double Impatiens Buds Not Opening</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cross-country-skiing-championships-2019'>Cross Country Skiing Championships 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-loot-crate-website-down'>Is Loot Crate Website Down</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-root-a-palm-cutting'>How To Root A Palm Cutting</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=southwest-airlines-new-orleans-terminal'>Southwest Airlines New Orleans Terminal</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-ghost-of-you-lyrics'>The Ghost Of You Lyrics</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=snow-skis-for-sale-south-africa'>Snow Skis For Sale South Africa</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-bridge-netflix-season-2'>The Bridge Netflix Season 2</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=when-did-shepard-fairey-die'>When Did Shepard Fairey Die</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=Big-Book-of-English-Words'>Big Book Of English Words</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bathroom-wall-art-the-range'>Bathroom Wall Art The Range</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=white-entryway-table-with-drawers'>White Entryway Table With Drawers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=paula-deen-and-friends-cookbook'>Paula Deen And Friends Cookbook</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lunch-menu-ideas-for-friends'>Lunch Menu Ideas For Friends</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=interior-door-with-glass-panel'>Interior Door With Glass Panel</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=a-new-tomato-ideal-for-urban-gardens-and-even-outer-space'>A New Tomato Ideal For Urban Gardens And Even Outer Space</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=soft-open-and-close-pocket-door'>Soft Open And Close Pocket Door</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=behr-paint-home-depot-reviews'>Behr Paint Home Depot Reviews</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-order-in-zomato-in-tamil'>How To Order In Zomato In Tamil</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hardest-colleges-to-get-good-grades'>Hardest Colleges To Get Good Grades</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=small-gold-metal-wall-decor'>Small Gold Metal Wall Decor</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=brands-to-buy-in-paris'>Brands To Buy In Paris</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=outdoor-high-back-chair-cushions'>Outdoor High Back Chair Cushions</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=a-history-of-violence-justwatch'>A History Of Violence Justwatch</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=why-was-humans-season-4-cancelled'>Why Was Humans Season 4 Cancelled</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=calories-in-1-glass-of-lemon-juice-with-sugar'>Calories In 1 Glass Of Lemon Juice With Sugar</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-disassemble-rubbermaid-storage'>How To Disassemble Rubbermaid Storage</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=can-i-check-my-home-depot-gift-card-balance-online'>Can I Check My Home Depot Gift Card Balance Online</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=italian-to-english-converter-online'>Italian To English Converter Online</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hotel-with-pool-inside-room-philippines'>Hotel With Pool Inside Room Philippines</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=snowmass-hotels-ski-in-ski-out'>Snowmass Hotels Ski In Ski Out</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=knockaround-guys-bar-fight-song'>Knockaround Guys Bar Fight Song</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-is-rat-away-technology-in-washing-machine'>What Is Rat Away Technology In Washing Machine</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-install-canless-recessed-lighting'>How To Install Canless Recessed Lighting</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=great-british-bake-off-winners'>Great British Bake Off Winners</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=redfin-associate-agent-pay-reddit'>Redfin Associate Agent Pay Reddit</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bedroom-colors-for-couples-according-to-vastu'>Bedroom Colors For Couples According To Vastu</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=does-west-elm-outlet-ship'>Does West Elm Outlet Ship</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ashley-norcastle-oval-cocktail-table'>Ashley Norcastle Oval Cocktail Table</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-far-to-provo-utah'>How Far To Provo Utah</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-attach-a-footboard-to-a-metal-bed-frame'>How To Attach A Footboard To A Metal Bed Frame</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-soil-for-black-bamboo'>Best Soil For Black Bamboo</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=farmhouse-table-with-windsor-chairs'>Farmhouse Table With Windsor Chairs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=furniture-in-fashion-dining-table'>Furniture In Fashion Dining Table</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hotels-in-south-lake-tahoe'>Hotels In South Lake Tahoe</a>,
+";s:7:"expired";i:-1;}

@@ -1,0 +1,226 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4544:"Minority Scholarships. Date of Birth * Invalid format. dedicated to the academic & professional success of Black/ African American engineering students and … Society of Hispanic Professional Engineers The National Society of Black Engineers (NSBE) Boston Professionals, is a 501(C)(3) non-profit org. With more than 30,000 members around the world, NSBE is one of the largest student-governed organizations based in the United States. Washington University Summer Engineering Fellowship Program. The Washington University Summer Engineering Fellowship (WUSEF) program is designed to encourage exceptional students from backgrounds underrepresented in the STEM fields, including underrepresented minority students, students from … The society offers a variety of NSBE and Corporate-sponsored scholarship and award opportunities to pre-college, collegiate undergraduate and graduate student, and technical professional members. Welcome to the official website of the National Society of Black Engineers of South Africa. Our signature programs include the Pre-College Initiative (PCI) program (grades 6th-12th), A Walk for Education, the Juvenile Detention Center Visit and our annual Scholarship Banquet! NOBCChE is a non-profit professional organization dedicated to assisting black and other minority students and professionals in fully realizing their potential in academic, professional, and entrepreneurial pursuits in … Today's Black History Month Honoree. Thank you for visiting our site. National Society of Black Engineers Scholarships | A. James Clark School of Engineering, University … COLLEGE OF ENGINEERING dedicated to the academic & professional success of Black/ African American engineering students and … Congratulations to the East Bay NSBE Jr. Chapter as they are featured on Inside California Education. Dr. Lalanne is an ultrafast laser scientist contracted to work at NASA and the current treasurer of the National Society of Black Physicists. national event The Annual Convention showcases black students and professionals with a passion for science, technology, engineering and math (STEM) who are channeling their dedication in their communities and society at large. NOBCChE is a non-profit professional organization dedicated to assisting black and other minority students and professionals in fully realizing their potential in academic, professional, and entrepreneurial pursuits in … a catalyst for change The world’s largest advocate for women in engineering and technology about swe our promise as a champion of women engineers for nearly 70 years The Society of Women Engineers is the world’s largest advocate and catalyst for change for women in engineering and technology. Our Mission To increase the number of culturally responsible black engineers who excel academically, succeed professionally, and positively impact the community. The National Society of Black Engineers Washington, D.C. Metropolitan Area Professional Chapter Future Innovators Scholarship Award was established as a means of recognizing and rewarding students who have demonstrated academic excellence as well as outstanding service within their communities. The NSBE DC Future Innovators Scholarship. Elaine Lalanne. Thank you for visiting our site. A list of available scholarships… A large percentage of the U.S. college population is comprised of minority students from various backgrounds and races, including African Americans, Native Americans, Hispanic and Latinos, Asian and Pacific Islanders, and so forth.To qualify as minority student, you don't need to be a first generation immigrant or the first person in your family to go to college. Individual scholarships range in value from $500 to $7,500. NSBE provides various scholarships to our members through our NSBE and Corporate Scholarship Programs. Other Scholarships Categories. Apply here!. The National Society of Black Engineers - NSBE Scholarships . Incoming Freshman Scholarships; College Coursework in High School; Orientation; Launch Your Career; Program Overview; Why Ohio State; Frequently Asked Questions (FAQs) ... National Society of Black Engineers; National Society of Black Engineers. Visit here to learn more. There are various scholarships available to students of all disciplines. The National Society of Black Engineers (NSBE) is a national non-profit organization dedicated to developing programs to increase the participation of under-represented minorities in the fields of engineering, mathematics, physical and applied sciences. ";s:7:"keyword";s:47:"national society of black engineers scholarship";s:5:"links";s:6248:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=can-you-lay-new-carpet-over-old-underlay'>Can You Lay New Carpet Over Old Underlay</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=restaurants-for-group-bookings-london'>Restaurants For Group Bookings London</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hdb-2-room-flexi-flat-interior-design'>Hdb 2 Room Flexi Flat Interior Design</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=alcoholic-party-punch-for-a-crowd'>Alcoholic Party Punch For A Crowd</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=upholstered-coffee-table-with-shelf'>Upholstered Coffee Table With Shelf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=essentials-of-classic-italian-cooking-reddit'>Essentials Of Classic Italian Cooking Reddit</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=I-Was-a-Parish-Priest'>I Was A Parish Priest</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=texas-real-estate-license-online'>Texas Real Estate License Online</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=force-10-from-navarone-full-movie'>Force 10 From Navarone Full Movie</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-dog-crates-for-huskies'>Best Dog Crates For Huskies</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=free-printable-wall-art-watercolor'>Free Printable Wall Art Watercolor</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-tell-if-kidney-beans-are-cooked'>How To Tell If Kidney Beans Are Cooked</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chata-ki-atmakatha-essay-in-hindi'>Chata Ki Atmakatha Essay In Hindi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=new-york-city-hotels-near-times-square'>New York City Hotels Near Times Square</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=iron-door-pub-happy-hour'>Iron Door Pub Happy Hour</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=old-school-buildings-for-sale-near-me'>Old School Buildings For Sale Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kitchen-services-in-hotels-ppt'>Kitchen Services In Hotels Ppt</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-grow-aloe-vera'>How To Grow Aloe Vera</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=karcher-k4-compact-pressure-washer'>Karcher K4 Compact Pressure Washer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=Every-Rose-Has-Its-Thorn'>Every Rose Has Its Thorn</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-thicken-red-bean-paste'>How To Thicken Red Bean Paste</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=recipes-using-sugar-beet-syrup'>Recipes Using Sugar Beet Syrup</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=farmhouse-wall-mounted-bathroom-cabinet'>Farmhouse Wall Mounted Bathroom Cabinet</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=round-dining-table-for-4-white'>Round Dining Table For 4 White</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=garment-shop-interior-design-photos-in-indian'>Garment Shop Interior Design Photos In Indian</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pan-fried-chicken-thighs-recipe'>Pan Fried Chicken Thighs Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=born-haber-cycle-class-11'>Born Haber Cycle Class 11</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kung-fu-panda-3-kai'>Kung Fu Panda 3 Kai</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sony-tv-warranty-check-online-india'>Sony Tv Warranty Check Online India</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=graffiti-facts-for-and-against'>Graffiti Facts For And Against</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=suburban-lawn-and-garden-pumpkin-patch'>Suburban Lawn And Garden Pumpkin Patch</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mitsubishi-aircon-spare-parts-singapore'>Mitsubishi Aircon Spare Parts Singapore</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wall-mounted-soap-dispenser-commercial'>Wall Mounted Soap Dispenser Commercial</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=flyweight-design-pattern-class-diagram'>Flyweight Design Pattern Class Diagram</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=commercial-bagless-canister-vacuum-cleaners'>Commercial Bagless Canister Vacuum Cleaners</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wall-stencil-quotes-for-dining-room'>Wall Stencil Quotes For Dining Room</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=strawberry-shortcake-berry-bitty-adventures-season-5'>Strawberry Shortcake Berry Bitty Adventures Season 5</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=tween-girl-bedroom-ideas-pinterest'>Tween Girl Bedroom Ideas Pinterest</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=campfire-tales-1997-full-movie-online'>Campfire Tales 1997 Full Movie Online</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-does-de-mean-in-whirlpool-washing-machine'>What Does De Mean In Whirlpool Washing Machine</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dining-chairs-with-stainless-steel-legs'>Dining Chairs With Stainless Steel Legs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-transplant-wild-black-eyed-susans'>How To Transplant Wild Black Eyed Susans</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=why-is-the-chew-being-cancelled'>Why Is The Chew Being Cancelled</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-night-manager-series-2'>The Night Manager Series 2</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lg-inverter-direct-drive-8kg-unlock'>Lg Inverter Direct Drive 8kg Unlock</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hindware-chimney-customer-care-toll-free-number'>Hindware Chimney Customer Care Toll Free Number</a>,
+";s:7:"expired";i:-1;}

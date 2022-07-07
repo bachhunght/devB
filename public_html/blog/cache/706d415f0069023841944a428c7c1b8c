@@ -1,0 +1,223 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2772:"In this work, the Annunciation is taking place in a middle-class interior, something which was entirely new in art at the time. The fifteenth century Flemish oil painting known as the Merode Altarpiece (c.1425), is a domestic altarpiece painted by the Flemish artist Robert Campin (1378-1444), also known as the Master of Flemalle.  Robert Campin, Merode Altarpiece, tempera and oil on panel, 1425-28 (The Metropolitan Museum of Art) Speakers: Dr. Beth Harris and Dr. Steven Zucker If you're seeing this message, it means we're having trouble loading external resources on our website. Metropolitan Museum of Art. From The Metropolitan Museum of Art, Robert Campin, Mérode Altarpiece, Triptych of the Annunciation (open) (ca. Royal Museums of Fine Arts of Belgium Brussels, Belgium . Pyxis of al-Mughira, possibly from Madinat al-Zahra, AH 357/ 968 CE, carved ivory with traces of jade, 16cm x 11.8 cm (Musée du Louvre, Paris) 57. Campin first appears as settled in Tournai from the archives of 1405–6, as a free master of the guild of goldsmiths and painters , and there has been a lot of speculation about his origin and birthplace which is actually unknown, although he is sometimes listed as having been born in Valenciennes. ROBERT CAMPIN MASTER OF FLEMALLE Mérode Altarpiece c1425 28 Renaissance from ARTH 154 at University of Delaware It illustrates the moment when the archangel Gabriel announces to the Virgin Mary that she has been chosen by God to be the mother of Christ. There is a strong consensus of scholarly opinion that he is to be identified with Robert Campin (active 1406-44), who was the leading painter of his day in Tournai but none of whose documented pictures survive. 1425-28 15th century flemish Hubert and Jan van Eyck, Ghent Altarpiece, completed 1432 15 century flemish Jan van Eyck, Giovanni Arnolfini and his Bride, 1434 15 century flemish New York. This article aims to look deeper into the works of art identified as the Merode Altarpiece which was attributed to Robert Campin, who was given the title as the Master of Flémalle and the Holy Trinity painted by Masaccio. Excerpt from Meyer Schapiro, "'Muscipula Diaboli,' The Symbolism of the Mérode Altarpiece," repr. Art historian's interest in the Mérode Altarpiece focuses mainly on the central panel, which was completed after 1422, likely between 1425 and 1428, by a member of Campin's workshop. Master of Flémalle (Robert Campin?) 1375–1444), sometimes called the Master of Flémalle. Many paintings have been acclaimed due to various reasons. 1425-28), Oil on wood panel, 64 1/2 × 117 4… Campin's best known work is the Mérode Altarpiece of c 1425-28. ROBERT CAMPIN MASTER OF FLEMALLE Mérode Altarpiece c1425 28 Renaissance from ARTH 154 at University of Delaware ";s:7:"keyword";s:46:"master of flémalle mérode altarpiece 1425 28";s:5:"links";s:6033:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=upholstered-storage-bench-with-arms'>Upholstered Storage Bench With Arms</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bathroom-wall-art-the-range'>Bathroom Wall Art The Range</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=felt-slippers-with-rubber-soles'>Felt Slippers With Rubber Soles</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=health-benefits-of-roasted-peanuts'>Health Benefits Of Roasted Peanuts</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=which-of-the-following-is-an-example-of-a-negative-feedback-loop'>Which Of The Following Is An Example Of A Negative Feedback Loop</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=vertical-garden-plants-in-india'>Vertical Garden Plants In India</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=small-space-living-room-furniture'>Small Space Living Room Furniture</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=honda-2400-psi-pressure-washer-parts'>Honda 2400 Psi Pressure Washer Parts</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=anne-burrell-recipes-brussel-sprouts'>Anne Burrell Recipes Brussel Sprouts</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dumb-cane-safe-for-dogs'>Dumb Cane Safe For Dogs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-expensive-is-sketch-london'>How Expensive Is Sketch London</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=download-autocad-2016-student-version'>Download Autocad 2016 Student Version</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=barberry-extract-benefits-for-skin'>Barberry Extract Benefits For Skin</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-great-british-baking-show-season-9'>The Great British Baking Show Season 9</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bacon-egg-and-cheese-biscuit-pull-apart-casserole'>Bacon Egg And Cheese Biscuit Pull Apart Casserole</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=freestanding-tub-with-deck-mount-faucet'>Freestanding Tub With Deck Mount Faucet</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rustic-counter-height-dining-table-sets'>Rustic Counter Height Dining Table Sets</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=muji-bed-frame-queen-size'>Muji Bed Frame Queen Size</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-propagate-english-ivy'>How To Propagate English Ivy</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=thank-someone-for-a-speech-or-presentation'>Thank Someone For A Speech Or Presentation</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=acrylic-paint-on-canvas-ideas'>Acrylic Paint On Canvas Ideas</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=thomasville-fabric-sectional-with-ottoman-1355974'>Thomasville Fabric Sectional With Ottoman 1355974</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=new-words-2019-with-meaning'>New Words 2019 With Meaning</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-do-you-make-homemade-wallpaper-paste-with-flour'>How Do You Make Homemade Wallpaper Paste With Flour</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mechanical-engineer-meaning-in-urdu'>Mechanical Engineer Meaning In Urdu</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=office-interior-design-images-free-download'>Office Interior Design Images Free Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=whirlpool-washer-and-dryer-front-load'>Whirlpool Washer And Dryer Front Load</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-it-safe-to-eat-romaine-lettuce-today'>Is It Safe To Eat Romaine Lettuce Today</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=essay-about-flowers-in-malayalam'>Essay About Flowers In Malayalam</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=questions-to-ask-a-realtor-when-selling-your-home'>Questions To Ask A Realtor When Selling Your Home</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hyderabadi-restaurants-in-international-city'>Hyderabadi Restaurants In International City</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lifetime-personal-folding-table-costco'>Lifetime Personal Folding Table Costco</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cardinal-health-job-cuts-2018'>Cardinal Health Job Cuts 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bartender-the-right-mix-perfect-drink'>Bartender The Right Mix Perfect Drink</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=karcher-330-how-many-psi'>Karcher 330 How Many Psi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=raising-chickens-for-beginners-pdf'>Raising Chickens For Beginners Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=star-wars-the-rise-of-skywalker-rotten-tomatoes'>Star Wars The Rise Of Skywalker Rotten Tomatoes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-restaurants-in-hamden-ct'>Best Restaurants In Hamden Ct</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=national-association-of-realtors-phone-number'>National Association Of Realtors Phone Number</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-coffee-shops-to-work-in-manhattan'>Best Coffee Shops To Work In Manhattan</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lucky-bamboo-leaves-turning-yellow'>Lucky Bamboo Leaves Turning Yellow</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=can-i-grow-potatoes-from-store-bought-potatoes'>Can I Grow Potatoes From Store Bought Potatoes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fine-print-meaning-in-english'>Fine Print Meaning In English</a>,
+";s:7:"expired";i:-1;}

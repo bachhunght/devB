@@ -1,0 +1,8 @@
+[15-Apr-2022 02:44:49 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/ideammat/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ideammat/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[15-Apr-2022 06:55:35 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/ideammat/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ideammat/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17

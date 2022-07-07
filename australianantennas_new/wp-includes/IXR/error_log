@@ -1,0 +1,16 @@
+[02-Jan-2022 03:17:14 UTC] PHP Fatal error:  Uncaught Error: Class 'IXR_Client' not found in /home/australiana/public_html/wp-includes/IXR/class-IXR-clientmulticall.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/australiana/public_html/wp-includes/IXR/class-IXR-clientmulticall.php on line 8
+[02-Jan-2022 03:17:14 UTC] PHP Fatal error:  Uncaught Error: Class 'IXR_Server' not found in /home/australiana/public_html/wp-includes/IXR/class-IXR-introspectionserver.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/australiana/public_html/wp-includes/IXR/class-IXR-introspectionserver.php on line 9
+[27-Feb-2022 12:28:01 UTC] PHP Fatal error:  Uncaught Error: Class 'IXR_Client' not found in /home/australiana/public_html/wp-includes/IXR/class-IXR-clientmulticall.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/australiana/public_html/wp-includes/IXR/class-IXR-clientmulticall.php on line 8
+[27-Feb-2022 12:28:02 UTC] PHP Fatal error:  Uncaught Error: Class 'IXR_Server' not found in /home/australiana/public_html/wp-includes/IXR/class-IXR-introspectionserver.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/australiana/public_html/wp-includes/IXR/class-IXR-introspectionserver.php on line 9

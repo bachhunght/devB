@@ -1,0 +1,250 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3396:"Upon receiving a request, each handler decides either to process the request or to pass it to the next handler in the chain. Chain of responsibility pattern is used to achieve loose coupling in software design where a request from client is passed to a chain of objects to process them. Full code example in C# with detailed comments and explanation. ... Chain of Responsibility pattern is not recommended to be used when each request is only handled by one handler, or, when the client object knows which service object should handle the request. The request enters from one end and moves from one object to another. Buying task can be considered as such a handler whose responsibility is to buy required vegetables for given recipe. Chain of Responsibility Design Pattern in C++: Chain and Composite Back to Chain of Responsibility description . Use the Chain of Responsibility pattern when you can conceptualize your program as a chain made up of links, where each link can either handle a request or pass it up the chain. It helps in building a chain of objects. Chain of Responsibility pattern in C#. Put a "next" pointer in the base class; The "chain" method in the base class always delegates to the next object Chain of Responsibility passes a request along a chain of handlers. Link. Chain of Responsibility Pattern “Avoid coupling the sender of a request to its receiver by giving more than one object a chance to handle the request.Chain the receiving objects and pass the request along the chain until an object handles it.”. The Chain of Responsibility is known as a behavioral pattern. Chain of Responsibility design pattern falls under Behavioural Pattern of Gang of Four (GOF) Design Patterns in .Net. Vegetable is passed to next handler in the chain whose responsibility is to cut them. The chain of responsibility pattern is used to achieve loose coupling in software where a specified request from the client is passed through a chain of objects included in it. The user enters the amount to be dispensed and the machine checks if the amount is dispensable in terms of defined currency bills such as 50$, 20$, 10$, etc. Design Patterns: Elements of Reusable Object-Oriented Software At the end of the chain, there … Chain of Responsibility is a behavioral design pattern that lets you pass requests along a chain of handlers. The chain-of-responsibility pattern is structurally nearly identical to the decorator pattern, the difference being that for the decorator, all classes handle the request, while for the chain of responsibility, exactly one of the classes in the chain handles the request. Accountability at law and sanctions and penalties are allocated according to the level of responsibility each party has for creating and managing safety risks. But if we look into the decorator pattern we need to choose which object to use in the client program based on some parameter as below which may be bit inflexible. This pattern decouples sender and receiver of a request based on type of request.  The Chain of Responsibility (COR) design pattern is used when more than one object handles a request and performs their corresponding responsibilities to complete the whole task. The Rail Safety Act which emerged from that process therefore imposes a chain of responsibility across all key parties in the rail industry in Victoria who can influence safety outcomes. ";s:7:"keyword";s:38:"use of chain of responsibility pattern";s:5:"links";s:9480:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=do-black-eyed-susans-spread'>Do Black Eyed Susans Spread</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=convert-divs-to-tables-for-email'>Convert Divs To Tables For Email</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ryobi-2300-electric-pressure-washer'>Ryobi 2300 Electric Pressure Washer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sweden-permanent-residence-permit-benefits'>Sweden Permanent Residence Permit Benefits</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=discover-financial-services-human-resources-phone-number'>Discover Financial Services Human Resources Phone Number</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=eleanor-may-solomon-r-guggenheim'>Eleanor May Solomon R Guggenheim</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wall-tiles-for-living-room'>Wall Tiles For Living Room</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kaffir-lime-leaves-where-to-buy'>Kaffir Lime Leaves Where To Buy</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wilmington-nc-things-to-do'>Wilmington Nc Things To Do</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=amana-refrigerator-parts-water-filter'>Amana Refrigerator Parts Water Filter</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=charmed-bite-me-full-episode'>Charmed Bite Me Full Episode</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-big-were-the-walls-of-jericho'>How Big Were The Walls Of Jericho</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lg-washing-machine-in-pakistan'>Lg Washing Machine In Pakistan</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-island-of-dr-moreau-summary'>The Island Of Dr Moreau Summary</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-bamboo-poisonous-to-humans'>Is Bamboo Poisonous To Humans</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=merriam-tisdell-qualitative-research-pdf'>Merriam Tisdell Qualitative Research Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=little-tikes-cook-n-learn-smart-kitchen-replacement-parts'>Little Tikes Cook N Learn Smart Kitchen Replacement Parts</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-save-a-dying-aglaonema'>How To Save A Dying Aglaonema</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=above-ground-fiberglass-pools-near-me'>Above Ground Fiberglass Pools Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=interior-designers-in-hsr-layout'>Interior Designers In Hsr Layout</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=new-years-eve-2020-squaw-valley'>New Years Eve 2020 Squaw Valley</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=doterra-lavender-uses-and-benefits'>Doterra Lavender Uses And Benefits</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=room-for-rent-in-ajman-jurf-2'>Room For Rent In Ajman Jurf 2</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pasta-left-out-for-4-hours'>Pasta Left Out For 4 Hours</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cooking-fresh-green-beans-country-style'>Cooking Fresh Green Beans Country Style</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=teak-wood-dining-table-8-seater'>Teak Wood Dining Table 8 Seater</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=types-of-peas-in-india'>Types Of Peas In India</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=high-paying-ski-resort-jobs'>High Paying Ski Resort Jobs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mobile-homes-for-sale-in-largo-fl-by-owner'>Mobile Homes For Sale In Largo Fl By Owner</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=daybed-pop-up-trundle-combo'>Daybed Pop Up Trundle Combo</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=part-time-jobs-in-dubai-every-friday'>Part Time Jobs In Dubai Every Friday</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=modern-l-shaped-desk-white'>Modern L Shaped Desk White</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-haunting-nell-and-theo'>The Haunting Nell And Theo</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=popeye-the-sailor-man-movie'>Popeye The Sailor Man Movie</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-put-a-pella-sliding-screen-door-back-on-track'>How To Put A Pella Sliding Screen Door Back On Track</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=learning-german-language-for-beginners-pdf'>Learning German Language For Beginners Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=century-21-brand-guidelines-2019-pdf'>Century 21 Brand Guidelines 2019 Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-notch-a-fiddle-leaf-fig-tree-for-branching'>How To Notch A Fiddle Leaf Fig Tree For Branching</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-truth-about-ground-beef'>The Truth About Ground Beef</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=creme-brulee-recipe-gordon-ramsay'>Creme Brulee Recipe Gordon Ramsay</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=tertiary-sector-meaning-in-tamil'>Tertiary Sector Meaning In Tamil</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ikea-bryne-how-to-hang'>Ikea Bryne How To Hang</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-is-agro-hub-architecture-thesis'>What Is Agro Hub Architecture Thesis</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=types-of-cold-storage-ppt'>Types Of Cold Storage Ppt</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-much-does-it-cost-to-replace-windows-in-a-mobile-home'>How Much Does It Cost To Replace Windows In A Mobile Home</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=quotes-on-healthy-food-vs-junk-food'>Quotes On Healthy Food Vs Junk Food</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-apps-for-real-estate-agents-2020'>Best Apps For Real Estate Agents 2020</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=honda-gx340-pressure-washer-parts'>Honda Gx340 Pressure Washer Parts</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=1950s-dining-table-and-chairs'>1950s Dining Table And Chairs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pancake-recipe-without-milk-or-baking-powder'>Pancake Recipe Without Milk Or Baking Powder</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-was-the-first-ice-cream-flavor'>What Was The First Ice Cream Flavor</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=benefits-of-pineapple-juice-for-hair-growth'>Benefits Of Pineapple Juice For Hair Growth</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=metal-cactus-yard-art-near-me'>Metal Cactus Yard Art Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=zander-zero-gravity-massage-chair'>Zander Zero Gravity Massage Chair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=60-watt-led-candelabra-bulbs-dimmable-daylight'>60 Watt Led Candelabra Bulbs Dimmable Daylight</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=who-won-family-food-fight-2019'>Who Won Family Food Fight 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=office-decor-ideas-for-him'>Office Decor Ideas For Him</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fundamentals-of-property-management-pdf'>Fundamentals Of Property Management Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=7x9-roll-up-garage-door'>7x9 Roll Up Garage Door</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-northern-iowa-football'>University Of Northern Iowa Football</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=summer-vacation-rentals-in-aspen-colorado'>Summer Vacation Rentals In Aspen Colorado</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=international-property-awards-2018-2019'>International Property Awards 2018 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-can-i-clean-my-fabric-dining-chairs'>How Can I Clean My Fabric Dining Chairs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=leather-chairs-for-sale-near-me'>Leather Chairs For Sale Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-assemble-collapsible-wardrobe'>How To Assemble Collapsible Wardrobe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-do-i-do-when-my-samsung-washer-says-suds'>What Do I Do When My Samsung Washer Says Suds</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=park-city-long-range-snow-forecast'>Park City Long Range Snow Forecast</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=local-community-gardens-near-me'>Local Community Gardens Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=second-breakfast-know-your-meme'>Second Breakfast Know Your Meme</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=quit-baby-meaning-in-hindi'>Quit Baby Meaning In Hindi</a>,
+";s:7:"expired";i:-1;}

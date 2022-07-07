@@ -1,0 +1,266 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:5639:"Village Farm is a Tiny Home Community in Austin, Texas. The Christie's International Real Estate network has complete luxury home listings for Texas. 3,125 single family homes for sale in Texas matching Farm House. Texas Ranches for Sale is a ranch brokerage firm that works with both buyers and sellers using cutting edge technology for marketing and locating South Texas Ranches, Hill Country Ranches, West Texas Ranches and Beyond. The data relating to real estate for sale on this web site is provided from and copyrighted by the North Texas Real Estate Information Systems, Inc. NTREIS data may not be reproduced or redistributed and is only for people viewing this site. Austin’s only Tiny Home Village has Tiny houses for sale in an agrihood for sustainable living. View listing photos, contact sellers, and use filters to find farms and ranches for sale | LandWatch ... Texas Farms and Ranches for sale : 1 - 15 of 7,813 listings. If you love farmhouses as much as we do, then prepare to fall hard and fast for this one in Texas. Country Home & Hunting Property For Sale Powderly Texas Hunting and Recreational Land for sale in Lamar County, Texas. Browse 46063 Texas properties for sale on Lands of America. LandWatch has 7,813 farms and ranches for sale in Texas.  Finding ranches for sale in Texas is an intricate process. Check out Old Farm Estates real estate listings near you and view property details, home photos, and pricing information. United Country Farm Properties is a division of United Country specializing in farms, farmettes, agricultural properties and country homes for sale across the United States. Texas Dairy Farms For Sale. Houston Farms, Ranches and Agricultural Land for Sale - Below are the available Rural Land properties in Houston, Texas, including Ranches, Recreational Land, Horse Properties, Orchards and Marijuana Farms.To find other properties for sale near Houston try selecting one of the options on the right. Situated in the city of Kerrville and built in 1913, this turn-of-the-century, restored property has nearly everything we could ever want in a farmhouse. Discover 1,360 listings of Texas ranches for sale. DairyRealty.com is a specialized and professional dairy farm listing service to search, advertise, sell and buy dairy farms online. BROWSE ALL OUR LISTING Visit our UNITED COUNTRY SPG website to browse all properties. A Modern Farmhouse For Sale (Picket Fence Included) Architect Steve Zagorski designed this charming “modern farmhouse” within walking distance of downtown Austin. We have 122 property listing(s) in Texas, and 13,117 listings in all of United States. The listing for Milton House, as it’s called, says, “From its wraparound front porch to the giant old-growth Texas Live Oaks that shade the front and back yards, be prepared to fall in love.” Search homes for sale in Old Farm Estates, Dallas, TX. Zillow has 38 homes for sale in Austin TX matching Farm House. Each sale listing includes detailed descriptions, photos, amenities and neighborhood information for Texas. The advertisements herein are merely indications to bid and are not … ... Foster Farm and Ranch Signature Partner 1906.46 Acres Encinal, La Salle County, TX … All information provided is deemed reliable but is not guaranteed and should be independently verified. Easily find ranches for sale in Texas including hunting ranches, ranchettes, dude ranches, horse ranches, cattle ranches, recreational ranches, and luxury ranches at RANCHFLIP.com. View pictures of homes, review sales history, and use our detailed filters to find the perfect place. If you see a listing you like, click the photo to view details. Find Land Professionals in your area. Homes listings include vacation homes, apartments, penthouses, luxury retreats, lake homes, ski chalets, villas, and many more lifestyle options. We have 1,842 luxury homes for sale in Texas, and 30,157 homes in all of United States. View listing photos, review sales history, and use our detailed real estate filters to find the perfect place. This acreage features a variety of topography, wooded acreage, creek, ponds, game trails, wildlife, open pasture, and hunting and country farmhouse located in Powderly, Texas.... 76.16 Acres : $269,900 You have to know the type of land, minerals, production history, how much annual rainfall it sees, in addition to numerous other attributes that can influence your decision when making a purchase. Browse all Texas farms, ranches and other rural real estate for sale on Land And Farm to find the farm, cattle operation, hobby farm or other farm property that's right for your future business or individual needs. BROWSE ALL OUR LISTING Visit our UNITED COUNTRY SPG website to browse all properties. Use the filters above to narrow your search for luxury homes for sale in Texas. You can search by broker or agent name, broker’s location city or county, or the city and county where a broker’s properties are for sale. Austin’s only Tiny Home Village has Tiny houses for sale in an agrihood for sustainable living. Discover 1,665 listings of Texas farms for sale. Search all Lands of America members to find a Land Pro in your area. View ranches for sale in Texas listed between $30,000 and $16,500,000. Looking for Texas farms or acreages for sale? Compare properties, browse amenities and find your ideal property in Texas Listing for sale in Brazos Valley, Traditions, Caldwell, Bryan, College Station, Aggie Homes, Game Day The data relating to real estate for sale on this website comes from Central Texas Multiple Listing Service and the Broker Reciprocity Program.sm. ";s:7:"keyword";s:27:"farmhouse for sale in texas";s:5:"links";s:11778:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=black-and-white-architecture-drawings'>Black And White Architecture Drawings</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=all-information-is-correct-to-the-best-of-my-knowledge'>All Information Is Correct To The Best Of My Knowledge</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-cancel-good-food'>How To Cancel Good Food</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=umass-lowell-computer-science-ranking'>Umass Lowell Computer Science Ranking</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chicken-tikka-masala-gravy-recipe'>Chicken Tikka Masala Gravy Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=canvas-art-ideas-for-beginners'>Canvas Art Ideas For Beginners</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=tim-tam-power-massager-pro'>Tim Tam Power Massager Pro</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-replace-a-back-door'>How To Replace A Back Door</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=manjula-pothos-vs-marble-queen'>Manjula Pothos Vs Marble Queen</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-support-tomato-plants-with-string'>How To Support Tomato Plants With String</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=walmart-miami-beach-near-collins-avenue'>Walmart Miami Beach Near Collins Avenue</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=refrigerator-too-close-to-wall'>Refrigerator Too Close To Wall</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mendocino-national-forest-highest-peak'>Mendocino National Forest Highest Peak</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=Dining-table-size-in-feet'>Dining Table Size In Feet</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=david-hunt-everybody-loves-raymond'>David Hunt Everybody Loves Raymond</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=things-to-do-in-prague-in-december-tripadvisor'>Things To Do In Prague In December Tripadvisor</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=shop-lot-for-sale-in-shah-alam'>Shop Lot For Sale In Shah Alam</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=6300-w-lake-mead-blvd-las-vegas-nv-89108'>6300 W Lake Mead Blvd Las Vegas Nv 89108</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-last-drop-whisky-wikipedia'>The Last Drop Whisky Wikipedia</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=24-inch-frosted-glass-door'>24 Inch Frosted Glass Door</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dollhouse-with-elevator-and-garage'>Dollhouse With Elevator And Garage</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=prince-andrew-of-greece-and-denmark'>Prince Andrew Of Greece And Denmark</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=The-History-of-Indian-Art'>The History Of Indian Art</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rooms-to-go-living-room-sets-under-1000'>Rooms To Go Living Room Sets Under 1000</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=paula-deen-recipes-for-thanksgiving'>Paula Deen Recipes For Thanksgiving</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bachelor-of-fine-arts-jobs'>Bachelor Of Fine Arts Jobs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=which-fruit-juice-is-good-for-skin-glow'>Which Fruit Juice Is Good For Skin Glow</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=merriam-webster-dictionary-free-download-for-pc-windows-10'>Merriam Webster Dictionary Free Download For Pc Windows 10</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-much-does-it-cost-to-replace-windows-in-a-mobile-home'>How Much Does It Cost To Replace Windows In A Mobile Home</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=star-wars-mystery-box-target'>Star Wars Mystery Box Target</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=phpunit-assert-exception-not-thrown'>Phpunit Assert Exception Not Thrown</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bathroom-pictures-to-hang-on-wall'>Bathroom Pictures To Hang On Wall</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=anthony-bourdain-paris-episode-parts-unknown'>Anthony Bourdain Paris Episode Parts Unknown</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=svante-thunberg-net-worth-2019'>Svante Thunberg Net Worth 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=small-tv-stand-with-storage'>Small Tv Stand With Storage</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=Dining-table-size-in-feet'>Dining Table Size In Feet</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=brown-leather-dining-chairs-next'>Brown Leather Dining Chairs Next</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=different-types-of-tea-and-their-benefits'>Different Types Of Tea And Their Benefits</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=e14-led-bulb-100w-equivalent'>E14 Led Bulb 100w Equivalent</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rustic-bedroom-ideas-on-a-budget'>Rustic Bedroom Ideas On A Budget</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=non-teaching-jobs-in-sharjah-schools'>Non Teaching Jobs In Sharjah Schools</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lucky-plants-to-keep-in-home'>Lucky Plants To Keep In Home</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philips-40-watt-fluorescent-tube-light-price'>Philips 40 Watt Fluorescent Tube Light Price</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=diners-drive-ins-and-dives-season-30-episode-10'>Diners Drive Ins And Dives Season 30 Episode 10</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fur-vanity-chair-with-back'>Fur Vanity Chair With Back</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=brighton-night-skiing-discount-code'>Brighton Night Skiing Discount Code</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-much-does-living-spaces-pay'>How Much Does Living Spaces Pay</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=top-agent-referral-network-reviews'>Top Agent Referral Network Reviews</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=master-of-fine-arts-course-details'>Master Of Fine Arts Course Details</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=another-word-for-positive-attitude-answers'>Another Word For Positive Attitude Answers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pottery-barn-pro-chef-kitchen-for-sale'>Pottery Barn Pro Chef Kitchen For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ariana-grande-no-tears-left-to-cry-album'>Ariana Grande No Tears Left To Cry Album</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=adding-a-bathroom-to-a-shed'>Adding A Bathroom To A Shed</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-thick-irish-stew'>How To Make Thick Irish Stew</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cash-counter-table-for-shop'>Cash Counter Table For Shop</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ottoman-bench-seat-with-storage'>Ottoman Bench Seat With Storage</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-install-carpet-padding'>How To Install Carpet Padding</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=yorkshire-pudding-recipe-gordon-ramsay'>Yorkshire Pudding Recipe Gordon Ramsay</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=8-heads-in-a-duffel-bag-tamil-dubbed-movie-download'>8 Heads In A Duffel Bag Tamil Dubbed Movie Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=telescoping-pressure-washer-wand-harbor-freight'>Telescoping Pressure Washer Wand Harbor Freight</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-many-times-can-you-regrow-lettuce'>How Many Times Can You Regrow Lettuce</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-westminster-international-students'>University Of Westminster International Students</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=discount-furniture-outlet-near-me'>Discount Furniture Outlet Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-increase-pennis-size-naturally-at-home-in-tamil'>How To Increase Pennis Size Naturally At Home In Tamil</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-rooster-toronto-coffee-house'>The Rooster Toronto Coffee House</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=vegetarian-epicure-mac-and-cheese-recipe'>Vegetarian Epicure Mac And Cheese Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=upholstered-storage-bench-with-arms'>Upholstered Storage Bench With Arms</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mai-tai-with-dark-rum-floater'>Mai Tai With Dark Rum Floater</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-high-resolution-images'>How To Make High Resolution Images</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=worst-charities-to-donate-to'>Worst Charities To Donate To</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=snow-in-colorado-in-april'>Snow In Colorado In April</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ashley-furniture-vs-ikea-reddit'>Ashley Furniture Vs Ikea Reddit</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=foods-to-eat-when-pregnant-first-trimester'>Foods To Eat When Pregnant First Trimester</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=extra-long-narrow-sofa-table'>Extra Long Narrow Sofa Table</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=non-vegetarian-restaurant-with-vegetarian-options'>Non Vegetarian Restaurant With Vegetarian Options</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=low-budget-modern-3-bedroom-house-design'>Low Budget Modern 3 Bedroom House Design</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-happened-after-pearl-harbor'>What Happened After Pearl Harbor</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-aster-by-cortland-resident-portal'>The Aster By Cortland Resident Portal</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-is-shadow-for-class-2'>What Is Shadow For Class 2</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=who-is-the-anthropologie-woman'>Who Is The Anthropologie Woman</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=antique-oak-swivel-office-chair-with-arms'>Antique Oak Swivel Office Chair With Arms</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=white-pass-cabins-for-sale'>White Pass Cabins For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sunday-brunch-new-milford-ct'>Sunday Brunch New Milford Ct</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-do-i-run-a-diagnostic-on-my-samsung-washing-machine'>How Do I Run A Diagnostic On My Samsung Washing Machine</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=berlin-activities-depot-berlin-md'>Berlin Activities Depot Berlin Md</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=4-star-hotels-in-montreal'>4 Star Hotels In Montreal</a>,
+";s:7:"expired";i:-1;}

@@ -1,0 +1,266 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4024:"Simply mix together the cucumber, tomatoes, chilli, onion and coriander. Heat for 2 to 3 minutes, or until warm and pliable. Serve chicken tikka over a small green salad. Push the chicken onto 8 metal or wooden skewers. To serve, divide the chicken tikka masala and naan bread between your dishes. This slow cooker chicken tikka masala is the homemade version you’ve been dreaming of… bold and richly flavored, yet SO easy to make! Imagine coming home to the mouthwatering smell of this classic curry simmering away, ready to electrify your tastebuds! Preheat the grill or barbecue. Season lightly, then cover until you’re ready to serve with the meal. Serve them straight up. You can do a tikka sizzle – serve them on a bed of fried onions. You can cook and freeze this dish quite well or marinate the chicken ahead of time and also make (do not add the cream) and freeze the sauce beforehand. You can use an Instant Pot, rice cooker, or cook the rice on the stove. Also, the chicken is supposed to be grilled, but since I still don't have my own grill (double boo), I just lightly fried it. Cook the rice while you are making the chicken and sauce. Serve the rich, flavorful chicken and sauce over fragrant basmati rice. Quarter the naan bread. The result is a lovely smokey flavor. Chicken Tikka Masala is the spicier, bolder almost twin brother recipe to the Indian fan favorite Butter Chicken. Chicken Tikka Masala What to Serve with Chicken Tikka Masala.  Heat for 2 to 3 minutes, or until warm and pliable. Chicken Tikka Masala is a delicious creamy tomato sauce based Indian recipe made with white meat chicken and plenty of bold spices including garlic, ginger, cumin and coriander. This is quite spicy, so if you're not a fan of the burn, you might want to take it down a notch by cutting all spices in half. ... Chicken in Creamy Tomato Curry: Chicken Tikka Masala. Chicken Tikka Masala is the spicier, bolder almost twin brother recipe to the Indian fan favorite Butter Chicken. We also like to heat up naan bread to serve along with the sauce. I am not very familiar with Indian cooking and I live in Italy, so it is very difficult to get ethnic foods/ingredients, therefore I need something simple (and healthy). Make the salad before you start to cook the kebabs. Garnish with the remaining cilantro. Serve the rich, flavorful chicken and sauce over fragrant basmati rice. What to Serve with Chicken Tikka Masala. Serve with the cucumber salad on the side. Grill or barbecue the kebabs for 8-10 minutes, turning them frequently. Place the naan bread directly on the oven rack. Garnish with the remaining cilantro. To serve, divide the chicken tikka masala and naan bread between your dishes. You can use an Instant Pot, rice cooker, or cook the rice on the stove. Chicken tikka goes very well with Indian styled crepes as well as Naan (similar to a pita bread) or tandoori roti/chappati. Chicken tikka masala is typically a thick gravy so eating it with rice is not exactly preferred. Get Chicken in Creamy Tomato Curry: Chicken Tikka Masala Recipe from Food Network. Serve with the cucumber salad on the side. You can make rice/ pulao instead of naan (bread). I am planning on serving chicken tikka masala to some friends coming over for dinner and I am looking for a vegetable side dish. Bon appétit! Chicken Tikka Masala is a delicious North Indian dish in which pre-marinated pieces of chicken are grilled and then added to a thick creamy gravy. Quarter the naan bread. Chicken Tikka Masala is a delicious creamy tomato sauce based Indian recipe made with white meat chicken and plenty of bold spices including garlic, ginger, cumin and coriander. Cook the rice while you are making the chicken and sauce. We also like to heat up naan bread to serve … Place the naan bread directly on the oven rack. Tamarind dip, raita or a green chili chutney mixed with yoghurt all pair well. Bon appétit! Of course there is no hard and fast rule about it, but I personally don't prefer to eat it that way. ";s:7:"keyword";s:40:"salad to serve with chicken tikka masala";s:5:"links";s:11782:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ikea-furniture-names-in-deadpool'>Ikea Furniture Names In Deadpool</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fire-department-pancake-breakfast-near-me'>Fire Department Pancake Breakfast Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=battery-operated-wall-sconces-lowes'>Battery Operated Wall Sconces Lowes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=top-10-home-improvement-companies'>Top 10 Home Improvement Companies</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=authentic-japanese-chicken-teriyaki-recipe'>Authentic Japanese Chicken Teriyaki Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=love-your-garden-2019-episodes'>Love Your Garden 2019 Episodes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=this-week-with-george-stephanopoulos-roundtable-members-today'>This Week With George Stephanopoulos Roundtable Members Today</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-type-cucumber-is-deprecated'>The Type Cucumber Is Deprecated</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=2-piece-wall-art-amazon'>2 Piece Wall Art Amazon</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=glacier-peak-in-a-day'>Glacier Peak In A Day</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-spinach-better-than-lettuce'>Is Spinach Better Than Lettuce</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=clayton-homes-with-wrap-around-porch'>Clayton Homes With Wrap Around Porch</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=farm-city-week-buyers-list'>Farm City Week Buyers List</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=high-potassium-fertilizer-home-depot'>High Potassium Fertilizer Home Depot</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mid-century-modern-side-chairs'>Mid Century Modern Side Chairs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=new-pool-pass-8-ball-pool'>New Pool Pass 8 Ball Pool</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=television-essay-for-class-4'>Television Essay For Class 4</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dollar-tree-fall-decor-2018'>Dollar Tree Fall Decor 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=are-bed-frames-standard-for-headboards'>Are Bed Frames Standard For Headboards</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-cushions-for-mid-century-chair'>How To Make Cushions For Mid Century Chair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=designer-brands-for-less-app'>Designer Brands For Less App</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ethan-allen-country-french-headboard'>Ethan Allen Country French Headboard</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=when-is-wayfair-opening-in-jacksonville-fl'>When Is Wayfair Opening In Jacksonville Fl</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=a-perfect-murders-hindi-dubbed-720p'>A Perfect Murders Hindi Dubbed 720p</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=meat-cooking-temperatures-chart-printable-celsius'>Meat Cooking Temperatures Chart Printable Celsius</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=my-boss-picks-on-everything-i-do'>My Boss Picks On Everything I Do</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=Path-in-the-Wheat-at-Pourville'>Path In The Wheat At Pourville</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=deer-valley-lift-tickets-costco'>Deer Valley Lift Tickets Costco</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=milk-and-egg-allergy-recipes'>Milk And Egg Allergy Recipes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=obergurgl-ski-school-meeting-point'>Obergurgl Ski School Meeting Point</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-more-branches-in-adenium'>How To Make More Branches In Adenium</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=blue-ribbon-brasserie-dress-code'>Blue Ribbon Brasserie Dress Code</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=craigslist-items-for-sale-by-owner'>Craigslist Items For Sale By Owner</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-pioneer-woman-season-24-episode-1'>The Pioneer Woman Season 24 Episode 1</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=solid-wood-tv-stands-made-in-usa'>Solid Wood Tv Stands Made In Usa</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=world-record-red-stag-2019'>World Record Red Stag 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-much-do-real-estate-agents-make-per-sale'>How Much Do Real Estate Agents Make Per Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dimensions-of-a-24-foot-round-pool'>Dimensions Of A 24 Foot Round Pool</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=childrens-garden-ideas-on-a-budget'>Childrens Garden Ideas On A Budget</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=30-day-decluttering-cleaning-calendar'>30 Day Decluttering Cleaning Calendar</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=when-do-pools-go-on-sale'>When Do Pools Go On Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-grow-flowers-in-pots'>How To Grow Flowers In Pots</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ideas-for-centerpieces-for-wedding-reception-tables'>Ideas For Centerpieces For Wedding Reception Tables</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-grow-broccoli-sprouts-rhonda-patrick'>How To Grow Broccoli Sprouts Rhonda Patrick</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=custom-bifold-closet-doors-home-depot'>Custom Bifold Closet Doors Home Depot</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=aaron-mccargo-jr-net-worth'>Aaron Mccargo Jr Net Worth</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lone-mountain-ranch-wedding-cost'>Lone Mountain Ranch Wedding Cost</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=home-air-conditioner-relay-switch-cost'>Home Air Conditioner Relay Switch Cost</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-hong-kong-acceptance-rate'>University Of Hong Kong Acceptance Rate</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=doors-between-living-room-and-dining-room'>Doors Between Living Room And Dining Room</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pollen-street-social-or-social-eating-house'>Pollen Street Social Or Social Eating House</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=winsley-manager-chair-assembly-instructions'>Winsley Manager Chair Assembly Instructions</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pre-made-meals-for-the-week'>Pre Made Meals For The Week</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=Apollo-in-the-Forge-of-Vulcan'>Apollo In The Forge Of Vulcan</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=solubility-of-alkali-metal-chlorides-in-water'>Solubility Of Alkali Metal Chlorides In Water</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=live-webcam-caberfae-peaks-cadillac-michigan'>Live Webcam Caberfae Peaks Cadillac Michigan</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-a-small-kitchen-look-bigger-with-paint'>How To Make A Small Kitchen Look Bigger With Paint</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=top-100-real-estate-companies-in-usa'>Top 100 Real Estate Companies In Usa</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-string-tomatoes-in-greenhouse'>How To String Tomatoes In Greenhouse</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-it-too-late-to-plant-bulbs-in-pots'>Is It Too Late To Plant Bulbs In Pots</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=interior-designers-in-whitefield-bangalore'>Interior Designers In Whitefield Bangalore</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-part-of-the-plant-is-a-pumpkin'>What Part Of The Plant Is A Pumpkin</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=german-beer-garden-near-me'>German Beer Garden Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=procedure-of-allotment-of-shares-pdf'>Procedure Of Allotment Of Shares Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=furniture-factory-outlet-pretoria-west-pretoria'>Furniture Factory Outlet Pretoria West Pretoria</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=south-shore-furniture-bureau-dresser'>South Shore Furniture Bureau Dresser</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=new-england-vegetable-management-guide'>New England Vegetable Management Guide</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-beetroot-lip-balm-without-vaseline'>How To Make Beetroot Lip Balm Without Vaseline</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=90-easy-abstract-painting-ideas-that-look-totally-awesome'>90 Easy Abstract Painting Ideas That Look Totally Awesome</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=queen-mary-university-of-london-acceptance-rate'>Queen Mary University Of London Acceptance Rate</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=jim-croce-operator-midi-file'>Jim Croce Operator Midi File</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=black-wallpaper-hd-for-iphone'>Black Wallpaper Hd For Iphone</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ashley-furniture-pick-up-policy'>Ashley Furniture Pick Up Policy</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chestnut-trees-for-sale-nh'>Chestnut Trees For Sale Nh</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chiller-tray-for-lg-fridge'>Chiller Tray For Lg Fridge</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=amazon-silk-vs-firefox-echo-show'>Amazon Silk Vs Firefox Echo Show</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=toronto-jazz-festival-2019-dates'>Toronto Jazz Festival 2019 Dates</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=planting-strawberry-seeds-in-pots'>Planting Strawberry Seeds In Pots</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=when-will-i-receive-my-ikon-pass'>When Will I Receive My Ikon Pass</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dona-maria-mole-limited-edition-glasses'>Dona Maria Mole Limited Edition Glasses</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dog-crate-sizes-by-breed'>Dog Crate Sizes By Breed</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-to-buy-closetmaid-shelftrack'>Where To Buy Closetmaid Shelftrack</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=free-online-movie-streaming-sites'>Free Online Movie Streaming Sites</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=slogans-for-advertising-home-appliances'>Slogans For Advertising Home Appliances</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=house-plants-that-start-with-b'>House Plants That Start With B</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=row-house-images-in-nashik'>Row House Images In Nashik</a>,
+";s:7:"expired";i:-1;}

@@ -1,0 +1,275 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2828:"The Philips Hue Bridge bridges ZigBee 802.15.4 from compatible light bulbs to your wired Ethernet network. I bought the Xiaomi Aqara bridge and implemented all the sensors into Home Assistant. Philips Hue uses ZigBee and with that there is a need for the Hue bridge to talk to these bulbs, however now they have made things even easier with the release of new bulbs that have Bluetooth built in, this means there is no need for a bridge. I want to put several lights outside away from the house 50 meters. La forme des lampes blanches E27 ressemble le plus à la lampe à incandescence traditionnelle. I have several Philips Hue Lights and one bridge. Philips hue white offers your comfort and convenience of smart lighting dimmable warm that can controlled by devices anywhere your smart network of lights hue teardown and design philips hue automated home lighting gets colorful img 0617 jpg discover more about philips hue. Parce que la bonne lumière fait la … Shop for philips hue bridge at Best Buy. Not_Registered_With_Bridge D Indicates that registration with a bridge has failed. Philips Hue Il peut vous réveiller en douceur le matin, vous stimuler pour affronter votre journée et même vous accueillir chaleureusement lorsque vous rentrez chez vous. If the 2nd light on your bridge is not on at all, make sure your bridge What is the Hue Bridge range? The lamps are currently created and manufactured by Signify N.V., formerly the Philips Lighting division of Royal Philips N.V.. Using Philips Hue with Bluetooth or Bridge I have several Philips Hue Lights and one bridge. It was introduced in October 2012 and was updated in 2015 and 2016. While using the same 2.4GHz radio frequency range as WiFi (IEEE 802.11), it's a completely different network protocol, like Bluetooth or DECT. i den har video viser jeg hvordan man for IKEA trådfri på Philips Hue og til sidst i videoen Er der en giveaway. If you don't have Hue products at home, these can make sense, as they're relatively cheap (current models range from $10 to $20), and offer similar features to other Philips smart bulbs. The bridge must be connected to your interest router via an ethernet cable, as there is no wifi enabled on the bridge. Start with Philips Hue your way: Bluetooth or Bridge.  What type of Zigbee repeater or range extender can I add to use with my existing bridge? Philips Hue is constantly adding to its collection of smart LED bulbs that work without a Philips bridge. Last reply by andrew. Philips Hue Bridge Can’t find Philips Hue Bulbs Updated on January 30, 2020 in [Hardware for Philips hue] . I want to put several lights outside away from the house 50 meters. Philips Hue White est la lampe la moins chère de la famille Hue. The range consists of wall mounts, bulbs, spotlights and the already-mentioned Lightstrips. ";s:7:"keyword";s:31:"philips hue bridge range reddit";s:5:"links";s:13025:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=list-of-charities-to-donate-to'>List Of Charities To Donate To</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=merola-tile-gaudi-hex-white'>Merola Tile Gaudi Hex White</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=to-implement-simple-des-or-aes-in-c'>To Implement Simple Des Or Aes In C</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=euromicro-conference-on-software-engineering-and-advanced-applications'>Euromicro Conference On Software Engineering And Advanced Applications</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=furniture-stores-in-roseburg-oregon'>Furniture Stores In Roseburg Oregon</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-ground-coffee-for-drip-machine'>Best Ground Coffee For Drip Machine</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=latest-curtain-designs-for-home'>Latest Curtain Designs For Home</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=diners-drive-ins-and-dives-season-30-episode-2'>Diners Drive Ins And Dives Season 30 Episode 2</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=black-krim-tomatoes-in-containers'>Black Krim Tomatoes In Containers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=diners-drive-ins-and-dives-minneapolis-mexican'>Diners Drive Ins And Dives Minneapolis Mexican</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=designer-brands-for-less-app'>Designer Brands For Less App</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=trent-university-residence-mailing-address'>Trent University Residence Mailing Address</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=carpathian-walnut-vs-english-walnut'>Carpathian Walnut Vs English Walnut</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=a-history-of-violence-trailer'>A History Of Violence Trailer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-get-a-job-at-coca-cola'>How To Get A Job At Coca Cola</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=back-to-the-roots-fish-tank-instructions'>Back To The Roots Fish Tank Instructions</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-much-ricin-in-one-castor-bean'>How Much Ricin In One Castor Bean</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lowes-hardwood-floor-cleaner-rental'>Lowes Hardwood Floor Cleaner Rental</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=House-of-the-Dead-2'>House Of The Dead 2</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hiam-abbass-blade-runner-2049'>Hiam Abbass Blade Runner 2049</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=life-cycle-of-silkworm-wikipedia'>Life Cycle Of Silkworm Wikipedia</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-home-window-replacement-near-me'>Best Home Window Replacement Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=white-console-table-with-storage'>White Console Table With Storage</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rhodes-cafe-on-the-water'>Rhodes Cafe On The Water</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=iron-man-2-google-drive'>Iron Man 2 Google Drive</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=diondre-2-door-accent-cabinet'>Diondre 2 Door Accent Cabinet</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=larson-signature-premium-storm-door-reviews'>Larson Signature Premium Storm Door Reviews</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-are-lazy-boy-sofas-made-uk'>Where Are Lazy Boy Sofas Made Uk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dark-grey-living-room-ideas'>Dark Grey Living Room Ideas</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cost-to-demo-a-bathroom-homewyse'>Cost To Demo A Bathroom Homewyse</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=narrow-lot-acadian-house-plans'>Narrow Lot Acadian House Plans</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=broyhill-dining-table-with-leaf'>Broyhill Dining Table With Leaf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=aluminum-mobile-home-windows-near-me'>Aluminum Mobile Home Windows Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=custom-wood-name-signs-near-me'>Custom Wood Name Signs Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=copper-creek-golf-course-tee-times'>Copper Creek Golf Course Tee Times</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=all-modern-mid-century-sectional'>All Modern Mid Century Sectional</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=snowmass-hotels-ski-in-ski-out'>Snowmass Hotels Ski In Ski Out</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=map-of-portland-oregon-neighborhoods'>Map Of Portland Oregon Neighborhoods</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=abandoned-mansions-for-sale-uk'>Abandoned Mansions For Sale Uk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-size-slipcover-for-chair-and-a-half'>What Size Slipcover For Chair And A Half</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=opening-night-food-network-detroit'>Opening Night Food Network Detroit</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=global-furniture-office-chair-partspictures-of-old-factory-buildings'>Global Furniture Office Chair Partspictures Of Old Factory Buildings</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=barbie-ultimate-cooking-and-baking-playset'>Barbie Ultimate Cooking And Baking Playset</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=free-form-pools-for-small-yards'>Free Form Pools For Small Yards</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pay-monthly-furniture-no-credit-check'>Pay Monthly Furniture No Credit Check</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=coral-island-meaning-in-tamil'>Coral Island Meaning In Tamil</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=big-brother-big-sister-donation-pickup-ri'>Big Brother Big Sister Donation Pickup Ri</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sex-in-the-city-or-sex-and-the-city'>Sex In The City Or Sex And The City</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=jobs-in-ras-al-khaimah-2019'>Jobs In Ras Al Khaimah 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=vitamins-for-brain-memory-and-concentration'>Vitamins For Brain Memory And Concentration</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-plants-work-the-science-behind-the-amazing-things-plants-do'>How Plants Work The Science Behind The Amazing Things Plants Do</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=imperial-college-london-overseas-fees'>Imperial College London Overseas Fees</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=white-live-edge-dining-table'>White Live Edge Dining Table</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=study-room-ideas-from-ikea'>Study Room Ideas From Ikea</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-ripen-papaya-after-cutting'>How To Ripen Papaya After Cutting</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=woodland-shoes-price-in-india-2019'>Woodland Shoes Price In India 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=most-expensive-metal-in-the-world-2019'>Most Expensive Metal In The World 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=avengers-age-of-ultron-full-movie-in-hindi-watch-online-dailymotion'>Avengers Age Of Ultron Full Movie In Hindi Watch Online Dailymotion</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-use-mango-for-skin-care'>How To Use Mango For Skin Care</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=award-winning-craftsman-house-plans'>Award Winning Craftsman House Plans</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=properties-of-wool-and-silk'>Properties Of Wool And Silk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-many-countries-in-africa'>How Many Countries In Africa</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mirchi-ka-salan-sanjeev-kapoor'>Mirchi Ka Salan Sanjeev Kapoor</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ice-cream-sandwich-face-reveal'>Ice Cream Sandwich Face Reveal</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=planning-for-a-vegetable-garden'>Planning For A Vegetable Garden</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dry-fruits-in-different-languages'>Dry Fruits In Different Languages</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=shark-reef-aquarium-shark-reef-aquarium-at-mandalay-bay-november-4'>Shark Reef Aquarium Shark Reef Aquarium At Mandalay Bay November 4</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=restaurants-west-shore-lake-tahoe'>Restaurants West Shore Lake Tahoe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=restaurant-in-international-city-phase-2'>Restaurant In International City Phase 2</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=back-niggle-meaning-in-tamil'>Back Niggle Meaning In Tamil</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=diy-dream-home-2020-entry'>Diy Dream Home 2020 Entry</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=jaquar-bathroom-fittings-price-list-2018-pdf-india'>Jaquar Bathroom Fittings Price List 2018 Pdf India</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-fix-simplehuman-mirror'>How To Fix Simplehuman Mirror</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wet-and-dry-kitchen-hdb'>Wet And Dry Kitchen Hdb</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=2-piece-wall-art-amazon'>2 Piece Wall Art Amazon</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=t350-vs-t450-patio-cleaner'>T350 Vs T450 Patio Cleaner</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-last-course-barnes-and-noble'>The Last Course Barnes And Noble</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=downtown-dubai-restaurants-with-a-view'>Downtown Dubai Restaurants With A View</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lowes-stainmaster-carpet-pad-reviews'>Lowes Stainmaster Carpet Pad Reviews</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pubs-in-richmond-london-uk'>Pubs In Richmond London Uk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=portland-cost-of-living-vs-seattle'>Portland Cost Of Living Vs Seattle</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-can-i-buy-margarita-mix-uk'>Where Can I Buy Margarita Mix Uk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=holiday-show-samovar-russian-folk-united-states-botanic-garden-december-31'>Holiday Show Samovar Russian Folk United States Botanic Garden December 31</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=when-eight-bells-toll-full-movie'>When Eight Bells Toll Full Movie</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=associated-words-of-magma-chamber'>Associated Words Of Magma Chamber</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=merola-tile-gaudi-hex-white'>Merola Tile Gaudi Hex White</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-cook-vegetables-stir-fry'>How To Cook Vegetables Stir Fry</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mirimyn-accent-cabinet-antique-grey'>Mirimyn Accent Cabinet Antique Grey</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chicken-wing-dipping-sauce-mayo'>Chicken Wing Dipping Sauce Mayo</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=history-of-the-refrigerator-timeline'>History Of The Refrigerator Timeline</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=paint-colors-that-go-with-oak-cabinets'>Paint Colors That Go With Oak Cabinets</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=direction-of-toilet-seat-according-to-vastu'>Direction Of Toilet Seat According To Vastu</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=should-i-disable-third-party-cookies'>Should I Disable Third Party Cookies</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=smart-tiles-peel-and-stick-backsplash'>Smart Tiles Peel And Stick Backsplash</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=begonia-corallina-de-lucerna-care'>Begonia Corallina De Lucerna Care</a>,
+";s:7:"expired";i:-1;}

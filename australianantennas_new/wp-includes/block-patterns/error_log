@@ -1,0 +1,176 @@
+[24-Oct-2021 10:49:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/australiana/public_html/wp-includes/block-patterns/heading-paragraph.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/australiana/public_html/wp-includes/block-patterns/heading-paragraph.php on line 9
+[24-Oct-2021 10:49:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/australiana/public_html/wp-includes/block-patterns/heading-paragraph.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/australiana/public_html/wp-includes/block-patterns/heading-paragraph.php on line 9
+[26-Dec-2021 15:05:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/australiana/public_html/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/australiana/public_html/wp-includes/block-patterns/query-grid-posts.php on line 9
+[26-Dec-2021 15:06:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/australiana/public_html/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/australiana/public_html/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[26-Dec-2021 15:06:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/australiana/public_html/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/australiana/public_html/wp-includes/block-patterns/query-medium-posts.php on line 9
+[26-Dec-2021 15:06:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/australiana/public_html/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/australiana/public_html/wp-includes/block-patterns/query-offset-posts.php on line 9
+[26-Dec-2021 15:06:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/australiana/public_html/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/australiana/public_html/wp-includes/block-patterns/query-small-posts.php on line 9
+[26-Dec-2021 15:06:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/australiana/public_html/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/australiana/public_html/wp-includes/block-patterns/query-standard-posts.php on line 9
+[26-Dec-2021 15:06:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/australiana/public_html/wp-includes/block-patterns/social-links-shared-background-color.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/australiana/public_html/wp-includes/block-patterns/social-links-shared-background-color.php on line 9
+[23-May-2022 12:58:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/australiana/public_html/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/australiana/public_html/wp-includes/block-patterns/query-grid-posts.php on line 9
+[23-May-2022 12:58:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/australiana/public_html/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/australiana/public_html/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[23-May-2022 12:59:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/australiana/public_html/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/australiana/public_html/wp-includes/block-patterns/query-medium-posts.php on line 9
+[23-May-2022 12:59:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/australiana/public_html/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/australiana/public_html/wp-includes/block-patterns/query-offset-posts.php on line 9
+[23-May-2022 12:59:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/australiana/public_html/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/australiana/public_html/wp-includes/block-patterns/query-small-posts.php on line 9
+[23-May-2022 12:59:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/australiana/public_html/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/australiana/public_html/wp-includes/block-patterns/query-standard-posts.php on line 9
+[23-May-2022 12:59:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/australiana/public_html/wp-includes/block-patterns/social-links-shared-background-color.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/australiana/public_html/wp-includes/block-patterns/social-links-shared-background-color.php on line 9
+[23-May-2022 18:59:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/australiana/public_html/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/australiana/public_html/wp-includes/block-patterns/query-grid-posts.php on line 9
+[23-May-2022 18:59:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/australiana/public_html/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/australiana/public_html/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[23-May-2022 19:00:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/australiana/public_html/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/australiana/public_html/wp-includes/block-patterns/query-medium-posts.php on line 9
+[23-May-2022 19:00:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/australiana/public_html/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/australiana/public_html/wp-includes/block-patterns/query-offset-posts.php on line 9
+[23-May-2022 19:00:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/australiana/public_html/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/australiana/public_html/wp-includes/block-patterns/query-small-posts.php on line 9
+[23-May-2022 19:00:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/australiana/public_html/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/australiana/public_html/wp-includes/block-patterns/query-standard-posts.php on line 9
+[23-May-2022 19:00:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/australiana/public_html/wp-includes/block-patterns/social-links-shared-background-color.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/australiana/public_html/wp-includes/block-patterns/social-links-shared-background-color.php on line 9
+[24-May-2022 04:19:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/australiana/public_html/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/australiana/public_html/wp-includes/block-patterns/query-grid-posts.php on line 9
+[24-May-2022 04:19:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/australiana/public_html/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/australiana/public_html/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[24-May-2022 04:19:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/australiana/public_html/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/australiana/public_html/wp-includes/block-patterns/query-medium-posts.php on line 9
+[24-May-2022 04:19:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/australiana/public_html/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/australiana/public_html/wp-includes/block-patterns/query-offset-posts.php on line 9
+[24-May-2022 04:19:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/australiana/public_html/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/australiana/public_html/wp-includes/block-patterns/query-small-posts.php on line 9
+[24-May-2022 04:19:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/australiana/public_html/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/australiana/public_html/wp-includes/block-patterns/query-standard-posts.php on line 9
+[24-May-2022 04:19:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/australiana/public_html/wp-includes/block-patterns/social-links-shared-background-color.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/australiana/public_html/wp-includes/block-patterns/social-links-shared-background-color.php on line 9
+[26-May-2022 21:56:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/australiana/public_html/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/australiana/public_html/wp-includes/block-patterns/query-grid-posts.php on line 9
+[26-May-2022 21:56:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/australiana/public_html/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/australiana/public_html/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[26-May-2022 21:56:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/australiana/public_html/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/australiana/public_html/wp-includes/block-patterns/query-medium-posts.php on line 9
+[26-May-2022 21:56:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/australiana/public_html/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/australiana/public_html/wp-includes/block-patterns/query-offset-posts.php on line 9
+[26-May-2022 21:56:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/australiana/public_html/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/australiana/public_html/wp-includes/block-patterns/query-small-posts.php on line 9
+[26-May-2022 21:56:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/australiana/public_html/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/australiana/public_html/wp-includes/block-patterns/query-standard-posts.php on line 9
+[26-May-2022 21:56:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/australiana/public_html/wp-includes/block-patterns/social-links-shared-background-color.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/australiana/public_html/wp-includes/block-patterns/social-links-shared-background-color.php on line 9
+[27-May-2022 20:00:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/australiana/public_html/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/australiana/public_html/wp-includes/block-patterns/query-grid-posts.php on line 9
+[27-May-2022 20:00:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/australiana/public_html/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/australiana/public_html/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[27-May-2022 20:00:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/australiana/public_html/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/australiana/public_html/wp-includes/block-patterns/query-medium-posts.php on line 9
+[27-May-2022 20:01:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/australiana/public_html/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/australiana/public_html/wp-includes/block-patterns/query-offset-posts.php on line 9
+[27-May-2022 20:01:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/australiana/public_html/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/australiana/public_html/wp-includes/block-patterns/query-small-posts.php on line 9
+[27-May-2022 20:01:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/australiana/public_html/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/australiana/public_html/wp-includes/block-patterns/query-standard-posts.php on line 9
+[27-May-2022 20:01:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/australiana/public_html/wp-includes/block-patterns/social-links-shared-background-color.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/australiana/public_html/wp-includes/block-patterns/social-links-shared-background-color.php on line 9

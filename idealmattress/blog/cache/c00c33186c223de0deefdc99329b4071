@@ -1,0 +1,259 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4279:"Happy Bones. Tea Lounge. NYC boasts a dizzying array of coffee shops, as well as java-pouring donut shops and bakeries, so we’ve cut through the noise to bring you the best cafes and espresso bars at which to get your morning jolt. 4. Birch Coffee. The 10 Best Coffee Shops In NYC ... plus the Jackson Ave location has a little "Laptop Area" for those who need to get some work done; the Center Boulevard spot even doubles as a … Bring your laptop, have a salad, and feel good about the fact that, unlike the employees here, no one’s making you wear a bowtie. If it’s nice, the Hudson has a fantastic patio and CitizenM has a great rooftop. 3. 1. 2. Think Coffee. Had it once and traveled almost 2 hours to get it again. Cafe Jax. Boule & Cherie. Best NYC Coffee Shops To Work From 1. If you work best with dance music, the Standard has a DJ in their lobby after 3pm. 6. If … 5. The Best NYC Coffee Shops to Study At When You’re Sick of the Library. Ace Hotel New York. 13. 5. 88 Orchard on the LES is also great. Cafe Grumpy. 11. Vineapple Cafe. Irving Farms Coffee Roasters. 9 ABSOLUTE BEST COFFEE SHOPS TO WORK IN NYC The Roost. Tazza Bakery Enoteca. They’re less snooty (which is funny, given how uppity a “tea shop” sounds), and they have way more varied aesthetics, which is great for refreshing a stale work routine that’s been restricted to subway-tiled, Mid-Century-Modern-themed coffee joints. Gregory's Coffee (various locations around Midtown) are great, as they have everything you're looking for. Beans and Berries was voted the best coffee in the Bronx by the Krups coffee company, and this new establishment has quickly become the go … The staff is so kind and the milk choices are so accommodating. #brightlights #bigcity #copper everywhere #birchlovesyou each and every one. Café Madame SouSou. A good café work space needs four things: passable coffee, snacks, Wi-Fi … 5. Reviews on Best Coffee Shops in Manhattan, NY - Bibble & Sip, Perk Kafe, Coffee Project New York, Stumptown Coffee Roasters, Ground Central, The Jolly Goat Coffee Bar, Bluestone Lane, Little Collins, Bird & Branch, Seven Grams Caffe, Blue Bottle… For the rest, there are cafés. They’re less snooty (which is funny, given how uppity a “tea shop” sounds), and they have way more varied aesthetics, which is great for refreshing a stale work routine that’s been restricted to subway-tiled, Mid-Century-Modern-themed coffee joints. Located in West Harlem, Manhattanville Coffee was founded with the idea of creating a neighborhood coffee shop with quality coffee & pastries in an environment designed to make everyone feel right at home. Bibble & Sip. Sure, I hardly ever stay in hotels, but hotel lobbies are often the best places to work. Coffee & Tea. 2.  Well, you can always take your work to Gotan, a comfy Tribeca spot where the food’s as good as the coffee. “This is one of the best coffee shops I've been to in a while. An ideal spot to meet for an afternoon meeting or post-work date, Black Fox opened in downtown Manhattan in 2016 and has become one of the city's most popular coffee joints since. Café Select. Tea shops expect you to sit around and work, just like coffee shops, but they’re a little more chill about it. 4. 10. Small Town Service. Central Cafe. Big City Coffee. 12. Caféine. 3. Ground Support. Ground Central Coffee Company. House of Small Wonder. 40 Wyckoff Ave. Bushwick. Originally Answered: What are the best coffee shops for working in Manhattan? Red Horse Café. 1. Max Caffé. (718) 821-1850. Ace Hotel Lobby Bar. 3. 4. A photo posted by Birch Coffee (@birchcoffee) on May ... 2. It is small and the seating is usually taken up but the coffee and the food is excellent.” read more. 14. 9. Double Dutch Espresso. Tea shops expect you to sit around and work, just like coffee shops, but they’re a little more chill about it. Fortunately, the city is also awash with spaces to suit myriad labor needs: coffee shops. Grounded Organic Coffee & Tea House. Described as a friendly East Village neighborhood cafe, The Roost offers a really warm,...  Sweatshop Coffee. 8. Café 474. About 5,000 of them work out of a certain hotel lobby on 29th Street. “Probably the best coffee i've ever had in my life. 6. 7. 7. ";s:7:"keyword";s:38:"best coffee shops to work in manhattan";s:5:"links";s:10489:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-far-to-provo-utah'>How Far To Provo Utah</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mustard-oil-benefits-in-cooking'>Mustard Oil Benefits In Cooking</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=honor-10-lite-carphone-warehouse'>Honor 10 Lite Carphone Warehouse</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-eat-garlic-for-erectile-dysfunction'>How To Eat Garlic For Erectile Dysfunction</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=can-i-use-victoria-secret-gift-card-at-bath-and-body-works-online'>Can I Use Victoria Secret Gift Card At Bath And Body Works Online</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=24-inch-cree-led-light-bar'>24 Inch Cree Led Light Bar</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=Sealy-bed-in-a-box'>Sealy Bed In A Box</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=good-food-channel-co-uk'>Good Food Channel Co Uk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-brunch-in-dubai-2018'>Best Brunch In Dubai 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=medicinal-uses-of-coconut-tree'>Medicinal Uses Of Coconut Tree</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=argos-dining-table-and-chairs-clearance'>Argos Dining Table And Chairs Clearance</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pressure-washer-pump-valve-kit'>Pressure Washer Pump Valve Kit</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ikea-bed-slats-curved-up-or-down'>Ikea Bed Slats Curved Up Or Down</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=master-bedroom-plans-with-bath-and-walk-in-closet'>Master Bedroom Plans With Bath And Walk In Closet</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-goldbergs-season-7-episode-7'>The Goldbergs Season 7 Episode 7</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=buffet-ideas-for-30-people'>Buffet Ideas For 30 People</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mint-app-not-working-on-iphone'>Mint App Not Working On Iphone</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=overgrown-garden-where-to-start'>Overgrown Garden Where To Start</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=healthy-breakfast-without-eggs-or-bread'>Healthy Breakfast Without Eggs Or Bread</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=authentic-chinese-pork-stir-fry-recipes'>Authentic Chinese Pork Stir Fry Recipes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=4-inch-surface-mount-led-lights'>4 Inch Surface Mount Led Lights</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=types-of-lights-used-in-interiors'>Types Of Lights Used In Interiors</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cross-country-ski-bindings-and-boots'>Cross Country Ski Bindings And Boots</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=celery-root-substitute-in-cooking'>Celery Root Substitute In Cooking</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=a-pair-of-shoes-meaning'>A Pair Of Shoes Meaning</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=population-of-fort-mcmurray-2018'>Population Of Fort Mcmurray 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=orientation-of-outdoor-swimming-pool'>Orientation Of Outdoor Swimming Pool</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ashley-furniture-credit-card-login'>Ashley Furniture Credit Card Login</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=snow-summit-bike-park-opening-day-2019'>Snow Summit Bike Park Opening Day 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wallpaper-and-borders-to-match'>Wallpaper And Borders To Match</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=2-person-reception-desk-dimensions'>2 Person Reception Desk Dimensions</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-much-alcohol-is-safe-to-drink-daily'>How Much Alcohol Is Safe To Drink Daily</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chinese-money-plant-propagation-from-leaf'>Chinese Money Plant Propagation From Leaf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=why-is-spider-silk-so-strong'>Why Is Spider Silk So Strong</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=another-word-for-loft-room'>Another Word For Loft Room</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=white-resin-folding-chairs-rental'>White Resin Folding Chairs Rental</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=christmas-ornament-storage-with-trays'>Christmas Ornament Storage With Trays</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lexington-nc-bbq-sauce-recipe'>Lexington Nc Bbq Sauce Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=home-depot-patio-furniture-clearance'>Home Depot Patio Furniture Clearance</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-secret-garden-movie-1993'>The Secret Garden Movie 1993</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=feng-shui-plants-in-bedroom'>Feng Shui Plants In Bedroom</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=electrical-appliance-repair-shop-near-me'>Electrical Appliance Repair Shop Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mid-century-modern-built-in-desk'>Mid Century Modern Built In Desk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bulletin-of-the-american-physical-society-2019'>Bulletin Of The American Physical Society 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=simplehuman-rechargeable-soap-dispenser-manual-pdf'>Simplehuman Rechargeable Soap Dispenser Manual Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=certified-pre-owned-aeron-chairs'>Certified Pre Owned Aeron Chairs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=man-of-tai-chi-review'>Man Of Tai Chi Review</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=extreme-eye-sensitivity-to-onions'>Extreme Eye Sensitivity To Onions</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=list-of-home-depot-stores'>List Of Home Depot Stores</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=commercial-pressure-washer-4000-psi'>Commercial Pressure Washer 4000 Psi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=royal-tyrrell-museum-2-for-1-coupons-2018'>Royal Tyrrell Museum 2 For 1 Coupons 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=50x50-carpet-tiles-price-philippines'>50x50 Carpet Tiles Price Philippines</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sany-char-kuey-teow-penang'>Sany Char Kuey Teow Penang</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=must-eat-restaurants-queens-ny'>Must Eat Restaurants Queens Ny</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=driftwood-coffee-table-with-rectangular-glass-top'>Driftwood Coffee Table With Rectangular Glass Top</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-rob-gronkowski-coming-back'>Is Rob Gronkowski Coming Back</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wiring-recessed-lights-in-parallel-diagram'>Wiring Recessed Lights In Parallel Diagram</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-can-you-do-in-ottawa-for-free'>What Can You Do In Ottawa For Free</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=restoration-chestnut-trees-for-sale'>Restoration Chestnut Trees For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=foot-powered-non-electric-washing-machine'>Foot Powered Non Electric Washing Machine</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=scary-movie-2-google-drive'>Scary Movie 2 Google Drive</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=solid-wood-platform-bed-no-headboard'>Solid Wood Platform Bed No Headboard</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pink-dining-chairs-with-chrome-legs'>Pink Dining Chairs With Chrome Legs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=art-size-above-full-bed'>Art Size Above Full Bed</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=Another-One-Bites-the-Dust'>Another One Bites The Dust</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=conclusion-for-organic-garden-project'>Conclusion For Organic Garden Project</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=healthy-guacamole-recipe-without-cilantro'>Healthy Guacamole Recipe Without Cilantro</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=na-reul-cha-ja-jwo'>Na Reul Cha Ja Jwo</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=custom-wood-sliding-closet-doors'>Custom Wood Sliding Closet Doors</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=honor-10-lite-battery-replacement'>Honor 10 Lite Battery Replacement</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=blueberry-fruit-in-tamil-meaning'>Blueberry Fruit In Tamil Meaning</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=homemade-yogurt-recipe-with-powdered-milk'>Homemade Yogurt Recipe With Powdered Milk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=Life-cycle-of-a-seed'>Life Cycle Of A Seed</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=urban-gardening-in-the-philippines-ppt'>Urban Gardening In The Philippines Ppt</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=swivel-glider-rocker-with-ottoman'>Swivel Glider Rocker With Ottoman</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=La-Vida-En-El-Campo'>La Vida En El Campo</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=william-sonoma-burlington-ma-closing'>William Sonoma Burlington Ma Closing</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=art-is-my-passion-quotes'>Art Is My Passion Quotes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=French-toast-with-fried-egg'>French Toast With Fried Egg</a>,
+";s:7:"expired";i:-1;}

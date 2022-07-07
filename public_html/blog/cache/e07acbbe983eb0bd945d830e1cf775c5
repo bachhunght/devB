@@ -1,0 +1,200 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3468:"The Scotsman Hotel, Edinburgh: 3,407 Hotel Reviews, 1,507 traveller photos, and great deals for The Scotsman Hotel, ranked #56 of 156 hotels in Edinburgh and rated 4 of 5 at TripAdvisor. Located in Edinburgh's Old Town neighborhood, The Scotsman Hotel is in the city center and near a train station. Edinburgh Playhouse Theatre and Edinburgh Castle are cultural highlights, and some of the area's notable landmarks include Royal Mile and Grassmarket. Book The Scotsman Hotel, Edinburgh on Tripadvisor: See 3,429 traveller reviews, 1,508 candid photos, and great deals for The Scotsman Hotel, ranked #51 of 154 hotels in Edinburgh and rated 4 of 5 at Tripadvisor. The hotel is located on a very busy main street. the Scotsman Hotel boasts individual features, including curved corner window bays with scenic views of the city and a marble-tiled en suite bathroom. See what's going on at Murrayfield Stadium or Musselburgh Racecourse. You must dine in the Grand Cafe as the food was superb and all the staff were more than accomodating especially Daniel who was also a good laugh. The Scotsman is a classy hotel fashioned out of the former headquarters of the Scotsman newspaper in Edinburgh. The Scotsman Hotel, Edinburgh: 3,427 Hotel Reviews, 1,507 traveller photos, and great deals for The Scotsman Hotel, ranked #52 of 155 hotels in Edinburgh and rated 4 of 5 at Tripadvisor. Most everything is within walking distance of the Scotsman Hotel. The Scotsman Hotel, Edinburgh: See 3,435 traveller reviews, 1,515 candid photos, and great deals for The Scotsman Hotel, ranked #51 of 154 hotels in Edinburgh and rated 4 of 5 at Tripadvisor. Book The Scotsman Hotel, Edinburgh on Tripadvisor: See 3,436 traveller reviews, 1,515 candid photos, and great deals for The Scotsman Hotel, ranked #51 of 154 hotels in Edinburgh … The building is a former printing house, and many of the original features are preserved, including an Italian marble staircase, ornate ceilings, and oak paneling. But back to the Scotsman Hotel. The Scotsman was a great choice of hotel. See 3,424 traveller reviews, 1,507 photos, and cheap rates for The Scotsman Hotel, ranked #53 of 155 hotels in Edinburgh and rated 4 of 5 at Tripadvisor. A beautiful building in a stunning city. Now HK$678 (Was H̶K̶$̶9̶4̶3̶) on Tripadvisor: The Scotsman Hotel, Edinburgh. Book The Scotsman Hotel, Edinburgh on Tripadvisor: See 3,424 traveller reviews, 1,507 candid photos, and great deals for The Scotsman Hotel, ranked #53 of 155 hotels in Edinburgh … The Scotsman is an upscale historic boutique located right off the Royal Mile, in the heart of the Old Town. With discounted parking at local secure car park, complimentary Wi-Fi and all the little extras you would expect from a 4 star boutique hotel, we look forward to welcoming you soon to The Scotsman Hotel. See 3,427 Hotel Reviews, 1,507 traveller photos, and great deals for The Scotsman Hotel, ranked #52 of 155 hotels in Edinburgh and rated 4 of 5 at Tripadvisor. Take a day tour to castles you will never forget. The Scotsman Hotel, Edinburgh: See 3,428 traveller reviews, 1,507 user photos and best deals for The Scotsman Hotel, ranked #51 of 154 Edinburgh hotels, rated 4 of 5 at Tripadvisor. The Hotel is in the middle of everything one would want to see during their stay. Situated a … The staff were all happy to help and very pleasant. If you are not into walking the city has a great bus system and the taxi's are very reasonable. ";s:7:"keyword";s:36:"the scotsman hotel edinburgh reviews";s:5:"links";s:2802:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chicken-legs-and-rice-casserole-with-cream-of-mushroom-soup'>Chicken Legs And Rice Casserole With Cream Of Mushroom Soup</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=nicole-randall-johnson-liberty-mutual'>Nicole Randall Johnson Liberty Mutual</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=demi-chef-de-partie-job-description-pdf'>Demi Chef De Partie Job Description Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=room-size-for-snooker-table-in-meters'>Room Size For Snooker Table In Meters</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-often-does-a-landlord-have-to-replace-carpet-in-illinois'>How Often Does A Landlord Have To Replace Carpet In Illinois</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=decoration-ideas-for-living-room-walls'>Decoration Ideas For Living Room Walls</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=furniture-stores-in-modesto-ca'>Furniture Stores In Modesto Ca</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-london-world-ranking'>University Of London World Ranking</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ikon-pass-promo-code-2020'>Ikon Pass Promo Code 2020</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ikea-coat-and-shoe-rack'>Ikea Coat And Shoe Rack</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-fantasy-sports-advice-sites'>Best Fantasy Sports Advice Sites</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=my-kitchen-rules-season-10-episode-19'>My Kitchen Rules Season 10 Episode 19</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=when-does-lowes-labor-day-sale-start-2019'>When Does Lowes Labor Day Sale Start 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=p21-4w-bulb-cross-reference'>P21 4w Bulb Cross Reference</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=table-talk-restaurant-alexandria-va'>Table Talk Restaurant Alexandria Va</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pottery-barn-vanities-look-alikes'>Pottery Barn Vanities Look Alikes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=samsung-washing-machine-front-loader'>Samsung Washing Machine Front Loader</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pre-made-meals-for-the-week'>Pre Made Meals For The Week</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cucumber-supports-only-on-eclipse-ide'>Cucumber Supports Only On Eclipse Ide</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=white-console-table-with-drawers-and-shelves'>White Console Table With Drawers And Shelves</a>,
+";s:7:"expired";i:-1;}

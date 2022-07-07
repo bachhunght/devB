@@ -1,0 +1,2 @@
+[27-Mar-2022 20:37:34 UTC] PHP Fatal error:  Class 'ParagonIE_Sodium_Core32_Curve25519' not found in /home/leontyna/public_html/wp-includes/sodium_compat/src/Core32/Ed25519.php on line 11
+[27-Mar-2022 20:37:40 UTC] PHP Fatal error:  Class 'ParagonIE_Sodium_Core32_Curve25519' not found in /home/leontyna/public_html/wp-includes/sodium_compat/src/Core32/Ed25519.php on line 11

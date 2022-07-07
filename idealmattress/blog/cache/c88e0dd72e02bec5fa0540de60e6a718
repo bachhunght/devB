@@ -1,0 +1,202 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4080:"You have to follow some steps we are sharing for you. How to make sure your digital images are suitable for print… Posted by Colin Higton. To make image higher resolution click “File > Open” button then you will see a browse window to browse the file from system. How to Make Photo High Resolution Using Photoshop Step 1: Run Photoshop on your computer and add the image which you want to make higher resolution. It is the best quality you can get today. Windows 10 Compresses Your Wallpaper, But You Can Make Them High Quality Again Walter Glenn @wjglenn October 25, 2016, 9:00am EDT By default, Windows 10 compresses JPEG pictures you use as your background, reducing it to around 85% of the original quality. Use Paint to produce items such as business cards, birthday cards and invitations. How to Make a High Resolution Picture on Mac Step 1: Open the image in preview which you want to make high resolution. Increasing the resolution on an image increases the number of pixels, making your image look sharper and more professional. How to Increase Resolution of Image in Photoshop For creating the high resolution images for the printing purpose or uploading digital images on different types of websites, Photoshop is the best tool. Go to imglarger.com – a free image resizing service using AI Upload your photo to the large box and create a free account with them Confirm your email and then pick the resize options below Pick the right type and 4x and Start your free image resize While our “enhanced” image cannot ever reclaim the detail of the original high-resolution image, we can, at a cursory glance, say that we’ve improved our image quality, both with the typography and with the photo of the girl. Please credit the National Archives as the original source.  But there’s lots more to know about how to make high resolution images so that they print or display properly on a web page. Creating high-resolution images is simple if you have the right tools. Framerate (FPS) is also very important - a high framerate (above 15 FPS) will make sure your GIF plays smoothly. Then, try a technique where you take a series of high-resolution overlapping shots and stitch them together in Photoshop. The Declaration of Independence High-Resolution Declaration Image (1.43 MB) This image is of the actual Declaration of Independence parchment. If you can, print the image with high-res photo paper to … Today’s editing software allows you to boost resolution to a certain extent, without compromising image quality. GIFs will generally look great up to a width of 640px when using 480p video. These images are in the public domain and no permission is required to use them. Make sure you have a channels panel open by going to Window > Channels. It is the most powerful image editing tool which is helpful in making the pictures better. How to Save Your PowerPoint Slides As High Resolution Images. There’s a free tool for that – Neural network image super-resolution and enhancement . Choose the image … Once the image is opened in Preview click the Bag icon from the main menu. Whether you use a digital camera, scanner or piece of computer software will dictate how high the resolution can be. Taking high-resolution photos starts with adjusting the settings on your camera, as you want it to pick up as many pixels as it can. ... With printed images, we must pay close attention to resolution to ensure we get a high-quality print. Today’s editing software allows you to boost resolution to a certain extent, without compromising image quality. Choose the location where you will save the high resolution image. There are two ways to find out whether the resolution of an image is high enough to print at the size you want: using math and using Photoshop (I’ll explain both). Tips & Tricks High-res or low-res? In other words: An image is the sum of its pixel parts. Learn how to create high resolution images for your Kindle or paperback book. Read more to learn how to download high resolution pictures. Not satisfied with these tricks? ";s:7:"keyword";s:34:"how to make high resolution images";s:5:"links";s:2982:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=southwest-airlines-new-orleans-terminal'>Southwest Airlines New Orleans Terminal</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-waterloo-ranking-engineering'>University Of Waterloo Ranking Engineering</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fresh-green-bean-casserole-with-cream-of-mushroom'>Fresh Green Bean Casserole With Cream Of Mushroom</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kitchen-gardening-seeds-in-lahore'>Kitchen Gardening Seeds In Lahore</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=virginia-film-festival-2019-dates'>Virginia Film Festival 2019 Dates</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=squaw-valley-tram-discount-tickets'>Squaw Valley Tram Discount Tickets</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-lens-for-hotel-photography'>Best Lens For Hotel Photography</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hgtv-dream-home-giveaway-2020'>Hgtv Dream Home Giveaway 2020</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=british-royal-family-net-worth-trillion'>British Royal Family Net Worth Trillion</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=woodland-shoes-price-in-india-2019'>Woodland Shoes Price In India 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=when-to-plant-collards-in-sc'>When To Plant Collards In Sc</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-ask-for-real-estate-referrals-on-facebook'>How To Ask For Real Estate Referrals On Facebook</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=second-hand-laura-ashley-curtains'>Second Hand Laura Ashley Curtains</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rubbermaid-premier-12-piece-set'>Rubbermaid Premier 12 Piece Set</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=duck-with-white-ring-around-neck'>Duck With White Ring Around Neck</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-ikea-coming-to-chennai'>Is Ikea Coming To Chennai</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=farmhouse-wall-decor-living-room'>Farmhouse Wall Decor Living Room</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=step-2-lifestyle-dream-kitchen-stickers'>Step 2 Lifestyle Dream Kitchen Stickers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=log-cabin-kitchens-and-baths'>Log Cabin Kitchens And Baths</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=quality-inn-park-city-kansas'>Quality Inn Park City Kansas</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=custom-canvas-print-with-words'>Custom Canvas Print With Words</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-ivy-chelsea-christmas-decorations'>The Ivy Chelsea Christmas Decorations</a>,
+";s:7:"expired";i:-1;}

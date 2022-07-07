@@ -1,0 +1,253 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3549:"Katalon Studio. You can learn more about the top API testing tools here. Katalon Studio: It is a robust and comprehensive automation tool for API, Web, and mobile testing. – A user Oct 3 '17 at 10:12 Pros I started using Katalon Studio a year ago and it serves the automation needs for the applications I use at my workplace. In the ‘Create New Web Service Request’ dialog, enter Name, Request Type, URL, and Description to … Among the strengths are a large number of integrations, the toolset, and relative simplicity of use. Pros :  Ease of use. It is well suited for quick automation and avoiding dependency on coding skilled resources. It has no licensing fee. I have read that you can import a selenium project to katalon studio and execute it which is really a cool feature, instead of migrating scripts from selenium to katalon which is expensive interms of time. For instance, Katalon Studio is a free tool with comparable features to commercial tools, or Postman is considered easy to setup and use compared the rest of commercial solutions. Katalon Studio is a free and robust automation solution for API, Web and Mobile testing. It integrates all necessary components with built-in keywords and project templates into a complete automation framework. It is not well suited for complex projects where high customization … One of the widely used open cross platform open source automation tools in the world. It integrates all necessary components with built-in keywords and project templates into a complete automation framework. The versatile features allow testers to enjoy better feasibility while performing testing. Select Object Repository => New => Web Service Request to create a new request. The prime requirement is of presence of a formalized “manual testing process” in the organization. keyword driven and data driven framework easy to start coded automation. Katalon Studio is an integrated environment to generate and execute API, Web-based GUI, and mobile apps automation tests. In the other company, they always use Katalon to build the principal test of the business that they need to run when there are changes. Easier for manual testers as well as automation testers/developers. What is Katalon Studio? It has a rich feature set for these types of testing and supports multiple platforms including Windows, Mac OS, and Linux. If you want to trust your automation must try katalon studio. They have their pros and cons and the choice of which tools to use depends on the needs and technical level of the users. Katalon Studio is easy-to-use for new users but still offers advanced capabilities for experienced users. At first glance, Katalon Studio has everything other tools lack.  Katalon studio is a free mobile and web test automation tools. Katalon Studio was set to be an affordable solution to deploy - learn - scale automation testing on all popular platforms. Lecturer and Researcher at a non-tech company with 10,001+ employees. Katalon Studio is a simple and powerful test automation solution for Mobile, Web, and API testing. Pros and Cons of Katalon Studio. Ease of use. Provides easy deployment by including all frameworks, ALM integrations, and plugins in one package. Katalon Studio Pros. The hassle-free deployment, quick setup and powerful built-in features of Katalon Studio make it more intuitive for the technically less … Pros & Cons Where's the catch: the cons of Selenium WebDriver It's a proprietary software that can automate testing for web, desktop, and mobile applications. ";s:7:"keyword";s:28:"katalon studio pros and cons";s:5:"links";s:9739:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=carpet-or-hardwood-on-second-floor'>Carpet Or Hardwood On Second Floor</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=most-popular-pottery-barn-rugs'>Most Popular Pottery Barn Rugs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=raised-bed-vs-in-ground-garden'>Raised Bed Vs In Ground Garden</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lowes-peel-and-stick-vinyl-wallpaper'>Lowes Peel And Stick Vinyl Wallpaper</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-flowers-are-safe-for-cats'>What Flowers Are Safe For Cats</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=millionaire-shortbread-recipe-jamie-oliver'>Millionaire Shortbread Recipe Jamie Oliver</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=who-won-family-food-fight-2019'>Who Won Family Food Fight 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=zz-top-la-grange-live'>Zz Top La Grange Live</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lg-washing-machine-in-pakistan'>Lg Washing Machine In Pakistan</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=village-at-the-summit-snoqualmie'>Village At The Summit Snoqualmie</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=104-lucky-lane-andalusia-al'>104 Lucky Lane Andalusia Al</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cera-taps-price-list-2019'>Cera Taps Price List 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=industrial-hoover-hire-for-dust'>Industrial Hoover Hire For Dust</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bbq-sauce-on-pizza-reddit'>Bbq Sauce On Pizza Reddit</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=whirlpool-service-center-phone-number'>Whirlpool Service Center Phone Number</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ge-refrigerator-control-board-reset'>Ge Refrigerator Control Board Reset</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-much-chlorine-to-add-to-pool-first-time'>How Much Chlorine To Add To Pool First Time</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=comforting-messages-for-a-friend-who-is-sad'>Comforting Messages For A Friend Who Is Sad</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-increase-excitement-in-female'>How To Increase Excitement In Female</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sack-of-rice-meaning-in-tamil'>Sack Of Rice Meaning In Tamil</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=industrial-vacuum-cleaners-for-sale'>Industrial Vacuum Cleaners For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=carne-asada-fries-del-taco'>Carne Asada Fries Del Taco</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=most-popular-cheese-in-germany'>Most Popular Cheese In Germany</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=four-seasons-vail-live-music'>Four Seasons Vail Live Music</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-is-brandy-made-from'>What Is Brandy Made From</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=800-sq-ft-apartment-design'>800 Sq Ft Apartment Design</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=The-Story-of-an-Hour'>The Story Of An Hour</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-hang-superfresco-wallpaper'>How To Hang Superfresco Wallpaper</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ski-resorts-close-to-geneva-by-train'>Ski Resorts Close To Geneva By Train</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-kfc-chicken-batter'>How To Make Kfc Chicken Batter</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=johnson-hardware-double-pocket-door'>Johnson Hardware Double Pocket Door</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=big-sky-volleyball-standings-2019'>Big Sky Volleyball Standings 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-deal-with-condescending-coworkers'>How To Deal With Condescending Coworkers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=radisson-collection-hotel-royal-mile-edinburgh'>Radisson Collection Hotel Royal Mile Edinburgh</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=birds-nest-fern-bacterial-blight'>Birds Nest Fern Bacterial Blight</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-oxford-logo-branding'>University Of Oxford Logo Branding</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=canvas-painting-price-in-india'>Canvas Painting Price In India</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=small-mosaic-outdoor-side-table'>Small Mosaic Outdoor Side Table</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-to-buy-kohler-parts'>Where To Buy Kohler Parts</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=modern-built-in-tv-wall-unit-designs-2018'>Modern Built In Tv Wall Unit Designs 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=luxury-interior-design-brochure-pdf'>Luxury Interior Design Brochure Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wardrobe-designs-for-small-bedroom-with-mirror'>Wardrobe Designs For Small Bedroom With Mirror</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sing-a-song-in-hindi'>Sing A Song In Hindi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=white-console-table-with-storage'>White Console Table With Storage</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=in-the-shadow-of-the-moon-imdb'>In The Shadow Of The Moon Imdb</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-thing-i-ever-ate-florida'>Best Thing I Ever Ate Florida</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hotels-melrose-ave-roanoke-va'>Hotels Melrose Ave Roanoke Va</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=led-lights-for-room-home-depot'>Led Lights For Room Home Depot</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dark-brown-nightstand-set-of-2'>Dark Brown Nightstand Set Of 2</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=roper-refrigerator-parts-near-me'>Roper Refrigerator Parts Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-scotsman-hotel-edinburgh-reviews'>The Scotsman Hotel Edinburgh Reviews</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kubota-harvester-price-in-odisha-2019'>Kubota Harvester Price In Odisha 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-haunting-in-connecticut-ectoplasm'>The Haunting In Connecticut Ectoplasm</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ottoman-tray-with-cup-holders'>Ottoman Tray With Cup Holders</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philips-beauty-hair-styling-set'>Philips Beauty Hair Styling Set</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=new-construction-ranch-homes-in-macomb-county-mi'>New Construction Ranch Homes In Macomb County Mi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=big-lots-carpet-cleaner-rental-coupon'>Big Lots Carpet Cleaner Rental Coupon</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=village-of-oak-park-phone-number'>Village Of Oak Park Phone Number</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=difference-between-crustose-and-foliose-lichen'>Difference Between Crustose And Foliose Lichen</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=richard-brake-night-king-vs-vladimir'>Richard Brake Night King Vs Vladimir</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hitachi-customer-care-no-india'>Hitachi Customer Care No India</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kulcha-king-karama-telephone-number'>Kulcha King Karama Telephone Number</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=why-marigold-is-not-a-flower'>Why Marigold Is Not A Flower</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=samsung-tv-cracked-screen-repair'>Samsung Tv Cracked Screen Repair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rubbermaid-12-cup-storage-container'>Rubbermaid 12 Cup Storage Container</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=healthy-weeknight-dinners-for-families'>Healthy Weeknight Dinners For Families</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=james-martin-father-brian-turner'>James Martin Father Brian Turner</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hoover-twin-tank-handheld-steam-cleaner-instructions'>Hoover Twin Tank Handheld Steam Cleaner Instructions</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=new-dvd-releases-june-4'>New Dvd Releases June 4</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=victoria-university-of-wellington-jobs'>Victoria University Of Wellington Jobs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-request-feedback-from-coworkers-email-template'>How To Request Feedback From Coworkers Email Template</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=torres-del-paine-national-park-hotels'>Torres Del Paine National Park Hotels</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-over-the-toilet-storage'>Best Over The Toilet Storage</a>,
+";s:7:"expired";i:-1;}

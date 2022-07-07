@@ -1,0 +1,217 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3521:"Average cost to repair a swimming pool leak is about $1,000. Be sure no one is in the pool when you attempt to remove the drain, as the suction can cause drowning. Not to many companies are able to perform a main drain pressure test to customers because it requires to scuba to the bottom of the pool multiple times to plug the pipe and perform tests. After pressure testing the rest of the plumbing lines to ensure they are sound, induce air into the equipment end of the main drain line until you see it bubble out of the main drain. Additional pressure testing may be necessary for a main drain, caretaker floor jets, or low returns. POOL MAINTENANCE Pool Maintenance How a Pool Works Opening Your Pool Closing Your Pool Weekly Maintenance. Then, close the valve on your pressure tester. In This Article: Safe Pool Drains Pressure-Relief Valve Pool Inlets A pool’s so-called main drain is not actually a drain; that is, it is not used to drain the pool. The main drain of an in-ground swimming pool is one of the most crucial parts of the pool’s mechanics. Plumbing and Pipe Leaks can only be detected by a pressure test on each line or a meter test, ... and you neither have to drain the pool, nor get wet. Use the attached pressure test tool to put water in the PVC lines. You can pressure test the main drain line without plugging it first. If after this time the pressure in the pipe has not dropped below 2.95 inches, the pipe is sealed correctly. Pressure tests include all standard suction and return lines. Do the same for the toilet flanges and drains. The pool usually has to be drained completely, and the job involves destroying concrete and plaster to …  Insert them into the T-fittings and inflate the balloons with an air pump to block the end of the pipe. The way to do this is to put compressed air on the line until bubbles come out of the main drain. Swimming Pool Main Drain Leaks can destroy your summer. Alternatively, for small liner 2 punctures, liner 2 patch kits cost between $10 and $12. Then plug the pool returns, other skimmers, and the main drain, whatever pool pipes you want to test. Block the ends of all drain, waste and vent pipe fittings (known in the industry as DWV lines) with test balloons. Install a pressure test plug in each return, skimmer and main drain. Test either the entire system at once or each PVC line separately. $29.99 Aussie Gold Pool Pole Saw Pruner - Fits Standard Pool Telepoles Easy Connection. 3. An improperly functioning or broken drain can be an owner’s worst nightmare because usually the pool must be completely drained and the concrete or plaster at the bottom must be destroyed in … If you have a clog in your inground pool main drain, you will need to clear it. Open the control valve and allow the pressure to drop so the manometer reads 3.93 inches. A main pool drain leak can be a repair technician's nightmare. Swimming Pool Main Drain Pressur ... Aussie Gold 4 in 1 Test Kit - CHLORINE ALK PH Pool Spa Professional Heavy Duty. If you have any concerns of this problem at your home, give us a call as quickly as possible to stop further damage to your equipment! X 1.5in. BUILDING A POOL ... SP1070TPK Pressure Test Plug Kit (SP1070TPK) Replacement Parts Add item to wish list The store has encountered … threaded reducer to the skimmer, again with Teflon tape to prevent any pressure loss. Instead, it is an outlet, housing a pipe that runs to the pump, which sucks water through a skimmer, then through a filter, then through … ";s:7:"keyword";s:36:"how to pressure test pool main drain";s:5:"links";s:4983:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=landscape-and-urban-planning-pdf'>Landscape And Urban Planning Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-use-wagner-power-sprayer-120'>How To Use Wagner Power Sprayer 120</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=charles-and-ray-eames-modernism'>Charles And Ray Eames Modernism</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=black-gram-meaning-in-malayalam'>Black Gram Meaning In Malayalam</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=storms-in-the-pacific-right-now'>Storms In The Pacific Right Now</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=van-gogh-blossom-wallpaper-uk'>Van Gogh Blossom Wallpaper Uk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pottery-barn-anywhere-chair-size-comparison'>Pottery Barn Anywhere Chair Size Comparison</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=portes-du-soleil-opening-dates'>Portes Du Soleil Opening Dates</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=imam-bayildi-recipe-with-meat'>Imam Bayildi Recipe With Meat</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=light-dinner-recipes-vegetarian-indian'>Light Dinner Recipes Vegetarian Indian</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=walmart-ecommerce-personal-shopper-job-description'>Walmart Ecommerce Personal Shopper Job Description</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=jacob-perkins-bristol-ct-obituaries'>Jacob Perkins Bristol Ct Obituaries</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-channel-is-my-kitchen-rules-on'>What Channel Is My Kitchen Rules On</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=i-still-see-you-sequel'>I Still See You Sequel</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=gym-workout-images-free-download'>Gym Workout Images Free Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=diy-bench-cushion-no-plywood'>Diy Bench Cushion No Plywood</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=second-hand-wooden-doors-for-sale-durban'>Second Hand Wooden Doors For Sale Durban</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=breakfast-with-santa-ikea-sheffield-7-december'>Breakfast With Santa Ikea Sheffield 7 December</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lake-tahoe-weather-november-2019'>Lake Tahoe Weather November 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=modern-garage-doors-home-depot'>Modern Garage Doors Home Depot</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-cook-long-grain-rice'>How To Cook Long Grain Rice</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=murphy-bed-with-tv-on-back'>Murphy Bed With Tv On Back</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=food-for-the-soul-saying'>Food For The Soul Saying</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=karisakattu-poove-en-avanai-mp3-song-free-download'>Karisakattu Poove En Avanai Mp3 Song Free Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=small-bayonet-led-dimmable-candle-bulbs'>Small Bayonet Led Dimmable Candle Bulbs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=events-in-sharm-el-sheikh-2019'>Events In Sharm El Sheikh 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=quotes-on-healthy-and-junk-food'>Quotes On Healthy And Junk Food</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=good-inexpensive-italian-restaurants-near-me'>Good Inexpensive Italian Restaurants Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=home-bargains-toys-r-us'>Home Bargains Toys R Us</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=faith-hill-chicken-and-dumplings'>Faith Hill Chicken And Dumplings</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-owensboro-public-schools-closed-tomorrow'>Is Owensboro Public Schools Closed Tomorrow</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=deep-seating-replacement-cushions-for-indoor-furniture'>Deep Seating Replacement Cushions For Indoor Furniture</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ornamental-plants-in-india-pdf'>Ornamental Plants In India Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=healthy-broccoli-recipes-main-dish'>Healthy Broccoli Recipes Main Dish</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=alan-walker-on-my-way-download'>Alan Walker On My Way Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ikea-glenn-bar-stool-review'>Ikea Glenn Bar Stool Review</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=easy-dum-aloo-recipe-in-hindi'>Easy Dum Aloo Recipe In Hindi</a>,
+";s:7:"expired";i:-1;}

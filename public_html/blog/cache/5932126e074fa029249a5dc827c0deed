@@ -1,0 +1,254 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:1723:"Amazon wird wohl den Silk Browser und auch Firefox auf den Echo Show bringen. Dies bringt neue Möglichkeiten mit. Amazon hat den Silk Browser für deutsche Fire-TV-Geräte freigegeben und auch der Firefox ist mittlerweile aufgeschlagen. Hier Firefox. Bisher verschenkt der Amazon Echo Show viel von seinem Potential. Erste Nutzer scheinen die Browser bereits durch die neue Firmware zu testen. Das könnte sich aber nun bald ändern… Bisher kann man auf den Bildschirm vom Echo Show z.  Vergrößern Als Browser stehen Firefox und Silk zur Verfügung. Want to browse: The Echo Show is equipped with Firefox and Amazon's Silk browser, which you can use to surf the web. Exclusive: Amazon Silk and Firefox browsers are coming to the Amazon Echo Show It seems as if Amazon is engaged on bringing not one, however two absolutely purposeful internet browsers to their touchscreen-equipped Echo Present good speaker. Denn wirklich viele Mehrwerte für das integrierte Display gibt es bisher nicht. There’s a new partnership with Hulu, too. If you own an Amazon Echo Show, you'll be glad to know that the company has added a browser to its smart-speaker-with-a-screen. Mainly, however, they're useful for pulling up YouTube videos. With the right settings, this display-enabled assistant is capable of much more. Wie bei allen Echos können Sie auch mit Echo Show bei Amazon einkaufen. But that's not all the Amazon Echo Show has to offer. Hierbei soll es sich um Silk und FireFox handeln. Ersten Hinweisen zufolge, stattet Amazon seinen Amazon Echo Show gerade mit zwei Browsern aus. B. Trailer von Amazon Prime Video schauen oder Rezepte in der Küche anzeigen lassen. Amazon will also be adding Silk and Firefox browsers. ";s:7:"keyword";s:32:"amazon silk vs firefox echo show";s:5:"links";s:10068:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=types-of-software-architecture-models'>Types Of Software Architecture Models</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lexington-ma-chamber-of-commerce-summer-concerts'>Lexington Ma Chamber Of Commerce Summer Concerts</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=catering-assistant-duties-in-school'>Catering Assistant Duties In School</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=karcher-1900-psi-pressure-washer-manual'>Karcher 1900 Psi Pressure Washer Manual</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sweden-permanent-residence-permit-benefits'>Sweden Permanent Residence Permit Benefits</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=10-benefits-of-green-vegetables'>10 Benefits Of Green Vegetables</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=antique-claw-foot-table-value'>Antique Claw Foot Table Value</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-ski-resorts-in-the-world-2019'>Best Ski Resorts In The World 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=outdoor-pool-table-for-sale-near-me'>Outdoor Pool Table For Sale Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=swimming-pool-construction-cost-in-kerala'>Swimming Pool Construction Cost In Kerala</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fort-st-john-canada-weather'>Fort St John Canada Weather</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=veg-dum-biryani-in-cooker'>Veg Dum Biryani In Cooker</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pruning-fiddle-leaf-fig-youtube'>Pruning Fiddle Leaf Fig Youtube</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=box-up-meaning-in-hindi'>Box Up Meaning In Hindi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=handbags-on-sale-online-shopping'>Handbags On Sale Online Shopping</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=new-condos-st-augustine-fl'>New Condos St Augustine Fl</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=evolution-by-artificial-selection-in-wild-cabbage'>Evolution By Artificial Selection In Wild Cabbage</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=small-computer-desk-with-drawers'>Small Computer Desk With Drawers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=quotes-about-prints-in-fashion'>Quotes About Prints In Fashion</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=beddinge-cover-for-sleeper-sofa'>Beddinge Cover For Sleeper Sofa</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=global-furniture-office-chair-partspictures-of-old-factory-buildings'>Global Furniture Office Chair Partspictures Of Old Factory Buildings</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=national-society-of-white-engineers'>National Society Of White Engineers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=md-room-back-wall-design'>Md Room Back Wall Design</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=conclusion-for-organic-garden-project'>Conclusion For Organic Garden Project</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=toshiba-satellite-windows-7-intel-core-i3'>Toshiba Satellite Windows 7 Intel Core I3</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=crate-training-an-older-dog'>Crate Training An Older Dog</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-linkedin-learning-worth-it'>Is Linkedin Learning Worth It</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=does-wyndham-own-smugglers-notch'>Does Wyndham Own Smugglers Notch</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lexington-bbq-festival-vendor-application'>Lexington Bbq Festival Vendor Application</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=car-ac-gas-cylinder-price'>Car Ac Gas Cylinder Price</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-an-avocado-a-nut'>Is An Avocado A Nut</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-is-goat-meat-called'>What Is Goat Meat Called</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=moffat-dumfries-and-galloway-united-kingdom-upcoming-events'>Moffat Dumfries And Galloway United Kingdom Upcoming Events</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=keke-palmer-songs-mp3-download'>Keke Palmer Songs Mp3 Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=oak-sleigh-bed-with-storage'>Oak Sleigh Bed With Storage</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=samsung-refrigerator-parts-fan-motor'>Samsung Refrigerator Parts Fan Motor</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=beauty-and-the-beast-2017-cast'>Beauty And The Beast 2017 Cast</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=boreal-mountain-california-19749-boreal-ridge-rd-soda-springs-ca-95728'>Boreal Mountain California 19749 Boreal Ridge Rd Soda Springs Ca 95728</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=used-end-tables-for-sale'>Used End Tables For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=opening-up-the-wardrobe-a-methods-book'>Opening Up The Wardrobe A Methods Book</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=clayton-homes-with-wrap-around-porch'>Clayton Homes With Wrap Around Porch</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-alloy-of-law-review'>The Alloy Of Law Review</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dry-cleaning-couch-cushion-covers'>Dry Cleaning Couch Cushion Covers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=jeld-wen-impact-entry-doors'>Jeld Wen Impact Entry Doors</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=words-to-describe-traffic-jam'>Words To Describe Traffic Jam</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=refrigerator-stopped-working-no-light'>Refrigerator Stopped Working No Light</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-check-matrix-mobile-number'>How To Check Matrix Mobile Number</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=slate-floor-tiles-for-sale'>Slate Floor Tiles For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=can-i-use-curry-sauce-instead-of-curry-paste'>Can I Use Curry Sauce Instead Of Curry Paste</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=saryn-prime-fashion-frame-reddit'>Saryn Prime Fashion Frame Reddit</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=office-in-a-small-city'>Office In A Small City</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-big-were-the-walls-of-jericho'>How Big Were The Walls Of Jericho</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sunday-brunch-new-milford-ct'>Sunday Brunch New Milford Ct</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=which-williams-sonoma-stores-are-closing'>Which Williams Sonoma Stores Are Closing</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=creative-wall-painting-ideas-for-living-room'>Creative Wall Painting Ideas For Living Room</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=buttermilk-fried-chicken-finished-in-oven'>Buttermilk Fried Chicken Finished In Oven</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=powerstroke-pressure-washer-2200-oil-type'>Powerstroke Pressure Washer 2200 Oil Type</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-far-is-hatch-new-mexico'>How Far Is Hatch New Mexico</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=outdoor-pool-table-for-sale-near-me'>Outdoor Pool Table For Sale Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=advantages-and-disadvantages-of-factory-system'>Advantages And Disadvantages Of Factory System</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=german-residence-permit-for-spouse'>German Residence Permit For Spouse</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rift-sawn-vs-quarter-sawn-oak'>Rift Sawn Vs Quarter Sawn Oak</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mid-century-modern-lighting-reproductions'>Mid Century Modern Lighting Reproductions</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=shopee-home-and-living-fair'>Shopee Home And Living Fair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=godrej-slimline-3-door-with-overhead'>Godrej Slimline 3 Door With Overhead</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=virginia-film-festival-2019-dates'>Virginia Film Festival 2019 Dates</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-much-does-it-cost-to-maintain-an-olympic-size-pool'>How Much Does It Cost To Maintain An Olympic Size Pool</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cloth-cupboard-price-in-sri-lanka'>Cloth Cupboard Price In Sri Lanka</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-public-enemy-movie-message'>The Public Enemy Movie Message</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=good-morning-boxing-day-images'>Good Morning Boxing Day Images</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=samsung-wobble-washing-machine-10kg'>Samsung Wobble Washing Machine 10kg</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hair-salon-quotes-for-business-cards'>Hair Salon Quotes For Business Cards</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dessert-recipes-with-pancake-mix'>Dessert Recipes With Pancake Mix</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ikea-play-kitchen-refrigerator-hack'>Ikea Play Kitchen Refrigerator Hack</a>,
+";s:7:"expired";i:-1;}

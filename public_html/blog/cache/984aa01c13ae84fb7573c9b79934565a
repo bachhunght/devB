@@ -1,0 +1,200 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3097:"It is next to the ski school, lifts and in the center of the village restaurants and shops. The four-foot-deep pool at the Park Hyatt Beaver Creek is open year round. Now $399 (Was $̶1̶,̶3̶8̶5̶) on Tripadvisor: Park Hyatt Beaver Creek Resort and Spa, Avon. ... Map 136 East Thomas Place, Beaver Creek, Colorado, United States, 81620-1595 Call +1 970 949 1234 4.5 Stars 590 Reviews. Book the Park Hyatt Beaver Creek Resort and Spa - Stay at this 5-star luxury resort in Avon. With sweeping views from the base of Beaver Creek Mountain, Park Hyatt Beaver Creek Resort and Spa offers guests a luxurious year-round escape in Colorado’s Vail Valley. There is no lifeguard on duty. After a day of activity, guests can enjoy the sauna and hot tub at Park Hyatt Resort Beaver Creek. Children can use all but one of the five outdoor hot tubs. Select rooms feature mountain views at Park Hyatt Beaver Creek Resort. In the summer months, the base of Beaver Creek Mountain -- just outside the Park Hyatt -- is a hotbed of activity for families. Park Hyatt Beaver Creek Resort and Spa, Avon: See 1,575 traveller reviews, 1,061 user photos and best deals for Park Hyatt Beaver Creek Resort and Spa, ranked #3 of 9 Avon hotels, rated 4.5 of 5 at Tripadvisor. Book Park Hyatt Beaver Creek Resort and Spa, Avon on TripAdvisor: See 1,552 traveler reviews, 1,052 candid photos, and great deals for Park Hyatt Beaver Creek Resort and Spa, ranked #2 of 9 hotels in Avon and rated 4.5 of 5 at TripAdvisor. A hotel's guest rating is calculated using data provided under license by TripAdvisor. As a ski-in, ski-out property, the Park Hyatt Beaver Creek naturally has a ski valet, where you can store your equipment overnight and pick it up before hitting the mountain. Book Park Hyatt Beaver Creek Resort and Spa, Avon on Tripadvisor: See 1,570 traveler reviews, 1,061 candid photos, and great deals for Park Hyatt Beaver Creek Resort and Spa, ranked #2 of 9 hotels in Avon and rated 4.5 of 5 at Tripadvisor. The four-foot-deep pool at the Park Hyatt Beaver Creek is open year round. Literally. Hyatt | World of Hyatt - Park Hyatt Beaver Creek, Colorado REVIEW - MASTER THREAD - I thought I saw someone booked a December stay. Park Hyatt Beaver Creek Resort and Spa is ranked by U.S. News as one of the Best Hotels in the USA for 2020. As a ski-in, ski-out property, the Park Hyatt Beaver Creek naturally has a ski valet, where you can store your equipment overnight and pick it up before hitting the mountain. Book Park Hyatt Beaver Creek Resort and Spa, Avon on TripAdvisor: See 1,532 traveller reviews, 1,047 candid photos, and great deals for Park Hyatt Beaver Creek Resort and Spa, ranked #2 of 9 hotels in Avon and rated 4.5 of 5 at TripAdvisor. Book Park Hyatt Beaver Creek Resort and Spa, Avon on TripAdvisor: See 1,553 traveler reviews, 1,052 candid photos, and great deals for Park Hyatt Beaver Creek Resort and Spa, ranked #2 of 9 hotels in Avon and rated 4.5 of 5 at TripAdvisor.  114 reviews of Park Hyatt Beaver Creek Resort and Spa "We went for our new years vacation, and everything was perfect. ";s:7:"keyword";s:31:"park hyatt beaver creek reviews";s:5:"links";s:2726:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=woburn-ma-things-to-do'>Woburn Ma Things To Do</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=boiling-water-in-microwave-explosion'>Boiling Water In Microwave Explosion</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=indian-food-menu-with-pictures'>Indian Food Menu With Pictures</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=adding-a-bathroom-to-a-shed'>Adding A Bathroom To A Shed</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-is-melrose-abbey-located-in-scotland'>Where Is Melrose Abbey Located In Scotland</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=War-as-I-Knew-it'>War As I Knew It</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=enclosed-tv-cabinet-with-doors'>Enclosed Tv Cabinet With Doors</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=melissa-and-doug-dish-set'>Melissa And Doug Dish Set</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sour-cream-chicken-enchiladas-allrecipes'>Sour Cream Chicken Enchiladas Allrecipes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=procedure-for-allotment-of-shares-to-existing-shareholders-under-companies-act-2013'>Procedure For Allotment Of Shares To Existing Shareholders Under Companies Act 2013</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-fast-food-chicken-sandwich-2019'>Best Fast Food Chicken Sandwich 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-a-plywood-shed-door'>How To Make A Plywood Shed Door</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=merriam-webster-dictionary-of-synonyms-and-antonyms-pdf'>Merriam Webster Dictionary Of Synonyms And Antonyms Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=vertical-garden-plants-in-india'>Vertical Garden Plants In India</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wayfair-corporate-office-contact-number'>Wayfair Corporate Office Contact Number</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hyatt-centric-park-city-rental'>Hyatt Centric Park City Rental</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cute-desk-chair-no-wheels'>Cute Desk Chair No Wheels</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cute-bathroom-ideas-for-apartments'>Cute Bathroom Ideas For Apartments</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-restaurants-in-usa-2019'>Best Restaurants In Usa 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=words-new-yorkers-say-differently'>Words New Yorkers Say Differently</a>,
+";s:7:"expired";i:-1;}

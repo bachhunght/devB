@@ -1,0 +1,270 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3615:"If you want a specific brand of alcohol, make sure to let them know, otherwise, they’ll assume you want the well. Customize the sort order of Tasks in the To-Do Bar. At the top of the To-Do Bar's tasks area, click Arrange by: Flag: Due Date, then select Arrange By to change how tasks are organized. What are some great drinks to order at an open bar wedding? 204 comments.  The following rule is stated in dealing center 3: If differently directed market orders are opened for one symbol, the smaller integrated cost of one-direction orders is released for trading and increases the amount of free assets (this rule is not applicable for all dealing centers). One of the most challenging things to get right when opening a new bar is your ordering procedures.Once you’ve been open for business for an extended period of time, you’ll have a sense of what your customers typically order, making it easier to ensure you have the right amount of every product on-hand at all times. Knowing how to order mixed drinks at the bar is very important. Avoid getting something that you don't want. This article provides tips on how to open a bar. save hide report. Let's open a Buy order of 1 lot in dealing center 3. Not surprisingly, this means people tend to order more drinks. Photo by Apaige Photography. Before you order a drink at a bar, decide what you want to drink. When opening a new bar business, careful planning will go a long way to ensuring the success of the venture. You can choose a mixed drink, like rum and Coke, read through the bar’s cocktail or wine menu, or you can choose a beer from the bar taps or bottles behind the bar. If you’re running or looking for a bar catering service, you’ll need to figure out what to serve at your event bar. Pay specific attention when choosing your location, differentiating your bar from competitors, securing your liquor … get the Order Open Time - OOT - (in seconds), get the current time - Bar 0, Subtract the next bar time value (say it is 15 min chart and next candle value is the 45 minute candle) form the current TimeMinute value. You're at an open bar event. Experienced caterers, mobile bartenders and bar catering companies often have a sense for what they need or have developed a formula to make sure they buy the right amount of … You're at an open bar event. It’s easy on the bartenders, too.” Drinks to Avoid In general: anything too complicated and anything too boozey. My uncle said he paid a (apparently big) flat fee for an open bar during the whole thing. A bar tab is a way to pay for your nights drinking all at once, instead of making individual transactions after each drink (or round of drinks) The main benefit of this is when paying with card and not cash. What drink do you order? According to Chris Dalaku of Jeffrey’s in Austin, “Most open bars are limited in their selections, but a G&T is almost always available. Since attendees aren’t paying for drinks, they aren’t as concerned about abandoning them, forgetting them or having a few more than they would if they were paying themselves. I'm a broke college student going to my cousin's wedding in a couple weeks. I usually go for 7&7 or Whiskey Ginger. 91% Upvoted. If you want to customize the sort order of task items in the To-Do Bar, use the following steps. - If the Buy (or Sell) condition is right, it will open 1 order per 1 bar (new bar new 1 order) - If Close condition is right, it will close all orders of the pair that opened order - After close order, it can open new order after that (include the bar that close order):) jordantran: Hi. ";s:7:"keyword";s:25:"what to order at open bar";s:5:"links";s:12114:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dhaba-mutton-curry-recipe-in-hindi'>Dhaba Mutton Curry Recipe In Hindi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-oregon-acceptance-rate-out-of-state'>University Of Oregon Acceptance Rate Out Of State</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=heavy-duty-wood-screen-doors'>Heavy Duty Wood Screen Doors</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mainstays-adjustable-height-barstool-instructions'>Mainstays Adjustable Height Barstool Instructions</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ideal-standard-toilet-seat-fitting-instructions'>Ideal Standard Toilet Seat Fitting Instructions</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=i-love-u-images-for-whatsapp'>I Love U Images For Whatsapp</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=summer-flower-seeds-in-pakistan'>Summer Flower Seeds In Pakistan</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=redfin-1-listing-fee-review'>Redfin 1 Listing Fee Review</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=vinegar-based-bbq-sauce-recipe'>Vinegar Based Bbq Sauce Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=discover-financial-services-human-resources-phone-number'>Discover Financial Services Human Resources Phone Number</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=feature-wall-paint-ideas-living-room'>Feature Wall Paint Ideas Living Room</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rubbermaid-1304-utility-cart-wheels'>Rubbermaid 1304 Utility Cart Wheels</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=generac-3200-psi-pressure-washer-manual'>Generac 3200 Psi Pressure Washer Manual</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-defrost-samsung-ice-maker'>How To Defrost Samsung Ice Maker</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-pork-red-or-white-meat-uk'>Is Pork Red Or White Meat Uk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dirt-devil-vacuum-bags-type-o'>Dirt Devil Vacuum Bags Type O</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kroger-ad-11-20-19'>Kroger Ad 11 20 19</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mercedes-amg-petronas-2019-team-rain-jacket'>Mercedes Amg Petronas 2019 Team Rain Jacket</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=tahoe-meadows-snow-play-area'>Tahoe Meadows Snow Play Area</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-italian-restaurants-in-the-bronx'>Best Italian Restaurants In The Bronx</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=taste-of-home-mostaccioli-with-meatballs'>Taste Of Home Mostaccioli With Meatballs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=melissa-and-doug-chef-kitchen-cloud'>Melissa And Doug Chef Kitchen Cloud</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=grey-dust-on-bottom-of-pool'>Grey Dust On Bottom Of Pool</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chicken-wings-and-rice-restaurant'>Chicken Wings And Rice Restaurant</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=christopher-lloyd-back-to-the-future'>Christopher Lloyd Back To The Future</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=raymour-and-flanigan-labor-day-sale-2019'>Raymour And Flanigan Labor Day Sale 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-report-fake-reviews-on-glassdoor'>How To Report Fake Reviews On Glassdoor</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=benefits-of-eating-dry-fruits-daily'>Benefits Of Eating Dry Fruits Daily</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=landscaping-ideas-for-shaded-back-of-house'>Landscaping Ideas For Shaded Back Of House</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=worst-bakers-in-america-recipes'>Worst Bakers In America Recipes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=king-soopers-lift-tickets-2019'>King Soopers Lift Tickets 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=herman-miller-embody-weight-limit'>Herman Miller Embody Weight Limit</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=father-brown-new-series-2019'>Father Brown New Series 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=garlic-growing-season-in-pakistan'>Garlic Growing Season In Pakistan</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=most-famous-restaurants-in-paris'>Most Famous Restaurants In Paris</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kitchen-doors-and-drawer-fronts'>Kitchen Doors And Drawer Fronts</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=when-trumpets-fade-historical-accuracy'>When Trumpets Fade Historical Accuracy</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=are-harbor-freight-reviews-real'>Are Harbor Freight Reviews Real</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=i-said-i-love-you-google'>I Said I Love You Google</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=7117-6th-ave-tahoma-ca'>7117 6th Ave Tahoma Ca</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=houses-for-rent-in-renton'>Houses For Rent In Renton</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=thai-spicy-vegetable-stir-fry-recipe'>Thai Spicy Vegetable Stir Fry Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=japanese-floor-chair-with-armrest'>Japanese Floor Chair With Armrest</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=custom-bathroom-designs-with-showers'>Custom Bathroom Designs With Showers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ge-bottom-freezer-refrigerator-reviews'>Ge Bottom Freezer Refrigerator Reviews</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=step-2-lifestyle-dream-kitchen-stickers'>Step 2 Lifestyle Dream Kitchen Stickers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=must-have-kitchen-items-list-in-hindi'>Must Have Kitchen Items List In Hindi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=brown-stains-in-salt-water-pool'>Brown Stains In Salt Water Pool</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-are-the-duties-of-a-kitchen-manager'>What Are The Duties Of A Kitchen Manager</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=garden-of-india-is-called'>Garden Of India Is Called</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rooms-to-go-fabric-cleaner'>Rooms To Go Fabric Cleaner</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=solicitors-fees-for-selling-a-house-2018-uk'>Solicitors Fees For Selling A House 2018 Uk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-implement-behaviour-driven-development'>How To Implement Behaviour Driven Development</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pool-table-dining-conversion-kit'>Pool Table Dining Conversion Kit</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=7-foot-pool-table-dimensions'>7 Foot Pool Table Dimensions</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=growth-and-yield-performance-of-lettuce'>Growth And Yield Performance Of Lettuce</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wayfair-labor-day-sale-rugs'>Wayfair Labor Day Sale Rugs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=farmhouse-rules-devils-on-the-water'>Farmhouse Rules Devils On The Water</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=when-to-plant-tulip-bulbs'>When To Plant Tulip Bulbs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cooked-wheat-calories-per-100g'>Cooked Wheat Calories Per 100g</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=salisbury-steak-vs-hamburger-steak'>Salisbury Steak Vs Hamburger Steak</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-landscape-architecture-worth-it'>Is Landscape Architecture Worth It</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=indian-breakfast-ideas-for-4-year-old'>Indian Breakfast Ideas For 4 Year Old</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kidkraft-train-table-instructions-metropolis'>Kidkraft Train Table Instructions Metropolis</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=two-person-recliner-big-lots'>Two Person Recliner Big Lots</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=birds-nest-fern-bacterial-blight'>Birds Nest Fern Bacterial Blight</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ikea-play-kitchen-refrigerator-hack'>Ikea Play Kitchen Refrigerator Hack</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-cooking-shows-to-learn'>Best Cooking Shows To Learn</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=are-the-duke-and-duchess-of-kent-still-married'>Are The Duke And Duchess Of Kent Still Married</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=george-bistro-and-bar-menu'>George Bistro And Bar Menu</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=home-alone-in-concert-dso'>Home Alone In Concert Dso</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=deep-freezer-repair-near-me'>Deep Freezer Repair Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=another-word-for-neat-or-cool'>Another Word For Neat Or Cool</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=tuscan-faux-finish-paint-walls'>Tuscan Faux Finish Paint Walls</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cost-of-building-a-garden'>Cost Of Building A Garden</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=scratch-and-dent-appliances-miami'>Scratch And Dent Appliances Miami</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-trade-desk-investor-day-presentation'>The Trade Desk Investor Day Presentation</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=american-sniper-full-movie-in-hindi'>American Sniper Full Movie In Hindi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bartender-the-right-mix-unblocked'>Bartender The Right Mix Unblocked</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-did-the-potato-come-from-ireland-or-south-america'>Where Did The Potato Come From Ireland Or South America</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=whole-foods-clapham-opening-times'>Whole Foods Clapham Opening Times</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=things-for-sale-in-the-charente'>Things For Sale In The Charente</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=deliver-us-from-evil-2014-123movies'>Deliver Us From Evil 2014 123movies</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=brief-moment-meaning-in-hindi'>Brief Moment Meaning In Hindi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-is-a-half-bathroom'>What Is A Half Bathroom</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=home-alone-in-concert-dso'>Home Alone In Concert Dso</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=briggs-and-stratton-6328-surface-cleaner-parts'>Briggs And Stratton 6328 Surface Cleaner Parts</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ikea-klippan-4-seater-sofa'>Ikea Klippan 4 Seater Sofa</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-reset-samsung-refrigerator-from-demo-mode'>How To Reset Samsung Refrigerator From Demo Mode</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=italian-marble-dining-table-singapore'>Italian Marble Dining Table Singapore</a>,
+";s:7:"expired";i:-1;}

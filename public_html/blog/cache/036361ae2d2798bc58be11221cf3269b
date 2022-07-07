@@ -1,0 +1,212 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4698:"This red wine sauce from Gordon Ramsay makes the perfect accompaniment to a Christmas goose. Reduce. Turn the duck over and lightly brown the other side. For the gooseberry sauce, place some sugar into a hot pan. Add 50 ml of chicken stock. Back to the hot English Mustard Red Wine Sauce (sub earth balance for butter) Red wine sauce to go with your filet mignon. Ooh, not sure what went wrong but it tasted quite bitter, down the sink it went. From Gordon Ramsay’s The F Word. Really … That way the excess fat can render against the hot roasting pan and when you turn the meat it will sear the skinless side in its own flavorful fat. Add gooseberries. Fry for 4-5 minutes until most of the fat from under the skin has rendered down and the skin is golden brown. Cook some 2 min and take off the heat. Add the duck back into the pan with the cherries and thyme. This is an aromatic dish fusing together Chinese flavours with a red wine and gooseberry sauce – rich and very rewarding. Boil. From BBC Good Food. From BBC Good Food. 14. Cpw362. This is an aromatic dish fusing together Chinese flavours with a red wine and gooseberry sauce – rich and very rewarding. Once Christmas is over and you’re thinking about healthier foods, stir your leftover cranberry sauce into breakfast bar mixtures, or add a mix of other red fruits or berries and heat gently to make a compote you can serve with yogurt. Add 2 teaspoons of honey and 50 g of butter. Put the duck into a dry pan on a low heat, slowly cook for 6 min. Add some water and lemon zest. Remove the duck from the pan and keep warm. Chef Gordon Ramsay’s Tips for Prepping, Storing, and Buying Duck If you’re cooking for a large party, the duck breasts can be seared ahead of time to render out the fat. Recipes extracted from Gordon Ramsay’s Ultimate Fit Food by Gordon Ramsay, published by Hodder & Stoughton, £25. Sprinkle the duck breasts with salt and pepper and rub all over. Turn the duck over and lightly brown the other side. From Gordon Ramsay’s The F Word. Pour some red wine into a saucepan, season with salt and pepper. Gordon Ramsay. Place a large frying pan over medium heat and add the duck breasts, skin side down. This red wine sauce from Gordon Ramsay makes the perfect accompaniment to a Christmas goose. To make the sauce, drain any excess fat from the duck pan and; deglaze with the port – allow to bubble for 30 seconds to remove the; alcohol. Slice the duck breast not very thin and glaze with the gooseberry sauce. Gordon Ramsay Ultimate Fit … Duck has a naturally fatty skin that melts flavor into the meat as it cooks, so always start it with the skin side down. Use the same spices for homemade cranberry sauce you would use for mulled wine. Gordon Ramsay Restaurants Limited uses cookies to store or access information on your device to help us understand the performance of the website and to personalise your experience when browsing our website. With fresh herbs and a delicious chimichurri sauce, this light meal is perfect for getting lean and piling on the protein this January. Reduce to syrup. Season 5 of The F Word. This red wine sauce from Gordon Ramsay makes the perfect accompaniment to a Christmas goose Then place it into the oven for 10 min. Pour in the chicken stock and bring to the boil. 14. Reduce to syrup. Gordon Ramsay. Salting the skin before you start cooking helps to draw out moisture; this results in crispy skin as the fat renders out. Gordon Ramsay Duck Breast with Gooseberry Sauce – Gordon Ramsay 14 This is an aromatic dish fusing together Chinese flavours with a red wine and gooseberry sauce – rich and very rewarding. Gordon Ramsay Ultimate Fit Food: Subscribe for weekly cooking videos.  Gordon Ramsay; Duck Breast with Gooseberry Sauce – Gordon Ramsay. Undercook the meat slightly and finish cooking to medium rare when you’re ready to serve. Traditional roast duck with sauce Bigarade. ... Quick Sunday lunch: confit duck, oven chips, spiced red cabbage, peas and carrots, and this sauce, washed down with a glass of red burgundy: hard to beat! Gordon Ramsay; Duck Breast with Gooseberry Sauce – Gordon Ramsay. Red Wine Sauce - think this recipe is going to do the job, so simple. To get more information, or to amend your preferences, press the … Bring to boil, then, set aside. Pour some red wine into a saucepan, season with salt and pepper. Cook this recipe with a photo! Gordon Ramsay cooks snow goose breast with rich red wine sauce in Quebec where they're found in the wild. How to cook cranberry sauce. Add gooseberries. Saturday November 24 2007, 11.30am, The Times. Saturday November ... 2 oranges 60g caster sugar 2 tbsp red wine… ";s:7:"keyword";s:37:"red wine sauce for duck gordon ramsay";s:5:"links";s:4280:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=interior-door-with-glass-panel'>Interior Door With Glass Panel</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-goldbergs-season-7-episode-7'>The Goldbergs Season 7 Episode 7</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=250-watt-hps-bulb-home-depot'>250 Watt Hps Bulb Home Depot</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=small-master-bedroom-ideas-2018'>Small Master Bedroom Ideas 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=red-bull-cliff-diving-2019-schedule'>Red Bull Cliff Diving 2019 Schedule</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wayfair-cyber-monday-2019-code'>Wayfair Cyber Monday 2019 Code</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-psychology-of-restaurant-interior-design-part-4'>The Psychology Of Restaurant Interior Design Part 4</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-shape-of-water-review'>The Shape Of Water Review</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lifetime-8-ft-commercial-table'>Lifetime 8 Ft Commercial Table</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=beautiful-flowers-videos-hd-download'>Beautiful Flowers Videos Hd Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=begonia-corallina-de-lucerna-care'>Begonia Corallina De Lucerna Care</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cheap-lamp-shades-for-table-lamps'>Cheap Lamp Shades For Table Lamps</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=object-pool-design-pattern-in-java'>Object Pool Design Pattern In Java</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-light-shop-coupon-code'>The Light Shop Coupon Code</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=golden-peak-or-lionshead-ski-school'>Golden Peak Or Lionshead Ski School</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pilea-peperomioides-toxic-to-humans'>Pilea Peperomioides Toxic To Humans</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-idaho-housing-cost'>University Of Idaho Housing Cost</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=2095-charle-lennar-floor-plan-longleaf'>2095 Charle Lennar Floor Plan Longleaf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=gavita-pro-plus-1000w-hps-de-lamp'>Gavita Pro Plus 1000w Hps De Lamp</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=growing-agapanthus-from-seed-youtube'>Growing Agapanthus From Seed Youtube</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=detroit-restaurant-week-fall-2019'>Detroit Restaurant Week Fall 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-draw-a-simple-bedroom-in-two-point-perspective'>How To Draw A Simple Bedroom In Two Point Perspective</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ikea-tools-needed-for-assembly'>Ikea Tools Needed For Assembly</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=1-cable-length-to-meters'>1 Cable Length To Meters</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=planting-a-garden-lesson-plan'>Planting A Garden Lesson Plan</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=jason-goodwin-william-and-mary'>Jason Goodwin William And Mary</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-much-bleach-for-10000-gallon-pool'>How Much Bleach For 10000 Gallon Pool</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=over-the-toilet-storage-big-lots'>Over The Toilet Storage Big Lots</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=eliot-coleman-soil-block-recipe'>Eliot Coleman Soil Block Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=four-seasons-sharm-el-sheikh-email-address'>Four Seasons Sharm El Sheikh Email Address</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-use-sketchup-for-interior-design'>How To Use Sketchup For Interior Design</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-plant-crocus-bulbs'>How To Plant Crocus Bulbs</a>,
+";s:7:"expired";i:-1;}

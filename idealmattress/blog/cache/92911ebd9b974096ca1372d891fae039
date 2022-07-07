@@ -1,0 +1,230 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4396:"No you only backwash your pool when your filter pressure on your filter is high 30psi and above on most pools. If your filter pressure rises rapidly after backwashing (within hours or days), the filter media (sand, cartridge or grids) may be clogged with oils or minerals, requiring deep cleaning with a pool filter cleaner product made for your filter type, or replacement of the filter media. I like D.E. What Causes High Oil Pressure in a Car? You backwash the filter and look in the shed and all you have is an empty DE bag, or perhaps a bag with only a handful of DE in it, so you leave the filter running for a few days without DE until you can go to Pool Stop to chat with Paul and the guys and get some more DE. That is where you take it apart and clean "all" of the old DE out of the filter. Why is the pressure building so fast? This. Sand filters use special filter sand, cartridge filters pass water through a fibrous element, and DE filters pass water through a thin layer of diatomaceous earth that is coated onto a grid. Not adding DE right after backwashing; We have all been there, right? Please Help? When the pressure rises 8-10 PSI above the starting pressure, it is time to backwash or clean the filter. I like D.E. After backwashing a D.E. You backwash the filter and look in the shed and all you have is an empty DE bag, or perhaps a bag with only a handful of DE in it, so you leave the filter running for a few days without DE until you can go to Pool Stop to chat with Paul and the guys and get some more DE. Left unaddressed it will cause other problems as well, and those problems could have minor or major impact. When the pressure rises to a level specified by the manufacturer, it's usually time for routine backwashing of a sand or DE filter, or simple cleaning of cartridge filter elements. I have a Pentair FNS Plus filter system and a 55,000 gallon pool. Well, I just checked again, only a few hours after the backwash, and the pressure was up in the low thirties again, and there was much less flow. Now here’s a blog post with some practical use. If your filter pressure rises rapidly after backwashing (within hours or days), the filter media (sand, cartridge or grids) may be clogged with oils or minerals, requiring deep cleaning with a pool filter cleaner product made for your filter type, or replacement of the filter media. When I arrived the R pressure was 30PSI. filter powder is added to the filter, by pouring it … I have a Pentair FNS Plus 60 DE Filter. The ranges of operating pressures for filters vary widely, depending on type. Once all the DE is added, take a reading of the filter’s pressure gauge. My problem is after backwashing, The pressure reads 20 psi which is the normal pressure for my pool, but then after about 1-2 hours, the pressure is back to 30-32 psi. Using anything other than a DE scoop will give you either too much or too little DE. The pressure indicated by your pressure gauge is your new baseline pressure, both for purposes of backflush/reload, and for purposes of determining the necessity of the next filter cleaning. If you have a DE system and you ran the pump all the while it was getting nasty you need to clean the filter elements. DE filter gaining pressure too fast! I shut the sys down, bleed off the pressure, opened the filter housing and lifted out the old grid asbly. The filter we have is a Haywood DE (the pool is a Doughboy if that makes a difference) We've tried numerous things to get the pump/filter system to work properly; clean it, replace parts (some of which I didn't initially know were missing) treat it with DE. As it rises, so to must the oil heat up to find a level pressure to flow through the machine. Am I crazy to think it shouldn’t be clogging that fast? My water is pretty filthy but I keep backwashing and watch my money (de) flow out of my yard and then i put more money (de) into the skimmer for the filter only to work for a little while and then the pressure rises up to like 30psi and water barely flows into the skimmers anymore.  Try backwashing it again; if the filter's pressure rises quickly again, you may try a filter cleaning cycle. This is the clean starting pressure of the filter. When (probably weeks later) the pressure rises to a 10 PSI above the baseline, it's … This is because when you run a DE filter, the DE becomes tightly packed onto the grids. ";s:7:"keyword";s:29:"de filter pressure rises fast";s:5:"links";s:6984:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=great-taste-awards-2019-entry'>Great Taste Awards 2019 Entry</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hispanic-population-in-vancouver-wa'>Hispanic Population In Vancouver Wa</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=jada-pinkett-smith-movies-and-tv-shows'>Jada Pinkett Smith Movies And Tv Shows</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=welcome-to-our-patio-signs'>Welcome To Our Patio Signs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=perennial-garden-plans-zone-5-partial-sun'>Perennial Garden Plans Zone 5 Partial Sun</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-waterloo-ranking-engineering'>University Of Waterloo Ranking Engineering</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-restaurants-in-richmond-hill'>Best Restaurants In Richmond Hill</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=red-cabbage-meaning-in-urdu'>Red Cabbage Meaning In Urdu</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wall-decals-for-kitchen-backsplash-walmart'>Wall Decals For Kitchen Backsplash Walmart</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=karcher-sc4-continuous-steam-cleaner'>Karcher Sc4 Continuous Steam Cleaner</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rubbermaid-food-storage-18-piece'>Rubbermaid Food Storage 18 Piece</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-wet-and-dry-vacuum-cleaner-uk'>Best Wet And Dry Vacuum Cleaner Uk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=korean-food-near-me-delivery'>Korean Food Near Me Delivery</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=shark-reef-aquarium-shark-reef-aquarium-at-mandalay-bay-november-4'>Shark Reef Aquarium Shark Reef Aquarium At Mandalay Bay November 4</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=l-shaped-bathroom-vanity-suite'>L Shaped Bathroom Vanity Suite</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=will-deer-eat-black-eyed-susan'>Will Deer Eat Black Eyed Susan</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-much-does-a-tailored-living-franchise-cost'>How Much Does A Tailored Living Franchise Cost</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-is-the-rhs-level-2-certificate-equivalent-to'>What Is The Rhs Level 2 Certificate Equivalent To</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sliding-mirror-closet-doors-for-bedrooms'>Sliding Mirror Closet Doors For Bedrooms</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=recipes-with-ground-beef-and-potatoes'>Recipes With Ground Beef And Potatoes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=scrubs-season-4-episode-26'>Scrubs Season 4 Episode 26</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=nylon-6-10-boiling-point'>Nylon 6 10 Boiling Point</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-often-should-carpet-be-replaced-in-a-rental-home'>How Often Should Carpet Be Replaced In A Rental Home</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-new-illustrated-encyclopedia-of-gardening'>The New Illustrated Encyclopedia Of Gardening</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=things-to-do-in-vienna'>Things To Do In Vienna</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=master-of-mixes-pina-colada-mixer'>Master Of Mixes Pina Colada Mixer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-edinburgh-postgraduate-admissions'>University Of Edinburgh Postgraduate Admissions</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-cut-cucumber-for-sushi'>How To Cut Cucumber For Sushi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lamont-dozier-going-back-to-my-roots'>Lamont Dozier Going Back To My Roots</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=murphy-bed-with-tv-on-back'>Murphy Bed With Tv On Back</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fruits-and-vegetables-that-grow-in-the-shade'>Fruits And Vegetables That Grow In The Shade</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-to-eat-before-gym'>What To Eat Before Gym</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hyderabadiz-restaurant-al-nahda-menu'>Hyderabadiz Restaurant Al Nahda Menu</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cincinnati-bearcats-football-preview-2019'>Cincinnati Bearcats Football Preview 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=does-freezing-kill-e-coli'>Does Freezing Kill E Coli</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=why-was-a-wrinkle-in-time-banned'>Why Was A Wrinkle In Time Banned</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=vegan-keto-pasta-dough-recipe'>Vegan Keto Pasta Dough Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philips-tv-software-update-download'>Philips Tv Software Update Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lincoln-university-college-malaysia-fake'>Lincoln University College Malaysia Fake</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=odd-jobs-man-near-me'>Odd Jobs Man Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rough-opening-for-8-foot-tall-pocket-door'>Rough Opening For 8 Foot Tall Pocket Door</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-michigan-school-for-environment-and-sustainability'>University Of Michigan School For Environment And Sustainability</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=farm-seed-store-near-me'>Farm Seed Store Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-string-tomatoes-in-greenhouse'>How To String Tomatoes In Greenhouse</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=zumba-classes-in-abu-dhabi'>Zumba Classes In Abu Dhabi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=traverse-city-film-festival-2018-schedule'>Traverse City Film Festival 2018 Schedule</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rooms-in-the-house-worksheets-for-preschoolers'>Rooms In The House Worksheets For Preschoolers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=st-george-bank-address-for-international-money-transfer'>St George Bank Address For International Money Transfer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=aluminium-french-doors-with-side-windows'>Aluminium French Doors With Side Windows</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ashley-furniture-coupon-code-august-2019'>Ashley Furniture Coupon Code August 2019</a>,
+";s:7:"expired";i:-1;}

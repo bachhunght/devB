@@ -1,0 +1,265 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3922:"Step 1 - White Cross; Step 2 - White Corners; Step 3 - Second Layer; Step 4 - Yellow Face; Step 5 - Final Layer This step makes a yellow cross on the yellow side. In order to get the yellow cross, you will have to use an algorithm and perhaps repeat it … Holding your Rubik’s Cube with the white centerpiece on the top face, you must create a white cross as shown. In this beginner's tutorial we're going to start with the white face. Step 1-3 are meant to solve the first layer of the Rubix Cube. The 3 pictures below each show one way. Set into position the four edge pieces that contain white. a white lily on the Rubik's Cube. Find the side with the white square in the center and put it on top. Hold the Cube with the YELLOW Center on the UP face. Step Two: Create the White Cross For each petal on the “daisy,” match the non-white sticker to the center piece of the same color. get to know the Rubik's Cube. How to Quickley Solve the Rubiks Cube White Cross: In this instructible you will be learning how to quickly solve the Rubiks cube white cross. Much of this level is achieved with practice and by trial and error… but we do have some tips. This may take 1 turn or 2. Good white cross. Solving the White Cross We teach you the first step – creating a white cross on the white face of the cube. This is the first part of OLL (Orientate Last Layer). For this step, rotate the cube so that the yellow center dot is on the top, and white is on the bottom. Tips - Be sure to solve the sections of the white cross in the following order - blue, orange, green, red We must first form a White Cross on the Bottom by placing the 4 White Edge pieces in the Bottom Layer with the adjacent Edge stickers matching their Centers. White Cross; Slap. Step 4 solves the middle layer of the Rubix Cube. there is no formula for this making this the hardest part, but once you learn how to do this, it will be the easiest and the fastest. A Rubix Cube contains 3 layers and we will be solving them 1 by 1. Step 5: Completing the White Cross. forming a white cross. PART 1: Making the Daisy. In solving the cube we will start off with the top layer (the one with the white face) and progressively work towards the bottom layer (the one with the yellow face) layer by layer. The beginner method to do this is to first place the White Edge pieces on Top with the Yellow Center. Bad white cross. Now to solve the cube: LAYER 1. To finish the 1st layer, the corners with the white stickers need to be put into place. The cross only needs a maximum of eight moves to become solved. Step 1 - a white lily on the Rubik's Cube; Step 2 - the white cross; Step 3 - finishing the first layer; Step 4 - solving the second layer of the Rubik's Cube; Step 5 - making a yellow cross on the top of the Rubik's Cube; Step 6 - moving the edges to match the sides; Step 7 - moving the corners into place Step 3: Corners With White Stickers . There are 4 corners with white stickers, and they can be put into place 1 of 3 ways. Step 1: How to solve the white edge pieces in the first layer. Find the 4 Edge pieces that have a WHITE tile and place them so the WHITE tile is on the UP face. (five or six in general).  The easiest step is solving the first layer edges of the Rubik's Cube. The top layer will be solved in two steps, first create a white cross, then in step two we will insert the white corners. Solve the cross. Step 5-8 solves the last layer of the Rubix Cube. Choose one color you want to start with. Once you can do this, there’s no stopping you, so pay attention. Once matched, turn the face with the matching center two times. For this, and from this point on, you can keep the white face on the left side of the cube. The color that the edges have must line up with both the white center and the center on the sides of the cube. The WHITE tiles on the Edge pieces should go around the YELLOW Center to make the daisy. ";s:7:"keyword";s:41:"p30 vs mate 20 pro gsmarena' and '21'='21";s:5:"links";s:11645:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=karcher-1800-psi-pressure-washer-parts'>Karcher 1800 Psi Pressure Washer Parts</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=student-chair-with-writing-pad-in-coimbatore'>Student Chair With Writing Pad In Coimbatore</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-connect-water-line-to-back-of-fridge'>How To Connect Water Line To Back Of Fridge</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-raymour-and-flanigan-platinum-protection-plan-worth-it'>Is Raymour And Flanigan Platinum Protection Plan Worth It</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=seasoned-grilled-corn-on-the-cob-in-foil'>Seasoned Grilled Corn On The Cob In Foil</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=jobs-in-manyata-tech-park-for-12th-pass'>Jobs In Manyata Tech Park For 12th Pass</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=modern-built-in-tv-wall-unit-designs-2018'>Modern Built In Tv Wall Unit Designs 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kitchen-utensils-pictures-and-names-and-their-uses'>Kitchen Utensils Pictures And Names And Their Uses</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=free-belly-dance-classes-near-me'>Free Belly Dance Classes Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=samsung-freezer-door-handle-broken'>Samsung Freezer Door Handle Broken</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pink-dining-chair-set-of-4'>Pink Dining Chair Set Of 4</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=oregon-state-university-undergraduate-tuition-and-fees'>Oregon State University Undergraduate Tuition And Fees</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=why-is-the-salt-telescope-located-in-sutherland'>Why Is The Salt Telescope Located In Sutherland</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pressure-washer-hose-reel-amazon'>Pressure Washer Hose Reel Amazon</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=The-Story-of-Marie-and-Julien'>The Story Of Marie And Julien</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=importance-of-feedback-in-listening'>Importance Of Feedback In Listening</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=can-you-propagate-pilea-from-a-leaf-cutting'>Can You Propagate Pilea From A Leaf Cutting</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lemon-juice-uses-for-cleaning'>Lemon Juice Uses For Cleaning</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-build-a-aquaponic-garden'>How To Build A Aquaponic Garden</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=new-york-new-york-roller-coaster-height'>New York New York Roller Coaster Height</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=indo-western-gown-for-reception'>Indo Western Gown For Reception</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=narrow-console-table-with-doors'>Narrow Console Table With Doors</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=perisher-lift-pass-prices-2019'>Perisher Lift Pass Prices 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=soda-springs-foam-in-the-park'>Soda Springs Foam In The Park</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=frameless-tempered-glass-wall-art'>Frameless Tempered Glass Wall Art</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=top-rated-french-door-refrigerators'>Top Rated French Door Refrigerators</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-install-a-door'>How To Install A Door</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=spotted-lake-osoyoos-best-time-to-visit'>Spotted Lake Osoyoos Best Time To Visit</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-time-to-drink-barley-water-for-weight-loss'>Best Time To Drink Barley Water For Weight Loss</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dris-top-boy-season-2'>Dris Top Boy Season 2</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=royal-conservatoire-of-scotland-musical-theatre'>Royal Conservatoire Of Scotland Musical Theatre</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mitchells-st-andrews-graduation-menu'>Mitchells St Andrews Graduation Menu</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=home-depot-outdoor-wall-lighting'>Home Depot Outdoor Wall Lighting</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=steelcase-leap-v2-seat-cushion'>Steelcase Leap V2 Seat Cushion</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=angry-birds-2-download-apk'>Angry Birds 2 Download Apk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=prehung-louvered-interior-doors-lowes'>Prehung Louvered Interior Doors Lowes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=p30-vs-mate-20-pro-gsmarena'>P30 Vs Mate 20 Pro Gsmarena</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rubbermaid-brute-20-gallon-storage'>Rubbermaid Brute 20 Gallon Storage</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sterns-above-ground-lap-pool'>Sterns Above Ground Lap Pool</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-fix-simplehuman-mirror'>How To Fix Simplehuman Mirror</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=log-cabin-baby-quilt-pattern'>Log Cabin Baby Quilt Pattern</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=why-is-my-chinese-evergreen-curling'>Why Is My Chinese Evergreen Curling</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=window-seat-with-drawers-from-ikea-cabinets'>Window Seat With Drawers From Ikea Cabinets</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=types-of-flooring-in-india'>Types Of Flooring In India</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=maximize-seating-in-small-dining-room'>Maximize Seating In Small Dining Room</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pressure-washer-gun-home-depot'>Pressure Washer Gun Home Depot</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=beef-ribs-near-me-for-sale'>Beef Ribs Near Me For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=opposite-of-devil-in-hindi'>Opposite Of Devil In Hindi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ayesha-curry-marble-cookware-qvc'>Ayesha Curry Marble Cookware Qvc</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=second-hand-double-beds-for-sale-near-me'>Second Hand Double Beds For Sale Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=broyhill-outdoor-furniture-4-piece-set'>Broyhill Outdoor Furniture 4 Piece Set</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=parts-of-an-upper-cabinet'>Parts Of An Upper Cabinet</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fast-food-restaurants-in-elko-nv'>Fast Food Restaurants In Elko Nv</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ottoman-double-sofa-bed-uk'>Ottoman Double Sofa Bed Uk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=a-new-tomato-ideal-for-urban-gardens-and-even-outer-space'>A New Tomato Ideal For Urban Gardens And Even Outer Space</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=home-cooking-adventure-carrot-cake'>Home Cooking Adventure Carrot Cake</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=plumbing-pipe-types-and-sizes'>Plumbing Pipe Types And Sizes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=orla-kiely-linear-stem-backpack'>Orla Kiely Linear Stem Backpack</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=samsung-ecobubble-washer-dryer-not-drying'>Samsung Ecobubble Washer Dryer Not Drying</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-clean-a-painted-front-door'>How To Clean A Painted Front Door</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-last-drop-whisky-wikipedia'>The Last Drop Whisky Wikipedia</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-do-walmart-grocery-pickup-survey'>How To Do Walmart Grocery Pickup Survey</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=events-in-sharm-el-sheikh-2019'>Events In Sharm El Sheikh 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kidkraft-train-table-instructions-metropolis'>Kidkraft Train Table Instructions Metropolis</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=january-gardening-to-do-list'>January Gardening To Do List</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sliding-door-hardware-home-depot'>Sliding Door Hardware Home Depot</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ice-skate-rentals-bozeman-mt'>Ice Skate Rentals Bozeman Mt</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-grow-potatoes-in-a-bag'>How To Grow Potatoes In A Bag</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lindsay-thompson-married-to-colin-ferguson'>Lindsay Thompson Married To Colin Ferguson</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=target-baby-sale-dates-2020'>Target Baby Sale Dates 2020</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=universal-patio-cleaner-attachment-for-pressure-washer'>Universal Patio Cleaner Attachment For Pressure Washer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=3-room-bto-open-concept-kitchen'>3 Room Bto Open Concept Kitchen</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=diane-lane-husband-josh-brolin'>Diane Lane Husband Josh Brolin</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=upper-east-side-casual-restaurants'>Upper East Side Casual Restaurants</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-linkedin-learning-worth-it'>Is Linkedin Learning Worth It</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ariana-grande-no-tears-left-to-cry-album'>Ariana Grande No Tears Left To Cry Album</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=build-a-simple-secretary-desk'>Build A Simple Secretary Desk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=essay-on-cobbler-in-marathi'>Essay On Cobbler In Marathi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=target-fall-decor-dollar-spot'>Target Fall Decor Dollar Spot</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cheap-clothing-stores-in-florida'>Cheap Clothing Stores In Florida</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fairmont-chateau-lake-louise-skating-banff'>Fairmont Chateau Lake Louise Skating Banff</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=winsley-manager-chair-assembly-instructions'>Winsley Manager Chair Assembly Instructions</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-much-does-it-cost-to-replace-windows-in-a-mobile-home'>How Much Does It Cost To Replace Windows In A Mobile Home</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=learning-german-language-for-beginners-pdf'>Learning German Language For Beginners Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pinterest-wall-decor-living-room'>Pinterest Wall Decor Living Room</a>,
+";s:7:"expired";i:-1;}

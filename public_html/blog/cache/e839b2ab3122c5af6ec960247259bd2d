@@ -1,0 +1,270 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4786:"Liebert says Home Depot is experimenting with new checkout formats including belts to move products, eight-lane self-checkouts, and redesigned checkout stands with improved ergonomics.  They are converting every single register at every single store in the company to be a self checkout machine. I continuously and finding there are no cashiers upfront and self check out is the only option to make a purchase. Also, if you’re interested in knowing more about self-checkout stands and its new technology in general, check out my recent blog post on, The Future of Faster Grocery Checkout Stands. Meanwhile, they’re closing down many the human checkout lines in order to drive traffic to self-checkout. I would love to see handheld scanners at each self checkout instead of just having one. We believe our One Home Depot strategy will further unlock the ... asked us to reduce several pain points around store navigation and checkout and we made great strides in 2018. When the U.S. Secret Service arrested five men last week on charges that they stole hundreds of items from the self-checkout areas of 74 Home Depots in six states, it certainly didn't help the security reputation of self-checkout. Meanwhile, they’re closing down many the human checkout lines in order to drive traffic to self-checkout. Based on several trips to Home Depot, I’ve concluded that they do not work. This comes after Costco detailed its own self-checkout thefts and several chains abandoned self-checkout, citing theft as one key reason.Some self-checkout … Years after initially installing self-checkout kiosks, Home Depot has replaced them and deployed new-and-improved kiosks at their megastores. But Home Depot's passion is checkout tweaking. This time, she paid a return visit to Home Depot. Based on several trips to Home Depot, I’ve concluded that they do not work. No but it would be a dream come true to get new self checkouts at my store. Home Depot’s 4 New Checkout Options Fast Company looks at the retailer’s efforts to speed transactions By Christopher Freeburn , InvestorPlace Writer … My husband and I recently purchased a new home. Ours are old and freeze up, one spits out money so fast it flys under the self checkout, and our handheld scanner does not work half the time. Night Lion Security CEO Vinny Troia on the Home Depot data breach. Create an Account Track orders, check out faster, and create lists The fundamental problem with Home Depot’s implementation of self-serve checkout is there are huge variances among the items’ sizes, shapes, and weights. Menu icon A vertical stack of three evenly spaced horizontal lines. I think that most Walmart’s overall shrinkage (people willing to steal stuff) is under or around 1%. For further information, take a look at this video on self-checkout theft: Supermarket Crime Wave in Self-Checkout Lanes. I would love to see handheld scanners at each self checkout instead of just having one. William Widmer for The New York Times ... in California state court against Home Depot over the practice. Until 2010, neither hardware nor software had been updated since. Home Depot is just down the road and Lowe's is about 15 miles away. Ours are old and freeze up, one spits out money so fast it flys under the self checkout, and our handheld scanner does not work half the time. The goal for 2005 is to have auto-replenishment systems covering 20% of Home Depot's stock-keeping units. Home Depot Testing Self-Checkout Miami, FL, July 15--Home Depot has a new project for its do-it-yourself aficionados: do-it-yourself checkout, according to South Florida Sun-Sentinel. As you can imagine there has been many items needed, so I have been visiting our Newnan Home Depot frequently during the last month. So our store is about to add a ton of new self checkouts. I was looking at spending $1000+ on a tool storage unit but have to order it on-line as the Home Depot does not stock it. The fundamental problem with Home Depot’s implementation of self-serve checkout is there are huge variances among the items’ sizes, shapes, and weights. Located in the same space previously occupied by their old units, the four kiosks take up as much space as two manned checkout lanes. No Military Discount is given on-line. No but it would be a dream come true to get new self checkouts at my store. at The Home Depot. Our store has about $400 to $1000 in theft a day that we know of. More and more items seem to be exclude from a Military Discount at Home Depot. Home Depot was one of the first major retailers to introduce self-checkout, back in 2003. ... daughters failed to scan about $70 worth of groceries at the self-checkout line. If home depot wants to save money they should focus on it another way like combating theft. ";s:7:"keyword";s:33:"home depot new self checkout 2018";s:5:"links";s:12068:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-grow-specific-flowers-in-minecraft'>How To Grow Specific Flowers In Minecraft</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-light-bulbs-work-with-amazon-alexa'>What Light Bulbs Work With Amazon Alexa</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=italian-restaurant-near-me-now'>Italian Restaurant Near Me Now</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=custom-mirror-decals-for-wedding'>Custom Mirror Decals For Wedding</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-to-serve-with-chicken-fried-steak'>What To Serve With Chicken Fried Steak</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=samsung-fridge-big-box-replacement'>Samsung Fridge Big Box Replacement</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fresh-mint-chocolate-chip-cookies'>Fresh Mint Chocolate Chip Cookies</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hobby-lobby-barn-door-wall-decor'>Hobby Lobby Barn Door Wall Decor</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=to-see-hibiscus-flower-in-dream'>To See Hibiscus Flower In Dream</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-keto-carbs-cookbook-reviews'>The Keto Carbs Cookbook Reviews</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=massey-university-world-ranking-2019'>Massey University World Ranking 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-keep-impatiens-blooming'>How To Keep Impatiens Blooming</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=white-dining-chair-with-black-legs'>White Dining Chair With Black Legs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=2019-real-estate-and-property-awards'>2019 Real Estate And Property Awards</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-son-of-man-rene-magritte'>The Son Of Man Rene Magritte</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=maria-perschy-cause-of-death'>Maria Perschy Cause Of Death</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dollar-tree-fall-decor-2018'>Dollar Tree Fall Decor 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=headboard-with-shelves-and-lights'>Headboard With Shelves And Lights</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-clean-a-house-professionally'>How To Clean A House Professionally</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=massey-university-world-ranking-2019'>Massey University World Ranking 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rob-lowe-movies-and-tv-shows'>Rob Lowe Movies And Tv Shows</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ergotron-standing-desk-monitor-mount'>Ergotron Standing Desk Monitor Mount</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=long-console-table-behind-couch'>Long Console Table Behind Couch</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=light-gray-leather-recliner-chair'>Light Gray Leather Recliner Chair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=marigold-flower-images-for-drawing'>Marigold Flower Images For Drawing</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=synonym-for-fleet-of-trucks'>Synonym For Fleet Of Trucks</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=modern-l-shaped-desk-ikea'>Modern L Shaped Desk Ikea</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=joanna-gaines-wallpaper-sherwin-williams'>Joanna Gaines Wallpaper Sherwin Williams</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=walmart-shoe-rack-50-pair'>Walmart Shoe Rack 50 Pair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=savoy-sharm-el-sheikh-yellow-page'>Savoy Sharm El Sheikh Yellow Page</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=How-to-Bonsai-a-Jade-plant'>How To Bonsai A Jade Plant</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hotels-near-glacier-national-park'>Hotels Near Glacier National Park</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=The-Last-Days-of-Patton'>The Last Days Of Patton</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=furniture-stores-in-modesto-ca'>Furniture Stores In Modesto Ca</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-pronounce-toronto-street-names'>How To Pronounce Toronto Street Names</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hom-furniture-card-synchrony-bank'>Hom Furniture Card Synchrony Bank</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=selena-gomez-good-for-you-lyrics'>Selena Gomez Good For You Lyrics</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=vintage-floral-peel-and-stick-wallpaper'>Vintage Floral Peel And Stick Wallpaper</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dfs-management-remove-server-from-replication-group'>Dfs Management Remove Server From Replication Group</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rice-with-zucchini-and-carrots'>Rice With Zucchini And Carrots</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=can-i-use-victoria-secret-gift-card-at-bath-and-body-works-online'>Can I Use Victoria Secret Gift Card At Bath And Body Works Online</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=city-of-sheboygan-falls-jobs'>City Of Sheboygan Falls Jobs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=6-inch-recessed-can-light-trim'>6 Inch Recessed Can Light Trim</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ikea-brimnes-2-door-wardrobe-instructions'>Ikea Brimnes 2 Door Wardrobe Instructions</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=8-year-old-bedroom-ideas-girl'>8 Year Old Bedroom Ideas Girl</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=seat-of-government-word-definition'>Seat Of Government Word Definition</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=crockpot-chicken-and-dumplings-recipe'>Crockpot Chicken And Dumplings Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ikea-customer-service-dubai-salary'>Ikea Customer Service Dubai Salary</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=difference-between-different-types-of-tiles'>Difference Between Different Types Of Tiles</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=toys-r-us-singapore-contact'>Toys R Us Singapore Contact</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=national-gardening-association-houseplant-sales'>National Gardening Association Houseplant Sales</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ottoman-bench-seat-with-storage'>Ottoman Bench Seat With Storage</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=quotes-on-healthy-food-vs-junk-food'>Quotes On Healthy Food Vs Junk Food</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=isle-royale-extended-weather-forecast'>Isle Royale Extended Weather Forecast</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-central-london-estate-agents'>Best Central London Estate Agents</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=good-boys-2019-full-movie'>Good Boys 2019 Full Movie</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-tile-color-for-small-bathroom'>Best Tile Color For Small Bathroom</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=studio-apartment-floor-plans-pdf'>Studio Apartment Floor Plans Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-ethnicity-is-mason-rudolph'>What Ethnicity Is Mason Rudolph</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-dimmable-led-gu10-review'>Best Dimmable Led Gu10 Review</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=washing-machines-not-affected-by-tariffs'>Washing Machines Not Affected By Tariffs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=garlic-on-pimples-side-effects'>Garlic On Pimples Side Effects</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ammonia-refrigeration-system-flow-diagram'>Ammonia Refrigeration System Flow Diagram</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ashley-furniture-credit-card-login'>Ashley Furniture Credit Card Login</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=blue-lagoon-gin-orange-750ml-price-in-india'>Blue Lagoon Gin Orange 750ml Price In India</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=they-were-expendable-filming-locations'>They Were Expendable Filming Locations</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philips-hue-led-light-strip-extension'>Philips Hue Led Light Strip Extension</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philips-hue-adore-mirror-review'>Philips Hue Adore Mirror Review</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=study-desk-for-sale-johannesburg'>Study Desk For Sale Johannesburg</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=honor-10-lite-6gb-ram-128gb-price-in-india'>Honor 10 Lite 6gb Ram 128gb Price In India</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=horticulture-certificate-program-near-me'>Horticulture Certificate Program Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dingy-cell-meaning-in-hindi'>Dingy Cell Meaning In Hindi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=weapons-used-in-the-battle-of-salamis'>Weapons Used In The Battle Of Salamis</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=a-pair-of-shoes-meaning'>A Pair Of Shoes Meaning</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=most-popular-indian-food-in-the-world'>Most Popular Indian Food In The World</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-chemicals-do-you-put-in-pool-for-winter'>What Chemicals Do You Put In Pool For Winter</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=amazon-end-tables-and-coffee-table-sets'>Amazon End Tables And Coffee Table Sets</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=5-panel-oak-interior-doors'>5 Panel Oak Interior Doors</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=examples-of-shade-loving-plants'>Examples Of Shade Loving Plants</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=i-like-it-like-that-clean'>I Like It Like That Clean</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lost-lake-resort-oregon-weather'>Lost Lake Resort Oregon Weather</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=nasty-gal-founder-best-friend'>Nasty Gal Founder Best Friend</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=royal-bed-designs-with-price'>Royal Bed Designs With Price</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=classic-cross-country-skiing-olympics'>Classic Cross Country Skiing Olympics</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cvs-photo-printing-near-me'>Cvs Photo Printing Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fabric-swivel-glider-recliner-costco'>Fabric Swivel Glider Recliner Costco</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=will-rubber-tree-leaves-grow-back'>Will Rubber Tree Leaves Grow Back</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=healthy-angel-food-cake-desserts'>Healthy Angel Food Cake Desserts</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=royal-dutch-shell-stock-b'>Royal Dutch Shell Stock B</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-cook-pasta-with-vegetables'>How To Cook Pasta With Vegetables</a>,
+";s:7:"expired";i:-1;}

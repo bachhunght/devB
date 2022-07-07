@@ -1,0 +1,221 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3074:"The PowerPoint PPT presentation: "Aluminium and its alloys" is the property of its rightful owner.  • What are some of the common fabrication techniques? HISTORY, PROPERTIES AND ALLOYS The history of the light metal industry, as that of many other industries in this century, is one of notable and ever accelerating expansion and development. tive commercial aluminum alloys are included in Appendix 1. May 2014 reprint. • How are metal alloys classified and how are they used? • How do properties vary throughout a piece of material that has been quenched, for example? There are few people today who are not familiar with at least some modern The 7XX • How can properties be modified by post heat treatment? Aluminum and Aluminum Alloys Introduction and Overview General Characteristics.The unique combinations of properties provided by aluminum and its alloys make aluminum one of the most ver-satile, economical, and attractive metallic materials for a broad range of uses—from soft, highly ductile wrapping foil to the most demanding engi- Document History Replaces 2007 version. The specifications, properties, classifications and class details are provided for aluminium and aluminium alloys. properties of some metals and alloys copper and copper alloys • white metals and alloys • aluminum and alloys • magnesium alloys • titanium alloys • resistance heating alloys • magnetic alloys • con-trolled expansion and con-stant — modulus alloys • nickel and alloys • monel* nickel-copper alloys … Introduction Aluminium, due to its special combination of properties, occupies a unique position among metals. Publisher Information Aluminium Federation. The properties of aluminum and its alloys which give rise to their widespread usage, with particular emphasis on manufacturability, recyclability, and corrosion resistance, are briefly described in this report. Aluminum also available in the form of oxides, sulphates, silicates and phosphates etc.. Properties of Aluminum as Building Material They also polish to bright finishes and they tend to anodize with a pleasing natural aluminum appearance. • How do properties vary throughout a piece of material that has been quenched, for example? Wrought Aluminium Alloys, Chemistry, Properties, Applications, Manufacturing, Common Defects etc Slideshare uses cookies to improve functionality and performance, and to … The aluminum is one of the abundantly available non-ferrous metals on the surface of earth. CHAPTER 11: METAL ALLOYS APPLICATIONS AND PROCESSING Do you have PowerPoint slides to share? The versatility of aluminium makes it the most widely used metal after steel. 1) Low density and strength make aluminium ideal for construction of aircraft, lightweight vehicles, and ladders. Aluminium and its alloys are truly versatile engineering materials. The temper identification of an aluminum alloy provides that create a common language between consumers and producers and the temper has been produced in order to obtain specific and desired properties and characteristics. ";s:7:"keyword";s:39:"aluminium and its alloys properties ppt";s:5:"links";s:5559:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philips-hue-tv-sync-box'>Philips Hue Tv Sync Box</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=glider-or-rocker-for-nursery'>Glider Or Rocker For Nursery</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ashley-furniture-employee-discount-code'>Ashley Furniture Employee Discount Code</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=good-food-good-company-good-time'>Good Food Good Company Good Time</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=looking-like-a-snack-captions'>Looking Like A Snack Captions</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=are-chinese-evergreen-plants-poisonous-to-humans'>Are Chinese Evergreen Plants Poisonous To Humans</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=easy-recipes-for-college-students'>Easy Recipes For College Students</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chinese-fried-rice-restaurant-style'>Chinese Fried Rice Restaurant Style</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-psychology-of-restaurant-interior-design-part-4'>The Psychology Of Restaurant Interior Design Part 4</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=flippin-out-with-great-danes-meaning'>Flippin Out With Great Danes Meaning</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-cut-kale-leaves-from-plant'>How To Cut Kale Leaves From Plant</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=5-minute-indian-snacks-recipes'>5 Minute Indian Snacks Recipes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=beef-stroganoff-slow-cooker-food-network'>Beef Stroganoff Slow Cooker Food Network</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=home-depot-corporate-office-atlanta'>Home Depot Corporate Office Atlanta</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fur-vanity-chair-with-back'>Fur Vanity Chair With Back</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-place-to-buy-computer-chair'>Best Place To Buy Computer Chair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=slideshare-ppt-downloader-online-free'>Slideshare Ppt Downloader Online Free</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=blue-and-gold-wallpaper-for-walls'>Blue And Gold Wallpaper For Walls</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cooking-fresh-green-beans-country-style'>Cooking Fresh Green Beans Country Style</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ground-beef-and-potato-recipes-quick'>Ground Beef And Potato Recipes Quick</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=vegetable-planting-guide-zone-6'>Vegetable Planting Guide Zone 6</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bon-appetit-beef-stew-with-red-wine'>Bon Appetit Beef Stew With Red Wine</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=types-of-cold-storage-in-hotel'>Types Of Cold Storage In Hotel</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=walmart-great-value-french-fries-price'>Walmart Great Value French Fries Price</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=grey-leather-sectional-recliner-sofa'>Grey Leather Sectional Recliner Sofa</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philips-hue-play-extension-cable'>Philips Hue Play Extension Cable</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=potato-side-dishes-for-steak'>Potato Side Dishes For Steak</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=brown-stains-in-salt-water-pool'>Brown Stains In Salt Water Pool</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-tell-when-daikon-radish-is-ready-to-harvest'>How To Tell When Daikon Radish Is Ready To Harvest</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=shark-tank-season-11-episode-12'>Shark Tank Season 11 Episode 12</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=betty-crocker-cake-mix-cupcakes'>Betty Crocker Cake Mix Cupcakes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-can-you-do-in-ottawa-for-free'>What Can You Do In Ottawa For Free</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=quick-family-meals-on-a-budget'>Quick Family Meals On A Budget</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=all-i-see-is-you-ending-spoiler'>All I See Is You Ending Spoiler</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=tree-of-life-wall-art-india'>Tree Of Life Wall Art India</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=vocabulary-words-with-meaning-synonyms-and-antonyms-pdf'>Vocabulary Words With Meaning Synonyms And Antonyms Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ashley-furniture-annual-report-2017'>Ashley Furniture Annual Report 2017</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lidl-wooden-toy-event-2019'>Lidl Wooden Toy Event 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=low-carb-vegan-breakfast-casserole'>Low Carb Vegan Breakfast Casserole</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=most-famous-houses-in-america'>Most Famous Houses In America</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=stainless-steel-wall-mounted-cabinets'>Stainless Steel Wall Mounted Cabinets</a>,
+";s:7:"expired";i:-1;}

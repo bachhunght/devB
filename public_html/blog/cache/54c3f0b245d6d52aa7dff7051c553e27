@@ -1,0 +1,227 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2780:"Donate . For more on the Section 8 Housing Choice Voucher program visit the Housing Choice Voucher section of our Low Income Housing Renter's Guide. There are 32 housing authorities in Maryland which offer the Section 8 Housing Choice Voucher Program. The Housing Authority of Baltimore City (HABC) receives funds from the U.S. Department of Housing and Urban Development (HUD) to administer the Housing Choice Voucher Program in Baltimore City. Home » Maryland Shelter Listings » Baltimore County Shelter Listings Baltimore County, MD Homeless Shelters Baltimore County, MD list of housing resources we have uncovered: Homeless Shelters, Supportive Housing, Halfway Housing, Transitional Housing, Day Shelters, Low Income Housing, Residential Alcohol and Drug Treatment Centers. DHCD envisions a city of thriving neighborhoods with housing opportunities for people of all income levels in a wide variety of communities. Maryland offers a number of programs designed to support home ownership and to ensure the availability of affordable housing. The Maryland Department of Housing and Community Development facilitates a number of these programs, in addition to the U.S. Department of Veterans Affairs which provides services under the U.S. VA Health Care System. Housing Services. If you are buying in Baltimore City - Buyers must complete a homebuyer workshop and counseling before submitting a contract offer, with an agency recognized by Baltimore City. After having qualified for the program, the family receives a housing … Some City assistance programs also require attending pre-settlement workshop. Click HERE (Housing Authority of Baltimore City) if you are a resident interested in accessing affordable or public housing in Baltimore.  400 Bond Street Baltimore, MD 21231 410-732-1892 Contact Program Manager Katie League Up to two year transitional housing program for men 20 beds, own locked bedroom but share a common area with 4 others Must be willing to work full-time (though some school or a training program … How does the program work for a family? The Baltimore Housing Mobility Program. Closed Section 8 Waiting Lists For general questions about HUD or its programs, contact the HUD office nearest you.For Maryland, offices are located in Baltimore and Washington, DC.. For questions about FHA loans or programs, contact our FHA Resource Center: HARBEL Housing serves buyers interested in purchasing in Baltimore City and Baltimore County. The Baltimore Housing Mobility Program, operated by the Baltimore Regional Housing Partnership (BRHP) combines federal housing vouchers with mobility counseling to assist families from Baltimore City who are interested in moving to communities of opportunity throughout Central Maryland make a successful move. ";s:7:"keyword";s:36:"housing programs in baltimore county";s:5:"links";s:5979:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=macys-wow-pass-2019-in-store'>Macys Wow Pass 2019 In Store</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sell-for-me-on-ebay'>Sell For Me On Ebay</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wall-hanging-ideas-for-school'>Wall Hanging Ideas For School</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=vegetable-planting-guide-zone-6'>Vegetable Planting Guide Zone 6</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-calgary-admissions-rate'>University Of Calgary Admissions Rate</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=first-dictionary-in-the-world'>First Dictionary In The World</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-shop-for-earrings'>How To Shop For Earrings</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=high-back-fabric-dining-room-chairs'>High Back Fabric Dining Room Chairs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hearth-and-hand-play-kitchen-set'>Hearth And Hand Play Kitchen Set</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=alabama-white-sauce-how-to-bbq-right'>Alabama White Sauce How To Bbq Right</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-do-i-cook-frozen-fries-in-my-air-fryer'>How Do I Cook Frozen Fries In My Air Fryer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=langer-hindi-meaning-in-english'>Langer Hindi Meaning In English</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=papaya-tree-male-and-female'>Papaya Tree Male And Female</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-parsley-tea'>How To Make Parsley Tea</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bank-of-america-foreclosure-listings'>Bank Of America Foreclosure Listings</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=authentic-tandoori-chicken-recipe-pakistani'>Authentic Tandoori Chicken Recipe Pakistani</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=home-is-where-the-kitchen-is'>Home Is Where The Kitchen Is</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-drink-bacardi-black-rum'>How To Drink Bacardi Black Rum</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=8-year-old-bedroom-ideas-girl'>8 Year Old Bedroom Ideas Girl</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lean-to-utility-room-ideas'>Lean To Utility Room Ideas</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cera-taps-price-list-2019'>Cera Taps Price List 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-landscape-design-apps-2019'>Best Landscape Design Apps 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ideas-for-formal-dining-room'>Ideas For Formal Dining Room</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-cupcakes-youtube'>How To Make Cupcakes Youtube</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=greenworks-pro-2200-psi-pressure-washer'>Greenworks Pro 2200 Psi Pressure Washer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=picture-of-a-cottage-house'>Picture Of A Cottage House</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=etymology-of-red-letter-day'>Etymology Of Red Letter Day</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=something-the-lord-made-123movies'>Something The Lord Made 123movies</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=homes-for-sale-brookline-ma'>Homes For Sale Brookline Ma</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=waterville-valley-opening-day-2019'>Waterville Valley Opening Day 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=order-breakfast-online-near-me'>Order Breakfast Online Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=does-west-elm-outlet-ship'>Does West Elm Outlet Ship</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-creeping-jenny-toxic-to-fish'>Is Creeping Jenny Toxic To Fish</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=raw-spinach-kills-my-stomach'>Raw Spinach Kills My Stomach</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=uses-of-metal-in-points'>Uses Of Metal In Points</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-decorate-a-room-with-navy-carpet'>How To Decorate A Room With Navy Carpet</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=winter-storm-warning-near-me'>Winter Storm Warning Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sour-cream-chicken-enchiladas-allrecipes'>Sour Cream Chicken Enchiladas Allrecipes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=family-will-do-laundry-sign'>Family Will Do Laundry Sign</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=full-toss-no-ball-rule'>Full Toss No Ball Rule</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=most-beautiful-garden-in-the-world-images'>Most Beautiful Garden In The World Images</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-that-lunch-meme-anime'>Is That Lunch Meme Anime</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ikea-kitchen-island-with-seating'>Ikea Kitchen Island With Seating</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lg-washing-machine-in-pakistan'>Lg Washing Machine In Pakistan</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=plant-stand-ideas-for-balcony'>Plant Stand Ideas For Balcony</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=How-to-make-wall-texture'>How To Make Wall Texture</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bed-headboard-design-in-india'>Bed Headboard Design In India</a>,
+";s:7:"expired";i:-1;}

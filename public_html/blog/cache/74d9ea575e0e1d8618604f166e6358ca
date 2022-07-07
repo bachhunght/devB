@@ -1,0 +1,241 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4360:"Etsy has become the go-to ecommerce site for all things handmade and artists and craftspeople from all walks of life have found success selling their products on its platform. These were enormously popular in the 1980s. And if you want to launch a creative product, Etsy may be a good place to test the waters. I sell a little bit of everything, but still do well with vintage items. I also have an antique mall space, where I put things that I don't want to sell on Ebay, mostly the vintage clothing and accessories. This peer-to-peer site, founded in 2005, reports that they have 1.7 million active sellers, 28.6 million active buyers, and 45 million active items for sale. Etsy is a marketplace where you can find millions of vintage items, and hand-crafted goods. If you are an Etsy shop owner, you probably would love to know what the most successful vintage Etsy shops do to succeed. Etsy is one of the best online selling sites around. They do well there, also, and I am getting better prices for it here in Colorado than I did when I lived near Chicago. I am super excited to share with you ten tips for selling vintage items on Etsy. As this is also super interesting to me, I thought that I would do bunch of research to see what we could find out. So the wait is over, you are at the right place to get equipped with the ins-and out of what sells best on Etsy and the best selling items on Etsy. Clarification: What Can You Sell on Etsy? One of the most common questions that people have, when they are interested in selling online, is where they should set up shop to sell their items.While there are several other online platforms to choose from, most people debate whether to pick Etsy … Because many items are vintage and need TLC, I show the refurbish process to make them attractive for resale. You could advertise a piece via Craigslist, or have a yard sale. Well you're in luck, because here they come. Or maybe, you had never thought of that idea but this is just the inspiration you needed to find your new niche. Either way, get ready to learn so much about growing your personal business! The most popular color? Trends change, so we will look at the best items that you can sell on Etsy in 2020. Now, Etsy does not work like Amazon where you can sell anything you want. You can sell vintage (items over 20 years old) , Craft Supplies, or Handmade items on Etsy. If the doll is in the original box, it can be worth hundreds. If you have antique goods, you can also try selling them on Etsy, which is an online fixed-price marketplace for handmade, vintage, and antique items. Above, we have covered the best items to sell on Etsy, and looked at how some excellent Etsy stores are selling huge quantities and crushing the competition. As an experienced online seller for 19 years, I reveal some of my selling secrets. Here are the absolute best Etsy boutiques for rare finds, vintage denim and more. Even some commercially manufactured items can be sold if you apply for a Manufacturing Approval, but, Etsy's marketplace really caters to handmade designers. Add in shop branding and you will have a great start on your vintage Etsy business! If you offer unique or handmade items, Etsy may be a helpful addition to your ecommerce site. So here are my favorite Top 5 types of Vintage Items To Sell On Ebay and Why: Let's dive right in to the list of my personal favorite items to find cheap and resell for profit on ebay. So, you must be an Etsy seller thinking about selling vintage items! When Janine from Guermantes Vintage first started selling on Etsy in 2010, she curated items for her shop based on what she thought buyers would like. Etsy is the home to thousands of handmade, vintage, and one-of-a-kind products and gifts related to your search. Etsy is the home to thousands of handmade, vintage, and one-of-a-kind products and gifts related to your search. One of the best things that you can do for your Etsy shop is to pick a niche and scope out the target audience that would like to buy your products! The most common best selling items material is metal. If the idea of shipping an item simply isn’t feasible, local sales work best. Wondering which are the best selling items on Etsy?Ever since e-commerce started allowing individuals to sell their items on the web, lots of people started opening online stores on … ";s:7:"keyword";s:34:"best selling vintage items on etsy";s:5:"links";s:8371:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=folding-camping-table-with-adjustable-legs'>Folding Camping Table With Adjustable Legs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wall-tiles-design-for-bedroom'>Wall Tiles Design For Bedroom</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=good-ole-soul-food-recipes-turkey-wings'>Good Ole Soul Food Recipes Turkey Wings</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=gray-full-daybed-with-trundle'>Gray Full Daybed With Trundle</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=big-sky-montana-in-december'>Big Sky Montana In December</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=down-to-earth-monty-don-review'>Down To Earth Monty Don Review</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=10-healthy-comfort-food-recipes'>10 Healthy Comfort Food Recipes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pool-table-room-decorating-ideas'>Pool Table Room Decorating Ideas</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=frigidaire-refrigerator-temperature-control-board'>Frigidaire Refrigerator Temperature Control Board</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cheap-houses-for-sale-in-washington'>Cheap Houses For Sale In Washington</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=master-bedroom-french-doors-to-patio'>Master Bedroom French Doors To Patio</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dr-sandra-lee-videos-youtube'>Dr Sandra Lee Videos Youtube</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=plug-in-hanging-light-fixtures-home-depot'>Plug In Hanging Light Fixtures Home Depot</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-liberation-of-the-philippines-summary'>The Liberation Of The Philippines Summary</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=popeye-the-sailor-man-movie'>Popeye The Sailor Man Movie</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hyatt-centric-park-city-restaurant'>Hyatt Centric Park City Restaurant</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=can-i-use-synthetic-oil-in-my-pressure-washer'>Can I Use Synthetic Oil In My Pressure Washer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=karcher-puzzi-100-pump-problems'>Karcher Puzzi 100 Pump Problems</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=second-hand-dining-chairs-ebay'>Second Hand Dining Chairs Ebay</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-cook-broccoli-rabe-less-bitter'>How To Cook Broccoli Rabe Less Bitter</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-eames-chair-replica-reddit'>Best Eames Chair Replica Reddit</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=stores-that-went-out-of-business-in-the-2000s'>Stores That Went Out Of Business In The 2000s</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=there-is-a-light-that-never-goes-out-the-smiths'>There Is A Light That Never Goes Out The Smiths</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wall-tiles-design-for-bedroom'>Wall Tiles Design For Bedroom</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=northstar-village-free-gondola-ride-to-the-ritz'>Northstar Village Free Gondola Ride To The Ritz</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-long-to-cook-quick-barley-in-slow-cooker'>How Long To Cook Quick Barley In Slow Cooker</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=black-kitchen-cabinets-with-butcher-block-countertops'>Black Kitchen Cabinets With Butcher Block Countertops</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=life-cycle-of-silkworm-wikipedia'>Life Cycle Of Silkworm Wikipedia</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ikea-winter-sale-2019-usa'>Ikea Winter Sale 2019 Usa</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=summer-rayne-oakes-house-tour'>Summer Rayne Oakes House Tour</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=why-ammonia-is-used-as-refrigerant'>Why Ammonia Is Used As Refrigerant</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=emily-henderson-neutral-living-room'>Emily Henderson Neutral Living Room</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=leibniz-universit%C3%A4t-hannover-ranking-2019'>Leibniz Universität Hannover Ranking 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-lamb-poem-bengali-translation'>The Lamb Poem Bengali Translation</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=johnson-and-johnson-baby-box'>Johnson And Johnson Baby Box</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=la-choy-chop-suey-recipe'>La Choy Chop Suey Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lifeproof-superiority-ii-burbury-beige'>Lifeproof Superiority Ii Burbury Beige</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-does-pigs-in-heaven-end'>How Does Pigs In Heaven End</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-end-finger-knitting'>How To End Finger Knitting</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=vrije-universiteit-amsterdam-acceptance-rate'>Vrije Universiteit Amsterdam Acceptance Rate</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=finding-success-in-your-30s'>Finding Success In Your 30s</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=object-pool-design-pattern-in-java'>Object Pool Design Pattern In Java</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-pizza-in-michigan-2019'>Best Pizza In Michigan 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=library-help-desk-job-description'>Library Help Desk Job Description</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-mini-fridge-with-separate-freezer'>Best Mini Fridge With Separate Freezer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-guelph-acceptance-rate'>University Of Guelph Acceptance Rate</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=recipes-for-11-year-olds-to-make-for-lunch'>Recipes For 11 Year Olds To Make For Lunch</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-british-columbia-courses'>University Of British Columbia Courses</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=modern-arts-and-crafts-house-interior'>Modern Arts And Crafts House Interior</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-dome-edinburgh-afternoon-tea'>The Dome Edinburgh Afternoon Tea</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-burger-names-in-the-world'>Best Burger Names In The World</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=twin-bed-with-storage-blueprints'>Twin Bed With Storage Blueprints</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=most-expensive-restaurant-in-the-world-2018'>Most Expensive Restaurant In The World 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-doctor-kit-for-older-child'>Best Doctor Kit For Older Child</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=stickley-outlet-sale-north-syracuse-2019'>Stickley Outlet Sale North Syracuse 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ge-cafe-refrigerator-touchpad-not-working'>Ge Cafe Refrigerator Touchpad Not Working</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=next-ikea-kitchen-event-2020'>Next Ikea Kitchen Event 2020</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=why-does-my-husband-criticizes-me-constantly'>Why Does My Husband Criticizes Me Constantly</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=downton-abbey-season-1-episode-1'>Downton Abbey Season 1 Episode 1</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=who-won-the-battle-of-britain'>Who Won The Battle Of Britain</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lincoln-university-college-malaysia-fake'>Lincoln University College Malaysia Fake</a>,
+";s:7:"expired";i:-1;}

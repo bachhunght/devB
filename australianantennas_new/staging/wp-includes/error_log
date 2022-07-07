@@ -1,0 +1,15 @@
+[23-Apr-2020 00:50:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/australiana/public_html/wp-includes/locale.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/australiana/public_html/wp-includes/locale.php on line 11
+[25-Apr-2020 05:08:02 UTC] PHP Fatal error:  Class 'Walker' not found in /home/australiana/public_html/wp-includes/class-walker-nav-menu.php on line 17
+[28-Apr-2020 06:57:47 UTC] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/australiana/public_html/wp-includes/functions.php on line 8
+[28-Apr-2020 06:57:47 UTC] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home/australiana/public_html/wp-includes/functions.php on line 8
+[28-Apr-2020 06:57:47 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/australiana/public_html/wp-includes/functions.php on line 8
+[28-Apr-2020 06:57:47 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/australiana/public_html/wp-includes/functions.php on line 8
+[28-Apr-2020 06:57:47 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/australiana/public_html/wp-includes/functions.php on line 8
+[30-Apr-2020 20:41:27 UTC] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/australiana/public_html/wp-includes/functions.php on line 8
+[30-Apr-2020 20:41:27 UTC] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home/australiana/public_html/wp-includes/functions.php on line 8
+[30-Apr-2020 20:41:27 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/australiana/public_html/wp-includes/functions.php on line 8
+[30-Apr-2020 20:41:27 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/australiana/public_html/wp-includes/functions.php on line 8
+[30-Apr-2020 20:41:27 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/australiana/public_html/wp-includes/functions.php on line 8

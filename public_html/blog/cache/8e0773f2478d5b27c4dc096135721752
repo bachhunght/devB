@@ -1,0 +1,215 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:1886:"Save on your food bill with this inexpensive recipe, which costs dramatically less … And I can't resist a 5-ingredient version of the recipe.  This Chicken Fried Steak recipe is quick and easy and so delicious that your family is sure to love it! The name arose as you do the same procedure when deep frying chicken. Prepare as much of your menu as possible beforehand because once the meat starts cooking, it goes fast! This Chicken Fried Steak recipe is quick and easy and so delicious that your family is sure to love it! Heat 1/2 cup oil in a large heavy skillet over medium-high heat. Treat yourself to some real down-home southern … Repeat with the remaining steaks, adding up to 1/4 cup more oil, as needed. As a southern girl, I take my fried food pretty seriously and Chicken Fried Steak is one of those simple recipes that brings back so many happy memories. Don’t worry this confused me as well. Chicken Fried Steak without the chicken. Save on your food bill with this inexpensive recipe, which costs dramatically less than the restaurant version! This is really not a hard food to prepare and I give ideas for rounding out a traditional meal using convenience foods. Add 2 or 4 of the steaks to the hot oil, and fry until browned, about 5-6 minutes per side. Chicken-fried steak is a treat no Southerner can resist! My mom makes an awesome Chicken Fried Steak and an even better gravy, and after years of watching her make it she passed the recipe on to me.It’s Chicken-fried steak is a down-home, 5-ingredient main dish that's easier to prepare than you may think. Simply coat cubed steaks in seasoned flour, fry in hot vegetable oil until golden brown, and serve with a delicious homemade gravy. Remove each steak to a paper towel-lined plate to drain. Anyway this recipe produces a lovely juicy tenderised battered steak with gravy – what more could you want. ";s:7:"keyword";s:31:"easy chicken fried steak recipe";s:5:"links";s:4955:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=activities-for-1-year-olds'>Activities For 1 Year Olds</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wall-to-wall-carpet-prices'>Wall To Wall Carpet Prices</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=canadian-art-wholesalers-dixie-road-mississauga-on'>Canadian Art Wholesalers Dixie Road Mississauga On</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=east-side-marios-menu-prices-ontario'>East Side Marios Menu Prices Ontario</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-replace-overload-relay-on-refrigerator'>How To Replace Overload Relay On Refrigerator</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=perennial-black-eyed-susan-seeds'>Perennial Black Eyed Susan Seeds</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-garlic-bread-with-regular-bread'>How To Make Garlic Bread With Regular Bread</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-clean-your-room-fast-step-by-step'>How To Clean Your Room Fast Step By Step</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bosch-nexxt-500-plus-series-washer-door-gasket'>Bosch Nexxt 500 Plus Series Washer Door Gasket</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-did-the-report-by-the-leadership-conference-on-civil-rights-conclude'>What Did The Report By The Leadership Conference On Civil Rights Conclude</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ricotta-rigatoni-casserole-home-chef'>Ricotta Rigatoni Casserole Home Chef</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=parallel-ski-shop-squaw-valley'>Parallel Ski Shop Squaw Valley</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-strawberry-with-chart-paper'>How To Make Strawberry With Chart Paper</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hbada-ergonomic-office-recliner-chair'>Hbada Ergonomic Office Recliner Chair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=used-study-table-and-chair-near-me'>Used Study Table And Chair Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=johnson-and-johnson-baby-box'>Johnson And Johnson Baby Box</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=west-elm-industrial-storage-coffee-table-craigslist'>West Elm Industrial Storage Coffee Table Craigslist</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-install-glass-tile-border-in-shower'>How To Install Glass Tile Border In Shower</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wooden-park-benches-for-sale'>Wooden Park Benches For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hot-dog-ingredients-and-procedure'>Hot Dog Ingredients And Procedure</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bedroom-decorating-ideas-with-gray-walls'>Bedroom Decorating Ideas With Gray Walls</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cheese-recipes-for-indian-babies'>Cheese Recipes For Indian Babies</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-barefoot-contessa-cookbook-recipes'>The Barefoot Contessa Cookbook Recipes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=play-kitchen-hougang-mall-menu'>Play Kitchen Hougang Mall Menu</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mahindra-mounted-combine-harvester-arjun-605-price'>Mahindra Mounted Combine Harvester Arjun 605 Price</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-open-supra-lockbox-shackle'>How To Open Supra Lockbox Shackle</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-long-to-cook-ribs-in-oven-at-350'>How Long To Cook Ribs In Oven At 350</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=radar-for-mountain-top-pennsylvania'>Radar For Mountain Top Pennsylvania</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sure-fit-couch-covers-australia'>Sure Fit Couch Covers Australia</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ficus-tree-lost-all-leaves'>Ficus Tree Lost All Leaves</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=thick-outdoor-chaise-lounge-cushions'>Thick Outdoor Chaise Lounge Cushions</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chinese-restaurant-crown-point-indiana'>Chinese Restaurant Crown Point Indiana</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=edina-realty-rochester-mn-townhomes'>Edina Realty Rochester Mn Townhomes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=veg-dum-biryani-in-cooker'>Veg Dum Biryani In Cooker</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hotpoint-iced-diamond-fridge-freezer-problems'>Hotpoint Iced Diamond Fridge Freezer Problems</a>,
+";s:7:"expired";i:-1;}

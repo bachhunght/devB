@@ -1,0 +1,259 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3390:"10. The best option for cheap lighting? Filming by a window or glass door and using that sweet, sweet natural light. David Bode. 7 Tips For Making Webcam Videos Look Good ... Use Soft Lighting From The Front. Online shopping for Electronics from a great selection of Lighting Controls & Modifiers, On-Camera Video Lights, Mounting Hardware, Continuous Output Lighting & more at everyday low prices. Top 5 Best Lighting Equipment For YouTube Videos Reviewed 1. When you think about lighting, consider how you want your audience to feel when they watch your video. As the hardware infrastructure continues to proliferate and support both wired and wireless platforms, the video capture devices become a bit more affordable. Fancierstudio 2400 Watt Professional Lighting Kit. Many YouTubers like to rely on natural light, but going this route would limit you to recording video content only during the day. 2. For better-looking videos, you need better video lighting. Three-point lighting (also known as documentary lighting) is the most basic lighting set up and one that you will use over and over again. Great photography doesn’t always involve buying the most expensive camera on the market. 5. 4. CFL Ring Light. ... Photoshop, HTML, CSS? Simply choosing a plain wall as your backdrop is often best. For a basic YouTube video lighting setup or other amateur videos, these under-$100 kits are perfectly effective. I’ve been making videos and shooting documentaries for over 8 years now and this is always my go-to lighting set up. Adjust Exposure:The ability to modify the exposure of a video recording. Reviews Of 9 Best Ring Lights For Youtube Video. DIY lighting: natural light. Plus, the good news for producing your own video content is that the costs of doing so are becoming so much more affordable. Halo Ring Light This fluorescent ring light provides daylight balanced lighting for clicking pictures and shooting videos. Stellar Photo/Video 18". I’m going to be exploring many elements of successful video creation over the coming weeks. If you want to have the freedom to record wherever and whenever you want, the best thing to do is to purchase some artificial light sources. Includes umbrella reflectors to ensure the highest quality of light throughout the area. 1. In motion pictures, a cinematographer’s main job is usually about setting up the lighting, not running the cameras. A great tool for mastering light that has been gaining ground are LED lights. I am mostly shooting instructional videos, indoor on-location interviews, product demonstrations etc. Here are some top kits. Yep, that's what I do best. adipurdila. My Video Lighting Requirements. Most include CFL bulbs, which output a soft, cool light. StudioFX 2400 Watt Large Photography Softbox. Fancierstudio’s three-point lighting kit is a good, under-$50 option, and includes translucent umbrellas to help diffuse the light, plus stands, CFL bulbs, and a case. It also helps to create a distinct catch light in the subject eyes. 3. All cameras capture better-looking video when there is a good light source, and webcams are no exception.  UHD/4K video still hasn’t quite reached maturity, but it’s only a matter of time. But even the best camera can’t perform to its best level without great lighting in the scene. Go to the Video Lighting department at Adorama for our complete selection. ";s:7:"keyword";s:33:"best lighting for video recording";s:5:"links";s:10705:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pressure-washer-pump-repair-manual'>Pressure Washer Pump Repair Manual</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=magnavox-wireless-stereo-earphones-pairing'>Magnavox Wireless Stereo Earphones Pairing</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-restaurants-in-los-angeles-2019'>Best Restaurants In Los Angeles 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=al-hadheerah-restaurant-dress-code'>Al Hadheerah Restaurant Dress Code</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-to-buy-canned-cherry-tomatoes'>Where To Buy Canned Cherry Tomatoes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=jackson-hole-ski-in-ski-out-real-estate'>Jackson Hole Ski In Ski Out Real Estate</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philips-hue-table-lamp-wellness'>Philips Hue Table Lamp Wellness</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=william-sonoma-margarita-cake-recipe'>William Sonoma Margarita Cake Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=instagram-download-for-android-apk'>Instagram Download For Android Apk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-cordless-vacuum-2018-uk'>Best Cordless Vacuum 2018 Uk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-grow-garlic-in-a-plastic-bottle'>How To Grow Garlic In A Plastic Bottle</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=starting-a-farmers-market-in-ontario'>Starting A Farmers Market In Ontario</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=twin-over-full-bunk-bed-instructions'>Twin Over Full Bunk Bed Instructions</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bed-bug-room-heater-rental-home-depot'>Bed Bug Room Heater Rental Home Depot</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=5-panel-oak-interior-doors'>5 Panel Oak Interior Doors</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=who-sells-beef-ribs-near-me'>Who Sells Beef Ribs Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=johnson-hardware-sliding-door-installation-instructions'>Johnson Hardware Sliding Door Installation Instructions</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hickey-brothers-fish-market-baileys-harbor'>Hickey Brothers Fish Market Baileys Harbor</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bbq-and-buffalo-sauce-mix'>Bbq And Buffalo Sauce Mix</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=popeye-olive-oyl-and-brutus'>Popeye Olive Oyl And Brutus</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=magnavox-wireless-stereo-earphones-pairing'>Magnavox Wireless Stereo Earphones Pairing</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=used-arctic-steamer-for-sale'>Used Arctic Steamer For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cucumber-supports-only-on-eclipse-ide'>Cucumber Supports Only On Eclipse Ide</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ebay-global-shipping-program-countries'>Ebay Global Shipping Program Countries</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-identify-american-chestnut'>How To Identify American Chestnut</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-is-a-seed-simple-definition'>What Is A Seed Simple Definition</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cheap-houses-for-sale-near-me-by-owner'>Cheap Houses For Sale Near Me By Owner</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=90-day-weather-forecast-for-georgia'>90 Day Weather Forecast For Georgia</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-york-alumni-funding'>University Of York Alumni Funding</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wicker-storage-baskets-for-shelves'>Wicker Storage Baskets For Shelves</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=warframe-color-palette-twitch-drop'>Warframe Color Palette Twitch Drop</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=love-it-or-list-it-cast'>Love It Or List It Cast</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=marinade-for-lamb-chops-in-the-oven'>Marinade For Lamb Chops In The Oven</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=who-says-sofa-vs-couch'>Who Says Sofa Vs Couch</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=The-History-of-Indian-Art'>The History Of Indian Art</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=small-bathroom-designs-for-indian-homes'>Small Bathroom Designs For Indian Homes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=obergurgl-ski-school-meeting-point'>Obergurgl Ski School Meeting Point</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=karcher-1700-psi-pressure-washer-reviews'>Karcher 1700 Psi Pressure Washer Reviews</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fried-egg-calories-no-oil'>Fried Egg Calories No Oil</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ultra-modern-kitchen-designs-luxury'>Ultra Modern Kitchen Designs Luxury</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-tomato-a-fruit-or-vegetable-yahoo-answers'>Is Tomato A Fruit Or Vegetable Yahoo Answers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=i-love-you-too-quotes'>I Love You Too Quotes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=calories-in-a-medium-egg-white'>Calories In A Medium Egg White</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=falls-landing-cannon-falls-mn'>Falls Landing Cannon Falls Mn</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cute-pink-wallpaper-for-android'>Cute Pink Wallpaper For Android</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-lavender-plant-for-essential-oil'>Best Lavender Plant For Essential Oil</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bacon-and-cheese-stuffed-meatloaf'>Bacon And Cheese Stuffed Meatloaf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=vodka-drinks-with-mint-leaves'>Vodka Drinks With Mint Leaves</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=award-winning-vodka-sauce-recipe'>Award Winning Vodka Sauce Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cochrane-chile-things-to-do'>Cochrane Chile Things To Do</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=reverse-glass-painting-on-the-danube'>Reverse Glass Painting On The Danube</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=population-of-fort-mcmurray-2018'>Population Of Fort Mcmurray 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=looking-for-a-house-to-rent-in-seattle-that-takes-section-8'>Looking For A House To Rent In Seattle That Takes Section 8</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=karcher-pressure-washer-problems-electric'>Karcher Pressure Washer Problems Electric</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=recipes-with-ground-beef-and-potatoes'>Recipes With Ground Beef And Potatoes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=properties-of-wool-and-silk'>Properties Of Wool And Silk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=2-bedroom-apartments-in-lakewood-co'>2 Bedroom Apartments In Lakewood Co</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=good-eats-the-return-watch-online'>Good Eats The Return Watch Online</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kitchen-table-at-bubbledogs-reservation'>Kitchen Table At Bubbledogs Reservation</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=basement-bathroom-laundry-room-ideas'>Basement Bathroom Laundry Room Ideas</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-fancy-deviled-eggs'>How To Make Fancy Deviled Eggs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-grow-maruvam-plant-in-telugu'>How To Grow Maruvam Plant In Telugu</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=free-form-pools-for-small-yards'>Free Form Pools For Small Yards</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-finish-a-basement-bathroom-with-rough-in-plumbing'>How To Finish A Basement Bathroom With Rough In Plumbing</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=7-foot-pool-table-dimensions'>7 Foot Pool Table Dimensions</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=olde-stone-brew-pub-peterborough'>Olde Stone Brew Pub Peterborough</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chicken-carrots-green-beans-recipe'>Chicken Carrots Green Beans Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-much-alcohol-is-safe-to-drink-daily'>How Much Alcohol Is Safe To Drink Daily</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=24-inch-cree-led-light-bar'>24 Inch Cree Led Light Bar</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-build-a-deck-on-a-mobile-home'>How To Build A Deck On A Mobile Home</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=single-pedestal-rectangular-dining-table'>Single Pedestal Rectangular Dining Table</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=plumbing-material-list-for-toilet'>Plumbing Material List For Toilet</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=50-foot-3-8-pressure-washer-hose'>50 Foot 3 8 Pressure Washer Hose</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=largest-cheese-factory-in-the-us'>Largest Cheese Factory In The Us</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-steam-clean-carpet-yourself'>How To Steam Clean Carpet Yourself</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=my-kitchen-rules-season-10-episode-1'>My Kitchen Rules Season 10 Episode 1</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=raised-garden-bed-los-angeles'>Raised Garden Bed Los Angeles</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=accent-color-for-gray-and-white-bathroom'>Accent Color For Gray And White Bathroom</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=national-symphony-orchestra-game-on'>National Symphony Orchestra Game On</a>,
+";s:7:"expired";i:-1;}

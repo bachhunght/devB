@@ -1,0 +1,256 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3530:"Jump to. Dining. Enjoy outdoor ice skating in the heart of the Beaver Creek Village. Childcare. 40 likes. It is open year-round for hockey, figure skating … For more information, call 1 (970) 845-0438. It is big enough to host concerts and even a circus. Our Destination Experts have local knowledge of Beaver Creek. Local Business.  Teach the little ones to skate, take a spin around the rink with your sweetie, or sit back on one of the plush couches that line the rink and kick your feet up. 60 Avondale Lane Avon, CO 81620 | (970) 845-0438. Beaver Creek offers a handful of options that are great for kids: Bungee Trampoline, Mini Golf Course, Climbing Wall, and an ice skating rink that is open in the summer … Section Title ... Ice Skating Enjoy endless fun at the ice rink located in the middle of the village. 2. This outdoor rink in the middle of Beaver Creek village is open both summer and winter. Summer in Beaver Creek is: watching kids splash and play in the creek as it meanders through the village. Childcare. Every day, there’s something exciting happening here, from our Thursday night Beaver Creek Rodeo to Concerts by the Creek, Friday Afternoon Club featuring live music and kid-friendly activities in the plaza, Movies Under the Stars, complimentary Yoga classes every Wednesday at the base and so much more. The rink is lined with he plush couches and warm firepits. Come summer, the same ski trails become paradise for hikers and bikers. Athletic Clubs and Spa Treatments. Beaver Creek is expanding ski terrain for guests to cultivate their sense of adventure and to elevate their on-mountain experience starting next winter. Dobson Ice Arena is located in the heart of Vail on the in-town bus route on West Meadow Drive across from the Vail Library. Courts can be rented out by the hour. Summer in Beaver Creek is: watching kids splash and play in the creek as it meanders through the village. It is endless rarefied experiences shared with those closest to you, where thoughtful details create a sense of belonging. Indoor Indulgences. Our Destination Experts have local knowledge of Beaver Creek. Vail Mountain - This is an eating and entertainment facility at the top of the Vail Mountain. Indoor Ice Skating . ... Beaver Island Massage and Spa Services. For those staying in Beaver Creek, Exclusive Vail Rentals recommends Black Family Ice Rink! Located in the center of Beaver Creek Village, the Beaver Creek Ice Rink offers endless family-friendly fun. Ice Skating: Easily the main attraction within Beaver Creek Village, this adorable ice skating rink is open year-round and offers up the quintessential mountain village experience. Ice Skating. Year round ice skating. Dobson Ice Arena is located in the heart of Vail on the in-town bus route on West Meadow Drive across from the Vail Library. The Extraordinary is a promise only Beaver Creek can deliver. Cool down summer evenings with ice skating in Beaver Creek Village. Accessibility Help. The rink is open from 6 p.m. to 9 p.m. daily in the summer. McCoy Park will offer guests a unique ski experience centered in a tranquil and serene environment, providing welcoming green and blue terrain in an idyllic bowl setting. Teach the little ones to skate, take a spin around the rink with your sweetie, or sit back on one of the plush couches that line the rink and kick your feet up. At Beaver Creek, The Extraordinary awaits you. Unique Family Activities Discover all the ways your family can experience an extraordinary summer vacation. ";s:7:"keyword";s:31:"beaver creek ice skating summer";s:5:"links";s:10280:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kijaro-dual-lock-hard-arm-chair'>Kijaro Dual Lock Hard Arm Chair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=raspberry-benefits-for-the-skin'>Raspberry Benefits For The Skin</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-under-armour-running-shoes-2018'>Best Under Armour Running Shoes 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=courtyard-by-marriott-edinburgh-tripadvisor'>Courtyard By Marriott Edinburgh Tripadvisor</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=download-oxford-dictionary-full-version'>Download Oxford Dictionary Full Version</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=four-seasons-vail-live-music'>Four Seasons Vail Live Music</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=truth-about-best-friends-animal-society'>Truth About Best Friends Animal Society</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=small-computer-desk-with-drawers'>Small Computer Desk With Drawers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=samsung-fridge-freezer-showing-wrong-temperature'>Samsung Fridge Freezer Showing Wrong Temperature</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=l-shaped-modular-kitchen-cost'>L Shaped Modular Kitchen Cost</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=alison-roman-cookbook-nothing-fancy'>Alison Roman Cookbook Nothing Fancy</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-is-a-dacquoise-cake'>What Is A Dacquoise Cake</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=articles-for-sale-around-haute-vienne'>Articles For Sale Around Haute Vienne</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-to-put-behind-a-floating-sofa'>What To Put Behind A Floating Sofa</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=tomato-sauce-recipe-with-fresh-tomatoes'>Tomato Sauce Recipe With Fresh Tomatoes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lunch-menu-ideas-for-friends'>Lunch Menu Ideas For Friends</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mainstays-3-cube-storage-organizer'>Mainstays 3 Cube Storage Organizer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=san-pedro-cactus-cuttings-for-sale-us'>San Pedro Cactus Cuttings For Sale Us</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lily-of-the-valley-minecraft'>Lily Of The Valley Minecraft</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-chicken-and-waffles-near-me'>Best Chicken And Waffles Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-juice-for-skin-and-hair'>Best Juice For Skin And Hair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ge-bottom-freezer-refrigerator-reviews'>Ge Bottom Freezer Refrigerator Reviews</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=push-out-casement-windows-cost'>Push Out Casement Windows Cost</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=swimming-pool-pipes-and-fittings'>Swimming Pool Pipes And Fittings</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-a-pumpkin-a-gourd'>Is A Pumpkin A Gourd</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=which-of-the-following-is-not-a-keyword-in-writing-feature-file-in-cucumber'>Which Of The Following Is Not A Keyword In Writing Feature File In Cucumber</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=food-network-uk-live-stream'>Food Network Uk Live Stream</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=shark-tank-season-10-download'>Shark Tank Season 10 Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=new-york-city-upcoming-events'>New York City Upcoming Events</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=closetmaid-fabric-drawers-home-depot'>Closetmaid Fabric Drawers Home Depot</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=operation-finale-movie-download-in-hindi'>Operation Finale Movie Download In Hindi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-cook-pasta-with-vegetables'>How To Cook Pasta With Vegetables</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=intex-hot-tub-customer-service'>Intex Hot Tub Customer Service</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=healthy-weeknight-dinners-for-families'>Healthy Weeknight Dinners For Families</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=plants-that-grow-from-leaves'>Plants That Grow From Leaves</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rustic-outdoor-decor-for-sale'>Rustic Outdoor Decor For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=low-maintenance-landscaping-with-rocks'>Low Maintenance Landscaping With Rocks</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=plastic-storage-bins-with-drawers'>Plastic Storage Bins With Drawers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chilli-chicken-gravy-recipe-malayalam'>Chilli Chicken Gravy Recipe Malayalam</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=a-perfect-murders-hindi-dubbed-720p'>A Perfect Murders Hindi Dubbed 720p</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=airdrie-and-coatbridge-advertiser-court-cases'>Airdrie And Coatbridge Advertiser Court Cases</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=10-healthy-comfort-food-recipes'>10 Healthy Comfort Food Recipes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=skillet-orecchiette-with-sausage-and-broccoli-rabe'>Skillet Orecchiette With Sausage And Broccoli Rabe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-restaurants-in-hamden-ct'>Best Restaurants In Hamden Ct</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fine-art-paintings-for-sale'>Fine Art Paintings For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=10-seater-dining-table-price-philippines'>10 Seater Dining Table Price Philippines</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fire-upper-east-side-2020'>Fire Upper East Side 2020</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=french-to-english-dictionary-translation'>French To English Dictionary Translation</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=Shooting-the-Past-Part-2'>Shooting The Past Part 2</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=black-krim-tomatoes-in-containers'>Black Krim Tomatoes In Containers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=4000-psi-pressure-washer-lowes'>4000 Psi Pressure Washer Lowes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pshannon-net-swordferns-regional-map-v4'>Pshannon Net Swordferns Regional Map V4</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-grow-broccoli-sprouts-rhonda-patrick'>How To Grow Broccoli Sprouts Rhonda Patrick</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=manjula-pothos-vs-marble-queen'>Manjula Pothos Vs Marble Queen</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=7117-6th-ave-tahoma-ca'>7117 6th Ave Tahoma Ca</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fall-into-a-trap-synonym'>Fall Into A Trap Synonym</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=aluminium-french-doors-with-side-windows'>Aluminium French Doors With Side Windows</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=guy-fieri-panama-city-beach-fl'>Guy Fieri Panama City Beach Fl</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-do-i-get-valpak-coupons-by-mail'>How Do I Get Valpak Coupons By Mail</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=target-christmas-clearance-markdown-schedule'>Target Christmas Clearance Markdown Schedule</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-next-iron-chef-netflix'>The Next Iron Chef Netflix</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-color-light-is-best-for-kitchen'>What Color Light Is Best For Kitchen</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=oxford-australian-concise-dictionary-6e'>Oxford Australian Concise Dictionary 6e</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pork-lomi-recipe-panlasang-pinoy'>Pork Lomi Recipe Panlasang Pinoy</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=romantic-restaurants-in-hartford-ct'>Romantic Restaurants In Hartford Ct</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rise-of-ottoman-empire-movie'>Rise Of Ottoman Empire Movie</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=food-network-thanksgiving-shows-2019'>Food Network Thanksgiving Shows 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=free-garden-bench-plans-woodworking'>Free Garden Bench Plans Woodworking</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chicken-and-waffle-bar-ideas'>Chicken And Waffle Bar Ideas</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=authentic-tikka-masala-paste-recipe'>Authentic Tikka Masala Paste Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-selling-vintage-items-on-etsy'>Best Selling Vintage Items On Etsy</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cold-breakfast-ideas-for-camping'>Cold Breakfast Ideas For Camping</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=essay-about-flowers-in-malayalam'>Essay About Flowers In Malayalam</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=tandoori-chicken-gravy-recipe-sanjeev-kapoor'>Tandoori Chicken Gravy Recipe Sanjeev Kapoor</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=alternate-phrase-for-feel-free'>Alternate Phrase For Feel Free</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=odd-shaped-living-room-furniture-placement'>Odd Shaped Living Room Furniture Placement</a>,
+";s:7:"expired";i:-1;}

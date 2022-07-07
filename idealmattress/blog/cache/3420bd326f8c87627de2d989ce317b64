@@ -1,0 +1,224 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4728:"For example, if a child wanted to create a flower picture out of buttons, she might select green buttons for a stem, pink buttons for the flower petals and a yellow button for the pollen center. Buttons Alert Buttons Outline Buttons Split Buttons Animated Buttons Fading Buttons Button on Image Social Media Buttons Read More Read Less Loading Buttons Download Buttons Pill Buttons Notification Button Icon Buttons Next/prev Buttons More Button in Nav Block Buttons Text Buttons Round Buttons Scroll To Top Button Forms Tip Junkie has hundreds of button crafts to make all with pictured tutorials to learn or how to make. And there are also one more wonderful thing about buttons: there are many different kinds of buttons, different size, different shape and different colors. Buttons Alert Buttons Outline Buttons Split Buttons Animated Buttons Fading Buttons Button on Image Social Media Buttons Read More Read Less Loading Buttons Download Buttons Pill Buttons Notification Button Icon Buttons Next/prev Buttons More Button in Nav Block Buttons Text Buttons Round Buttons Scroll To Top Button Forms Tip Junkie has hundreds of button crafts to make all with pictured tutorials to learn or how to make. How to Insert Picture into a Command Button. How to: Create a Button That Has an Image. You can quickly edit the button using layer style effects, the vector mask and the direct selection tool. The following example creates two Button controls. We can use only the icon/picture for the command button or we can use both the icon and the Caption. Select the necessary buttons to create a picture. You can always search there if Use any pictures you want after a simple and inexpensive trip to your local craft store. 03/30/2017; 2 minutes to read +6; In this article. If you want to wear your parent pride on your jacket, but you don't want to pay the cost or you want the buttons made with different pictures, you can make your own photo buttons. The image is in a folder called data, which is a subfolder of the example’s project folder. These button tutorials include button art, monograms, checkerboard, magnets, jewelry and edible buttons. We can use only the icon/picture for the command button or we can use both the icon and the Caption. You can always search there if Buttons Alert Buttons Outline Buttons Split Buttons Animated Buttons Fading Buttons Button on Image Social Media Buttons Read More Read Less Loading Buttons Download Buttons Pill Buttons Notification Button Icon Buttons Next/prev Buttons More Button in Nav Block Buttons Text Buttons Round Buttons Scroll To Top Button Forms Buying a Knockoff of My Own Dress: An Educated Roast (actual fire used for Scientific Purposes) - Duration: 24:51. Although the timing is perfect if you’d like to make a gift for someone for Valentine’s Day, it will also look smashing left up on your walls all year long. The command button with icon/picture is not only just making it easy to understand the meaning of button, but also makes the user interface more beautiful and looks professional. Here you will learn how to create a simple pixel perfect button in Photoshop. No registration needed. We love buttons and if you do too, this collection of best Button Wall Art ideas will no doubt inspire you to get creating! Do you remember your mother’s or grandmother’s vintage button box? One Button contains text and the other contains an image. The file name will look like “Screen shot 2020-03-01 at 08.45.00 AM.png”. Bernadette Banner Recommended for you As he stated, used the ImageButton widget. How to Make Buttons. Example. Pop over to Busted Button to find out how to make your own Button Animal Nursery Picture!If you’re not confident drawing animals free-hand, find an ima… button tutorial for an elephant but with photos of caterpillars and hippos! How to Take Screenshots in Windows 10 Rahul Saigal @rahulsaigal30 Updated October 15, 2018, 2:12pm EDT A screenshot is an image taken of whatever’s on your screen. Hi, I'm new in C#. The command button with icon/picture is not only just making it easy to understand the meaning of button, but also makes the user interface more beautiful and looks professional. An online button maker with full control over the button style and content. Simply navigate to your image file. Da Button Factory lets you create appealing buttons for websites, in no time and for free. How to Insert Picture into a Command Button. Hippo made out of buttons. There are so many things you can make with buttons and these designs can be easily recreated. Interesting ideas for decor: Crafts from buttons. These button tutorials include button art, monograms, checkerboard, magnets, jewelry and edible buttons. ";s:7:"keyword";s:27:"how to make button pictures";s:5:"links";s:5954:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=crate-and-barrel-registry-event'>Crate And Barrel Registry Event</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-diy-network-on-youtube-tv'>Is Diy Network On Youtube Tv</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=american-society-of-preventive-cardiology'>American Society Of Preventive Cardiology</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=big-sky-film-festival-2020'>Big Sky Film Festival 2020</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=grey-faux-fur-chair-big-lots'>Grey Faux Fur Chair Big Lots</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=etsy-christmas-gifts-for-friends'>Etsy Christmas Gifts For Friends</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dyson-animal-2-stair-tool'>Dyson Animal 2 Stair Tool</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-grilled-chicken-at-home-without-oven'>How To Make Grilled Chicken At Home Without Oven</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=deep-freezer-repair-near-me'>Deep Freezer Repair Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kitchen-assistant-job-description-resume'>Kitchen Assistant Job Description Resume</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=salesforce-training-classes-near-me'>Salesforce Training Classes Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=Victor-Emmanuel-III-of-Italy'>Victor Emmanuel III Of Italy</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kaffir-lime-leaves-where-to-buy'>Kaffir Lime Leaves Where To Buy</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=duravit-starck-3-vs-me'>Duravit Starck 3 Vs Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=washing-machine-exchange-offer-dubai'>Washing Machine Exchange Offer Dubai</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-much-is-the-weeping-woman-worth'>How Much Is The Weeping Woman Worth</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kohler-toilet-seat-hinge-replacement-parts'>Kohler Toilet Seat Hinge Replacement Parts</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=incandescent-bulb-e14-25w-heat-resistant'>Incandescent Bulb E14 25w Heat Resistant</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=melissa-and-doug-kitchen-diner'>Melissa And Doug Kitchen Diner</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=why-is-strahan-and-sara-showing-reruns'>Why Is Strahan And Sara Showing Reruns</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=production-technology-of-bird-of-paradise-flower'>Production Technology Of Bird Of Paradise Flower</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=paint-colors-that-go-with-oak-cabinets'>Paint Colors That Go With Oak Cabinets</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=vines-to-grow-over-chicken-coop'>Vines To Grow Over Chicken Coop</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=who-do-you-think-you-are-uk-2018'>Who Do You Think You Are Uk 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rose-gold-makeup-train-case'>Rose Gold Makeup Train Case</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fresh-green-bean-casserole-with-cream-of-mushroom'>Fresh Green Bean Casserole With Cream Of Mushroom</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=arts-and-crafts-movement-influence-today'>Arts And Crafts Movement Influence Today</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=acrylic-painting-on-canvas-step-by-step'>Acrylic Painting On Canvas Step By Step</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=heston-blumenthal-wife-stephanie-gouveia'>Heston Blumenthal Wife Stephanie Gouveia</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=george-brown-college-continuing-education'>George Brown College Continuing Education</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=perisher-ski-tube-prices-2018'>Perisher Ski Tube Prices 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bissell-hard-floor-expert-1154'>Bissell Hard Floor Expert 1154</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=plants-for-east-facing-balcony'>Plants For East Facing Balcony</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=indian-broccoli-recipes-side-dish'>Indian Broccoli Recipes Side Dish</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=international-swimming-pool-and-spa-code-section-609'>International Swimming Pool And Spa Code Section 609</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=landscape-and-urban-planning-pdf'>Landscape And Urban Planning Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=things-to-do-in-winter-no-money'>Things To Do In Winter No Money</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dalhousie-university-computer-science-ranking'>Dalhousie University Computer Science Ranking</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=used-bar-stools-for-sale'>Used Bar Stools For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=Townhouses-for-sale-near-Me'>Townhouses For Sale Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=used-washer-and-dryer-hamilton-ontario'>Used Washer And Dryer Hamilton Ontario</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=new-food-network-shows-2019'>New Food Network Shows 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ski-big-3-season-pass'>Ski Big 3 Season Pass</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-death-of-superman-animated-movie'>The Death Of Superman Animated Movie</a>,
+";s:7:"expired";i:-1;}

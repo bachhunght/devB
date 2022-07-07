@@ -1,0 +1,222 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3357:"Depleted uranium (238 U) is used in kinetic energy penetrators and armor plating. U238 and U234 get separated from U235 in the preparation of nuclear fuel, and because of their high density are used as missile cores for artillery by some armies, e.g the USA. Uranium salts are the dye fixatives of wool or silk. Uranium exists naturally in several different mineral types. It is the principle fuel for nuclear reactors, but it also used in the manufacture of nuclear weapons. Industrially: Uranium comes in three semi-stable isotopes, 238, 235 and 234. Uranium is also mined to isolate radium for use in glow in the dark paints for clock faces and aircraft dials. Uranium is used to power nuclear powered submarines and ships. U235 is important as fissionable matter in nuclear reactors. Depleted uranium is used as shielding in containers that store radioactive materials despite the fact that it itself is radioactive. Uranium is a very important element because it provides us with nuclear fuel used to generate electricity in nuclear power stations. Uranium was used in photographic chemicals, lamp filaments, to improve the whiteness of dentures and in the leather and wood industry as stains and dyes. The discovery of radioactivity introduced a new usage of uranium in science. Uranium minerals are mined, processed, and purified into Uranium metal. In ancient times, Uranium was used as a coloring agent in glass and ceramic glazes. Today, Uranium is used by nuclear power plants as a source of fuel. Uranium has an atomic number of 92 which means there are 92 protons and 92 electrons in the atomic structure. The radioisotopes from uranium are used in smoke detectors. Uranium is known for its unique nuclear properties. Only U-235 is used in nuclear reactions. Uses for Uranium Because the radioisotope U-235 releases so much energy, it can be used for efficient power generation in nuclear power stations or in devastatingly powerful nuclear weapons. It is also the major material from which other synthetic transuranium elements are made. Natural uranium, therefore, can be used in converter and breeder reactors, in which fission is sustained by the rare uranium-235 and plutonium is manufactured at the same time by the transmutation of … Uranium is used as a colorant in uranium glass, producing lemon yellow to green colors. Uranium can be used for nuclear power generation and is also used in the creation of nuclear weapons, among other purposes. Uranium (U) is a metallic, silver-gray element that is a member of the actinide series. Uranium is also used by the military to power nuclear submarines and in nuclear weapons. Uranium is also used as the fissile explosive to create nuclear weaponry.  Uranium is used in the wood and leather industry for dyes and stain, in photographic chemicals, and in making the filament of the stage-lighting bulbs. It was also used for tinting and shading in early photography. Uranium is commonly used in nuclear reactions to generate electricity power. Uranium glass fluoresces green in ultraviolet light. Uranium metal is used for lots of things including ceramics, ballasts, bullets, radiation shielding, hydrogen production, and it is an industrial catalyst, and has many other uses. Uranium is being used by people for millennia. Naturally occurring uranium consists of 99% U-238 and 1% U-235. ";s:7:"keyword";s:24:"what is uranium used for";s:5:"links";s:5686:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=laocoon-and-his-sons-khan-academy'>Laocoon And His Sons Khan Academy</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=Maid-of-the-Mist-Boat-Tour'>Maid Of The Mist Boat Tour</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-cut-iceberg-lettuce-for-wedge-salad'>How To Cut Iceberg Lettuce For Wedge Salad</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wooden-storage-bench-for-bedroom'>Wooden Storage Bench For Bedroom</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hayden-5-piece-dining-set-big-lots'>Hayden 5 Piece Dining Set Big Lots</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-long-does-stollen-keep'>How Long Does Stollen Keep</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=will-there-be-a-patient-zero-2'>Will There Be A Patient Zero 2</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chinese-money-plant-propagation-from-leaf'>Chinese Money Plant Propagation From Leaf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=importance-of-ornamental-plants-ppt'>Importance Of Ornamental Plants Ppt</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=too-late-the-hero-john-entwistle'>Too Late The Hero John Entwistle</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=decorative-wall-tiles-living-room'>Decorative Wall Tiles Living Room</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mats-to-put-under-swimming-pool'>Mats To Put Under Swimming Pool</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=when-to-use-factory-design-pattern-in-java'>When To Use Factory Design Pattern In Java</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=solid-wood-platform-bed-no-headboard'>Solid Wood Platform Bed No Headboard</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=virginia-tech-graduate-school-address'>Virginia Tech Graduate School Address</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=promo-codes-that-always-work'>Promo Codes That Always Work</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=watch-big-little-lies-season-2-episode-1'>Watch Big Little Lies Season 2 Episode 1</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-tasting-alcohol-to-drink-straight'>Best Tasting Alcohol To Drink Straight</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=star-wars-the-force-awakens-hulu'>Star Wars The Force Awakens Hulu</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-chicken-and-waffles-near-me'>Best Chicken And Waffles Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=local-and-foreign-terminologies-used-in-vegetable-cookery'>Local And Foreign Terminologies Used In Vegetable Cookery</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=made-to-measure-replacement-kitchen-doors'>Made To Measure Replacement Kitchen Doors</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=samsung-washing-machine-symbols-meaning'>Samsung Washing Machine Symbols Meaning</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fake-fall-flowers-dollar-tree'>Fake Fall Flowers Dollar Tree</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pan-fried-chicken-thighs-recipe'>Pan Fried Chicken Thighs Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=when-does-marks-and-spencer-home-event-end'>When Does Marks And Spencer Home Event End</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=holiday-time-christmas-lights-review'>Holiday Time Christmas Lights Review</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=vegetarian-roasted-red-pepper-sandwich'>Vegetarian Roasted Red Pepper Sandwich</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-wood-for-raised-garden-beds-organic'>Best Wood For Raised Garden Beds Organic</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=why-i-want-to-be-in-national-honor-society-essay-examples'>Why I Want To Be In National Honor Society Essay Examples</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=line-of-duty-season-3'>Line Of Duty Season 3</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=henderson-pocket-door-kit-pdk4'>Henderson Pocket Door Kit Pdk4</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wet-and-dry-vacuum-cleaner-argos'>Wet And Dry Vacuum Cleaner Argos</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pothos-in-water-root-rot'>Pothos In Water Root Rot</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sending-flowers-to-a-funeral-what-to-write'>Sending Flowers To A Funeral What To Write</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=steve-ells-net-worth-2019'>Steve Ells Net Worth 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=garlic-chicken-curry-recipe-bbc'>Garlic Chicken Curry Recipe Bbc</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=silk-wall-to-wall-carpet'>Silk Wall To Wall Carpet</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=1-cable-length-to-meters'>1 Cable Length To Meters</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-sell-on-etsy-singapore'>How To Sell On Etsy Singapore</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-landscape-architecture-worth-it'>Is Landscape Architecture Worth It</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=buy-indoor-plants-online-cheap'>Buy Indoor Plants Online Cheap</a>,
+";s:7:"expired";i:-1;}

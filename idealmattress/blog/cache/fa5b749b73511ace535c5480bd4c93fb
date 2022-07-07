@@ -1,0 +1,208 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3538:"My question is: What is the purpose of the horizontal connection from the Spa Return to the Pool Return via the 3 way valve? Swimming Pool Plumbing Diagrams *These plumbing diagrams are only examples. They can run a pipe from the main drain into the front hole of the skimmer, and then the back hole is the suction pipe that goes to the pool pump.This reduces costs, compared to running a separate main drain pipe, all the way back to the pump. Wiring Diagram For Swimming Pools The. Fetch Content Swimming Pool Main Drains must be installed in accordance with the VIRGINIA GRAEME BAKER POOL AND SPA SAFETY ACT and all applicable ASME/ANSI safety standards. To understand the basic plumbing system of a pool or spa, you must follow the path of the water. Prerequisites for Plumbing: Excavation completed; The plumbing sub is responsible for all the pool equipment and PVC plumbing necessary to take care of things like pool filtration, pool cleaning, chlorination systems, waterfalls, pool/spa heating, spa jets/air, skimmers, aerators, auto … This gives the pool builder some flexibility in how to connect the plumbing pipes underneath the skimmer. The basic plan is to push water in one general direction. All openings are covered to ensure that concrete does not enter, harden and block the pipes. Diagrammatic Reasoning Tricks. Dead Star Plot Diagram. The basic plan is to push water in one general direction. Booster Pump Pool Cleaner Plumbing . Pool And spa. Pentair’s solutions are engineered to filter, clean and sanitize water to its purest state, while automation equipment makes it all easy to control from anywhere so that you can truly enjoy your pool and spa. All commercial pools, spas and waders run independently of each other. Swimming pool piping design plumbing good with pic of classic basic pool spa combination plumbing diagram pool component layout schematic diagram design architecture and … It's basically just a smaller version of a pool, with the same set up. All openings are covered to ensure that concrete does not enter, harden and block the pipes. o Equipment room diagram and related plumbing and valving details. Basic Pool or Spa Plumbing Systems. … PLUMBING PRINCIPLES Plumbing is completed prior to concrete finishing. Two Pump Single Heater Plumbing (valves shown in spa heating position) Pool Filter Pump Spa Filter Pump Pool Filter Pool Return Spa Return Pool Intake Spa Intake Spa Filter Heater Note 1: Both pumps can operate simultaneously. Waders turn- over rates are once every 1 hour. The pool and spa business primarily concerns itself with the hydraulics branch of fluid mechanics, which specializes in the properties of moving water. o Enclosure details (i.e., fence, gates, building, walls or structures surrounding the pool area). PVC is designed to carry unheated water (under 100 degrees F). PLUMBING PRINCIPLES Plumbing is completed prior to concrete finishing. Common pool plumbing layout for the pool/ spa combo design with shared pool & spa heater and controller. Plumbing Diagram for Pool, Spa Jets In Pool Pump System Plumbing Diagrams . Pool Plumbing Diagram Jpg 1650 1275 Pinterest. Pool plumbing is done with PVC schedule 40. Basic Pool & Spa Combination Plumbing Diagram. Test Psicotecnicos Graficos Y Diagramas. Basic Pool & Spa Combination Plumbing Diagram4 Jandy 3 way valves1 Jandy 2 way valve1 Jandy Check valve2 Jandy Valve Actuators Common pool plumbing layout for the pool/ spa combo design with shared pool & spa heater and controller Basic Pool or Spa Only ";s:7:"keyword";s:30:"pool plumbing diagram with spa";s:5:"links";s:4058:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=michel-roux-sr-net-worth'>Michel Roux Sr Net Worth</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=plastic-recliner-chairs-for-sale'>Plastic Recliner Chairs For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mstar-international-sanders-6-piece-modular-fabric-sectional-sofa'>Mstar International Sanders 6 Piece Modular Fabric Sectional Sofa</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=eu-family-member-residence-card-ireland'>Eu Family Member Residence Card Ireland</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-money-gardening-at-home'>How To Make Money Gardening At Home</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=havells-customer-care-complaint-online'>Havells Customer Care Complaint Online</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-apply-self-adhesive-wallpaper'>How To Apply Self Adhesive Wallpaper</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=difference-between-crustose-and-foliose-lichen'>Difference Between Crustose And Foliose Lichen</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sugar-free-desserts-for-toddlers'>Sugar Free Desserts For Toddlers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=romantic-bedroom-decorating-ideas-cheap-for-valentines-day'>Romantic Bedroom Decorating Ideas Cheap For Valentines Day</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=royal-dutch-shell-price-target'>Royal Dutch Shell Price Target</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=buy-one-get-one-free-recliners-2018'>Buy One Get One Free Recliners 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=coosno-coffee-table-for-sale'>Coosno Coffee Table For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lexington-ma-town-trick-or-treat-2019'>Lexington Ma Town Trick Or Treat 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=at-what-temperature-does-water-freeze-instantly'>At What Temperature Does Water Freeze Instantly</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=side-dishes-for-baked-pork-chops'>Side Dishes For Baked Pork Chops</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=acacia-wood-outdoor-side-table'>Acacia Wood Outdoor Side Table</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=navy-blue-accent-wall-fireplace'>Navy Blue Accent Wall Fireplace</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kitchen-garden-magazine-december-2019'>Kitchen Garden Magazine December 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fifth-third-home-value-estimator'>Fifth Third Home Value Estimator</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=prehung-louvered-interior-doors-lowes'>Prehung Louvered Interior Doors Lowes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=easy-creme-brulee-recipe-without-ramekins'>Easy Creme Brulee Recipe Without Ramekins</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=marketing-project-topics-for-class-12'>Marketing Project Topics For Class 12</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-outdoor-furniture-for-florida'>Best Outdoor Furniture For Florida</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=squaw-valley-in-the-fall'>Squaw Valley In The Fall</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-open-a-supra-combination-lock-box'>How To Open A Supra Combination Lock Box</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=manyata-embassy-business-park-f2-building-bangalore'>Manyata Embassy Business Park F2 Building Bangalore</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=procedure-for-allotment-of-shares-to-existing-shareholders-under-companies-act-2013'>Procedure For Allotment Of Shares To Existing Shareholders Under Companies Act 2013</a>,
+";s:7:"expired";i:-1;}

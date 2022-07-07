@@ -1,0 +1,248 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2788:"Definition of repast written for English Language Learners from the Merriam-Webster Learner's Dictionary with audio pronunciations, usage examples, and count/noncount noun labels. Wikipedia Dictionaries. our repast definition, meaning, English dictionary, synonym, see also 'reast',repeat',rept',rest', Reverso dictionary, English definition, English vocabulary Word Finder & Unscrambler. Webster definition, a weaver. The dictionary by Merriam-Webster is America's most trusted online dictionary for English word definitions, meanings, and pronunciation. Repast definition is - something taken as food : meal. English Wikipedia - The Free Encyclopedia. Please tell us where you read or heard it (including the quote, if possible). hEnglish - advanced version. Repass definition is - to pass again especially in the opposite direction : return. Type of: nutriment. They enjoyed a sumptuous repast and in the midst of the merriment the news arrived that the bishop was dead. Did You Know? Repast may refer to: a meal or taking of food; Convivial definition is - relating to, occupied with, or fond of feasting, drinking, and good company. ... Repast Definition from Encyclopedia Dictionaries & Glossaries. About. Synonyms: meal. See more. 37 synonyms and near synonyms of breakfast from the Merriam-Webster Thesaurus. How to use repass in a sentence. Word Facts ... For many years, the copyright to the Webster name belonged only to dictionaries published by the G. and C. Merriam Company, later renamed Merriam-Webster. More usage examples than any other dictionary. Comments on repast. Dictionary.com. Find another word for breakfast. Word of the Day. 47 words that rhyme with repast from the Merriam-Webster Rhyming Dictionary "repast" definition: the food served and eaten at one time. How to use repast in a sentence. Thesaurus.com. What made you want to look up repast? Word of the day, facts and observations on language, lookup trends, and wordplay from the editors at Merriam-Webster Dictionary. #wordsmatter Clear and simple definitions in basic American English from North America's leading language experts. Wikipedia: Repast [disambiguation] may refer to: a meal, and sometimes prayer following a funeral, common in the Southern United States. Merriam-Webster (@merriamwebster) • Instagram photos and videos 136.3k Followers, 1,421 Posts. Webster's Revised Unabridged Dictionary (1913), edited by Noah Porter. +Audio pronunciation +Etymology +References ... www .merriam-webster .com /dictionary /repast show=1. Video. Search repast and thousands of other words in English definition and synonym dictionary from Reverso. Everything After Z. Quizzes. Search repast and thousands of other words in English Cobuild dictionary from Reverso. How to use convivial in a sentence.  ";s:7:"keyword";s:33:"repast meaning in merriam webster";s:5:"links";s:9194:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=things-to-do-in-cincinnati'>Things To Do In Cincinnati</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=girl-before-a-mirror-essay'>Girl Before A Mirror Essay</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=northstar-4000-psi-pressure-washer-manual'>Northstar 4000 Psi Pressure Washer Manual</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=heavenly-ski-resort-opening-day-2019'>Heavenly Ski Resort Opening Day 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=high-pressure-car-washer-for-service-station'>High Pressure Car Washer For Service Station</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=briggs-and-stratton-6328-surface-cleaner-parts'>Briggs And Stratton 6328 Surface Cleaner Parts</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pull-out-tie-rack-for-wardrobes-side-mounted'>Pull Out Tie Rack For Wardrobes Side Mounted</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bartender-perfect-mix-unblocked-games'>Bartender Perfect Mix Unblocked Games</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chrissy-teigen-cravings-2-recipes'>Chrissy Teigen Cravings 2 Recipes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=jobs-for-females-in-sharjah'>Jobs For Females In Sharjah</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=24-hour-restaurants-elko-nv'>24 Hour Restaurants Elko Nv</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=diy-makeup-brush-holder-with-lid'>Diy Makeup Brush Holder With Lid</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=white-living-room-set-rooms-to-go'>White Living Room Set Rooms To Go</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=why-is-it-called-the-jacobean-era'>Why Is It Called The Jacobean Era</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rice-with-zucchini-and-carrots'>Rice With Zucchini And Carrots</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hobby-lobby-coming-soon-2020'>Hobby Lobby Coming Soon 2020</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-do-i-cook-frozen-fries-in-my-air-fryer'>How Do I Cook Frozen Fries In My Air Fryer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=honey-and-lemon-for-weight-loss-disadvantages'>Honey And Lemon For Weight Loss Disadvantages</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=preaching-to-the-perverted-full-movie-youtube'>Preaching To The Perverted Full Movie Youtube</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=queen-of-the-night-lyrics-hey-violet-meaning'>Queen Of The Night Lyrics Hey Violet Meaning</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-is-cotton-made-step-by-step'>How Is Cotton Made Step By Step</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=step-2-love-to-entertain-kitchen-assembly'>Step 2 Love To Entertain Kitchen Assembly</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=23-inch-dishwasher-home-depot'>23 Inch Dishwasher Home Depot</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=living-room-shelves-and-cabinets'>Living Room Shelves And Cabinets</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rubber-types-properties-and-uses-pdf'>Rubber Types Properties And Uses Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=samsung-front-load-washer-keeps-adding-time'>Samsung Front Load Washer Keeps Adding Time</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=175-watt-equivalent-led-bulbs'>175 Watt Equivalent Led Bulbs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=6-panel-clear-pine-interior-doors'>6 Panel Clear Pine Interior Doors</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=room-cabinet-design-for-small-space'>Room Cabinet Design For Small Space</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-vacuum-for-hardwood-floors-and-pet-hair'>Best Vacuum For Hardwood Floors And Pet Hair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pruning-a-large-schefflera-tree'>Pruning A Large Schefflera Tree</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=leaning-into-the-wind-andy-goldsworthy-dvd'>Leaning Into The Wind Andy Goldsworthy Dvd</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=floor-and-decor-near-me'>Floor And Decor Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=black-krim-tavern-randolph-vt'>Black Krim Tavern Randolph Vt</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=a-history-of-violence-justwatch'>A History Of Violence Justwatch</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=small-mosaic-outdoor-side-table'>Small Mosaic Outdoor Side Table</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-cook-papaya-leaves'>How To Cook Papaya Leaves</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=heavenly-ski-rental-and-lift-tickets'>Heavenly Ski Rental And Lift Tickets</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=two-person-chaise-lounge-sofa'>Two Person Chaise Lounge Sofa</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=outdoor-pool-table-for-sale-near-me'>Outdoor Pool Table For Sale Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=park-city-utah-weather-in-may'>Park City Utah Weather In May</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=60-inch-round-table-rental'>60 Inch Round Table Rental</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-idaho-football-rumors'>University Of Idaho Football Rumors</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=jenis-karpet-untuk-kamar-tidur'>Jenis Karpet Untuk Kamar Tidur</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=uses-of-cotton-in-interior-design'>Uses Of Cotton In Interior Design</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=boston-university-acceptance-rate-2019'>Boston University Acceptance Rate 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=honda-gx200-pressure-washer-hose'>Honda Gx200 Pressure Washer Hose</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-great-american-baking-show-2019-winner'>The Great American Baking Show 2019 Winner</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-much-light-should-seedlings-get'>How Much Light Should Seedlings Get</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=grey-and-beige-living-room'>Grey And Beige Living Room</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-is-an-indoor-garden-room-called'>What Is An Indoor Garden Room Called</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=benefits-of-dates-for-womens'>Benefits Of Dates For Womens</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=carpet-area-meaning-in-telugu'>Carpet Area Meaning In Telugu</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=canvas-art-ideas-for-beginners'>Canvas Art Ideas For Beginners</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kitchen-utensil-set-with-holder'>Kitchen Utensil Set With Holder</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=restaurants-with-gluten-free-desserts'>Restaurants With Gluten Free Desserts</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=big-pocono-state-park-fall-foliage-2019'>Big Pocono State Park Fall Foliage 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mountain-bike-trails-near-me'>Mountain Bike Trails Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hearth-and-hand-bedding-king'>Hearth And Hand Bedding King</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=alison-roman-cookbook-nothing-fancy'>Alison Roman Cookbook Nothing Fancy</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-long-to-cook-ribs-in-oven-at-350'>How Long To Cook Ribs In Oven At 350</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=carrot-juice-skin-before-after'>Carrot Juice Skin Before After</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=are-moon-cactus-poisonous-to-dogs'>Are Moon Cactus Poisonous To Dogs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=gain-city-aircon-promotion-2019'>Gain City Aircon Promotion 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=home-cooking-adventure-carrot-cake'>Home Cooking Adventure Carrot Cake</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=japanese-flavor-pairing-for-weight-loss'>Japanese Flavor Pairing For Weight Loss</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-did-ethan-allen-do-in-the-american-revolution'>What Did Ethan Allen Do In The American Revolution</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=meatloaf-with-oatmeal-and-bbq-sauce'>Meatloaf With Oatmeal And Bbq Sauce</a>,
+";s:7:"expired";i:-1;}

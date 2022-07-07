@@ -1,0 +1,259 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3320:"Using Ikea Lack as an enclosure is the most popular choice among the 3D printing community. The table can be bought for under $10 and has almost the perfect size for Prusa printers. I am having the same issues with my Ender 3. Creality3D Ender 3 IKEA LACK enclosure with IKEA LEDBERG LED lights by 3D_Bus_Driver is licensed under the Creative Commons - Attribution - Non-Commercial - Share Alike license. Ikea Lack – when you care about looks as well. How to "turn Ikea Lack tables to 3D printing enclosure?" 3mm Transparent Clear Plexiglass for IKEA Lack 3D Printer Enclosure (5 Pack) | 3 Pieces of 440mm x 440mm (17.3" x 17.3") & 2 Pieces of 220mm x 440mm ... Creality Fireproof and Dustproof 3D Printer Enclosure Mini 3D Printer Tent for Ender 3 / Ender 3 pro/Ender 5, Constant Temperature Protective Cover Room 3.9 out of 5 stars 3. Saved from thingiverse.com. I did this remix because when I printed the original, it wasn´t tall enough to put my Ender 3 into. Posted in 3D Printing Applications . IKEA Lack Enclosure Creality Ender 3 Compilation by Woody1978 - Thingiverse. Ender 3 / Ender 3 Pro - IKEA Lack Enclosure by DAVYcr is licensed under the Creative Commons - Attribution - Share Alike license.  Creality3D Ender 3 IKEA LACK enclosure with IKEA LEDBERG LED lights by Threedee_Bus_Driver - Thingiverse Ikea Lack Table, 3d Cnc, 3d Printer Projects, Bus Driver, 3d … Liked By View All Give a Shout Out If you print this Thing and display it in public proudly give attribution by printing and displaying this tag. Dies ist meine Version vom Gehäuse für meinen Creality ... Our 3D printer enclosures are easy to … Liked By View All Give a Shout Out If you print this Thing and display it in public proudly give attribution by printing and displaying this tag. Dies ist meine Version vom Gehäuse für meinen Creality Ender 3. I used the original spool holder from the Ender 3, attached it with two screws to the printed spool holder base. Visit. STL Files for 3D Printers. There are a lot of article on the Internet about this topic. IKEA Lack Enclosure Creality Ender 3 Compilation by Woody1978 - Thingiverse. Liked By View All Discussion So I have a Creality Ender 3 on it’s way (first 3D printer, so excited) and I have realised I haven’t got anywhere to put it as it’s not going to fit on my table by a couple of centimetres. IKEA Lack Enclosure Creality Ender 3 Compilation by Woody1978 is licensed under the Creative Commons - Attribution license. IKEA Lack Enclosure for the Creality Ender 3, how to modify it to fit? IKEA Lack Enclosure Creality Ender 3 Compilation by Woody1978 - Thingiverse. Maybe you also like: ZVerse announces new partnership with 3D Systems and $3.5M Series A funding This one is still work in progress but figured a few folk might find the stuff designed so far is of some use to them and may open the project to some new ideas. Click on images to download ender 3 lack enclosure STL files for your 3D Printer. IKEA Lack Enclosure Creality Ender 3 Compilation by Woody1978 - Thingiverse. So I decided to make a new version with the . This is a trending topic. IKEA Lack Enclosure Creality Ender 3 Compilation by Woody1978. IKEA Lack Enclosure Creality Ender 3 Compilation by Woody1978 - Thingiverse . IKEA Lack Enclosure Creality Ender 3 Compilation by Woody1978. ";s:7:"keyword";s:38:"ikea lack 3d printer enclosure ender 3";s:5:"links";s:10531:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=circles-bistro-carrollwood-tampa-menu'>Circles Bistro Carrollwood Tampa Menu</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=studio-room-for-rent-in-ajman-monthly-basis'>Studio Room For Rent In Ajman Monthly Basis</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=top-selling-soft-drinks-2018'>Top Selling Soft Drinks 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=black-leather-rocker-recliner-chair'>Black Leather Rocker Recliner Chair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=south-shore-furniture-bureau-dresser'>South Shore Furniture Bureau Dresser</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=citibank-uae-customer-care-email'>Citibank Uae Customer Care Email</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-fast-food-breakfast-sandwich-2019'>Best Fast Food Breakfast Sandwich 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=benefits-of-school-gardening-for-students'>Benefits Of School Gardening For Students</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=3-drawer-bedside-table-white'>3 Drawer Bedside Table White</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=3-primary-kitchen-work-station'>3 Primary Kitchen Work Station</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=innsbruck-weather-forecast-15-days'>Innsbruck Weather Forecast 15 Days</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=amana-washer-diagnostic-mode-codes'>Amana Washer Diagnostic Mode Codes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dris-top-boy-season-2'>Dris Top Boy Season 2</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=perisher-lift-pass-prices-2019'>Perisher Lift Pass Prices 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-a-japanese-rock-garden'>How To Make A Japanese Rock Garden</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-much-cheese-per-day'>How Much Cheese Per Day</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=white-sand-volume-3-release-date'>White Sand Volume 3 Release Date</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=leaving-neverland-part-2-release-date'>Leaving Neverland Part 2 Release Date</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-great-food-truck-race-season-10-episode-2'>The Great Food Truck Race Season 10 Episode 2</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ponytail-palm-top-broke-off'>Ponytail Palm Top Broke Off</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=characteristics-of-plants-for-grade-1'>Characteristics Of Plants For Grade 1</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=round-bar-height-table-and-chairs'>Round Bar Height Table And Chairs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-steam-mop-2019-uk'>Best Steam Mop 2019 Uk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=money-plant-in-bedroom-vastu'>Money Plant In Bedroom Vastu</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-seafood-restaurant-edinburgh-city-centre'>Best Seafood Restaurant Edinburgh City Centre</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-road-to-perdition-a-dc-movie'>Is Road To Perdition A Dc Movie</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=www-apartmenttherapy-com-small-cool'>Www Apartmenttherapy Com Small Cool</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=olympic-size-pool-near-me'>Olympic Size Pool Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=boq-for-swimming-pool-construction-pdf'>Boq For Swimming Pool Construction Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-high-to-hang-shelves-in-bedroom'>How High To Hang Shelves In Bedroom</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lunch-time-or-lunchtime-results'>Lunch Time Or Lunchtime Results</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=golden-celebration-rose-in-container'>Golden Celebration Rose In Container</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-a-park-with-cardboard'>How To Make A Park With Cardboard</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ikea-dining-table-set-singapore'>Ikea Dining Table Set Singapore</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ryobi-pressure-washer-parts-lowes'>Ryobi Pressure Washer Parts Lowes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ryobi-3100-psi-pressure-washer-manual'>Ryobi 3100 Psi Pressure Washer Manual</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=squaw-valley-in-the-fall'>Squaw Valley In The Fall</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-change-hdb-light-switch'>How To Change Hdb Light Switch</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=felt-slippers-with-rubber-soles'>Felt Slippers With Rubber Soles</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dog-friendly-restaurants-long-island'>Dog Friendly Restaurants Long Island</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-clean-fabric-dining-chairs'>How To Clean Fabric Dining Chairs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=types-of-flat-weave-rugs'>Types Of Flat Weave Rugs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=walmart-christmas-clearance-90-off'>Walmart Christmas Clearance 90 Off</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=100-recipes-to-stake-your-life-on-video'>100 Recipes To Stake Your Life On Video</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-tandoori-chicken-at-home'>How To Make Tandoori Chicken At Home</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=canvas-storage-boxes-with-lids'>Canvas Storage Boxes With Lids</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=channel-8-news-knoxville-tn'>Channel 8 News Knoxville Tn</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-is-rat-away-technology-in-washing-machine'>What Is Rat Away Technology In Washing Machine</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-keep-indoor-plants-alive-in-winter'>How To Keep Indoor Plants Alive In Winter</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=23-inch-dishwasher-home-depot'>23 Inch Dishwasher Home Depot</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=can-you-use-a-led-bulb-in-a-metal-halide-fixture'>Can You Use A Led Bulb In A Metal Halide Fixture</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=shoe-stores-near-my-location'>Shoe Stores Near My Location</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=honda-pressure-washer-carburetor-parts'>Honda Pressure Washer Carburetor Parts</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kidkraft-vintage-kitchen-batch-number'>Kidkraft Vintage Kitchen Batch Number</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chagall-i-and-the-village-video'>Chagall I And The Village Video</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-copper-a-precious-metal'>Is Copper A Precious Metal</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=zucchini-vs-cucumber-nutrition-value'>Zucchini Vs Cucumber Nutrition Value</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=benefits-of-self-care-research'>Benefits Of Self Care Research</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=w-hotel-afternoon-tea-kl'>W Hotel Afternoon Tea Kl</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=steel-study-table-with-drawers'>Steel Study Table With Drawers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=paint-colours-for-small-rooms'>Paint Colours For Small Rooms</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=low-maintenance-landscaping-with-rocks'>Low Maintenance Landscaping With Rocks</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=doppler-radar-greensboro-north-carolina'>Doppler Radar Greensboro North Carolina</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-pioneer-woman-season-24-episode-1'>The Pioneer Woman Season 24 Episode 1</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=are-you-the-one-season-8-watch-online'>Are You The One Season 8 Watch Online</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cactus-adaptations-to-their-environment'>Cactus Adaptations To Their Environment</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=factories-in-the-industrial-revolution'>Factories In The Industrial Revolution</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=jasper-national-park-winter-driving'>Jasper National Park Winter Driving</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-guelph-world-ranking'>University Of Guelph World Ranking</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=king-headboard-and-frame-wood'>King Headboard And Frame Wood</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-transplant-a-schefflera-plant'>How To Transplant A Schefflera Plant</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-dresden-files-tv-series'>The Dresden Files Tv Series</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=elisabeth-moss-movies-and-tv-shows'>Elisabeth Moss Movies And Tv Shows</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fresh-mint-chocolate-chip-cookies'>Fresh Mint Chocolate Chip Cookies</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-books-on-japanese-design'>Best Books On Japanese Design</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=buy-lemon-verbena-essential-oil'>Buy Lemon Verbena Essential Oil</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=st-regis-park-city-spa'>St Regis Park City Spa</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=velvet-carpet-pros-and-cons'>Velvet Carpet Pros And Cons</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=botanical-classification-of-vegetables-pdf'>Botanical Classification Of Vegetables Pdf</a>,
+";s:7:"expired";i:-1;}

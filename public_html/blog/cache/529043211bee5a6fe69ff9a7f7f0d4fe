@@ -1,0 +1,261 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:5561:"It is defined as the mass of a particular international prototype made of platinum-iridium and kept at the International Bureau of Weights and Measures. The kilogram-force (kgf or kgF), or kilopond (kp, from Latin pondus meaning weight), is a gravitational metric unit of force. It takes one liter of water to get one kilo of weight. So i weighed the folder which was just over 1kg. To make a change between these two units of measurement, the formula to be used is N / 9.807 = kg which is the same conversion used automatically by the N to kg conversion calculator. One kilogram is the standard unit of measurement of weight. kilogram (kg): The kilogram (abbreviation, kg) is the Standard International ( SI ) System of Units unit of mass. If we assume that we're only talking about forces and masses here on earth then we can ignore gravity - for example we talk of someone's weight being 70 kg though 'weight' is strictly a force. The relationship between the kilogram and the newton is that 1 newton is the force produced by the acceleration due gravity on a mass of 1 kg. ‘lbs’ is the abbreviation and the official notion used to indicate pounds. As an example, 2N = 0.2kg and 15N = 1.53kg. "The difference is that a "kilogram of mass" is correct, whereas a "kilogram of force" is wrong. The relationship between kilograms and grams is as follows: 1 kg = 1,000 g. In fact, the prefix 'kilo' means 1,000, so a 'kilogram' literally means 1,000 grams. A kilogram weighs 9.81 Newtons (N) or 2.21 pounds (lb). Conversion of units describes equivalent units of mass in other systems. It is equal to the magnitude of the force exerted by one kilogram of mass in a 9.80665 m/s2 gravitational field (standard gravity, a conventional value approximating the average magnitude of gravity on Earth). The kilogram is not the weight of a … So a kilo is 2.2 times heavier than a pound. Use this weight conversion tool to convert between kilograms, stone, pounds, ounces, grams and other units of weight. How much laundry can you fit inside an 8kg drum? The kilogram or kilogramme, (symbol: kg) is the SI base unit of mass. The metric system is great because it is a base-ten system, meaning you can convert between units by multiplying or dividing by 10, 100, 1,000, and so on. The kilogram-force is not a standard unity:. The answer is 1. How many kilo in 1 kilogram? We assume you are converting between kilogram-force and kilogram-force. What’s the real difference between drum capacity sizes? What is 9st 7lbs in kg? The gram symbol is g while the kilogram symbol is kg. Tonnes to Kilograms (T to kg) conversion calculator for Weight conversions with additional tables and formulas. However, kilogram is the full term for kilo. I got £ 2340 the more i … The kilogram was originally defined in 1795 as the mass of one litre of water. • … Note that … 1 newton is equal to 0.10197162129779 kilograms, or 0.10197162129779 kgf. What’s the real difference between drum capacity sizes? (Including photos). The answer is 1. What is the difference between a gram and a kg? Key Difference: Kilogram is purely a unit of mass measurement. the only difference between them is that pounds was the main scale for weighing in the FPS(foot-pound-second) system of measurement, while kg is used in the MKS (metre-kilogram-second) or SI unit of measurement.... and, 1kg=2.204585537918871 pounds ***** Convert Stones to Kilos … Convert 9 stones 7 pounds to kilos & grams using this gorgeous, accurate and free calculator. You can view more details on each measurement unit: kilograms or kgf The SI derived unit for force is the newton. 1 kilo is equal to 1 kilogram. The photos below compare the 7 kg drum with a standard 5 kg drum. [1] What is the difference between Pounds and Kilos? Here you can convert stones to kilos (st to kg) with absolute ease and accuracy. The kilogram (also kilogramme) is the base unit of mass in the metric system, formally the International System of Units (SI), having the unit symbol kg.It is a widely used measure in science, engineering, and commerce worldwide, and is often simply called a kilo in everyday speech.. I then times 9 by 260 to try and work out the estimate. 1.Pound is an imperial unit of mass or weight measure while kilogram is a metric unit of measurement. If you've calculated your weight and want to work out your BMI, give the BMI calculator a try. What is 9st 7lbs in kg? You can view more details on each measurement unit: kilo or kilogram The SI base unit for mass is the kilogram. • Both pounds and kilos are units of mass. One kilo of mass is equal to 2.2 lbs, which basically means that a kilogram (kg) is 2.2 times heavier than a pound (lbs). ok so i was told that for shipping something to cost would be £9 per kilo. "Kilogram" is a unit of mass. • Pound uses the abbreviation ‘lb.’ other than this the abbreviations ‘lbm’...  • Pound is always pronounced in whole as a pound. 2.One kilogram is approximately equal to 2.2 pounds. As nouns the difference between kilogram and gram is that kilogram is in the international system of units, the base unit of mass; the mass of a specific cylinder of platinum-iridium alloy kept at the international bureau of weights and measures in france symbol: kg while gram is a unit of mass equal to one-thousandth of a kilogram symbol: g or gram can be a group of leguminous plants that are grown … If you need to convert kilos to stone or kg to stone and pounds, try our easy to use kilos to stone converter table - it's so quick and simple to use ";s:7:"keyword";s:31:"difference between kilos and kg";s:5:"links";s:10925:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=river-of-fire-greek-mythology'>River Of Fire Greek Mythology</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=worst-bakers-in-america-recipes'>Worst Bakers In America Recipes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=i-quit-sugar-simplicious-flow-big-w'>I Quit Sugar Simplicious Flow Big W</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=venison-barley-soup-slow-cooker'>Venison Barley Soup Slow Cooker</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=blood-in-blood-out-sequel'>Blood In Blood Out Sequel</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kenmore-refrigerator-repair-ice-maker'>Kenmore Refrigerator Repair Ice Maker</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=magnum-4000-series-gold-pressure-washer'>Magnum 4000 Series Gold Pressure Washer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=use-photoshop-online-free-without-download'>Use Photoshop Online Free Without Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-is-the-philosophy-of-art-apex'>What Is The Philosophy Of Art Apex</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=diy-overhead-garage-storage-plans'>Diy Overhead Garage Storage Plans</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sofa-set-price-below-5000-in-bangalore'>Sofa Set Price Below 5000 In Bangalore</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=farmhouse-landscape-design-ideas-india'>Farmhouse Landscape Design Ideas India</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=grand-timber-lodge-promo-code'>Grand Timber Lodge Promo Code</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=3-bedroom-houses-for-rent-in-calgary'>3 Bedroom Houses For Rent In Calgary</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-fast-food-breakfast-sandwich-2019'>Best Fast Food Breakfast Sandwich 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mile-radius-from-current-location'>Mile Radius From Current Location</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=7-layer-taco-dip-with-ground-beef'>7 Layer Taco Dip With Ground Beef</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=when-does-gardeners-world-start-2019'>When Does Gardeners World Start 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=in-too-deep-song-in-movie'>In Too Deep Song In Movie</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=faux-leather-chair-set-of-2'>Faux Leather Chair Set Of 2</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fishers-landing-vancouver-wa-zip-code'>Fishers Landing Vancouver Wa Zip Code</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-bittersweet-ski-resort-open'>Is Bittersweet Ski Resort Open</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-buy-aloe-vera-plant'>How To Buy Aloe Vera Plant</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=white-dining-chair-with-black-legs'>White Dining Chair With Black Legs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=craigslist-eau-claire-miscellaneous-for-sale'>Craigslist Eau Claire Miscellaneous For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-grow-mogri-vegetable'>How To Grow Mogri Vegetable</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=patterns-of-enterprise-application-architecture-epub'>Patterns Of Enterprise Application Architecture Epub</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-it-safe-to-eat-romaine-lettuce-from-salinas-ca'>Is It Safe To Eat Romaine Lettuce From Salinas Ca</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=in-this-moment-call-me'>In This Moment Call Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hanging-gardens-of-babylon-images'>Hanging Gardens Of Babylon Images</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=traditional-dining-room-tables-and-chairs'>Traditional Dining Room Tables And Chairs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=main-dish-casseroles-for-entertaining'>Main Dish Casseroles For Entertaining</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-land-that-time-forgot-comic'>The Land That Time Forgot Comic</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=uber-ski-from-denver-to-breckenridge'>Uber Ski From Denver To Breckenridge</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=redfin-software-engineer-intern-interview-questions'>Redfin Software Engineer Intern Interview Questions</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=i-know-what-you-did-last-summer-2'>I Know What You Did Last Summer 2</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=small-black-dresser-with-mirror'>Small Black Dresser With Mirror</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-tell-if-kidney-beans-are-cooked'>How To Tell If Kidney Beans Are Cooked</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hobby-lobby-christmas-clearance-2020'>Hobby Lobby Christmas Clearance 2020</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=captain-america-the-winter-soldier-trailer'>Captain America The Winter Soldier Trailer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=easy-dum-aloo-recipe-in-hindi'>Easy Dum Aloo Recipe In Hindi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-steam-clean-carpet-yourself'>How To Steam Clean Carpet Yourself</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=healthy-overnight-crockpot-breakfast-recipes'>Healthy Overnight Crockpot Breakfast Recipes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-order-in-zomato-in-tamil'>How To Order In Zomato In Tamil</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rubber-floor-mats-for-home'>Rubber Floor Mats For Home</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=reverse-glass-painting-on-the-danube'>Reverse Glass Painting On The Danube</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=landscape-and-urban-planning-pdf'>Landscape And Urban Planning Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=alice-in-wonderland-full-movie'>Alice In Wonderland Full Movie</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chinese-cabbage-and-pork-recipe'>Chinese Cabbage And Pork Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=side-storage-table-with-bin'>Side Storage Table With Bin</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=grey-and-pink-dining-room'>Grey And Pink Dining Room</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=toyota-corolla-windshield-glass-replacement-cost'>Toyota Corolla Windshield Glass Replacement Cost</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=15-quick-easy-grilling-recipes'>15 Quick Easy Grilling Recipes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-a-plywood-shed-door'>How To Make A Plywood Shed Door</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=loot-crate-april-2019-unboxing'>Loot Crate April 2019 Unboxing</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-high-to-hang-shelves-in-bedroom'>How High To Hang Shelves In Bedroom</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kitchen-wall-decorating-ideas-do-it-yourself'>Kitchen Wall Decorating Ideas Do It Yourself</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cool-ideas-for-new-home-construction'>Cool Ideas For New Home Construction</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=have-i-got-news-for-you-series-56'>Have I Got News For You Series 56</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-cook-papaya-leaves'>How To Cook Papaya Leaves</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=benefits-of-constructive-criticism-in-the-workplace'>Benefits Of Constructive Criticism In The Workplace</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=front-design-of-house-in-small-budget'>Front Design Of House In Small Budget</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-old-is-jimmy-johnson'>How Old Is Jimmy Johnson</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cheap-king-size-bed-with-storage'>Cheap King Size Bed With Storage</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dona-maria-mole-limited-edition-glasses'>Dona Maria Mole Limited Edition Glasses</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=modern-interior-doors-near-me'>Modern Interior Doors Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=top-chef-meals-free-shipping'>Top Chef Meals Free Shipping</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-do-the-initials-smilf-stand-for'>What Do The Initials Smilf Stand For</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-apply-self-adhesive-wallpaper'>How To Apply Self Adhesive Wallpaper</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=office-doors-with-glass-panels'>Office Doors With Glass Panels</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=christmas-cookie-challenge-casting-2019'>Christmas Cookie Challenge Casting 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=job-applications-online-near-me'>Job Applications Online Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=double-wide-mobile-home-additions'>Double Wide Mobile Home Additions</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=top-10-developers-in-singapore-2018'>Top 10 Developers In Singapore 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=end-table-decor-no-lamps'>End Table Decor No Lamps</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=used-news-set-for-sale'>Used News Set For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=signs-of-life-crossword-clue'>Signs Of Life Crossword Clue</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=urban-agriculture-grow-your-own-tree'>Urban Agriculture Grow Your Own Tree</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hotel-le-sherpa-val-thorens-inghams'>Hotel Le Sherpa Val Thorens Inghams</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=acrylic-painting-images-on-canvas'>Acrylic Painting Images On Canvas</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-hurt-locker-full-movie-in-hindi'>The Hurt Locker Full Movie In Hindi</a>,
+";s:7:"expired";i:-1;}

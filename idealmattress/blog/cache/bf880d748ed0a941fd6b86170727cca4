@@ -1,0 +1,269 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3784:"The easiest way to bend plywood at home is using clamps and a form made out of medium density fiberboard, or by using a ratchet strap. It weakens the wood slightly and can leave residual stresses which may cause breakage, blowouts or spring-back over time. In bending thick pieces of solid wood, however, softening with steam or hot water or plasticizing with chemicals is essential. Bend the wood so the "spines" left by your cut touch, forming a single stress-bearing edge. Such bending is done without treating the wood. How to Bend Wire. I use this chart as a jumping-off point: • 2″ to 4″ radius — 3/32″ thick … Using a ruler and pencil, mark out the area designated for your bend, this will give you a guide when it comes to sawing your notches – referred to as kerfs. The typical way to do this is to build a steam box that fits your part-to-be-bent inside. Except I like curved lines once in a while. When a piece of wood is bent, it is stretched, or in tension, along the outer (convex) side of the bend and compressed along the inner (concave) side. Cut a length of thick plywood into the desired dimensions for your bend. But there are three drawbacks to this method: The box must be sized to fit your piece; when you remove your piece from the box and transport it to your mold, it begins to cool, losing elasticity; and when not in use, the box takes up precious shop space. A year later and the tree is safely in my garden in the UK and in good health. Because it's made from a series of cross-laminated sheets, though, plywood is more difficult to bend than raw wood. How to Make a Steambox for Bending Wood: A steam box is a handy way to heat wood so that it becomes more pliable than it is at room temperature. You can now keep the bend in place by fastening the two ends of the lumber to a stable object. I'll be bending the metal using a jig just like the one in this 'ible.I'm a big fan of Atomic Zombie's builds. The heavy bend was carried out in Sweden during May 2018. thick. Instead of laminating veneers or using a product like bendy ply, I tried laminating thin furniture grade plywood to make thicker plywood. Remember that this is a weak bend, and do not rely on it … To properly bend a sheet or plank of wood, there are a few techniques that will help. The easiest way to bend plywood at home is using clamps and a form made out of medium density fiberboard, or by using a ratchet strap. If it’s difﬁ cult to bend… Since bends usually straightento some extent when theyare released from restrainttheformshouldbe shapedto a slightlysharper radiusthanis finally required (Figure 3). It all depends on what wood is used and how tight the radius of the curve is. I then bend the piece to roughly the curve I want. thick, six strips 1⁄8" thick, eight strips 3⁄32" thick or a dozen pieces 1⁄16" thick. bend takes the required shape. Typically, the part is held to the curve with glue only since piercing the wood with a nail or screw would tend to break it under the bending stress. CC Chair - How to Bend Plywood: I had a few weeks to build a chair and decided to experiment with bending plywood. The stiffness of a piece of wood is proportional to its thickness raised to the power of 3. Start with these best practices and then let experience be your guide. A flat piece of wood when bent can normally absorb a difference between outside and inside radius of 2 to 3% (without using end pressure or steaming) before breaking.  Make sure you have the right tools. Bend Metal Without Expensive Tools: UPDATE:Check out this super two-person trike my partner and I are offering on Kickstarter! long and 1 in. Bend relaxation The main thing that holds the shape of the bent lamination is that the pieces were glued together while bent. ";s:7:"keyword";s:22:"how to bend thick wood";s:5:"links";s:11915:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=umass-lowell-vs-umass-dartmouth'>Umass Lowell Vs Umass Dartmouth</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=honda-gcv160-spark-plug-lowes'>Honda Gcv160 Spark Plug Lowes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=How-to-eat-dragon-fruit'>How To Eat Dragon Fruit</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cotton-vs-polyester-for-gym'>Cotton Vs Polyester For Gym</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rocking-horse-ranch-resort-reviews'>Rocking Horse Ranch Resort Reviews</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-lightweight-wet-dry-vacuum'>Best Lightweight Wet Dry Vacuum</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pollen-street-social-or-social-eating-house'>Pollen Street Social Or Social Eating House</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=jamie-oliver-5-ingredients-chicken-tikka-cauliflower'>Jamie Oliver 5 Ingredients Chicken Tikka Cauliflower</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=herberger-institute-for-design-and-the-arts-ranking'>Herberger Institute For Design And The Arts Ranking</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cat-grass-seeds-home-depot'>Cat Grass Seeds Home Depot</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=p30-vs-mate-20-pro-gsmarena'>P30 Vs Mate 20 Pro Gsmarena</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wood-bedside-step-stool-for-adults'>Wood Bedside Step Stool For Adults</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=learn-to-ski-free-nh-2020'>Learn To Ski Free Nh 2020</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=should-i-put-my-dog-in-a-crate-at-night'>Should I Put My Dog In A Crate At Night</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ikea-kitchen-set-toy-singapore'>Ikea Kitchen Set Toy Singapore</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=storage-bins-with-lids-12-quart'>Storage Bins With Lids 12 Quart</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=compound-wall-designs-kerala-style'>Compound Wall Designs Kerala Style</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kitchen-garden-magazine-march-2020'>Kitchen Garden Magazine March 2020</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=american-society-of-preventive-cardiology'>American Society Of Preventive Cardiology</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=healthy-lunch-box-ideas-for-kids'>Healthy Lunch Box Ideas For Kids</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=home-depot-pay-period-2019'>Home Depot Pay Period 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=washing-machines-not-affected-by-tariffs'>Washing Machines Not Affected By Tariffs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-part-of-jasper-national-park'>Best Part Of Jasper National Park</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-reupholster-a-dining-chair'>How To Reupholster A Dining Chair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=storms-in-the-pacific-right-now'>Storms In The Pacific Right Now</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-force-that-through-the-green-fuse-drives-the-flower-theme'>The Force That Through The Green Fuse Drives The Flower Theme</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=non-teaching-jobs-in-sharjah-schools'>Non Teaching Jobs In Sharjah Schools</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=blue-curacao-drinks-with-sprite'>Blue Curacao Drinks With Sprite</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=2000-psi-pressure-washer-pump'>2000 Psi Pressure Washer Pump</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=paneer-butter-masala-in-tamil-home-cooking'>Paneer Butter Masala In Tamil Home Cooking</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=are-coffee-tables-out-of-style'>Are Coffee Tables Out Of Style</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-can-i-buy-margarita-mix-uk'>Where Can I Buy Margarita Mix Uk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dazed-and-confused-lyrics-yardbirds'>Dazed And Confused Lyrics Yardbirds</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dining-table-for-restaurant-prices'>Dining Table For Restaurant Prices</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lodge-49-season-2-episode-1'>Lodge 49 Season 2 Episode 1</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-check-refrigerator-compressor-relay'>How To Check Refrigerator Compressor Relay</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=things-to-do-in-utah'>Things To Do In Utah</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=why-gardening-is-good-for-the-environment'>Why Gardening Is Good For The Environment</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=red-cabbage-meaning-in-urdu'>Red Cabbage Meaning In Urdu</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=take-two-interactive-net-worth'>Take Two Interactive Net Worth</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kentucky-state-employee-salaries-2018'>Kentucky State Employee Salaries 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=when-to-repot-cattleya-orchids'>When To Repot Cattleya Orchids</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lg-ice-maker-parts-diagram'>Lg Ice Maker Parts Diagram</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=The-Farm-With-Ian-Knauer'>The Farm With Ian Knauer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=park-city-ski-school-video'>Park City Ski School Video</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mt-baker-ski-area-road-conditions'>Mt Baker Ski Area Road Conditions</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=My-house-essay-in-marathi'>My House Essay In Marathi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-cupcakes-youtube'>How To Make Cupcakes Youtube</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-food-goes-well-with-chocolate-martinis'>What Food Goes Well With Chocolate Martinis</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hotpoint-iced-diamond-fridge-freezer-problems'>Hotpoint Iced Diamond Fridge Freezer Problems</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=who-owns-shanty-creek-resort'>Who Owns Shanty Creek Resort</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=interior-door-with-glass-panel'>Interior Door With Glass Panel</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=real-simple-slow-cooker-chicken'>Real Simple Slow Cooker Chicken</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=md-room-back-wall-design'>Md Room Back Wall Design</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=deyaar-properties-for-rent-in-ras-al-khaimah'>Deyaar Properties For Rent In Ras Al Khaimah</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=barn-homes-for-sale-in-washington-state'>Barn Homes For Sale In Washington State</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mi-cuenta-de-home-depot'>Mi Cuenta De Home Depot</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ar-pressure-washer-pump-parts'>Ar Pressure Washer Pump Parts</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=secrets-of-a-restaurant-chef-prime-rib'>Secrets Of A Restaurant Chef Prime Rib</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=carne-asada-fries-del-taco'>Carne Asada Fries Del Taco</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rubbermaid-stock-tank-50-gallon'>Rubbermaid Stock Tank 50 Gallon</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=live-by-night-full-movie-dual-audio-download'>Live By Night Full Movie Dual Audio Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=types-of-linen-and-their-uses'>Types Of Linen And Their Uses</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=are-habitat-for-humanity-houses-free'>Are Habitat For Humanity Houses Free</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-bbq-in-the-us-2018'>Best Bbq In The Us 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=annie-leibovitz-portraits-2005-to-2016'>Annie Leibovitz Portraits 2005 To 2016</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=vegan-keto-pasta-dough-recipe'>Vegan Keto Pasta Dough Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=things-to-do-in-victoria-bc-in-january-2019'>Things To Do In Victoria Bc In January 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-cut-yellow-zucchini'>How To Cut Yellow Zucchini</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=benefits-of-school-gardening-for-students'>Benefits Of School Gardening For Students</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lowes-flyer-april-25-2019'>Lowes Flyer April 25 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fishers-landing-vancouver-wa-zip-code'>Fishers Landing Vancouver Wa Zip Code</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=williams-sonoma-sale-schedule-2019'>Williams Sonoma Sale Schedule 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=benefits-of-eating-raw-garlic-in-empty-stomach-in-tamil'>Benefits Of Eating Raw Garlic In Empty Stomach In Tamil</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bed-bug-room-heater-rental-home-depot'>Bed Bug Room Heater Rental Home Depot</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rambutan-fruit-benefits-in-tamil'>Rambutan Fruit Benefits In Tamil</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=richard-brake-night-king-vs-vladimir'>Richard Brake Night King Vs Vladimir</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chinese-restaurant-in-dubai-mall'>Chinese Restaurant In Dubai Mall</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=big-bear-snow-forecast-december-2019'>Big Bear Snow Forecast December 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=boston-conservatory-at-berklee-transcript'>Boston Conservatory At Berklee Transcript</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=small-console-table-with-drawers'>Small Console Table With Drawers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=red-deer-alberta-population-2019'>Red Deer Alberta Population 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=karcher-vc4i-cordless-stick-vacuum-reviews'>Karcher Vc4i Cordless Stick Vacuum Reviews</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chiller-tray-for-lg-fridge'>Chiller Tray For Lg Fridge</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=banana-daiquiri-recipe-banana-liqueur'>Banana Daiquiri Recipe Banana Liqueur</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=carrot-juice-for-hair-loss-reviews'>Carrot Juice For Hair Loss Reviews</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-legend-of-tarzan-2'>The Legend Of Tarzan 2</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=godrej-4-door-steel-almirah-price-list'>Godrej 4 Door Steel Almirah Price List</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=honor-10-vs-honor-view-20'>Honor 10 Vs Honor View 20</a>,
+";s:7:"expired";i:-1;}

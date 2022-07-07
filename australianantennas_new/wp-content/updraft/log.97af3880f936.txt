@@ -1,0 +1,962 @@
+0000.000 (0) Opened log file at time: Tue, 25 Feb 2020 08:12:50 +0000 on https://www.australianantennas.com.au
+0000.010 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.22 WP: 5.3.2 PHP: 5.6.40 (litespeed, Linux vader.sentius.net 3.10.0-962.3.2.lve1.5.27.el7.x86_64 #1 SMP Sat Nov 30 02:18:52 EST 2019 x86_64) MySQL: 10.1.44-MariaDB WPLANG: en_US Server: LiteSpeed safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 90.2M | 91.3M) multisite: N openssl: OpenSSL 1.0.2k-fips  26 Jan 2017 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.108 (0) Free space on disk containing Updraft's temporary directory: 185611.7 MB
+0000.113 (0) Deleting old log file: log.d7dcd895cbde.txt
+0000.122 (0) Tasks: Backup files: 1 (schedule: manual) Backup DB: 1 (schedule: manual)
+0000.129 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.137 (0) Set semaphore last lock (fd) time to 2020-02-25 08:12:50
+0000.143 (0) Semaphore lock (fd) complete
+0000.160 (0) Backup run: resumption=0, nonce=97af3880f936, file_nonce=97af3880f936 begun at=1582618370 (0s ago), job type=backup
+0000.166 (0) Scheduling a resumption (1) after 300 seconds (1582618670) in case this run gets aborted
+0000.191 (0) Checking if we have a zip executable available
+0000.195 (0) Testing: /usr/bin/zip
+0000.210 (0) Output: zip warning: binziptest/test.zip not found or empty
+0000.216 (0) Output: adding: binziptest/subdir1/	(in=0) (out=0) (stored 0%)
+0000.219 (0) Output: adding: binziptest/subdir1/subdir2/	(in=0) (out=0) (stored 0%)
+0000.223 (0) Output: adding: binziptest/subdir1/subdir2/test.html	(in=131) (out=107) (deflated 18%)
+0000.227 (0) Output: total bytes=131, compressed=107 -> 18% savings
+0000.246 (0) Output: adding: binziptest/subdir1/subdir2/test2.html	(in=138) (out=113) (deflated 18%)
+0000.252 (0) Output: total bytes=269, compressed=220 -> 18% savings
+0000.279 (0) Working binary zip found: /usr/bin/zip
+0000.290 (0) Zip engine: found/will use a binary zip: /usr/bin/zip
+0000.294 (0) Creation of backups of directories: beginning
+0000.311 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0001.250 (0) Total entities for the zip file: 1976 directories, 11848 files (0 skipped as non-modified), 159.8 MB
+0001.267 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0001.283 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0001.296 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0001.309 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0001.321 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0001.328 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (11.6 MB, 11848 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0002.456 (0) backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: size is now: 7.90 MB
+0002.473 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 600 files added (on-disk size: 8072.7 KB)
+0002.483 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 700 files added (on-disk size: 8072.7 KB)
+0002.496 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 800 files added (on-disk size: 8072.7 KB)
+0002.508 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 900 files added (on-disk size: 8072.7 KB)
+0002.518 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 1000 files added (on-disk size: 8072.7 KB)
+0002.521 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (10.3 MB, 11848 files batched, 501 (1002) added so far); re-opening (prior size: 8072.7 KB)
+0005.045 (0) backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: size is now: 15.80 MB
+0005.072 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 1100 files added (on-disk size: 16157 KB)
+0005.095 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 1200 files added (on-disk size: 16157 KB)
+0005.110 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 1300 files added (on-disk size: 16157 KB)
+0005.132 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 1400 files added (on-disk size: 16157 KB)
+0005.147 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 1500 files added (on-disk size: 16157 KB)
+0005.153 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (9.1 MB, 11848 files batched, 501 (1503) added so far); re-opening (prior size: 16157 KB)
+0009.375 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 1600 files added (on-disk size: 18838.4 KB)
+0009.388 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 1700 files added (on-disk size: 18838.4 KB)
+0009.400 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 1800 files added (on-disk size: 18838.4 KB)
+0009.412 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 1900 files added (on-disk size: 18838.4 KB)
+0009.426 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 2000 files added (on-disk size: 18838.4 KB)
+0009.431 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (6.9 MB, 11848 files batched, 501 (2004) added so far); re-opening (prior size: 18838.4 KB)
+0011.472 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 2100 files added (on-disk size: 21004.7 KB)
+0011.484 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 2200 files added (on-disk size: 21004.7 KB)
+0011.495 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 2300 files added (on-disk size: 21004.7 KB)
+0011.505 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 2400 files added (on-disk size: 21004.7 KB)
+0011.518 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 2500 files added (on-disk size: 21004.7 KB)
+0011.523 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (0.7 MB, 11848 files batched, 501 (2505) added so far); re-opening (prior size: 21004.7 KB)
+0012.753 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 2600 files added (on-disk size: 21361.9 KB)
+0012.767 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 2700 files added (on-disk size: 21361.9 KB)
+0012.786 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 2800 files added (on-disk size: 21361.9 KB)
+0012.798 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 2900 files added (on-disk size: 21361.9 KB)
+0012.819 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 3000 files added (on-disk size: 21361.9 KB)
+0012.827 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (6.6 MB, 11848 files batched, 501 (3006) added so far); re-opening (prior size: 21361.9 KB)
+0014.139 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 3100 files added (on-disk size: 23729.1 KB)
+0014.155 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 3200 files added (on-disk size: 23729.1 KB)
+0014.176 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 3300 files added (on-disk size: 23729.1 KB)
+0014.212 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 3400 files added (on-disk size: 23729.1 KB)
+0014.237 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 3500 files added (on-disk size: 23729.1 KB)
+0014.242 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (9.6 MB, 11848 files batched, 501 (3507) added so far); re-opening (prior size: 23729.1 KB)
+0017.332 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 3600 files added (on-disk size: 26823 KB)
+0017.354 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 3700 files added (on-disk size: 26823 KB)
+0017.377 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 3800 files added (on-disk size: 26823 KB)
+0017.398 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 3900 files added (on-disk size: 26823 KB)
+0017.420 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 4000 files added (on-disk size: 26823 KB)
+0017.429 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (5.8 MB, 11848 files batched, 501 (4008) added so far); re-opening (prior size: 26823 KB)
+0020.431 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 4100 files added (on-disk size: 29016.6 KB)
+0020.455 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 4200 files added (on-disk size: 29016.6 KB)
+0020.486 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 4300 files added (on-disk size: 29016.6 KB)
+0020.509 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 4400 files added (on-disk size: 29016.6 KB)
+0020.524 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 4500 files added (on-disk size: 29016.6 KB)
+0020.531 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (6.3 MB, 11848 files batched, 501 (4509) added so far); re-opening (prior size: 29016.6 KB)
+0023.007 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 4600 files added (on-disk size: 31428.6 KB)
+0023.048 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 4700 files added (on-disk size: 31428.6 KB)
+0023.062 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 4800 files added (on-disk size: 31428.6 KB)
+0023.074 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 4900 files added (on-disk size: 31428.6 KB)
+0023.085 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 5000 files added (on-disk size: 31428.6 KB)
+0023.090 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (7.3 MB, 11848 files batched, 501 (5010) added so far); re-opening (prior size: 31428.6 KB)
+0024.625 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 5100 files added (on-disk size: 33566.4 KB)
+0024.639 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 5200 files added (on-disk size: 33566.4 KB)
+0024.650 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 5300 files added (on-disk size: 33566.4 KB)
+0024.661 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 5400 files added (on-disk size: 33566.4 KB)
+0024.675 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 5500 files added (on-disk size: 33566.4 KB)
+0024.680 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (3.5 MB, 11848 files batched, 501 (5511) added so far); re-opening (prior size: 33566.4 KB)
+0026.035 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 5600 files added (on-disk size: 34809 KB)
+0026.066 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 5700 files added (on-disk size: 34809 KB)
+0026.080 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 5800 files added (on-disk size: 34809 KB)
+0026.094 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 5900 files added (on-disk size: 34809 KB)
+0026.112 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 6000 files added (on-disk size: 34809 KB)
+0026.119 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (4.6 MB, 11848 files batched, 501 (6012) added so far); re-opening (prior size: 34809 KB)
+0027.201 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 6100 files added (on-disk size: 36130.8 KB)
+0027.216 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 6200 files added (on-disk size: 36130.8 KB)
+0027.232 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 6300 files added (on-disk size: 36130.8 KB)
+0027.243 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 6400 files added (on-disk size: 36130.8 KB)
+0027.256 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 6500 files added (on-disk size: 36130.8 KB)
+0027.265 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (4 MB, 11848 files batched, 501 (6513) added so far); re-opening (prior size: 36130.8 KB)
+0028.839 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 6600 files added (on-disk size: 37345.7 KB)
+0028.856 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 6700 files added (on-disk size: 37345.7 KB)
+0028.869 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 6800 files added (on-disk size: 37345.7 KB)
+0028.881 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 6900 files added (on-disk size: 37345.7 KB)
+0028.893 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 7000 files added (on-disk size: 37345.7 KB)
+0028.900 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (4.2 MB, 11848 files batched, 501 (7014) added so far); re-opening (prior size: 37345.7 KB)
+0030.871 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 7100 files added (on-disk size: 39274.8 KB)
+0030.884 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 7200 files added (on-disk size: 39274.8 KB)
+0030.897 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 7300 files added (on-disk size: 39274.8 KB)
+0030.910 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 7400 files added (on-disk size: 39274.8 KB)
+0030.921 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 7500 files added (on-disk size: 39274.8 KB)
+0030.927 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (5.8 MB, 11848 files batched, 501 (7515) added so far); re-opening (prior size: 39274.8 KB)
+0032.523 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 7600 files added (on-disk size: 42287.4 KB)
+0032.534 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 7700 files added (on-disk size: 42287.4 KB)
+0032.545 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 7800 files added (on-disk size: 42287.4 KB)
+0032.555 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 7900 files added (on-disk size: 42287.4 KB)
+0032.565 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 8000 files added (on-disk size: 42287.4 KB)
+0032.572 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (12.8 MB, 11848 files batched, 501 (8016) added so far); re-opening (prior size: 42287.4 KB)
+0035.140 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 8100 files added (on-disk size: 48146.5 KB)
+0035.152 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 8200 files added (on-disk size: 48146.5 KB)
+0035.162 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 8300 files added (on-disk size: 48146.5 KB)
+0035.172 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 8400 files added (on-disk size: 48146.5 KB)
+0035.182 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 8500 files added (on-disk size: 48146.5 KB)
+0035.186 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (4.2 MB, 11848 files batched, 501 (8517) added so far); re-opening (prior size: 48146.5 KB)
+0037.827 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 8600 files added (on-disk size: 49682.5 KB)
+0037.840 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 8700 files added (on-disk size: 49682.5 KB)
+0037.852 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 8800 files added (on-disk size: 49682.5 KB)
+0037.865 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 8900 files added (on-disk size: 49682.5 KB)
+0037.876 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 9000 files added (on-disk size: 49682.5 KB)
+0037.880 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (2.5 MB, 11848 files batched, 501 (9018) added so far); re-opening (prior size: 49682.5 KB)
+0038.424 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 9100 files added (on-disk size: 50504.7 KB)
+0038.436 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 9200 files added (on-disk size: 50504.7 KB)
+0038.447 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 9300 files added (on-disk size: 50504.7 KB)
+0038.457 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 9400 files added (on-disk size: 50504.7 KB)
+0038.466 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 9500 files added (on-disk size: 50504.7 KB)
+0038.471 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (18 MB, 11848 files batched, 501 (9519) added so far); re-opening (prior size: 50504.7 KB)
+0040.014 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 9600 files added (on-disk size: 55362.6 KB)
+0040.026 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 9700 files added (on-disk size: 55362.6 KB)
+0040.037 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 9800 files added (on-disk size: 55362.6 KB)
+0040.047 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 9900 files added (on-disk size: 55362.6 KB)
+0040.058 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 10000 files added (on-disk size: 55362.6 KB)
+0040.062 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (5 MB, 11848 files batched, 501 (10020) added so far); re-opening (prior size: 55362.6 KB)
+0041.539 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 10100 files added (on-disk size: 57559 KB)
+0041.550 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 10200 files added (on-disk size: 57559 KB)
+0041.560 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 10300 files added (on-disk size: 57559 KB)
+0041.570 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 10400 files added (on-disk size: 57559 KB)
+0041.583 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 10500 files added (on-disk size: 57559 KB)
+0041.589 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (10.6 MB, 11848 files batched, 501 (10521) added so far); re-opening (prior size: 57559 KB)
+0044.356 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 10600 files added (on-disk size: 61622.3 KB)
+0044.367 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 10700 files added (on-disk size: 61622.3 KB)
+0044.378 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 10800 files added (on-disk size: 61622.3 KB)
+0044.389 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 10900 files added (on-disk size: 61622.3 KB)
+0044.401 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 11000 files added (on-disk size: 61622.3 KB)
+0044.408 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (4.8 MB, 11848 files batched, 501 (11022) added so far); re-opening (prior size: 61622.3 KB)
+0047.549 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 11100 files added (on-disk size: 63527.2 KB)
+0047.571 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 11200 files added (on-disk size: 63527.2 KB)
+0047.585 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 11300 files added (on-disk size: 63527.2 KB)
+0047.597 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 11400 files added (on-disk size: 63527.2 KB)
+0047.607 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 11500 files added (on-disk size: 63527.2 KB)
+0047.613 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (1.5 MB, 11848 files batched, 501 (11523) added so far); re-opening (prior size: 63527.2 KB)
+0048.552 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 11600 files added (on-disk size: 64317.6 KB)
+0048.564 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 11700 files added (on-disk size: 64317.6 KB)
+0048.576 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip.tmp: 11800 files added (on-disk size: 64317.6 KB)
+0052.145 (0) Created plugins zip (0) - 66197.7 KB in 51.7 s (1279.6 KB/s) (sha1: cf8c9a1e6f6528ea3319e2d0d44c661a98e87fc4, sha256: be5d9defc38b1bb71228f2948dde9b6ecc98afba0c94033e09c70d28fdc187e0)
+0052.178 (0) Beginning creation of dump of themes (split every: 400 MB)
+0052.428 (0) Total entities for the zip file: 36 directories, 184 files (0 skipped as non-modified), 6.5 MB
+0052.453 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0052.913 (0) backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-themes.zip.tmp: size is now: 5.70 MB
+0053.210 (0) Created themes zip (0) - 5793.6 KB in 0.8 s (7138 KB/s) (sha1: cb49c62a6b8ab5a8f422f1f7a402c300266aed0f, sha256: 580a9f3d98661325aa084e0257367d901a71d018c90c0b433af9c68d980fd76e)
+0053.225 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0053.230 (0) Looking for candidates to backup in: /home/australiana/public_html/wp-content/uploads
+0053.237 (0) finding files: 2016: adding to list (1)
+0053.258 (0) finding files: 2012: adding to list (2)
+0053.265 (0) finding files: ithemes-security: adding to list (3)
+0053.273 (0) finding files: 2015: adding to list (4)
+0053.279 (0) finding files: 2017: adding to list (5)
+0053.285 (0) finding files: wpcf7_captcha: adding to list (6)
+0053.297 (0) finding files: 2020: adding to list (7)
+0053.306 (0) finding files: 2018: adding to list (8)
+0053.311 (0) finding files: wpseo-redirects: adding to list (9)
+0053.316 (0) finding files: wp-file-manager-pro: adding to list (10)
+0053.324 (0) finding files: 2014: adding to list (11)
+0053.329 (0) finding files: 2013: adding to list (12)
+0053.338 (0) finding files: captcha_images: adding to list (13)
+0053.345 (0) finding files: 2019: adding to list (14)
+0053.350 (0) finding files: mainwp: adding to list (15)
+0053.360 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0054.030 (0) Total entities for the zip file: 116 directories, 1900 files (0 skipped as non-modified), 82.4 MB
+0054.048 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0054.065 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0054.087 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-uploads.zip.tmp: 300 files added (on-disk size: 0 KB)
+0054.111 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-uploads.zip.tmp: 400 files added (on-disk size: 0 KB)
+0054.128 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 25 MB added on this batch (26.1 MB, 1900 files batched, 496 (496) added so far); re-opening (prior size: 0 KB)
+0055.728 (0) backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-uploads.zip.tmp: size is now: 26.20 MB
+0055.746 (0) A useful amount of data was added after this amount of zip processing: 2.3 s (normalised: 2.2 s, rate: 11487.1 KB/s)
+0055.762 (0) Performance is good - will increase the amount of data we attempt to batch (time=2.3246989250183, normalised_time=2.228586621244, max_time=55.754643917084, data points known=1, old_max_bytes=26214400, new_max_bytes=209715200)
+0055.779 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-uploads.zip.tmp: 500 files added (on-disk size: 26827.5 KB)
+0055.795 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-uploads.zip.tmp: 600 files added (on-disk size: 26827.5 KB)
+0055.810 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-uploads.zip.tmp: 700 files added (on-disk size: 26827.5 KB)
+0055.826 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-uploads.zip.tmp: 800 files added (on-disk size: 26827.5 KB)
+0055.845 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-uploads.zip.tmp: 900 files added (on-disk size: 26827.5 KB)
+0055.859 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (17 MB, 1900 files batched, 501 (997) added so far); re-opening (prior size: 26827.5 KB)
+0062.078 (0) backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-uploads.zip.tmp: size is now: 43.30 MB
+0062.089 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-uploads.zip.tmp: 1000 files added (on-disk size: 44335.4 KB)
+0062.100 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-uploads.zip.tmp: 1100 files added (on-disk size: 44335.4 KB)
+0062.110 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-uploads.zip.tmp: 1200 files added (on-disk size: 44335.4 KB)
+0062.121 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-uploads.zip.tmp: 1300 files added (on-disk size: 44335.4 KB)
+0062.133 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-uploads.zip.tmp: 1400 files added (on-disk size: 44335.4 KB)
+0062.143 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (26 MB, 1900 files batched, 501 (1498) added so far); re-opening (prior size: 44335.4 KB)
+0070.149 (0) backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-uploads.zip.tmp: size is now: 68.00 MB
+0070.162 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-uploads.zip.tmp: 1500 files added (on-disk size: 69608.2 KB)
+0070.176 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-uploads.zip.tmp: 1600 files added (on-disk size: 69608.2 KB)
+0070.193 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-uploads.zip.tmp: 1700 files added (on-disk size: 69608.2 KB)
+0070.205 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-uploads.zip.tmp: 1800 files added (on-disk size: 69608.2 KB)
+0070.218 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-uploads.zip.tmp: 1900 files added (on-disk size: 69608.2 KB)
+0077.267 (0) Created uploads zip (0) - 82658.6 KB in 23.5 s (3513.2 KB/s) (sha1: ba4c353d52af52a480f827880c83a968d349017c, sha256: c2b9ac229b219f76cf3b77a0596ef2a12f099a784c8a4f2a5739df8b12e27dd2)
+0077.282 (0) Beginning backup of other directories found in the content directory (index: 0)
+0077.290 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0077.296 (0) Looking for candidates to backup in: /home/australiana/public_html/wp-content
+0077.304 (0) finding files: advanced-cache.php: adding to list (1)
+0077.315 (0) finding files: updraft: skipping: this is the updraft directory
+0077.319 (0) finding files: themes: skipping: this is the themes directory
+0077.323 (0) finding files: upgrade: skipping: excluded by options
+0077.327 (0) finding files: plugins.bk-13feb2020: adding to list (2)
+0077.331 (0) finding files: uploads: skipping: this is the uploads directory
+0077.337 (0) finding files: wflogs: adding to list (3)
+0077.342 (0) finding files: index.php: adding to list (4)
+0077.346 (0) finding files: w3tc-config: adding to list (5)
+0077.351 (0) finding files: plugins: skipping: this is the plugins directory
+0077.356 (0) finding files: cache: skipping: excluded by options
+0077.364 (0) finding files: wp-cache-config.php: adding to list (6)
+0078.607 (0) Total entities for the zip file: 1976 directories, 11851 files (0 skipped as non-modified), 166.2 MB
+0078.646 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 100 files added (on-disk size: 0 KB)
+0078.695 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 200 files added (on-disk size: 0 KB)
+0078.707 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 300 files added (on-disk size: 0 KB)
+0078.718 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 400 files added (on-disk size: 0 KB)
+0078.731 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 500 files added (on-disk size: 0 KB)
+0078.735 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (11.5 MB, 11851 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0079.756 (0) backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: size is now: 7.90 MB
+0079.779 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 600 files added (on-disk size: 8130.2 KB)
+0079.792 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 700 files added (on-disk size: 8130.2 KB)
+0079.818 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 800 files added (on-disk size: 8130.2 KB)
+0079.830 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 900 files added (on-disk size: 8130.2 KB)
+0079.843 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 1000 files added (on-disk size: 8130.2 KB)
+0079.848 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (10.3 MB, 11851 files batched, 501 (1002) added so far); re-opening (prior size: 8130.2 KB)
+0080.716 (0) backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: size is now: 15.80 MB
+0080.750 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 1100 files added (on-disk size: 16225.9 KB)
+0080.766 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 1200 files added (on-disk size: 16225.9 KB)
+0080.782 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 1300 files added (on-disk size: 16225.9 KB)
+0080.803 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 1400 files added (on-disk size: 16225.9 KB)
+0080.826 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 1500 files added (on-disk size: 16225.9 KB)
+0080.837 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (9.1 MB, 11851 files batched, 501 (1503) added so far); re-opening (prior size: 16225.9 KB)
+0082.076 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 1600 files added (on-disk size: 18927.9 KB)
+0082.087 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 1700 files added (on-disk size: 18927.9 KB)
+0082.102 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 1800 files added (on-disk size: 18927.9 KB)
+0082.115 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 1900 files added (on-disk size: 18927.9 KB)
+0082.133 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 2000 files added (on-disk size: 18927.9 KB)
+0082.143 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (6.8 MB, 11851 files batched, 501 (2004) added so far); re-opening (prior size: 18927.9 KB)
+0084.903 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 2100 files added (on-disk size: 21097.4 KB)
+0084.916 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 2200 files added (on-disk size: 21097.4 KB)
+0084.930 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 2300 files added (on-disk size: 21097.4 KB)
+0084.946 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 2400 files added (on-disk size: 21097.4 KB)
+0084.959 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 2500 files added (on-disk size: 21097.4 KB)
+0084.963 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (0.7 MB, 11851 files batched, 501 (2505) added so far); re-opening (prior size: 21097.4 KB)
+0086.087 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 2600 files added (on-disk size: 21467.7 KB)
+0086.101 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 2700 files added (on-disk size: 21467.7 KB)
+0086.113 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 2800 files added (on-disk size: 21467.7 KB)
+0086.124 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 2900 files added (on-disk size: 21467.7 KB)
+0086.136 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 3000 files added (on-disk size: 21467.7 KB)
+0086.141 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (6.6 MB, 11851 files batched, 501 (3006) added so far); re-opening (prior size: 21467.7 KB)
+0087.819 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 3100 files added (on-disk size: 23847.2 KB)
+0087.832 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 3200 files added (on-disk size: 23847.2 KB)
+0087.847 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 3300 files added (on-disk size: 23847.2 KB)
+0087.862 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 3400 files added (on-disk size: 23847.2 KB)
+0087.873 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 3500 files added (on-disk size: 23847.2 KB)
+0087.878 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (9.7 MB, 11851 files batched, 501 (3507) added so far); re-opening (prior size: 23847.2 KB)
+0090.343 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 3600 files added (on-disk size: 26961.6 KB)
+0090.359 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 3700 files added (on-disk size: 26961.6 KB)
+0090.371 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 3800 files added (on-disk size: 26961.6 KB)
+0090.382 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 3900 files added (on-disk size: 26961.6 KB)
+0090.392 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 4000 files added (on-disk size: 26961.6 KB)
+0090.397 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (5.8 MB, 11851 files batched, 501 (4008) added so far); re-opening (prior size: 26961.6 KB)
+0092.660 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 4100 files added (on-disk size: 29160 KB)
+0092.672 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 4200 files added (on-disk size: 29160 KB)
+0092.685 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 4300 files added (on-disk size: 29160 KB)
+0092.698 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 4400 files added (on-disk size: 29160 KB)
+0092.712 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 4500 files added (on-disk size: 29160 KB)
+0092.716 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (7.5 MB, 11851 files batched, 501 (4509) added so far); re-opening (prior size: 29160 KB)
+0095.562 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 4600 files added (on-disk size: 31925.3 KB)
+0095.576 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 4700 files added (on-disk size: 31925.3 KB)
+0095.588 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 4800 files added (on-disk size: 31925.3 KB)
+0095.610 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 4900 files added (on-disk size: 31925.3 KB)
+0095.624 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 5000 files added (on-disk size: 31925.3 KB)
+0095.628 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (7.7 MB, 11851 files batched, 501 (5010) added so far); re-opening (prior size: 31925.3 KB)
+0097.950 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 5100 files added (on-disk size: 34145.8 KB)
+0097.961 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 5200 files added (on-disk size: 34145.8 KB)
+0097.971 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 5300 files added (on-disk size: 34145.8 KB)
+0097.990 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 5400 files added (on-disk size: 34145.8 KB)
+0098.009 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 5500 files added (on-disk size: 34145.8 KB)
+0098.017 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (3.5 MB, 11851 files batched, 501 (5511) added so far); re-opening (prior size: 34145.8 KB)
+0099.397 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 5600 files added (on-disk size: 35389 KB)
+0099.410 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 5700 files added (on-disk size: 35389 KB)
+0099.421 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 5800 files added (on-disk size: 35389 KB)
+0099.434 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 5900 files added (on-disk size: 35389 KB)
+0099.446 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 6000 files added (on-disk size: 35389 KB)
+0099.452 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (4.5 MB, 11851 files batched, 501 (6012) added so far); re-opening (prior size: 35389 KB)
+0100.673 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 6100 files added (on-disk size: 36712.3 KB)
+0100.685 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 6200 files added (on-disk size: 36712.3 KB)
+0100.706 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 6300 files added (on-disk size: 36712.3 KB)
+0100.721 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 6400 files added (on-disk size: 36712.3 KB)
+0100.734 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 6500 files added (on-disk size: 36712.3 KB)
+0100.742 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (4.1 MB, 11851 files batched, 501 (6513) added so far); re-opening (prior size: 36712.3 KB)
+0103.211 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 6600 files added (on-disk size: 37959.8 KB)
+0103.228 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 6700 files added (on-disk size: 37959.8 KB)
+0103.256 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 6800 files added (on-disk size: 37959.8 KB)
+0103.287 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 6900 files added (on-disk size: 37959.8 KB)
+0103.302 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 7000 files added (on-disk size: 37959.8 KB)
+0103.313 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (4.2 MB, 11851 files batched, 501 (7014) added so far); re-opening (prior size: 37959.8 KB)
+0105.850 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 7100 files added (on-disk size: 39902.9 KB)
+0105.884 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 7200 files added (on-disk size: 39902.9 KB)
+0105.908 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 7300 files added (on-disk size: 39902.9 KB)
+0105.928 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 7400 files added (on-disk size: 39902.9 KB)
+0105.944 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 7500 files added (on-disk size: 39902.9 KB)
+0105.962 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (5.8 MB, 11851 files batched, 501 (7515) added so far); re-opening (prior size: 39902.9 KB)
+0108.317 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 7600 files added (on-disk size: 42922.7 KB)
+0108.329 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 7700 files added (on-disk size: 42922.7 KB)
+0108.341 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 7800 files added (on-disk size: 42922.7 KB)
+0108.353 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 7900 files added (on-disk size: 42922.7 KB)
+0108.364 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 8000 files added (on-disk size: 42922.7 KB)
+0108.368 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (12.6 MB, 11851 files batched, 501 (8016) added so far); re-opening (prior size: 42922.7 KB)
+0111.245 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 8100 files added (on-disk size: 48727 KB)
+0111.259 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 8200 files added (on-disk size: 48727 KB)
+0111.272 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 8300 files added (on-disk size: 48727 KB)
+0111.284 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 8400 files added (on-disk size: 48727 KB)
+0111.294 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 8500 files added (on-disk size: 48727 KB)
+0111.299 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (4.3 MB, 11851 files batched, 501 (8517) added so far); re-opening (prior size: 48727 KB)
+0114.799 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 8600 files added (on-disk size: 50277.4 KB)
+0114.813 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 8700 files added (on-disk size: 50277.4 KB)
+0114.824 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 8800 files added (on-disk size: 50277.4 KB)
+0114.838 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 8900 files added (on-disk size: 50277.4 KB)
+0114.851 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 9000 files added (on-disk size: 50277.4 KB)
+0114.866 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (2.5 MB, 11851 files batched, 501 (9018) added so far); re-opening (prior size: 50277.4 KB)
+0116.222 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 9100 files added (on-disk size: 51112.6 KB)
+0116.233 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 9200 files added (on-disk size: 51112.6 KB)
+0116.244 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 9300 files added (on-disk size: 51112.6 KB)
+0116.255 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 9400 files added (on-disk size: 51112.6 KB)
+0116.266 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 9500 files added (on-disk size: 51112.6 KB)
+0116.270 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (17.9 MB, 11851 files batched, 501 (9519) added so far); re-opening (prior size: 51112.6 KB)
+0119.788 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 9600 files added (on-disk size: 55963.8 KB)
+0119.806 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 9700 files added (on-disk size: 55963.8 KB)
+0119.823 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 9800 files added (on-disk size: 55963.8 KB)
+0119.834 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 9900 files added (on-disk size: 55963.8 KB)
+0119.847 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 10000 files added (on-disk size: 55963.8 KB)
+0119.854 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (5.1 MB, 11851 files batched, 501 (10020) added so far); re-opening (prior size: 55963.8 KB)
+0122.865 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 10100 files added (on-disk size: 58172.6 KB)
+0122.877 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 10200 files added (on-disk size: 58172.6 KB)
+0122.891 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 10300 files added (on-disk size: 58172.6 KB)
+0122.907 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 10400 files added (on-disk size: 58172.6 KB)
+0122.919 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 10500 files added (on-disk size: 58172.6 KB)
+0122.926 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (10.7 MB, 11851 files batched, 501 (10521) added so far); re-opening (prior size: 58172.6 KB)
+0126.759 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 10600 files added (on-disk size: 62267.7 KB)
+0126.796 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 10700 files added (on-disk size: 62267.7 KB)
+0126.904 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 10800 files added (on-disk size: 62267.7 KB)
+0127.013 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 10900 files added (on-disk size: 62267.7 KB)
+0127.063 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 11000 files added (on-disk size: 62267.7 KB)
+0127.073 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (4.6 MB, 11851 files batched, 501 (11022) added so far); re-opening (prior size: 62267.7 KB)
+0129.802 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 11100 files added (on-disk size: 64144.2 KB)
+0129.819 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 11200 files added (on-disk size: 64144.2 KB)
+0129.831 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 11300 files added (on-disk size: 64144.2 KB)
+0129.842 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 11400 files added (on-disk size: 64144.2 KB)
+0129.856 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 11500 files added (on-disk size: 64144.2 KB)
+0129.864 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (1.6 MB, 11851 files batched, 501 (11523) added so far); re-opening (prior size: 64144.2 KB)
+0131.451 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 11600 files added (on-disk size: 64969.7 KB)
+0131.493 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 11700 files added (on-disk size: 64969.7 KB)
+0131.506 (0) Zip: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip.tmp: 11800 files added (on-disk size: 64969.7 KB)
+0136.395 (0) Created others zip (0) - 69286.7 KB in 58.8 s (1177.5 KB/s) (sha1: c4b5177bf9ac4a44bc11c5d0a4ab89c98bb07539, sha256: 60e8cb52a1ffee90b56b0301944cb06bb9ee4a9557a32373b3d30b07da10d670)
+0136.415 (0) Saving backup status to database (elements: 8)
+0136.422 (0) Beginning creation of database dump (WordPress DB)
+0136.430 (0) Testing potential mysqldump binary: /usr/bin/mysqldump
+0136.467 (0) Output: /*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;\n/*!40103 SET TIME_ZONE='+00:00' */;\n/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;\n/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;\n/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;\n/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;\nDROP TABLE IF EXISTS `rhofwwja_options`;\n/*!40101 SET @saved_cs_client     = @@character_set_client */;\n/*!40101 SET character_set_client = utf8 * (truncated - 1311 bytes total)
+0136.477 (0) Working binary mysqldump found: /usr/bin/mysqldump
+0136.517 (0) Table rhofwwja_options: Total expected rows (approximate): 611
+0136.606 (0) Table rhofwwja_options: Total rows added: 615 in 0.08 seconds
+0136.614 (0) Table rhofwwja_options: finishing file (backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_options.table.gz - 175.7 KB)
+0136.629 (0) Table rhofwwja_users: Total expected rows (approximate): 4
+0136.639 (0) Table rhofwwja_users: Total rows added: 5 in 0.00 seconds
+0136.651 (0) Table rhofwwja_users: finishing file (backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_users.table.gz - 0.9 KB)
+0136.667 (0) Table rhofwwja_usermeta: Total expected rows (approximate): 187
+0136.678 (0) Table rhofwwja_usermeta: Total rows added: 189 in 0.01 seconds
+0136.683 (0) Table rhofwwja_usermeta: finishing file (backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_usermeta.table.gz - 4.4 KB)
+0136.720 (0) Table rhofwwja_commentmeta: Total expected rows (approximate): 0
+0136.730 (0) Table rhofwwja_commentmeta: Total rows added: 0 in 0.00 seconds
+0136.734 (0) Table rhofwwja_commentmeta: finishing file (backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_commentmeta.table.gz - 0.4 KB)
+0136.749 (0) Table rhofwwja_comments: Total expected rows (approximate): 0
+0136.760 (0) Table rhofwwja_comments: Total rows added: 0 in 0.01 seconds
+0136.766 (0) Table rhofwwja_comments: finishing file (backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_comments.table.gz - 0.5 KB)
+0136.793 (0) Table rhofwwja_links: Total expected rows (approximate): 7
+0136.803 (0) Table rhofwwja_links: Total rows added: 7 in 0.00 seconds
+0136.811 (0) Table rhofwwja_links: finishing file (backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_links.table.gz - 0.6 KB)
+0136.833 (0) Table rhofwwja_postmeta: Total expected rows (approximate): 6031
+0137.120 (0) Table rhofwwja_postmeta: Total rows added: 6327 in 0.28 seconds
+0137.148 (0) Table rhofwwja_postmeta: finishing file (backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_postmeta.table.gz - 129.9 KB)
+0137.164 (0) Table rhofwwja_posts: Total expected rows (approximate): 556
+0137.318 (0) Table rhofwwja_posts: Total rows added: 720 in 0.15 seconds
+0137.323 (0) Table rhofwwja_posts: finishing file (backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_posts.table.gz - 140.6 KB)
+0137.336 (0) Table rhofwwja_term_relationships: Total expected rows (approximate): 212
+0137.343 (0) Table rhofwwja_term_relationships: Total rows added: 212 in 0.00 seconds
+0137.348 (0) Table rhofwwja_term_relationships: finishing file (backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_term_relationships.table.gz - 0.9 KB)
+0137.365 (0) Table rhofwwja_term_taxonomy: Total expected rows (approximate): 154
+0137.374 (0) Table rhofwwja_term_taxonomy: Total rows added: 154 in 0.01 seconds
+0137.378 (0) Table rhofwwja_term_taxonomy: finishing file (backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_term_taxonomy.table.gz - 1.4 KB)
+0137.391 (0) Table rhofwwja_termmeta: Total expected rows (approximate): 2
+0137.401 (0) Table rhofwwja_termmeta: Total rows added: 2 in 0.00 seconds
+0137.405 (0) Table rhofwwja_termmeta: finishing file (backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_termmeta.table.gz - 0.4 KB)
+0137.422 (0) Table rhofwwja_terms: Total expected rows (approximate): 154
+0137.431 (0) Table rhofwwja_terms: Total rows added: 154 in 0.01 seconds
+0137.444 (0) Table rhofwwja_terms: finishing file (backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_terms.table.gz - 2.2 KB)
+0137.464 (0) Table rhofwwja_yoast_seo_links: Total expected rows (approximate): 72
+0137.481 (0) Table rhofwwja_yoast_seo_links: Total rows added: 72 in 0.01 seconds
+0137.493 (0) Table rhofwwja_yoast_seo_links: finishing file (backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_yoast_seo_links.table.gz - 1.6 KB)
+0137.530 (0) Table rhofwwja_yoast_seo_meta: Total expected rows (approximate): 82
+0137.543 (0) Table rhofwwja_yoast_seo_meta: Total rows added: 91 in 0.01 seconds
+0137.548 (0) Table rhofwwja_yoast_seo_meta: finishing file (backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_yoast_seo_meta.table.gz - 0.6 KB)
+0137.566 (0) Table rhofwwja_blc_filters: Total expected rows (approximate): 0
+0137.571 (0) Table rhofwwja_blc_filters: Total rows added: 0 in 0.00 seconds
+0137.574 (0) Table rhofwwja_blc_filters: finishing file (backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_blc_filters.table.gz - 0.3 KB)
+0137.589 (0) Table rhofwwja_blc_instances: Total expected rows (approximate): 37
+0137.596 (0) Table rhofwwja_blc_instances: Total rows added: 37 in 0.00 seconds
+0137.612 (0) Table rhofwwja_blc_instances: finishing file (backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_blc_instances.table.gz - 1.5 KB)
+0137.640 (0) Table rhofwwja_blc_links: Total expected rows (approximate): 32
+0137.651 (0) Table rhofwwja_blc_links: Total rows added: 32 in 0.01 seconds
+0137.655 (0) Table rhofwwja_blc_links: finishing file (backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_blc_links.table.gz - 4.3 KB)
+0137.669 (0) Table rhofwwja_blc_synch: Total expected rows (approximate): 23
+0137.678 (0) Table rhofwwja_blc_synch: Total rows added: 23 in 0.01 seconds
+0137.682 (0) Table rhofwwja_blc_synch: finishing file (backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_blc_synch.table.gz - 0.5 KB)
+0137.696 (0) Table rhofwwja_cf7dbplugin_st: Total expected rows (approximate): 1430
+0137.780 (0) Table rhofwwja_cf7dbplugin_st: Total rows added: 3314 in 0.08 seconds
+0137.785 (0) Table rhofwwja_cf7dbplugin_st: finishing file (backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_cf7dbplugin_st.table.gz - 24.2 KB)
+0137.804 (0) Table rhofwwja_cf7dbplugin_submits: Total expected rows (approximate): 34172
+0138.238 (0) Table rhofwwja_cf7dbplugin_submits: binary mysqldump finished (writes: 38) in 0.43 seconds
+0138.273 (0) Table rhofwwja_cf7dbplugin_submits: finishing file (backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_cf7dbplugin_submits.table.gz - 1106.3 KB)
+0138.339 (0) Table rhofwwja_cptch_whitelist: Total expected rows (approximate): 0
+0138.349 (0) Table rhofwwja_cptch_whitelist: Total rows added: 0 in 0.01 seconds
+0138.359 (0) Table rhofwwja_cptch_whitelist: finishing file (backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_cptch_whitelist.table.gz - 0.3 KB)
+0138.379 (0) Table rhofwwja_hctpc_images: Total expected rows (approximate): 112
+0138.393 (0) Table rhofwwja_hctpc_images: Total rows added: 112 in 0.01 seconds
+0138.399 (0) Table rhofwwja_hctpc_images: finishing file (backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_hctpc_images.table.gz - 0.9 KB)
+0138.415 (0) Table rhofwwja_hctpc_packages: Total expected rows (approximate): 12
+0138.421 (0) Table rhofwwja_hctpc_packages: Total rows added: 12 in 0.00 seconds
+0138.426 (0) Table rhofwwja_hctpc_packages: finishing file (backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_hctpc_packages.table.gz - 0.5 KB)
+0138.441 (0) Table rhofwwja_hctpc_whitelist: Total expected rows (approximate): 0
+0138.446 (0) Table rhofwwja_hctpc_whitelist: Total rows added: 0 in 0.00 seconds
+0138.450 (0) Table rhofwwja_hctpc_whitelist: finishing file (backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_hctpc_whitelist.table.gz - 0.3 KB)
+0138.468 (0) Table rhofwwja_itsec_distributed_storage: Total expected rows (approximate): 0
+0138.473 (0) Table rhofwwja_itsec_distributed_storage: Total rows added: 0 in 0.00 seconds
+0138.479 (0) Table rhofwwja_itsec_distributed_storage: finishing file (backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_itsec_distributed_storage.table.gz - 0.4 KB)
+0138.493 (0) Table rhofwwja_itsec_fingerprints: Total expected rows (approximate): 0
+0138.504 (0) Table rhofwwja_itsec_fingerprints: Total rows added: 0 in 0.01 seconds
+0138.509 (0) Table rhofwwja_itsec_fingerprints: finishing file (backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_itsec_fingerprints.table.gz - 0.4 KB)
+0138.522 (0) Table rhofwwja_itsec_geolocation_cache: Total expected rows (approximate): 0
+0138.529 (0) Table rhofwwja_itsec_geolocation_cache: Total rows added: 0 in 0.00 seconds
+0138.532 (0) Table rhofwwja_itsec_geolocation_cache: finishing file (backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_itsec_geolocation_cache.table.gz - 0.4 KB)
+0138.543 (0) Table rhofwwja_itsec_lockouts: Total expected rows (approximate): 0
+0138.551 (0) Table rhofwwja_itsec_lockouts: Total rows added: 0 in 0.00 seconds
+0138.555 (0) Table rhofwwja_itsec_lockouts: finishing file (backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_itsec_lockouts.table.gz - 0.4 KB)
+0138.570 (0) Table rhofwwja_itsec_log: Total expected rows (approximate): 3715
+0138.936 (0) Table rhofwwja_itsec_log: Total rows added: 3671 in 0.36 seconds
+0138.939 (0) Table rhofwwja_itsec_log: finishing file (backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_itsec_log.table.gz - 63 KB)
+0138.954 (0) Table rhofwwja_itsec_logs: Total expected rows (approximate): 0
+0138.960 (0) Table rhofwwja_itsec_logs: Total rows added: 0 in 0.00 seconds
+0138.963 (0) Table rhofwwja_itsec_logs: finishing file (backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_itsec_logs.table.gz - 0.5 KB)
+0138.977 (0) Table rhofwwja_itsec_opaque_tokens: Total expected rows (approximate): 0
+0138.982 (0) Table rhofwwja_itsec_opaque_tokens: Total rows added: 0 in 0.00 seconds
+0138.985 (0) Table rhofwwja_itsec_opaque_tokens: finishing file (backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_itsec_opaque_tokens.table.gz - 0.4 KB)
+0138.999 (0) Table rhofwwja_itsec_temp: Total expected rows (approximate): 0
+0139.005 (0) Table rhofwwja_itsec_temp: Total rows added: 0 in 0.00 seconds
+0139.008 (0) Table rhofwwja_itsec_temp: finishing file (backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_itsec_temp.table.gz - 0.4 KB)
+0139.025 (0) Table rhofwwja_redirection_404: Total expected rows (approximate): 557
+0139.053 (0) Table rhofwwja_redirection_404: Total rows added: 559 in 0.03 seconds
+0139.057 (0) Table rhofwwja_redirection_404: finishing file (backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_redirection_404.table.gz - 15.6 KB)
+0139.069 (0) Table rhofwwja_redirection_groups: Total expected rows (approximate): 0
+0139.074 (0) Table rhofwwja_redirection_groups: Total rows added: 1 in 0.00 seconds
+0139.076 (0) Table rhofwwja_redirection_groups: finishing file (backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_redirection_groups.table.gz - 0.4 KB)
+0139.088 (0) Table rhofwwja_redirection_items: Total expected rows (approximate): 71
+0139.098 (0) Table rhofwwja_redirection_items: Total rows added: 71 in 0.01 seconds
+0139.102 (0) Table rhofwwja_redirection_items: finishing file (backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_redirection_items.table.gz - 2.6 KB)
+0139.116 (0) Table rhofwwja_redirection_logs: Total expected rows (approximate): 83
+0139.127 (0) Table rhofwwja_redirection_logs: Total rows added: 86 in 0.01 seconds
+0139.130 (0) Table rhofwwja_redirection_logs: finishing file (backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_redirection_logs.table.gz - 3.5 KB)
+0139.256 (0) Table rhofwwja_smush_dir_images: Total expected rows (approximate): 0
+0139.262 (0) Table rhofwwja_smush_dir_images: Total rows added: 0 in 0.00 seconds
+0139.265 (0) Table rhofwwja_smush_dir_images: finishing file (backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_smush_dir_images.table.gz - 0.5 KB)
+0139.280 (0) Table rhofwwja_structuring_markup: Total expected rows (approximate): 11
+0139.287 (0) Table rhofwwja_structuring_markup: Total rows added: 11 in 0.00 seconds
+0139.292 (0) Table rhofwwja_structuring_markup: finishing file (backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_structuring_markup.table.gz - 1.5 KB)
+0139.309 (0) Table rhofwwja_toolset_post_guid_id: Total expected rows (approximate): 4
+0139.316 (0) Table rhofwwja_toolset_post_guid_id: Total rows added: 5 in 0.00 seconds
+0139.319 (0) Table rhofwwja_toolset_post_guid_id: finishing file (backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_toolset_post_guid_id.table.gz - 0.5 KB)
+0139.333 (0) Table rhofwwja_wfblockediplog: Total expected rows (approximate): 40
+0139.340 (0) Table rhofwwja_wfblockediplog: Total rows added: 40 in 0.00 seconds
+0139.344 (0) Table rhofwwja_wfblockediplog: finishing file (backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_wfblockediplog.table.gz - 0.8 KB)
+0139.361 (0) Table rhofwwja_wfblocks7: Total expected rows (approximate): 0
+0139.373 (0) Table rhofwwja_wfblocks7: Total rows added: 0 in 0.00 seconds
+0139.377 (0) Table rhofwwja_wfblocks7: finishing file (backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_wfblocks7.table.gz - 0.4 KB)
+0139.393 (0) Table rhofwwja_wfconfig: Total expected rows (approximate): 249
+0139.440 (0) Table rhofwwja_wfconfig: Total rows added: 249 in 0.04 seconds
+0139.445 (0) Table rhofwwja_wfconfig: finishing file (backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_wfconfig.table.gz - 372 KB)
+0139.459 (0) Table rhofwwja_wfcrawlers: Total expected rows (approximate): 32
+0139.465 (0) Table rhofwwja_wfcrawlers: Total rows added: 32 in 0.00 seconds
+0139.468 (0) Table rhofwwja_wfcrawlers: finishing file (backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_wfcrawlers.table.gz - 0.9 KB)
+0139.481 (0) Table rhofwwja_wffilechanges: Total expected rows (approximate): 0
+0139.486 (0) Table rhofwwja_wffilechanges: Total rows added: 0 in 0.00 seconds
+0139.490 (0) Table rhofwwja_wffilechanges: finishing file (backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_wffilechanges.table.gz - 0.3 KB)
+0139.506 (0) Table rhofwwja_wffilemods: Total expected rows (approximate): 21177
+0139.849 (0) Table rhofwwja_wffilemods: binary mysqldump finished (writes: 39) in 0.34 seconds
+0139.855 (0) Table rhofwwja_wffilemods: finishing file (backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_wffilemods.table.gz - 1644.2 KB)
+0139.872 (0) Table rhofwwja_wfhits: Total expected rows (approximate): 337
+0139.913 (0) Table rhofwwja_wfhits: Total rows added: 337 in 0.04 seconds
+0139.917 (0) Table rhofwwja_wfhits: finishing file (backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_wfhits.table.gz - 17.9 KB)
+0139.932 (0) Table rhofwwja_wfhoover: Total expected rows (approximate): 0
+0139.937 (0) Table rhofwwja_wfhoover: Total rows added: 0 in 0.00 seconds
+0139.941 (0) Table rhofwwja_wfhoover: finishing file (backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_wfhoover.table.gz - 0.3 KB)
+0139.953 (0) Table rhofwwja_wfissues: Total expected rows (approximate): 11
+0139.959 (0) Table rhofwwja_wfissues: Total rows added: 11 in 0.00 seconds
+0139.962 (0) Table rhofwwja_wfissues: finishing file (backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_wfissues.table.gz - 4 KB)
+0139.975 (0) Table rhofwwja_wfknownfilelist: Total expected rows (approximate): 21177
+0140.114 (0) Table rhofwwja_wfknownfilelist: binary mysqldump finished (writes: 29) in 0.14 seconds
+0140.120 (0) Table rhofwwja_wfknownfilelist: finishing file (backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_wfknownfilelist.table.gz - 210.5 KB)
+0140.133 (0) Table rhofwwja_wflivetraffichuman: Total expected rows (approximate): 0
+0140.141 (0) Table rhofwwja_wflivetraffichuman: Total rows added: 0 in 0.00 seconds
+0140.144 (0) Table rhofwwja_wflivetraffichuman: finishing file (backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_wflivetraffichuman.table.gz - 0.3 KB)
+0140.156 (0) Table rhofwwja_wflocs: Total expected rows (approximate): 1
+0140.161 (0) Table rhofwwja_wflocs: Total rows added: 1 in 0.00 seconds
+0140.164 (0) Table rhofwwja_wflocs: finishing file (backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_wflocs.table.gz - 0.5 KB)
+0140.178 (0) Table rhofwwja_wflogins: Total expected rows (approximate): 5
+0140.183 (0) Table rhofwwja_wflogins: Total rows added: 5 in 0.00 seconds
+0140.186 (0) Table rhofwwja_wflogins: finishing file (backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_wflogins.table.gz - 0.7 KB)
+0140.200 (0) Table rhofwwja_wfls_2fa_secrets: Total expected rows (approximate): 0
+0140.206 (0) Table rhofwwja_wfls_2fa_secrets: Total rows added: 0 in 0.00 seconds
+0140.213 (0) Table rhofwwja_wfls_2fa_secrets: finishing file (backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_wfls_2fa_secrets.table.gz - 0.4 KB)
+0140.227 (0) Table rhofwwja_wfls_settings: Total expected rows (approximate): 17
+0140.236 (0) Table rhofwwja_wfls_settings: Total rows added: 19 in 0.00 seconds
+0140.239 (0) Table rhofwwja_wfls_settings: finishing file (backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_wfls_settings.table.gz - 0.7 KB)
+0140.253 (0) Table rhofwwja_wfnotifications: Total expected rows (approximate): 2
+0140.259 (0) Table rhofwwja_wfnotifications: Total rows added: 2 in 0.00 seconds
+0140.262 (0) Table rhofwwja_wfnotifications: finishing file (backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_wfnotifications.table.gz - 0.5 KB)
+0140.275 (0) Table rhofwwja_wfpendingissues: Total expected rows (approximate): 0
+0140.279 (0) Table rhofwwja_wfpendingissues: Total rows added: 0 in 0.00 seconds
+0140.286 (0) Table rhofwwja_wfpendingissues: finishing file (backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_wfpendingissues.table.gz - 0.4 KB)
+0140.301 (0) Table rhofwwja_wfreversecache: Total expected rows (approximate): 8
+0140.307 (0) Table rhofwwja_wfreversecache: Total rows added: 8 in 0.00 seconds
+0140.310 (0) Table rhofwwja_wfreversecache: finishing file (backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_wfreversecache.table.gz - 0.5 KB)
+0140.324 (0) Table rhofwwja_wfsnipcache: Total expected rows (approximate): 0
+0140.329 (0) Table rhofwwja_wfsnipcache: Total rows added: 0 in 0.00 seconds
+0140.332 (0) Table rhofwwja_wfsnipcache: finishing file (backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_wfsnipcache.table.gz - 0.4 KB)
+0140.347 (0) Table rhofwwja_wfstatus: Total expected rows (approximate): 963
+0140.388 (0) Table rhofwwja_wfstatus: Total rows added: 963 in 0.04 seconds
+0140.403 (0) Table rhofwwja_wfstatus: finishing file (backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_wfstatus.table.gz - 16.7 KB)
+0140.418 (0) Table rhofwwja_wftrafficrates: Total expected rows (approximate): 0
+0140.423 (0) Table rhofwwja_wftrafficrates: Total rows added: 0 in 0.00 seconds
+0140.427 (0) Table rhofwwja_wftrafficrates: finishing file (backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_wftrafficrates.table.gz - 0.3 KB)
+0140.443 (0) Table rhofwwja_wpfm_backup: Total expected rows (approximate): 0
+0140.448 (0) Table rhofwwja_wpfm_backup: Total rows added: 0 in 0.00 seconds
+0140.453 (0) Table rhofwwja_wpfm_backup: finishing file (backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_wpfm_backup.table.gz - 0.3 KB)
+0140.467 (0) backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_options.table.gz (1/61): adding to final database dump
+0140.517 (0) backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_users.table.gz (2/61): adding to final database dump
+0140.521 (0) backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_usermeta.table.gz (3/61): adding to final database dump
+0140.527 (0) backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_commentmeta.table.gz (4/61): adding to final database dump
+0140.532 (0) backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_comments.table.gz (5/61): adding to final database dump
+0140.537 (0) backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_links.table.gz (6/61): adding to final database dump
+0140.542 (0) backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_postmeta.table.gz (7/61): adding to final database dump
+0140.645 (0) backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_posts.table.gz (8/61): adding to final database dump
+0140.708 (0) backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_term_relationships.table.gz (9/61): adding to final database dump
+0140.715 (0) backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_term_taxonomy.table.gz (10/61): adding to final database dump
+0140.721 (0) backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_termmeta.table.gz (11/61): adding to final database dump
+0140.727 (0) backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_terms.table.gz (12/61): adding to final database dump
+0140.733 (0) backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_yoast_seo_links.table.gz (13/61): adding to final database dump
+0140.741 (0) backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_yoast_seo_meta.table.gz (14/61): adding to final database dump
+0140.747 (0) backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_blc_filters.table.gz (15/61): adding to final database dump
+0140.751 (0) backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_blc_instances.table.gz (16/61): adding to final database dump
+0140.756 (0) backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_blc_links.table.gz (17/61): adding to final database dump
+0140.763 (0) backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_blc_synch.table.gz (18/61): adding to final database dump
+0140.767 (0) backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_cf7dbplugin_st.table.gz (19/61): adding to final database dump
+0140.802 (0) backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_cf7dbplugin_submits.table.gz (20/61): adding to final database dump
+0141.095 (0) backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_cptch_whitelist.table.gz (21/61): adding to final database dump
+0141.100 (0) backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_hctpc_images.table.gz (22/61): adding to final database dump
+0141.107 (0) backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_hctpc_packages.table.gz (23/61): adding to final database dump
+0141.112 (0) backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_hctpc_whitelist.table.gz (24/61): adding to final database dump
+0141.117 (0) backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_itsec_distributed_storage.table.gz (25/61): adding to final database dump
+0141.124 (0) backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_itsec_fingerprints.table.gz (26/61): adding to final database dump
+0141.130 (0) backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_itsec_geolocation_cache.table.gz (27/61): adding to final database dump
+0141.134 (0) backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_itsec_lockouts.table.gz (28/61): adding to final database dump
+0141.140 (0) backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_itsec_log.table.gz (29/61): adding to final database dump
+0141.198 (0) backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_itsec_logs.table.gz (30/61): adding to final database dump
+0141.214 (0) backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_itsec_opaque_tokens.table.gz (31/61): adding to final database dump
+0141.219 (0) backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_itsec_temp.table.gz (32/61): adding to final database dump
+0141.223 (0) backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_redirection_404.table.gz (33/61): adding to final database dump
+0141.234 (0) backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_redirection_groups.table.gz (34/61): adding to final database dump
+0141.238 (0) backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_redirection_items.table.gz (35/61): adding to final database dump
+0141.244 (0) backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_redirection_logs.table.gz (36/61): adding to final database dump
+0141.249 (0) backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_smush_dir_images.table.gz (37/61): adding to final database dump
+0141.253 (0) backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_structuring_markup.table.gz (38/61): adding to final database dump
+0141.258 (0) backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_toolset_post_guid_id.table.gz (39/61): adding to final database dump
+0141.261 (0) backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_wfblockediplog.table.gz (40/61): adding to final database dump
+0141.266 (0) backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_wfblocks7.table.gz (41/61): adding to final database dump
+0141.271 (0) backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_wfconfig.table.gz (42/61): adding to final database dump
+0141.309 (0) backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_wfcrawlers.table.gz (43/61): adding to final database dump
+0141.314 (0) backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_wffilechanges.table.gz (44/61): adding to final database dump
+0141.317 (0) backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_wffilemods.table.gz (45/61): adding to final database dump
+0141.555 (0) backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_wfhits.table.gz (46/61): adding to final database dump
+0141.568 (0) backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_wfhoover.table.gz (47/61): adding to final database dump
+0141.573 (0) backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_wfissues.table.gz (48/61): adding to final database dump
+0141.579 (0) backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_wfknownfilelist.table.gz (49/61): adding to final database dump
+0141.654 (0) backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_wflivetraffichuman.table.gz (50/61): adding to final database dump
+0141.660 (0) backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_wflocs.table.gz (51/61): adding to final database dump
+0141.666 (0) backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_wflogins.table.gz (52/61): adding to final database dump
+0141.671 (0) backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_wfls_2fa_secrets.table.gz (53/61): adding to final database dump
+0141.675 (0) backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_wfls_settings.table.gz (54/61): adding to final database dump
+0141.681 (0) backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_wfnotifications.table.gz (55/61): adding to final database dump
+0141.686 (0) backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_wfpendingissues.table.gz (56/61): adding to final database dump
+0141.706 (0) backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_wfreversecache.table.gz (57/61): adding to final database dump
+0141.711 (0) backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_wfsnipcache.table.gz (58/61): adding to final database dump
+0141.716 (0) backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_wfstatus.table.gz (59/61): adding to final database dump
+0141.731 (0) backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_wftrafficrates.table.gz (60/61): adding to final database dump
+0141.736 (0) backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db-table-rhofwwja_wpfm_backup.table.gz (61/61): adding to final database dump
+0141.744 (0) backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db.gz: finished writing out complete database file (3944 KB)
+0141.895 (0) Total database tables backed up: 61 (backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db.gz, size: 4044386, sha1: 7a1d516ae48c015d6f85b78e966971d65cc31505, sha256: f807a9b2ed279f194ec859628e90fe994e4863cf70c6e85561e01b039dfa5726)
+0141.920 (0) backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0141.924 (0) backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0141.928 (0) backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0141.933 (0) backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip: others: This file has not yet been successfully uploaded: will queue
+0141.939 (0) backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db.gz: db: This file has not yet been successfully uploaded: will queue
+0141.942 (0) Saving backup history. Total backup size: 222.5 MB
+0142.008 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0142.033 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0142.036 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-446a40b9da73827adbb839a74cf8834d)
+0146.204 (0) Google Drive: quota usage: used=97148.4 MB, total=204800 MB, available=107651.6 MB
+0146.208 (0) Google Drive: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip: Attempting to upload to Google Drive (into folder id: 1RTBy2o_Lvl5PPaJClLN7vhG2BL090MeS)
+0147.919 (0) Googledrive chunked upload: 1.5 % uploaded (1048576)
+0148.768 (0) Googledrive chunked upload: 3.1 % uploaded (2097152)
+0149.647 (0) Googledrive chunked upload: 4.6 % uploaded (3145728)
+0150.456 (0) Googledrive chunked upload: 6.2 % uploaded (4194304)
+0151.268 (0) Googledrive chunked upload: 7.7 % uploaded (5242880)
+0152.191 (0) Googledrive chunked upload: 9.3 % uploaded (6291456)
+0153.012 (0) Googledrive chunked upload: 10.8 % uploaded (7340032)
+0153.888 (0) Googledrive chunked upload: 12.4 % uploaded (8388608)
+0154.714 (0) Googledrive chunked upload: 13.9 % uploaded (9437184)
+0155.519 (0) Googledrive chunked upload: 15.5 % uploaded (10485760)
+0156.407 (0) Googledrive chunked upload: 17 % uploaded (11534336)
+0157.286 (0) Googledrive chunked upload: 18.6 % uploaded (12582912)
+0158.399 (0) Googledrive chunked upload: 20.1 % uploaded (13631488)
+0159.278 (0) Googledrive chunked upload: 21.7 % uploaded (14680064)
+0160.149 (0) Googledrive chunked upload: 23.2 % uploaded (15728640)
+0160.979 (0) Googledrive chunked upload: 24.8 % uploaded (16777216)
+0161.848 (0) Googledrive chunked upload: 26.3 % uploaded (17825792)
+0162.918 (0) Googledrive chunked upload: 27.8 % uploaded (18874368)
+0163.818 (0) Googledrive chunked upload: 29.4 % uploaded (19922944)
+0164.862 (0) Googledrive chunked upload: 30.9 % uploaded (20971520)
+0165.715 (0) Googledrive chunked upload: 32.5 % uploaded (22020096)
+0166.551 (0) Googledrive chunked upload: 34 % uploaded (23068672)
+0167.616 (0) Googledrive chunked upload: 35.6 % uploaded (24117248)
+0168.546 (0) Googledrive chunked upload: 37.1 % uploaded (25165824)
+0169.646 (0) Googledrive chunked upload: 38.7 % uploaded (26214400)
+0170.590 (0) Googledrive chunked upload: 40.2 % uploaded (27262976)
+0171.416 (0) Googledrive chunked upload: 41.8 % uploaded (28311552)
+0172.465 (0) Googledrive chunked upload: 43.3 % uploaded (29360128)
+0173.394 (0) Googledrive chunked upload: 44.9 % uploaded (30408704)
+0174.262 (0) Googledrive chunked upload: 46.4 % uploaded (31457280)
+0175.194 (0) Googledrive chunked upload: 48 % uploaded (32505856)
+0176.225 (0) Googledrive chunked upload: 49.5 % uploaded (33554432)
+0177.039 (0) Googledrive chunked upload: 51 % uploaded (34603008)
+0178.090 (0) Googledrive chunked upload: 52.6 % uploaded (35651584)
+0178.935 (0) Googledrive chunked upload: 54.1 % uploaded (36700160)
+0179.837 (0) Googledrive chunked upload: 55.7 % uploaded (37748736)
+0180.745 (0) Googledrive chunked upload: 57.2 % uploaded (38797312)
+0181.578 (0) Googledrive chunked upload: 58.8 % uploaded (39845888)
+0182.543 (0) Googledrive chunked upload: 60.3 % uploaded (40894464)
+0183.415 (0) Googledrive chunked upload: 61.9 % uploaded (41943040)
+0184.492 (0) Googledrive chunked upload: 63.4 % uploaded (42991616)
+0185.388 (0) Googledrive chunked upload: 65 % uploaded (44040192)
+0186.284 (0) Googledrive chunked upload: 66.5 % uploaded (45088768)
+0187.341 (0) Googledrive chunked upload: 68.1 % uploaded (46137344)
+0188.196 (0) Googledrive chunked upload: 69.6 % uploaded (47185920)
+0189.071 (0) Googledrive chunked upload: 71.2 % uploaded (48234496)
+0189.910 (0) Googledrive chunked upload: 72.7 % uploaded (49283072)
+0190.767 (0) Googledrive chunked upload: 74.3 % uploaded (50331648)
+0191.623 (0) Googledrive chunked upload: 75.8 % uploaded (51380224)
+0192.487 (0) Googledrive chunked upload: 77.3 % uploaded (52428800)
+0193.381 (0) Googledrive chunked upload: 78.9 % uploaded (53477376)
+0194.321 (0) Googledrive chunked upload: 80.4 % uploaded (54525952)
+0195.368 (0) Googledrive chunked upload: 82 % uploaded (55574528)
+0196.263 (0) Googledrive chunked upload: 83.5 % uploaded (56623104)
+0197.208 (0) Googledrive chunked upload: 85.1 % uploaded (57671680)
+0198.133 (0) Googledrive chunked upload: 86.6 % uploaded (58720256)
+0199.005 (0) Googledrive chunked upload: 88.2 % uploaded (59768832)
+0199.822 (0) Googledrive chunked upload: 89.7 % uploaded (60817408)
+0200.761 (0) Googledrive chunked upload: 91.3 % uploaded (61865984)
+0201.801 (0) Googledrive chunked upload: 92.8 % uploaded (62914560)
+0202.669 (0) Googledrive chunked upload: 94.4 % uploaded (63963136)
+0203.709 (0) Googledrive chunked upload: 95.9 % uploaded (65011712)
+0204.539 (0) Googledrive chunked upload: 97.5 % uploaded (66060288)
+0205.342 (0) Googledrive chunked upload: 99 % uploaded (67108864)
+0207.628 (0) Googledrive chunked upload: 100 % uploaded (67108864)
+0207.650 (0) Google Drive: OK: Archive backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip uploaded in 61.44 seconds
+0207.654 (0) Recording as successfully uploaded: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip
+0207.683 (0) Deleting local file: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-plugins.zip: OK
+0208.164 (0) Google Drive: quota usage: used=97340.7 MB, total=204800 MB, available=107459.3 MB
+0208.171 (0) Google Drive: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-themes.zip: Attempting to upload to Google Drive (into folder id: 1RTBy2o_Lvl5PPaJClLN7vhG2BL090MeS)
+0210.053 (0) Googledrive chunked upload: 17.7 % uploaded (1048576)
+0210.967 (0) Googledrive chunked upload: 35.3 % uploaded (2097152)
+0211.819 (0) Googledrive chunked upload: 53 % uploaded (3145728)
+0212.777 (0) Googledrive chunked upload: 70.7 % uploaded (4194304)
+0213.611 (0) Googledrive chunked upload: 88.4 % uploaded (5242880)
+0216.080 (0) Googledrive chunked upload: 100 % uploaded (5242880)
+0216.097 (0) Google Drive: OK: Archive backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-themes.zip uploaded in 7.92 seconds
+0216.103 (0) Recording as successfully uploaded: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-themes.zip
+0216.117 (0) Deleting local file: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-themes.zip: OK
+0216.746 (0) Google Drive: quota usage: used=97346.3 MB, total=204800 MB, available=107453.7 MB
+0216.754 (0) Google Drive: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-uploads.zip: Attempting to upload to Google Drive (into folder id: 1RTBy2o_Lvl5PPaJClLN7vhG2BL090MeS)
+0218.762 (0) Googledrive chunked upload: 1.2 % uploaded (1048576)
+0219.652 (0) Googledrive chunked upload: 2.5 % uploaded (2097152)
+0220.551 (0) Googledrive chunked upload: 3.7 % uploaded (3145728)
+0221.533 (0) Googledrive chunked upload: 5 % uploaded (4194304)
+0222.447 (0) Googledrive chunked upload: 6.2 % uploaded (5242880)
+0223.345 (0) Googledrive chunked upload: 7.4 % uploaded (6291456)
+0224.175 (0) Googledrive chunked upload: 8.7 % uploaded (7340032)
+0225.010 (0) Googledrive chunked upload: 9.9 % uploaded (8388608)
+0225.873 (0) Googledrive chunked upload: 11.1 % uploaded (9437184)
+0226.735 (0) Googledrive chunked upload: 12.4 % uploaded (10485760)
+0227.755 (0) Googledrive chunked upload: 13.6 % uploaded (11534336)
+0228.665 (0) Googledrive chunked upload: 14.9 % uploaded (12582912)
+0229.905 (0) Googledrive chunked upload: 16.1 % uploaded (13631488)
+0230.914 (0) Googledrive chunked upload: 17.3 % uploaded (14680064)
+0231.795 (0) Googledrive chunked upload: 18.6 % uploaded (15728640)
+0232.839 (0) Googledrive chunked upload: 19.8 % uploaded (16777216)
+0233.708 (0) Googledrive chunked upload: 21.1 % uploaded (17825792)
+0234.540 (0) Googledrive chunked upload: 22.3 % uploaded (18874368)
+0235.357 (0) Googledrive chunked upload: 23.5 % uploaded (19922944)
+0236.397 (0) Googledrive chunked upload: 24.8 % uploaded (20971520)
+0237.248 (0) Googledrive chunked upload: 26 % uploaded (22020096)
+0238.078 (0) Googledrive chunked upload: 27.3 % uploaded (23068672)
+0238.945 (0) Googledrive chunked upload: 28.5 % uploaded (24117248)
+0239.781 (0) Googledrive chunked upload: 29.7 % uploaded (25165824)
+0240.838 (0) Googledrive chunked upload: 31 % uploaded (26214400)
+0241.747 (0) Googledrive chunked upload: 32.2 % uploaded (27262976)
+0242.787 (0) Googledrive chunked upload: 33.4 % uploaded (28311552)
+0243.660 (0) Googledrive chunked upload: 34.7 % uploaded (29360128)
+0244.521 (0) Googledrive chunked upload: 35.9 % uploaded (30408704)
+0245.336 (0) Googledrive chunked upload: 37.2 % uploaded (31457280)
+0246.379 (0) Googledrive chunked upload: 38.4 % uploaded (32505856)
+0247.315 (0) Googledrive chunked upload: 39.6 % uploaded (33554432)
+0248.180 (0) Googledrive chunked upload: 40.9 % uploaded (34603008)
+0249.246 (0) Googledrive chunked upload: 42.1 % uploaded (35651584)
+0250.309 (0) Googledrive chunked upload: 43.4 % uploaded (36700160)
+0251.372 (0) Googledrive chunked upload: 44.6 % uploaded (37748736)
+0252.257 (0) Googledrive chunked upload: 45.8 % uploaded (38797312)
+0253.078 (0) Googledrive chunked upload: 47.1 % uploaded (39845888)
+0253.914 (0) Googledrive chunked upload: 48.3 % uploaded (40894464)
+0254.767 (0) The scheduled resumption is within 45 seconds - will reschedule
+0254.783 (0) Rescheduling resumption 1: moving to 345 seconds from now (1582618970)
+0254.809 (0) To decrease the likelihood of overlaps, increasing resumption interval to: 300 + 45 = 345
+0254.813 (0) Googledrive chunked upload: 49.6 % uploaded (41943040)
+0255.627 (0) Googledrive chunked upload: 50.8 % uploaded (42991616)
+0256.649 (0) Googledrive chunked upload: 52 % uploaded (44040192)
+0257.682 (0) Googledrive chunked upload: 53.3 % uploaded (45088768)
+0258.534 (0) Googledrive chunked upload: 54.5 % uploaded (46137344)
+0259.582 (0) Googledrive chunked upload: 55.7 % uploaded (47185920)
+0260.457 (0) Googledrive chunked upload: 57 % uploaded (48234496)
+0261.369 (0) Googledrive chunked upload: 58.2 % uploaded (49283072)
+0262.270 (0) Googledrive chunked upload: 59.5 % uploaded (50331648)
+0263.101 (0) Googledrive chunked upload: 60.7 % uploaded (51380224)
+0263.979 (0) Googledrive chunked upload: 61.9 % uploaded (52428800)
+0265.018 (0) Googledrive chunked upload: 63.2 % uploaded (53477376)
+0265.827 (0) Googledrive chunked upload: 64.4 % uploaded (54525952)
+0266.857 (0) Googledrive chunked upload: 65.7 % uploaded (55574528)
+0267.888 (0) Googledrive chunked upload: 66.9 % uploaded (56623104)
+0268.825 (0) Googledrive chunked upload: 68.1 % uploaded (57671680)
+0269.721 (0) Googledrive chunked upload: 69.4 % uploaded (58720256)
+0270.555 (0) Googledrive chunked upload: 70.6 % uploaded (59768832)
+0271.416 (0) Googledrive chunked upload: 71.9 % uploaded (60817408)
+0272.470 (0) Googledrive chunked upload: 73.1 % uploaded (61865984)
+0273.315 (0) Googledrive chunked upload: 74.3 % uploaded (62914560)
+0274.231 (0) Googledrive chunked upload: 75.6 % uploaded (63963136)
+0275.079 (0) Googledrive chunked upload: 76.8 % uploaded (65011712)
+0276.134 (0) Googledrive chunked upload: 78 % uploaded (66060288)
+0277.185 (0) Googledrive chunked upload: 79.3 % uploaded (67108864)
+0278.077 (0) Googledrive chunked upload: 80.5 % uploaded (68157440)
+0279.029 (0) Googledrive chunked upload: 81.8 % uploaded (69206016)
+0279.935 (0) Googledrive chunked upload: 83 % uploaded (70254592)
+0280.735 (0) Googledrive chunked upload: 84.2 % uploaded (71303168)
+0281.542 (0) Googledrive chunked upload: 85.5 % uploaded (72351744)
+0282.495 (0) Googledrive chunked upload: 86.7 % uploaded (73400320)
+0283.543 (0) Googledrive chunked upload: 88 % uploaded (74448896)
+0284.387 (0) Googledrive chunked upload: 89.2 % uploaded (75497472)
+0285.426 (0) Googledrive chunked upload: 90.4 % uploaded (76546048)
+0286.258 (0) Googledrive chunked upload: 91.7 % uploaded (77594624)
+0287.271 (0) Googledrive chunked upload: 92.9 % uploaded (78643200)
+0288.312 (0) Googledrive chunked upload: 94.2 % uploaded (79691776)
+0289.353 (0) Googledrive chunked upload: 95.4 % uploaded (80740352)
+0290.390 (0) Googledrive chunked upload: 96.6 % uploaded (81788928)
+0291.204 (0) Googledrive chunked upload: 97.9 % uploaded (82837504)
+0292.054 (0) Googledrive chunked upload: 99.1 % uploaded (83886080)
+0294.465 (0) Googledrive chunked upload: 100 % uploaded (83886080)
+0294.479 (0) Google Drive: OK: Archive backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-uploads.zip uploaded in 77.71 seconds
+0294.482 (0) Recording as successfully uploaded: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-uploads.zip
+0294.516 (0) Deleting local file: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-uploads.zip: OK
+0295.195 (0) Google Drive: quota usage: used=97302.6 MB, total=204800 MB, available=107497.4 MB
+0295.199 (0) Google Drive: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip: Attempting to upload to Google Drive (into folder id: 1RTBy2o_Lvl5PPaJClLN7vhG2BL090MeS)
+0296.990 (0) Googledrive chunked upload: 1.5 % uploaded (1048576)
+0297.900 (0) Googledrive chunked upload: 3 % uploaded (2097152)
+0298.823 (0) Googledrive chunked upload: 4.4 % uploaded (3145728)
+0299.705 (0) Googledrive chunked upload: 5.9 % uploaded (4194304)
+0300.586 (0) Googledrive chunked upload: 7.4 % uploaded (5242880)
+0301.443 (0) Googledrive chunked upload: 8.9 % uploaded (6291456)
+0302.339 (0) Googledrive chunked upload: 10.3 % uploaded (7340032)
+0303.239 (0) Googledrive chunked upload: 11.8 % uploaded (8388608)
+0304.115 (0) Googledrive chunked upload: 13.3 % uploaded (9437184)
+0305.031 (0) Googledrive chunked upload: 14.8 % uploaded (10485760)
+0305.930 (0) Googledrive chunked upload: 16.3 % uploaded (11534336)
+0306.747 (0) Googledrive chunked upload: 17.7 % uploaded (12582912)
+0307.635 (0) Googledrive chunked upload: 19.2 % uploaded (13631488)
+0308.552 (0) Googledrive chunked upload: 20.7 % uploaded (14680064)
+0309.540 (0) Googledrive chunked upload: 22.2 % uploaded (15728640)
+0310.454 (0) Googledrive chunked upload: 23.6 % uploaded (16777216)
+0311.327 (0) Googledrive chunked upload: 25.1 % uploaded (17825792)
+0312.220 (0) Googledrive chunked upload: 26.6 % uploaded (18874368)
+0313.269 (0) Googledrive chunked upload: 28.1 % uploaded (19922944)
+0314.356 (0) Googledrive chunked upload: 29.6 % uploaded (20971520)
+0315.241 (0) The time we have been running (315.2) is approaching the resumption interval (345) - increasing resumption interval to 346
+0315.250 (0) Googledrive chunked upload: 31 % uploaded (22020096)
+0316.115 (0) The time we have been running (316.1) is approaching the resumption interval (346) - increasing resumption interval to 347
+0316.128 (0) Googledrive chunked upload: 32.5 % uploaded (23068672)
+0316.951 (0) Googledrive chunked upload: 34 % uploaded (24117248)
+0317.834 (0) The time we have been running (317.8) is approaching the resumption interval (347) - increasing resumption interval to 348
+0317.840 (0) Googledrive chunked upload: 35.5 % uploaded (25165824)
+0318.777 (0) The time we have been running (318.8) is approaching the resumption interval (348) - increasing resumption interval to 349
+0318.784 (0) Googledrive chunked upload: 36.9 % uploaded (26214400)
+0319.688 (0) The time we have been running (319.7) is approaching the resumption interval (349) - increasing resumption interval to 350
+0319.695 (0) Googledrive chunked upload: 38.4 % uploaded (27262976)
+0320.547 (0) The time we have been running (320.5) is approaching the resumption interval (350) - increasing resumption interval to 351
+0320.559 (0) Googledrive chunked upload: 39.9 % uploaded (28311552)
+0321.435 (0) The time we have been running (321.4) is approaching the resumption interval (351) - increasing resumption interval to 352
+0321.445 (0) Googledrive chunked upload: 41.4 % uploaded (29360128)
+0322.370 (0) The time we have been running (322.4) is approaching the resumption interval (352) - increasing resumption interval to 353
+0322.377 (0) Googledrive chunked upload: 42.9 % uploaded (30408704)
+0323.254 (0) The time we have been running (323.2) is approaching the resumption interval (353) - increasing resumption interval to 354
+0323.260 (0) Googledrive chunked upload: 44.3 % uploaded (31457280)
+0324.106 (0) The time we have been running (324.1) is approaching the resumption interval (354) - increasing resumption interval to 355
+0324.112 (0) Googledrive chunked upload: 45.8 % uploaded (32505856)
+0324.934 (0) Googledrive chunked upload: 47.3 % uploaded (33554432)
+0325.788 (0) The time we have been running (325.8) is approaching the resumption interval (355) - increasing resumption interval to 356
+0325.802 (0) Googledrive chunked upload: 48.8 % uploaded (34603008)
+0326.697 (0) The time we have been running (326.7) is approaching the resumption interval (356) - increasing resumption interval to 357
+0326.707 (0) Googledrive chunked upload: 50.2 % uploaded (35651584)
+0327.533 (0) The time we have been running (327.5) is approaching the resumption interval (357) - increasing resumption interval to 358
+0327.545 (0) Googledrive chunked upload: 51.7 % uploaded (36700160)
+0328.405 (0) The time we have been running (328.4) is approaching the resumption interval (358) - increasing resumption interval to 359
+0328.418 (0) Googledrive chunked upload: 53.2 % uploaded (37748736)
+0329.287 (0) The time we have been running (329.3) is approaching the resumption interval (359) - increasing resumption interval to 360
+0329.295 (0) Googledrive chunked upload: 54.7 % uploaded (38797312)
+0330.127 (0) The time we have been running (330.1) is approaching the resumption interval (360) - increasing resumption interval to 361
+0330.136 (0) Googledrive chunked upload: 56.2 % uploaded (39845888)
+0331.195 (0) The time we have been running (331.2) is approaching the resumption interval (361) - increasing resumption interval to 362
+0331.202 (0) Googledrive chunked upload: 57.6 % uploaded (40894464)
+0332.003 (0) Googledrive chunked upload: 59.1 % uploaded (41943040)
+0332.883 (0) The time we have been running (332.9) is approaching the resumption interval (362) - increasing resumption interval to 363
+0332.890 (0) Googledrive chunked upload: 60.6 % uploaded (42991616)
+0333.729 (0) The time we have been running (333.7) is approaching the resumption interval (363) - increasing resumption interval to 364
+0333.739 (0) Googledrive chunked upload: 62.1 % uploaded (44040192)
+0334.628 (0) The time we have been running (334.6) is approaching the resumption interval (364) - increasing resumption interval to 365
+0334.637 (0) Googledrive chunked upload: 63.6 % uploaded (45088768)
+0335.689 (0) The time we have been running (335.7) is approaching the resumption interval (365) - increasing resumption interval to 366
+0335.697 (0) Googledrive chunked upload: 65 % uploaded (46137344)
+0336.698 (0) The time we have been running (336.7) is approaching the resumption interval (366) - increasing resumption interval to 367
+0336.705 (0) Googledrive chunked upload: 66.5 % uploaded (47185920)
+0337.508 (0) The time we have been running (337.5) is approaching the resumption interval (367) - increasing resumption interval to 368
+0337.515 (0) Googledrive chunked upload: 68 % uploaded (48234496)
+0338.339 (0) The time we have been running (338.3) is approaching the resumption interval (368) - increasing resumption interval to 369
+0338.346 (0) Googledrive chunked upload: 69.5 % uploaded (49283072)
+0339.410 (0) The time we have been running (339.4) is approaching the resumption interval (369) - increasing resumption interval to 370
+0339.425 (0) Googledrive chunked upload: 70.9 % uploaded (50331648)
+0340.249 (0) The time we have been running (340.2) is approaching the resumption interval (370) - increasing resumption interval to 371
+0340.261 (0) Googledrive chunked upload: 72.4 % uploaded (51380224)
+0341.290 (0) The time we have been running (341.3) is approaching the resumption interval (371) - increasing resumption interval to 372
+0341.311 (0) Googledrive chunked upload: 73.9 % uploaded (52428800)
+0342.476 (0) The time we have been running (342.5) is approaching the resumption interval (372) - increasing resumption interval to 373
+0342.490 (0) Googledrive chunked upload: 75.4 % uploaded (53477376)
+0343.364 (0) The time we have been running (343.4) is approaching the resumption interval (373) - increasing resumption interval to 374
+0343.374 (0) Googledrive chunked upload: 76.9 % uploaded (54525952)
+0344.350 (0) The time we have been running (344.3) is approaching the resumption interval (374) - increasing resumption interval to 375
+0344.367 (0) Googledrive chunked upload: 78.3 % uploaded (55574528)
+0345.382 (0) The time we have been running (345.4) is approaching the resumption interval (375) - increasing resumption interval to 376
+0345.396 (0) Googledrive chunked upload: 79.8 % uploaded (56623104)
+0346.248 (0) The time we have been running (346.2) is approaching the resumption interval (376) - increasing resumption interval to 377
+0346.269 (0) Googledrive chunked upload: 81.3 % uploaded (57671680)
+0347.326 (0) The time we have been running (347.3) is approaching the resumption interval (377) - increasing resumption interval to 378
+0347.358 (0) Googledrive chunked upload: 82.8 % uploaded (58720256)
+0348.306 (0) The time we have been running (348.3) is approaching the resumption interval (378) - increasing resumption interval to 379
+0348.326 (0) Googledrive chunked upload: 84.2 % uploaded (59768832)
+0349.413 (0) The time we have been running (349.4) is approaching the resumption interval (379) - increasing resumption interval to 380
+0349.430 (0) Googledrive chunked upload: 85.7 % uploaded (60817408)
+0350.528 (0) The time we have been running (350.5) is approaching the resumption interval (380) - increasing resumption interval to 381
+0350.543 (0) Googledrive chunked upload: 87.2 % uploaded (61865984)
+0351.404 (0) The time we have been running (351.4) is approaching the resumption interval (381) - increasing resumption interval to 382
+0351.423 (0) Googledrive chunked upload: 88.7 % uploaded (62914560)
+0352.299 (0) The time we have been running (352.3) is approaching the resumption interval (382) - increasing resumption interval to 383
+0352.319 (0) Googledrive chunked upload: 90.2 % uploaded (63963136)
+0353.180 (0) The time we have been running (353.2) is approaching the resumption interval (383) - increasing resumption interval to 384
+0353.194 (0) Googledrive chunked upload: 91.6 % uploaded (65011712)
+0354.211 (0) The time we have been running (354.2) is approaching the resumption interval (384) - increasing resumption interval to 385
+0354.228 (0) Googledrive chunked upload: 93.1 % uploaded (66060288)
+0355.197 (0) The time we have been running (355.2) is approaching the resumption interval (385) - increasing resumption interval to 386
+0355.207 (0) Googledrive chunked upload: 94.6 % uploaded (67108864)
+0356.104 (0) The time we have been running (356.1) is approaching the resumption interval (386) - increasing resumption interval to 387
+0356.111 (0) Googledrive chunked upload: 96.1 % uploaded (68157440)
+0357.026 (0) The time we have been running (357) is approaching the resumption interval (387) - increasing resumption interval to 388
+0357.034 (0) Googledrive chunked upload: 97.5 % uploaded (69206016)
+0357.869 (0) Googledrive chunked upload: 99 % uploaded (70254592)
+0362.172 (0) The time we have been running (362.2) is approaching the resumption interval (388) - increasing resumption interval to 393
+0362.179 (0) Googledrive chunked upload: 100 % uploaded (70254592)
+0362.191 (0) Google Drive: OK: Archive backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip uploaded in 66.99 seconds
+0362.194 (0) Recording as successfully uploaded: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip
+0362.219 (0) Deleting local file: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-others.zip: OK
+0362.775 (0) Google Drive: quota usage: used=97370.3 MB, total=204800 MB, available=107429.7 MB
+0362.779 (0) Google Drive: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db.gz: Attempting to upload to Google Drive (into folder id: 1RTBy2o_Lvl5PPaJClLN7vhG2BL090MeS)
+0364.398 (0) The time we have been running (364.4) is approaching the resumption interval (393) - increasing resumption interval to 395
+0364.414 (0) Googledrive chunked upload: 25.9 % uploaded (1048576)
+0365.541 (0) The time we have been running (365.5) is approaching the resumption interval (395) - increasing resumption interval to 396
+0365.557 (0) Googledrive chunked upload: 51.9 % uploaded (2097152)
+0366.470 (0) The time we have been running (366.4) is approaching the resumption interval (396) - increasing resumption interval to 397
+0366.497 (0) Googledrive chunked upload: 77.8 % uploaded (3145728)
+0369.216 (0) The time we have been running (369.2) is approaching the resumption interval (397) - increasing resumption interval to 400
+0369.231 (0) Googledrive chunked upload: 100 % uploaded (3145728)
+0369.254 (0) Google Drive: OK: Archive backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db.gz uploaded in 6.47 seconds
+0369.259 (0) Recording as successfully uploaded: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db.gz
+0369.270 (0) Deleting local file: backup_2020-02-25-0812_httpswwwaustralianantennasc_97af3880f936-db.gz: OK
+0369.287 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0369.292 (0) Number of backup sets in history: 2; groups (db): 1
+0369.298 (0) Examining (for databases) backup set with group_id=0, nonce=97af3880f936, datestamp=1582618370 (Feb 25 2020 08:12:50)
+0369.302 (0) This backup set is the backup set just made, so will not be deleted.
+0369.302 (0) Examining (for databases) backup set with group_id=0, nonce=d7dcd895cbde, datestamp=1568698994 (Sep 17 2019 05:43:14)
+0369.302 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0369.306 (0) Number of backup sets in history: 2; groups (files): 1
+0369.309 (0) Examining (for files) backup set with nonce=97af3880f936, datestamp=1582618370 (Feb 25 2020 08:12:50)
+0369.309 (0) This backup set is the backup set just made, so will not be deleted.
+0369.319 (0) This backup set is the backup set just made, so will not be deleted.
+0369.319 (0) This backup set is the backup set just made, so will not be deleted.
+0369.320 (0) This backup set is the backup set just made, so will not be deleted.
+0369.320 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0369.325 (0) Examining (for files) backup set with nonce=d7dcd895cbde, datestamp=1568698994 (Sep 17 2019 05:43:14)
+0369.325 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0369.326 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0369.348 (0) Resume backup (97af3880f936, 0): finish run
+0369.381 (0) Decremented the semaphore (fd) by 1
+0369.392 (0) Semaphore (fd) unlocked
+0369.396 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0369.411 (0) No email will/can be sent - the user has not configured an email address.
+0369.415 (0) The backup apparently succeeded and is now complete

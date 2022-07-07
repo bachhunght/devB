@@ -1,0 +1,267 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3770:"This work depicts the aftermath of a contemporary French shipwreck, whose survivors embarked on a raft and were decimated by … Théodore Géricault completed The Raft of the Medusa when he was 27, and the work has become an icon of French Romanticism. The Raft of the Medusa: | | The Raft of the Medusa | | | French: |Le Rad... World Heritage Encyclopedia, the aggregation of the largest online encyclopedias available, and the most definitive collection ever assembled. It depicts an event in which the human and political aspects greatly interested Géricault: the wreck of the French Royal Navy frigate Méduse off the coast of Senegal in 1816, with over 150 soldiers on board. The pencil drawings are laborious copies, and Kippenberger may have drawn inspiration from the many studies on which Géricault based the sketch for his painting. The captain and crew of the Medusa, safely aboard proper life boats intended to tow the raft, after only a few miles cut the raft loose to avoid encumbering their boats. Partagez cet article . The Raft of the Medusa, by Géricault, caused a sensation when it was first exhibited in 1819. In an exhibition fil led with obsequious expressions of loyalty, it affronted the government, spurned o fficial piety, The reason for this is clear in looking at the painting with its masterful composition and violent realism. The Raft of the Medusa entered the Louvre only after Géricault’s early death, from TB, in 1824. The Raft of the Medusa: | | The Raft of the Medusa | | | French: |Le Rad... World Heritage Encyclopedia, the aggregation of the largest online encyclopedias available, and the most definitive collection ever assembled. 147 people climbed onto a raft to escape The Medusa, a French frigate which had run aground on a reef off Senegal in 1816. B. Henry Savigny and Alexandre Corréard and other shipwrecked survivors after abandonment on a raft following the shipwreck of the frigate Medusa. Theodore Gericault, the French Romantic painter, is best known for his masterpiece The Raft of the Medusa painted from 1818-1819.Some scholars consider this pivotal painting to be one of the most important works created in the 19 th century. The Louvre purchased his painting the year after his death. One more blow this week. The Raft of Medusa was [un deniably, and] in every wa y, exceptional. In […] Théodore Géricault (1791-1824) read the tragic tale Narrative of a Voyage to Senegal in 1816, an account of the extraordinary suffering experienced by J. Théodore Géricault, The Raft of … The Louvre purchased his painting the year after his death. The Raft of the Medusa is generally regarded as an icon of Romanticism. 8 oct 2006 00:00 . The captain and crew of the Medusa, safely aboard proper life boats intended to tow the raft, after only a few miles cut the raft loose to avoid encumbering their boats. The raft was provided with only a bag of ship’s biscuit (consumed on the first day), two casks of water (lost … Kippenberger later reinstated the Raft of the Medusa in the form of several drawings that he made from the photographs. Other articles where The Raft of the Medusa is discussed: Théodore Géricault: …is the large painting entitled The Raft of the Medusa (c. 1819). Géricault died prematurely at age 33 years. Théodore Géricault's painting, 'The Raft of the Medusa,' brought energy to French art, says Willard Spiegelman. In an exhibition fil led with obsequious expressions of loyalty, it affronted the government, spurned o fficial piety, Raft of the Medusa is a famous oil painting by Theodore Gericault who was a French romanticist artist from the start of the 19th century who had a short but influential career through his stylish lithographs, sketches and oil paintings. ";s:7:"keyword";s:30:"the raft of the medusa article";s:5:"links";s:11903:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=environmental-scientists-and-specialists-jobs'>Environmental Scientists And Specialists Jobs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=at-what-temperature-does-water-freeze-instantly'>At What Temperature Does Water Freeze Instantly</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-northern-iowa-address'>University Of Northern Iowa Address</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=natural-and-artificial-methods-of-refrigeration'>Natural And Artificial Methods Of Refrigeration</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=concise-oxford-english-dictionary-download'>Concise Oxford English Dictionary Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=homemade-ice-cream-without-machine'>Homemade Ice Cream Without Machine</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=shelves-for-rubbermaid-vertical-shed'>Shelves For Rubbermaid Vertical Shed</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-calgary-acceptance-rate-2018'>University Of Calgary Acceptance Rate 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hailo-35l-replacement-bin-canada'>Hailo 35l Replacement Bin Canada</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=garlic-and-lemon-juice-for-weight-loss'>Garlic And Lemon Juice For Weight Loss</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-oxford-logo-branding'>University Of Oxford Logo Branding</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mcmaster-university-international-students-fees'>Mcmaster University International Students Fees</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-far-is-leduc-from-edmonton-airport'>How Far Is Leduc From Edmonton Airport</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=eso-shadowrend-vs-maw-of-the-infernal'>Eso Shadowrend Vs Maw Of The Infernal</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-clean-a-painted-front-door'>How To Clean A Painted Front Door</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cost-to-demo-a-bathroom-homewyse'>Cost To Demo A Bathroom Homewyse</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=things-to-cook-for-kids'>Things To Cook For Kids</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=referral-agreement-and-commission-agreement'>Referral Agreement And Commission Agreement</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=healthy-meals-for-one-person-on-a-budget'>Healthy Meals For One Person On A Budget</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=catch-me-if-you-can-netflix'>Catch Me If You Can Netflix</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=4-egg-pavlova-recipe-nz'>4 Egg Pavlova Recipe Nz</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=marble-living-room-furniture-sets'>Marble Living Room Furniture Sets</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-hot-dogs-from-scratch'>How To Make Hot Dogs From Scratch</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=universal-soldier-the-return-full-movie-download-in-hindi-hd'>Universal Soldier The Return Full Movie Download In Hindi Hd</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=banyan-tree-hotel-kl-parking-rate'>Banyan Tree Hotel Kl Parking Rate</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=5-star-hotel-organizational-chart-pdf'>5 Star Hotel Organizational Chart Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=master-bedroom-plans-with-bath-and-walk-in-closet'>Master Bedroom Plans With Bath And Walk In Closet</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ice-cream-near-me-now'>Ice Cream Near Me Now</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-cook-ribs-in-the-oven-fast'>How To Cook Ribs In The Oven Fast</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=old-fashioned-spanish-rice-recipe'>Old Fashioned Spanish Rice Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hepa-vacuum-rental-for-lead'>Hepa Vacuum Rental For Lead</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=project-runway-season-18-episode-7'>Project Runway Season 18 Episode 7</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=war-for-the-planet-of-the-apes-full-movie'>War For The Planet Of The Apes Full Movie</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-decorate-a-narrow-hallway'>How To Decorate A Narrow Hallway</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ikea-falster-outdoor-dining-set'>Ikea Falster Outdoor Dining Set</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dyson-v8-absolute-bed-bath-and-beyond'>Dyson V8 Absolute Bed Bath And Beyond</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=live-edge-dining-table-with-resin'>Live Edge Dining Table With Resin</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=i-want-wallpaper-discount-code'>I Want Wallpaper Discount Code</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=growing-plants-in-glass-bottles'>Growing Plants In Glass Bottles</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ashley-trinell-brown-panel-headboard'>Ashley Trinell Brown Panel Headboard</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-dark-knight-cast-joker'>The Dark Knight Cast Joker</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=simpsons-in-the-strand-review'>Simpsons In The Strand Review</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=narrow-console-tables-for-narrow-hall'>Narrow Console Tables For Narrow Hall</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=larson-easy-vent-full-view-aluminum-storm-door'>Larson Easy Vent Full View Aluminum Storm Door</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=larson-easy-vent-full-view-aluminum-storm-door'>Larson Easy Vent Full View Aluminum Storm Door</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=panasonic-india-pvt-ltd-chennai'>Panasonic India Pvt Ltd Chennai</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=function-of-vessels-in-xylem'>Function Of Vessels In Xylem</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-afternoon-tea-in-scotland'>Best Afternoon Tea In Scotland</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=How-to-Bonsai-a-Jade-plant'>How To Bonsai A Jade Plant</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=10-benefits-of-green-vegetables'>10 Benefits Of Green Vegetables</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=black-metal-bed-frame-king'>Black Metal Bed Frame King</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=a-new-tomato-ideal-for-urban-gardens-and-even-outer-space'>A New Tomato Ideal For Urban Gardens And Even Outer Space</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lounge-chair-with-ottoman-ikea'>Lounge Chair With Ottoman Ikea</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=locking-wall-cabinet-with-glass-doors'>Locking Wall Cabinet With Glass Doors</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ashley-furniture-credit-card-login'>Ashley Furniture Credit Card Login</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=i-love-you-akull-lyrics-in-english'>I Love You Akull Lyrics In English</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wood-bed-frame-queen-diy'>Wood Bed Frame Queen Diy</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=indian-lunch-buffet-near-me'>Indian Lunch Buffet Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-save-money-each-month'>How To Save Money Each Month</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=4-drawer-mirrored-bedside-table'>4 Drawer Mirrored Bedside Table</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=alabama-white-sauce-how-to-bbq-right'>Alabama White Sauce How To Bbq Right</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=green-beans-with-ground-pork-filipino-recipe'>Green Beans With Ground Pork Filipino Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=types-of-indian-interior-design-styles'>Types Of Indian Interior Design Styles</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fantastic-four-2005-full-movie'>Fantastic Four 2005 Full Movie</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=deloitte-touche-tohmatsu-new-zealand'>Deloitte Touche Tohmatsu New Zealand</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=moss-vr-gameplay-no-commentary'>Moss Vr Gameplay No Commentary</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=youtube-how-to-make-a-headboard'>Youtube How To Make A Headboard</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=long-narrow-horizontal-wall-decor'>Long Narrow Horizontal Wall Decor</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hip-hop-night-clubs-minneapolis'>Hip Hop Night Clubs Minneapolis</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cheap-lamp-shades-for-table-lamps'>Cheap Lamp Shades For Table Lamps</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=multifunctional-furniture-for-small-spaces'>Multifunctional Furniture For Small Spaces</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=parts-of-a-lounge-chair'>Parts Of A Lounge Chair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=2-bedroom-houses-for-rent-in-kitchener'>2 Bedroom Houses For Rent In Kitchener</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=32-inch-prehung-interior-door'>32 Inch Prehung Interior Door</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pressure-washer-spray-gun-replacement'>Pressure Washer Spray Gun Replacement</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=vodka-martini-with-a-twist'>Vodka Martini With A Twist</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=king-bed-frame-with-storage-drawers'>King Bed Frame With Storage Drawers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-northstar-open-on-christmas'>Is Northstar Open On Christmas</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-start-a-garden'>How To Start A Garden</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=who-chooses-title-company-in-california'>Who Chooses Title Company In California</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hair-salon-quotes-for-business-cards'>Hair Salon Quotes For Business Cards</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rochester-institute-of-technology-notable-alumni'>Rochester Institute Of Technology Notable Alumni</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=richmond-the-american-international-university-in-london-notable-alumni'>Richmond The American International University In London Notable Alumni</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-a-padded-headboard-with-buttons'>How To Make A Padded Headboard With Buttons</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=used-news-set-for-sale'>Used News Set For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=easiest-annual-flowers-to-grow'>Easiest Annual Flowers To Grow</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-often-do-iron-chefs-lose'>How Often Do Iron Chefs Lose</a>,
+";s:7:"expired";i:-1;}

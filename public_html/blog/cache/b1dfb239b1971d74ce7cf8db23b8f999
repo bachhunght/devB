@@ -1,0 +1,224 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:5184:"These Oracle Java Certification exams, which were earlier known as Sun Java Certification exams, are industry respected certifications in Java technology. It is not necessary to be a Sun Certified Java Associate prior to taking this exam. The Java Tutorials can be a valuable resource to help you prepare for the certification exams; however, they do not cover all topics in the certification exams. The program must match the subject area and grade level of the certificate you are applying. Know all about SCJP (Sun Certified Java Programmer) & its scope in India. Sun Certification Exam Voucher in India. It is not necessary to be a Sun Certified Java Associate prior to taking this exam. Read More If you have any questions regarding your program code, contact the certification office at the New York State college or university that you attended. With an entire lot of apply questions and arms-on exercises, SCJP Sun Certified Programmer for Java 6 Analysis Info covers what it’s important know–and reveals you ways one can put collectively–for this troublesome examination. There is lots of unclear questions amoung the Sun Certification candidates about how to apply for the exam. The latest version of this exam is OCPJP8. please tell me for how long SCJP certification is valid for? Our records indicate that your Oracle Certified Professional, Java SE 6 Programmer certification welcome package was mailed to you on XX Nov 20XX to the below address. Note: GIAC reserves the right to change the specifications for each certification without notice. Our records indicate that your Oracle Certified Professional, Java SE 6 Programmer certification welcome package was mailed to you on XX Nov 20XX to the below address. Get full details on SCJP (Sun Certified Java Programmer) courses, fees, admissions, careers options, reviews, exams and much more information on SCJP (Sun Certified Java Programmer) at Shiksha.com Sun Certified Java Programmer (SCJP) Certifications and Classes. OCPJP8 certification is a leading certification for the Java professionals. This certification is considered to be the Foundation Level certification for Sun technologies. This section is for clearing all the doubts related to SCJP voucher. It is maintained by Sun Microsystems Inc. I have heard that it is valid for 2 years only and after that you can not write on your resume that you are Sun certified..Plzzzz help me soon! In order to write OCJP, one should first take OCA(oracle certified associate) that covers fundamental topics and OCJP is a bit advanced one. Oracle provides four certification examinations and two certificates for Java SE 8 programmers. I don't think companies like Oracle offer any certifications for free. Sun Certified Java Programmer (SCJP) certification is for programmers interested in demonstrating proficiency in the fundamentals of the Java programming language. enquiry about the certificate for OCPJP 6.0 given on XX OCT,20XX Hi , Thank you for writing to Oracle Certification Program. Gain in-demand IT skills, advance your expertise, and grow your career. However they do offer some promotional discounts on the exam fee if you pass. To achieve this certification, candidates must successfully complete one exam. Java programmers opt for the certifications to benchmark their knowledge and skills in Java programming. Sun Certified Java Programmer (SCJP) certification is for programmers interested in demonstrating proficiency in the fundamentals of the Java programming language. The following points will give some idea. This certification is designed for experienced Java technology application developers. That is again occasionally.  enquiry about the certificate for OCPJP 6.0 given on XX OCT,20XX Hi , Thank you for writing to Oracle Certification Program. Next After the Oracle acquisition on Sun, now the SCJP certification is known as OCPJP or Oracle Certified Professional Java Programmer Certification. If you were talking about eligibility to appear for the exam then, for ocjp programmer I exam there is not any pre condition. Those seeking certification should already have the skills and understanding of how to efficiently build web applications suited to any Java EE 6 application server using JSP and servlet technologies. OCJP is same as SCJP except that OCJP exam will cover Java 7 and 8 features too. Learn more about available Oracle certifications, how to prepare for exams, and the benefits of being Oracle certified. Discussion Two exam paths are available to certify an individual as an SCJP. It is not necessary to be a Sun Certified Java Associate prior to taking this exam. The SCJP is a programming certification that demonstrates that the owner is proficient in Java programming. The OCPJP certification is mainly for those who want to have a promising, proven and long lasting career in Java technology. To achieve this certification, candidates must successfully complete one exam. OCPJP 5/SCJP (Sun Certified Java Professional) certification exam preparation: Practice Tests & Online Course w/ 100% Unconditional Test Pass Guarantee! To achieve this certification, candidates must successfully complete one exam. ";s:7:"keyword";s:35:"how to apply for scjp certification";s:5:"links";s:5802:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mid-century-modern-landscape-design'>Mid Century Modern Landscape Design</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=52-inch-round-table-seats-how-many'>52 Inch Round Table Seats How Many</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=run-all-night-dual-audio-480p-download'>Run All Night Dual Audio 480p Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=slimming-world-slow-cooker-chicken-biryani'>Slimming World Slow Cooker Chicken Biryani</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=Death-on-the-Ridge-Road'>Death On The Ridge Road</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=harriman-bear-mountain-trail-map'>Harriman Bear Mountain Trail Map</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=panta-bhat-benefits-in-bengali'>Panta Bhat Benefits In Bengali</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-big-book-of-organic-baby-food-pdf-download'>The Big Book Of Organic Baby Food Pdf Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=toyota-used-cars-in-sharjah'>Toyota Used Cars In Sharjah</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philips-h4-led-bulb-for-car'>Philips H4 Led Bulb For Car</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=white-and-rose-gold-office-chair'>White And Rose Gold Office Chair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=white-corner-shelf-unit-living-room'>White Corner Shelf Unit Living Room</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=karcher-pressure-washer-repair-manual'>Karcher Pressure Washer Repair Manual</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=national-horticulture-board-established-in-year'>National Horticulture Board Established In Year</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=blue-and-gold-wallpaper-for-walls'>Blue And Gold Wallpaper For Walls</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=blowing-out-rv-water-pump'>Blowing Out Rv Water Pump</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=easy-red-velvet-cake-recipe-from-box'>Easy Red Velvet Cake Recipe From Box</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=umbra-white-simple-ledge-wall-shelf'>Umbra White Simple Ledge Wall Shelf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=jamaican-rice-and-peas-rice-cooker'>Jamaican Rice And Peas Rice Cooker</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=washing-machines-not-affected-by-tariffs'>Washing Machines Not Affected By Tariffs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bad-ice-cream-3-y8'>Bad Ice Cream 3 Y8</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wall-art-for-office-reception'>Wall Art For Office Reception</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=free-lift-chairs-for-disabled'>Free Lift Chairs For Disabled</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=local-art-for-sale-near-me'>Local Art For Sale Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=parking-tiles-design-at-home'>Parking Tiles Design At Home</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lexington-ky-events-january-2020'>Lexington Ky Events January 2020</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=12-volt-led-lights-for-boats'>12 Volt Led Lights For Boats</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=spaghetti-sauce-with-eggplant-and-meat'>Spaghetti Sauce With Eggplant And Meat</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-prune-asparagus-fern'>How To Prune Asparagus Fern</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cute-food-puns-for-him'>Cute Food Puns For Him</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=alfa-romeo-f1-drivers-2018'>Alfa Romeo F1 Drivers 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=toshiba-hard-disk-customer-care-number-india'>Toshiba Hard Disk Customer Care Number India</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lily-of-the-valley-toxidrome'>Lily Of The Valley Toxidrome</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=are-coworking-spaces-worth-it'>Are Coworking Spaces Worth It</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=calories-in-spaghetti-with-meat-sauce'>Calories In Spaghetti With Meat Sauce</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=home-centre-gurgaon-contact-number'>Home Centre Gurgaon Contact Number</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=Steak-for-chicken-fried-steak'>Steak For Chicken Fried Steak</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=free-download-gidget-goes-hawaiian'>Free Download Gidget Goes Hawaiian</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=celery-juice-detox-symptoms-headache'>Celery Juice Detox Symptoms Headache</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pan-roasted-chicken-and-cauliflower'>Pan Roasted Chicken And Cauliflower</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=authentic-pork-green-chili-recipe'>Authentic Pork Green Chili Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=does-art-van-sell-carpet'>Does Art Van Sell Carpet</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=types-of-fertilizers-used-in-agriculture'>Types Of Fertilizers Used In Agriculture</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=stackable-storage-bins-open-front'>Stackable Storage Bins Open Front</a>,
+";s:7:"expired";i:-1;}

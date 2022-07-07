@@ -1,0 +1,220 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3938:"[16]. Setting Queue Types MikroTik Digunakan untuk membuat pembagian bandwidth secara otomatis oleh router mikrotik dengan menggunakan metode PCQ (Peer Connection Queuing) untuk lebih jelasnya silahkan baca artikel berikut. akan muncul klik remove konfiguration 4. UserManager Mikrotik, aplikasi radius server internal MikroTik. Nah, hotspot itu sendiri banyak ditemukan di area sekolah, kampus, cafe dan tempat publik umum lainnya. Cara Setting Hotspot di Mikrotik dengan Winbox - Hotspot merupakan salah satu fitur populer yang dimiliki oleh Router Mikrotik. Semoga tutorial kali ini dapat membantu semua yang sedang bingung cara setting dasar hotspot di mikrotik. Cara Setting Mikrotik Dengan Winbox Dari Awal Sampai Selesai. cara setting mikrotik lengkap file pdf dengan winbox, konfigurasi mikrotik dasar cara setting mikrotik dasar dan hotspot bahasa indonesia. Dengan mengikuti standar settingan diatas, maka user yang menggunakan HP dan laptop dapat terhubung dengan wifi hotspot yang sudah dibuat tadi. Demikian langkah langkah tutorial cara setting hotspot mikrotik lengkap dengan winbox. Winbox adalah Software yang berjalan pada windows untuk melakukan konfigurasi MikroTik anda , kemudian dengan dukungan Grafik User Interfaces / GUI yang dapat memudahkan kita dalam melakukan konfigurasi MikroTik. cara menstabil kan ping di mikrotik; Cara Setting Mikrotik RB Indoor Seperti RB750,RB450,RB1100,RB1000 Di Set Bridge; Load Balancing 5 WAN dengan Failover; Load balancing 7 WAN dengan mikrotik + proxy external; Cara mencari Port yang di gunakan client untuk di batasi limitnya di Mikrotik; CARA EDIT PAGE LOGIN HOTSPOT DI MIKROTIK Demikian langkah langkah tutorial cara setting hotspot mikrotik lengkap Cara Setting Router Mikrotik Dengan Winbox Mikrotik sebagai gateway adalah salah satu konfigurasi yang paling sering ditemui selain sebagai manajemen bandwidth. Sebaiknya Reset terlebih dahulu mikrotik anda baik secara manual atau NetInstall. Pertama, masuk ke routerboard mikrotik anda dengan winbox. Cara setting mikrotik dengan winbox – Pada kesempatan kali ini kita akan membahas tentang cara setting mikrotik mulai dari tahap awal untuk bisa terkoneksi dengan winbox. Cara setting mikrotik dengan winbox dari awal sampai benar-benar terhubung dengan internet cukup membuat orang pusing. Mikrotik RB 750 memiliki 5 buah port ethernet 10/100, dengan prosesor baru Atheros 400MHz dan sudah termasuk dengan lisensi level 4. Setting mikrotik dengan indihome. cara setting wifi internal mikrotik RB951ui-2hnd tokopuas.com – ada beberapa routerboard mikrotik yang telah dilengkapi pemancar wifi internal, sehingga mikrotik bisa langsung digunakan untuk memancarkan wifi. Cara setting mikrotik dengan winbox – Pada kesempatan kali ini kita akan membahas tentang cara setting mikrotik mulai dari tahap awal untuk bisa terkoneksi dengan winbox. Menggunakan routerboard RB750, Ver ROS v6.32.2 Mengaplikasikan dalam jaringan kabel di port/ether5, dan di distribusikan menggunakan WiFi access point terpisah. Pengertian … Setting mikrotik dengan indihome. This article will show a very quick overview for beginners on setting up a Wireless Access Point in RouterOS Winbox graphical configuration tool. Dan Mungkin Anda juga belum terbiasa dengan command pada terminal, oleh sebab itu menggunakan software ini. ikuti step by step yang ada dibawah ini. Oke tidak usah basa basi lagi kita langsung masuk ke Persiapan sebelum Membuat Konfigurasi Jaringan Hotspot Di Mikrotik Dengan Winbox, alat-alat yang dibutuhkan adalah : Sesudah anda menentukan IP yang akan di pakai untuk jaringan warnet anda, sekarang kita lanjut untuk melakukan setting mikrotik dengan topology dan network yang sudah di tentukan di atas. Pada mikrotik yang saya gunakan paket user manager sudah otomatis terinstall ketika pada awal installasi mikrotik. Contoh dalam artikel ini dengan kondisi : cara setting hotspot mikrotik MikroTik Hotspot Topology. ";s:7:"keyword";s:35:"setting wifi mikrotik dengan winbox";s:5:"links";s:5396:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dyson-animal-2-stair-tool'>Dyson Animal 2 Stair Tool</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=deer-valley-lift-tickets-costco'>Deer Valley Lift Tickets Costco</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=new-homes-in-rolling-hills-green-cove-springs'>New Homes In Rolling Hills Green Cove Springs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=crockpot-spanish-rice-with-ground-beef'>Crockpot Spanish Rice With Ground Beef</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=low-maintenance-landscaping-with-rocks'>Low Maintenance Landscaping With Rocks</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-british-columbia-requirements'>University Of British Columbia Requirements</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=violet-oon-high-tea-ion'>Violet Oon High Tea Ion</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=le-cordon-bleu-julia-child-summary'>Le Cordon Bleu Julia Child Summary</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-remove-limescale-from-slate-tiles'>How To Remove Limescale From Slate Tiles</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=jurong-east-shuttle-bus-pick-up-point'>Jurong East Shuttle Bus Pick Up Point</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-dip-goes-with-scotch-eggs'>What Dip Goes With Scotch Eggs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=furniture-in-fashion-dining-table'>Furniture In Fashion Dining Table</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=entry-level-cabinet-maker-jobs'>Entry Level Cabinet Maker Jobs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=An-Enemy-of-the-People'>An Enemy Of The People</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=orientation-of-outdoor-swimming-pool'>Orientation Of Outdoor Swimming Pool</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=low-carb-vegan-breakfast-casserole'>Low Carb Vegan Breakfast Casserole</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-much-to-sell-a-used-mini-fridge'>How Much To Sell A Used Mini Fridge</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-paint-loose-watercolor-flowers'>How To Paint Loose Watercolor Flowers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mt-baker-ski-area-road-conditions'>Mt Baker Ski Area Road Conditions</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-do-you-care-for-a-potted-italian-stone-pine'>How Do You Care For A Potted Italian Stone Pine</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=buffalo-cauliflower-tacos-with-slaw'>Buffalo Cauliflower Tacos With Slaw</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=big-lots-3-piece-table-set'>Big Lots 3 Piece Table Set</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=9-piece-counter-height-dining-set-with-butterfly-leaf'>9 Piece Counter Height Dining Set With Butterfly Leaf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=72-inch-high-closet-doors'>72 Inch High Closet Doors</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-recipes-ever-flattened-chicken'>Best Recipes Ever Flattened Chicken</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philips-led-ceiling-light-22w-price'>Philips Led Ceiling Light 22w Price</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cheap-furniture-stores-near-me'>Cheap Furniture Stores Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=can-i-eat-tacos-while-pregnant'>Can I Eat Tacos While Pregnant</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=phirni-recipe-with-rice-flour'>Phirni Recipe With Rice Flour</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=truth-about-best-friends-animal-society'>Truth About Best Friends Animal Society</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=houses-for-sale-in-france-by-the-sea'>Houses For Sale In France By The Sea</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cravings-by-chrissy-teigen-cookware'>Cravings By Chrissy Teigen Cookware</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=james-clerk-maxwell-for-dummies'>James Clerk Maxwell For Dummies</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=greek-italian-restaurant-near-me'>Greek Italian Restaurant Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dyson-vacuum-cleaner-india-review'>Dyson Vacuum Cleaner India Review</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=who-makes-ikea-appliances-uk'>Who Makes Ikea Appliances Uk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=areca-palm-propagation-from-cutting'>Areca Palm Propagation From Cutting</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-rules-of-attraction-netflix'>The Rules Of Attraction Netflix</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=diy-greenhouse-attached-to-house'>Diy Greenhouse Attached To House</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=indian-vegetarian-tasting-menu-london'>Indian Vegetarian Tasting Menu London</a>,
+";s:7:"expired";i:-1;}

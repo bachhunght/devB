@@ -1,0 +1,235 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:5146:"How to Balance Your Pool Water. The Pool Calculator takes care of all the math that might come up while you are keeping your swimming pool's water chemistry in balance, telling you exactly how much of each chemical to add. Pool Shock. Chlorine level is high. Potassium Monopersulfate (Chlorine-Free) is a great choice for indoor pools and spas, and also compatible with bromine sanitizers. You are correct that I took the style of the chart from what Ben had in his Best Guess Chart so inherited the concept of "Min" though I did not use "Max" since it really isn't applicable (the actual maximum where pool's are not safe to swim in is far higher as most indoor pools exceed even shock levels in terms of disinfecting chlorine concentration). Shock should also be free of additives that leave behind a residue that has to be cleaned up. Free Chlorine is most commonly tested because it represents the amount of chlorine free for disinfecting. Let circulate overnight and then adjust free chlorine residual to 1 - 3 ppm. Use this pool shock dosage chart to determine the correct amount of pool shock treatment. Pool Chemical Dosage Charts The tables included in this document are provided as a service to our customers to allow you to adjust your pool chemistry yourself. Some shock, unfortunately, does leave a residue behind, requiring cleaning – vacuuming or skimming – before you can use your pool. Over chlorination. The reason is simple: TFPC (Trouble Free Pool Care) is a methodology, not a product that you must purchase. Pool Chemical Dosage Charts. The typical Oxygen Pool uses about $60-65 monthly for the weekly Formula treatment. Chlorine is the most popular disinfectant for swimming pools. Pool Shock Treatment Chart. And you qualify for FREE SHIPPING! The typical Oxygen Pool uses about $60-65 monthly for the weekly Formula treatment. Pool Volume Chart. To find out what amount of free chlorine or any other chemical to add to a pool, I use this pool calculator (by Trouble Free Pool) to help me find the correct amount of chlorine to add. Pool Calculator provides the necessary tools and pool maintenance info you need to keep your swimming pool & hot tub water clear and balanced. It will also teach you what you need to know about proper pool chemistry, and how to maintain a healthy pool. Swimming There are three main measurements for chlorine, Free Chlorine(FC), Combined Chlorine(CC), ad Total Chlorine(TC). We offer a variety of swimming pool shock types in multi-packs, buckets, and bundled kits that you're sure to love! Use an oxidizer specifically labeled for use with spas and hot tubs. Each weekly treatment includes a chlorine free shock, algaecide, clarifier, stain preventer and scale remover. With a strong sense of community at the forefront of our business, our goal is to help answer your pool chemical & maintenance questions. in your pool before they combine with chlorine to create chloramines or combined chlorine (also referred to as CC’s). My memory is that the average, for a 24,000 inground pool was about $35 per month in chemicals. Whether you’re a new pool owner or an experienced pool professional, it’s important to understand the difference between the three main types of Pool Shock: Dichlor, Cal-Hypo and Chlorine-Free. That is a HUGE saving! How to Balance Your Pool Water. And you qualify for FREE SHIPPING! × 0.062500 At that time, the pool industry was publishing an average cost to operate similar pools of around $120 per month. Chlor-Free Shock is a great at oxidizing organic pollutants (bodily fluids, sunscreen etc.) All the above mentioned items bundled with an XL option, which you will need to SLAM (shock… ... members, TFP is the largest and most influential pool & spa website on the Internet. Shock the pool using chlorine based shock at 1 lb. This article is a user manual for our pool water balance calculator seen above. Please refer to the special SAFETY CAUTION that follows for more information. August 29, ... We put in 4 gallons of shock and tabs in the strainer, but CL Free and total is 0, ph is lower than 7 and alkalinity isn’t on the chart. Keep your pool healthy, fresh, and sparkling with these hard-working sanitizers. 30 PPM chlorine shock chart for killing algae and bacteria, and the 3.0 PPM super chlorination chart, used for cloudy water, after rain or heavy use, or low chlorine levels. Check it out under "TF-100 Bundles" If you have inherited a "Green Monster" (pool with algae), then try the "TF-100 Start Up XL". Use our calculator to shock and adjust your pool chemistry like a pro. But to keep your chemical levels in check consistently, be sure to shock your pool after heavy swims or pool parties. It is being practiced by thousands of pool owners just like you. Free Chlorine is most commonly tested because it represents the amount of chlorine free for disinfecting. The PoolSolutions Best Guess Swimming Pool Chlorine Chart What's a "Best Guess Swimming Pool Chlorine Chart"? So the instructions as I read off the chart with the pool said I need to bring the pH down with Muriatic acid and the chart said 10Litres of the stuff. ";s:7:"keyword";s:29:"trouble free pool shock chart";s:5:"links";s:7451:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chicken-tikka-masala-gravy-recipe'>Chicken Tikka Masala Gravy Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=why-are-my-meringues-chewy'>Why Are My Meringues Chewy</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=imdb-jack-ryan-season-2'>Imdb Jack Ryan Season 2</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=second-hand-laura-ashley-curtains'>Second Hand Laura Ashley Curtains</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wall-mount-tv-ideas-for-living-room'>Wall Mount Tv Ideas For Living Room</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=theories-of-human-communication-11th-edition-ebook'>Theories Of Human Communication 11th Edition Ebook</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=southland-leisure-centre-pool-hours'>Southland Leisure Centre Pool Hours</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=umass-lowell-computer-science-ranking'>Umass Lowell Computer Science Ranking</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=when-to-plant-zinnia-seeds'>When To Plant Zinnia Seeds</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=download-autocad-2016-crack-with-full-setup'>Download Autocad 2016 Crack With Full Setup</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-did-george-v-die'>How Did George V Die</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=half-mast-meaning-in-hindi'>Half Mast Meaning In Hindi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=Sofa-standard-size-in-cm'>Sofa Standard Size In Cm</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-led-light-strips-for-room'>Best Led Light Strips For Room</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-toronto-computer-science-acceptance-rate'>University Of Toronto Computer Science Acceptance Rate</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=top-chef-season-16-episode-1'>Top Chef Season 16 Episode 1</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-hand-that-rocks-the-cradle-123movies'>The Hand That Rocks The Cradle 123movies</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=indian-recipes-using-cauliflower-rice'>Indian Recipes Using Cauliflower Rice</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=tone-of-the-open-window'>Tone Of The Open Window</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=advantages-and-disadvantages-of-orchard'>Advantages And Disadvantages Of Orchard</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=national-association-of-manufacturers-jay-timmons'>National Association Of Manufacturers Jay Timmons</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=historic-environment-scotland-enterprises-limited'>Historic Environment Scotland Enterprises Limited</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=history-of-japanese-gardens-ppt'>History Of Japanese Gardens Ppt</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=top-30-internal-medicine-residency-programs'>Top 30 Internal Medicine Residency Programs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=Every-Rose-Has-Its-Thorn'>Every Rose Has Its Thorn</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=country-kitchen-chair-cushions-with-ties'>Country Kitchen Chair Cushions With Ties</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=peel-and-stick-wallpaper-kids'>Peel And Stick Wallpaper Kids</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=domain-driven-design-cheat-sheet'>Domain Driven Design Cheat Sheet</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lane-altavista-virginia-serial-number-lookup'>Lane Altavista Virginia Serial Number Lookup</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=les-demoiselles-d-avignon-criticism'>Les Demoiselles D Avignon Criticism</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=royal-bed-designs-with-price'>Royal Bed Designs With Price</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ice-cream-sandwich-face-reveal'>Ice Cream Sandwich Face Reveal</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-transfer-money-from-paypal-to-bank-account-instantly'>How To Transfer Money From Paypal To Bank Account Instantly</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=farmhouse-table-with-windsor-chairs'>Farmhouse Table With Windsor Chairs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rejuvenation-of-aging-skin-meaning-in-tamil'>Rejuvenation Of Aging Skin Meaning In Tamil</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=comfy-floor-seats-for-adults'>Comfy Floor Seats For Adults</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-long-do-mushroom-plugs-last'>How Long Do Mushroom Plugs Last</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=urban-dictionary-not-blocked-schoolwhy-is-urban-dictionary-blocked'>Urban Dictionary Not Blocked Schoolwhy Is Urban Dictionary Blocked</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=south-indian-menu-card-pdf'>South Indian Menu Card Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ikea-benno-tv-stand-instructions'>Ikea Benno Tv Stand Instructions</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=raymour-and-flanigan-outlet-dining-room-sets'>Raymour And Flanigan Outlet Dining Room Sets</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=moving-to-sweden-with-family'>Moving To Sweden With Family</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-a-raised-rose-bed'>How To Make A Raised Rose Bed</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=top-rated-french-door-refrigerators'>Top Rated French Door Refrigerators</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hard-plastic-paddling-pool-nz'>Hard Plastic Paddling Pool Nz</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-world-without-us-pdf'>The World Without Us Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=command-pattern-vs-strategy-pattern'>Command Pattern Vs Strategy Pattern</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dragon-blood-tree-for-sale'>Dragon Blood Tree For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=queso-fundido-recipe-no-meat'>Queso Fundido Recipe No Meat</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=black-garage-doors-red-brick-house'>Black Garage Doors Red Brick House</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rent-pressure-washer-with-water-tank'>Rent Pressure Washer With Water Tank</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=Death-on-the-Ridge-Road'>Death On The Ridge Road</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-get-a-job-at-coca-cola'>How To Get A Job At Coca Cola</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-evergreen-park-a-good-place-to-live'>Is Evergreen Park A Good Place To Live</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=Fruit-Berry-and-Nut-Inventory'>Fruit Berry And Nut Inventory</a>,
+";s:7:"expired";i:-1;}

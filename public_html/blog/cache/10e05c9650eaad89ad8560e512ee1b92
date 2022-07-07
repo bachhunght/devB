@@ -1,0 +1,218 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3187:"Answer Steve, You cannot bypass the lid lock on the unit as it is a safety device. Child lock on Samsung washing machines allows you to lock the buttons so that your selected cycle can't be changed. You could be correct. 0. erik.sangines. Is there a specific button on the washer to override the door lock? Your previous washer may have filled and washed with the lid open. The lid lock may seem stupid but it is an important safety feature. Does this mean it is broken?' It requires 120 VAC to activate the lock. Machine does part of a cycle then the lid lock light starts to flash and it does not finished. My lid lock only had three wires, red, white, and blue ... how can I temporarily bypass that lid lock?? Recently, the lid lock mechanism on my washing machine at home failed meaning that I now had an excuse to let laundry pile up in my room! Solution 1: Door Lock Motor and Switch Assembly. It may take a few minutes for the washing machine to cool down and for the lock to release. ... Samsung Washer door or lid won't lock . Tricking a Maytag Bravos Washer. I was about to order a lid lock switch since all I had done was broken the tab off of it and was pretty sure that would fix it. Samantha Frost You get the diagram from the tech sheets which should have been somewhere on the back of your machine. There's got to be a way to wire or bypass the lid lock feature until I can get one ordered tomorrow. I assumed lid switch bad and so tried to bypass switch. This washer repair guide gives step-by-step instructions for replacing the lid switch/lock assembly on a top-load washer. Is there a way to bypass the magnetic lid lock ? It is locked and not allowing the door to open. Recently, the lid lock mechanism on my washing machine at home failed meaning that I now had an excuse to let laundry pile up in my room! The approximate resistance of the lock coil is 70 ohm from Red – Violet from J512 board connector. 5 years ago ... so you've got a motor that drives the lid-lock, "lock" "lid" and "home" switches. This is done to reduce the risk of water spillage, damage to the components or injury to the user. Appliance: Samsung Washer WA400PJHDWR/AA-0001 My Repair & Advice. If the door remains locked when the cycle is finished, push "Start/Pause" to clear the lock. A lock icon appears on the front of the washer's control panel to indicate the lid is locked and also displays the current progress of the cleaning cycle, depending on the model of your Maytag washer. Forum Jump You cannot post new topics in this forum. Find more about 'I can see the sign 'CL'. After scouring the web for a bit, I found out that this issue wasn't too rare with this particular family of washers. :wall: When child lock is enabed, all of the buttons on the control panel will be locked except for the power button and an icon will appear on the display. After scouring the web for a bit, I found out that this issue wasn't too rare with this particular family of washers. I have a question. Lid lock got stuck -0 I broke it as I forced lid open. The assembly also has a lock that keeps the lid … How to bypass or disable the lid lock mechanism on Roper top loading washing machine? ";s:7:"keyword";s:30:"samsung washer lid lock bypass";s:5:"links";s:5112:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bobs-dream-modular-sofa-review'>Bobs Dream Modular Sofa Review</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=recessed-lighting-housing-4-inch'>Recessed Lighting Housing 4 Inch</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philips-hue-light-strip-replacement-adhesive'>Philips Hue Light Strip Replacement Adhesive</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=williams-sonoma-job-fair-2019'>Williams Sonoma Job Fair 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=carpet-for-living-room-home-depot'>Carpet For Living Room Home Depot</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=jumanji-the-next-level-review'>Jumanji The Next Level Review</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-100k-handyman-pdf-free'>The 100k Handyman Pdf Free</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=relationship-between-sociology-and-anthropology-slideshare'>Relationship Between Sociology And Anthropology Slideshare</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=glass-garage-doors-for-houses'>Glass Garage Doors For Houses</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=karcher-330-how-many-psi'>Karcher 330 How Many Psi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-outsider-cast-2019-netflix'>The Outsider Cast 2019 Netflix</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-restaurants-in-usa-2019'>Best Restaurants In Usa 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mcculloch-steam-cleaner-customer-service'>Mcculloch Steam Cleaner Customer Service</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=planning-a-rose-garden-uk'>Planning A Rose Garden Uk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=brown-stains-in-salt-water-pool'>Brown Stains In Salt Water Pool</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=concord-in-english-grammar-pdf'>Concord In English Grammar Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=desk-with-shelves-and-drawers'>Desk With Shelves And Drawers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=diners-drive-ins-and-dives-west-palm-beach'>Diners Drive Ins And Dives West Palm Beach</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=water-bath-canning-apple-butter'>Water Bath Canning Apple Butter</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=things-to-do-in-bear-valley-springs-ca'>Things To Do In Bear Valley Springs Ca</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dining-room-hutch-and-buffet'>Dining Room Hutch And Buffet</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ikea-childrens-poang-chair-cushion'>Ikea Childrens Poang Chair Cushion</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=How-to-eat-dragon-fruit'>How To Eat Dragon Fruit</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=15-glass-filled-nylon-properties'>15 Glass Filled Nylon Properties</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=indoor-gardening-activities-for-elderly'>Indoor Gardening Activities For Elderly</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-care-for-lavender-plants-in-pots'>How To Care For Lavender Plants In Pots</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=most-popular-pottery-barn-rugs'>Most Popular Pottery Barn Rugs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=raymour-and-flanigan-outlet-dining-room-sets'>Raymour And Flanigan Outlet Dining Room Sets</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wood-display-cabinets-with-glass-doors'>Wood Display Cabinets With Glass Doors</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=another-word-for-scared-and-nervous'>Another Word For Scared And Nervous</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kijaro-dual-lock-chair-blue'>Kijaro Dual Lock Chair Blue</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=deep-seating-replacement-cushions-for-outdoor-furniture'>Deep Seating Replacement Cushions For Outdoor Furniture</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=office-365-download-free-full-version'>Office 365 Download Free Full Version</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=father-brown-new-series-2019'>Father Brown New Series 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=curtain-design-for-living-room'>Curtain Design For Living Room</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=river-cottage-season-1-episode-4'>River Cottage Season 1 Episode 4</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kubota-harvester-price-in-odisha-2019'>Kubota Harvester Price In Odisha 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=jacques-pepin-new-complete-techniques'>Jacques Pepin New Complete Techniques</a>,
+";s:7:"expired";i:-1;}

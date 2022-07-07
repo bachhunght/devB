@@ -1,0 +1,248 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2596:"We are a full service alpaca ranch & fiber mill/spinnery, raising show quality animals and running our own professional Belfast fiber mill.  we do offer discounts on bulk orders exceeding 500 lb. Autumn Mist Alpaca Farm & Fiber Mill is a farm located in Prattsburgh, New York owned by Jeff & Leslie Jorritsma. Kimberly was a fiber processor so if you want to learn about fiber, this little country girl can show you, what you want in your breeding program. AlpacaNation The Original Online Alpaca Marketplace. For Mill Forms click on "Fiber Mill" at the top. Find Farms Near You. Please phone for pricing FIBER PROCESSING: We do custom small batch processing of your fiber to maintain individual fleece's unique color and texture. Any fiber with any signs of wool moths or something of the sort has the right to be removed from the premises and burned as it can be very damaging to a fiber processing mill. Specializing in fiber processing the Heart & Soul fiber mill is located in the foothills of the beautiful Northern Sierra Nevada Mountain Range, Heart & Soul Alpacas and Spinnery is a destination within itself. Any fiber with any signs of wool moths or something of the sort has the right to be removed from the premises and burned as it can be very damaging to a fiber processing mill. Lazy Meadows Alpacas & Fiber Mill is located on a 55-acre farm and is home to 7 fiber alpacas. Zip Distance. Welcome to Vermont Fiber Mill & Studio! We process wool, alpaca, llama, mohair, and exotic fibers. we do offer discounts on bulk orders exceeding 500 lb. Our mill comes from our own need and desire to have yarn that comes from only our animals - yarn from our farm. Alpaca Fiber Processing by Zeilinger Wool Co. Alpaca fiber is the second most fiber processed here at Zeilinger Wool Co. We value our Alpaca customers just as much as our wool customers and take pride in processing Alpaca fiber. livestock dogs not to forget Bo and Magie our friendly farm greaters. ... Alpaca - Huacaya. "I was delighted to get calls from visitors who found me on the Choice Alpaca Map! Our mill comes from our own need and desire to have yarn that comes from only our animals - yarn from our farm. We are a full service mill specializing in alpaca fiber and provide custom processing of alpaca and other natural fibers into roving, batts, yarn, felt and more. To achieve "bulk" weight you are rated on incoming weights, however you are still charged on out-going weight. Find an alpaca farm store, alpaca store or alpaca boutique in your area which offers Choice Alpaca Products on this alpaca retailers map. ";s:7:"keyword";s:31:"alpaca fiber processing near me";s:5:"links";s:9074:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=walmart-desk-lamp-with-usb-port'>Walmart Desk Lamp With Usb Port</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dahi-vada-recipe-step-by-step'>Dahi Vada Recipe Step By Step</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=something-the-lord-made-123movies'>Something The Lord Made 123movies</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chopped-junior-sign-up-2020'>Chopped Junior Sign Up 2020</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=trust-bank-ibanking-application-form'>Trust Bank Ibanking Application Form</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=jimmy-dean-breakfast-sandwich-review'>Jimmy Dean Breakfast Sandwich Review</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wooden-bero-with-dressing-table'>Wooden Bero With Dressing Table</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=steelcase-leap-v2-seat-cushion'>Steelcase Leap V2 Seat Cushion</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-use-dresser-drawers'>How To Use Dresser Drawers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dyson-v11-absolute-vs-animal-vs-torque'>Dyson V11 Absolute Vs Animal Vs Torque</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-chicken-and-waffles-near-me'>Best Chicken And Waffles Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cherry-tomato-salad-recipes-indian'>Cherry Tomato Salad Recipes Indian</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=credit-score-needed-for-bed-bath-and-beyond-mastercard'>Credit Score Needed For Bed Bath And Beyond Mastercard</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=samsung-washing-machine-eco-bubble'>Samsung Washing Machine Eco Bubble</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dedicated-gluten-free-restaurants-near-me'>Dedicated Gluten Free Restaurants Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=angels-with-dirty-faces-rotten-tomatoes'>Angels With Dirty Faces Rotten Tomatoes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=good-morning-boxing-day-images'>Good Morning Boxing Day Images</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=generac-one-wash-parts-diagram'>Generac One Wash Parts Diagram</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=far-east-organization-centre-pte-ltd'>Far East Organization Centre Pte Ltd</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dog-friendly-trails-near-me'>Dog Friendly Trails Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=academy-of-art-and-design'>Academy Of Art And Design</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=weapons-used-in-the-battle-of-salamis'>Weapons Used In The Battle Of Salamis</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dinner-by-heston-blumenthal-reopening'>Dinner By Heston Blumenthal Reopening</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=worst-cooks-in-america-judges'>Worst Cooks In America Judges</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dingy-cell-meaning-in-hindi'>Dingy Cell Meaning In Hindi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=starry-night-over-the-rhone-subject-matter'>Starry Night Over The Rhone Subject Matter</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=furniture-design-images-download-free'>Furniture Design Images Download Free</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=blush-pink-living-room-ideas'>Blush Pink Living Room Ideas</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=black-bear-inn-arnold-ca'>Black Bear Inn Arnold Ca</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-check-refrigerator-compressor-relay'>How To Check Refrigerator Compressor Relay</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=back-to-you-bebe-rexha-lyrics'>Back To You Bebe Rexha Lyrics</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=modern-reclaimed-wood-dining-table'>Modern Reclaimed Wood Dining Table</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=run-all-night-dual-audio-480p-download'>Run All Night Dual Audio 480p Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=history-of-economic-thought-a-critical-perspective'>History Of Economic Thought A Critical Perspective</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chicken-and-tomato-recipes-easy'>Chicken And Tomato Recipes Easy</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chicken-lollipop-gravy-online-order'>Chicken Lollipop Gravy Online Order</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=grey-colour-schemes-for-hallways'>Grey Colour Schemes For Hallways</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=home-depot-solid-core-prehung-interior-doors'>Home Depot Solid Core Prehung Interior Doors</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=santa-fe-new-mexico-recipes'>Santa Fe New Mexico Recipes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hot-dog-ingredients-and-procedure'>Hot Dog Ingredients And Procedure</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bad-ice-cream-4-unblocked'>Bad Ice Cream 4 Unblocked</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=why-is-umbra-darker-than-penumbra'>Why Is Umbra Darker Than Penumbra</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rubbermaid-stock-tank-50-gallon'>Rubbermaid Stock Tank 50 Gallon</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=navy-feature-wall-living-room'>Navy Feature Wall Living Room</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=duck-with-white-ring-around-neck'>Duck With White Ring Around Neck</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=grand-view-lodge-mountain-high'>Grand View Lodge Mountain High</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=why-gardening-is-good-for-the-environment'>Why Gardening Is Good For The Environment</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=yoyogi-national-gymnasium-3d-model'>Yoyogi National Gymnasium 3d Model</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=alice-in-wonderland-full-movie'>Alice In Wonderland Full Movie</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=standard-sofa-height-in-cm'>Standard Sofa Height In Cm</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=use-of-chain-of-responsibility-pattern'>Use Of Chain Of Responsibility Pattern</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=karcher-k4-premium-full-control-home-pressure-washer-bundle'>Karcher K4 Premium Full Control Home Pressure Washer Bundle</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=believe-in-the-magic-of-christmas-wall-decal'>Believe In The Magic Of Christmas Wall Decal</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pea-full-form-in-medical'>Pea Full Form In Medical</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=channel-8-news-knoxville-tn'>Channel 8 News Knoxville Tn</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=can-lucky-bamboo-survive-without-sunlight'>Can Lucky Bamboo Survive Without Sunlight</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=parts-of-a-desk-drawer'>Parts Of A Desk Drawer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=in-pool-lounge-chairs-for-sun-shelf'>In Pool Lounge Chairs For Sun Shelf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=when-does-nakiska-open-2019'>When Does Nakiska Open 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cape-cod-shingle-style-house'>Cape Cod Shingle Style House</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-colour-for-study-room-quora'>Best Colour For Study Room Quora</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=herb-garden-design-ideas-pictures'>Herb Garden Design Ideas Pictures</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=clip-on-desk-lamp-walmart'>Clip On Desk Lamp Walmart</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=scared-to-say-i-love-you-songs'>Scared To Say I Love You Songs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=crafts-for-1-year-olds'>Crafts For 1 Year Olds</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=karcher-wv-1-plus-window-vacuum-cleaner'>Karcher Wv 1 Plus Window Vacuum Cleaner</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=panasonic-india-pvt-ltd-chennai'>Panasonic India Pvt Ltd Chennai</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-steam-onions-in-the-microwave'>How To Steam Onions In The Microwave</a>,
+";s:7:"expired";i:-1;}

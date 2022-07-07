@@ -1,0 +1,235 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3986:"Within the Lay's brand of chips, there are still several flavored chips that are both gluten- and milk-free, including Sea Salt and Vinegar, Hot n' Spicy BBQ, Sea Salt and Cracked Pepper, and Dill Pickle. True, potatoes are naturally gluten-free, and so are potato chips, unless they've got added gluten ingredients. Lays are manufactured by Frito Lay and yes, they are gluten-free. LAY’S® Wavy Original Potato Chips. Do not rely on this information for your dietary needs. I ate two before thinking “you know, I should read the ingredients, haven’t … Gluten-free information on product packaging: A gluten-free claim is included on back packaging along with Frito Lay’s own gluten-free “mark.” The manufacturer provides online gluten-free information. EL ISLENO® Plantain Chips. LAY’S STAX® Sour Cream & Onion Flavored Potato Crisps. LAY’S STAX® Original Potato Crisps . Nothing beats the taste of barbecue, especially in a chip! The chips all are based on organic brown rice and rice flour; all contain organic corn, and some contain dairy ingredients. LAY’S STAX® Queso Flavored Potato Crisps. BBQ Lays are NOT Gluten-free! With flavors almost as rich as our history, we have a chip or crisp flavor guaranteed to bring a smile on your face. I'm just confused by the ingredient list. We get asked this a LOT: which of Lay’s chips are gluten free? RUFFLES® … The Lay's brand specifically lists which of its products are free of milk and/or gluten as an easy reference for consumers. If you need assistance, please contact Frito-Lay Consumer Relations toll-free at 1-800-352-4477 Monday through Friday between 9:00 a.m. and 4:30 p.m. Central Standard Time. For example, Lay’s contain malted barley making them not gluten-free, whereas Boulder Canyon are gluten-free. Their site doesn't cater to vegans, so you'd probably have to call them to make sure, if you're very strict. LAY’S® Kettle Cooked Jalapeno Flavored Potato Chips. Frito Lay U.S. Gluten Free Products (page 1) ... LAY’S STAX® Mesquite Barbecue Flavored Potato Crisps. FRITO-LAY® Cashews. LAY’S STAX® Queso Flavored Potato Crisps. We need you to answer this question! Wherever celebrations and good times happen, LAY'S® potato chips will be there just as they have been for more than 75 years. Frito-Lay gluten-free product list. Lundberg, which makes reliably gluten-free rice, also makes gluten-free chips from rice in seven different flavors, including sea salt, barbecue and even sesame and seaweed. You will find many of these snacks from Frito Lay available in most grocery stores. Ingredient and labeling information provided as a convenience only. Lays - Barbecue Flavored Potato Chips 9.50-oz / SKU: 028400645249. Those within the list do not contain gluten, gluten/casein, or gluten/casein/soy, in the ingredients. Lays - Baked Barbecue Potato Crisps 6.25-oz / SKU: 028400183833. You will find many of these snacks from Frito Lay available in most grocery stores. Lay’s Stax are a tasty potato chip style snack from Fritolay that are similar to Pringles. If it's an unlisted ingredient, this kind of shakes my whole world because it means reading the ingredient list is useless for detecting gluten. Brand name gluten-free chips, dips, salsas etc. These chips are also gluten-free and the producers use green energy. Lays - Baked - Original 2.12-oz / SKU: 028400437752. As you may be aware, manufacturers are constantly tweaking their ingredients and trying to cater to the … . These crunchy folded potato slices come in variety of flavors included barbecue, sour cream and onion, cheddar, pizza, and more. The bold heading above each section will tell what ingredients are not present. However, many brands do not label their chips as gluten-free, and many of these chips may be made on shared equipment. LAY’S STAX® Salt & Vinegar Flavored Potato Crisps. Are Baked Lays potato chips gluten free? We get asked this a LOT: which of Lay’s chips are gluten free? ";s:7:"keyword";s:31:"lays barbecue chips gluten free";s:5:"links";s:7697:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pier-1-woven-block-seagrass-queen-headboard'>Pier 1 Woven Block Seagrass Queen Headboard</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-my-air-plant-dead'>Is My Air Plant Dead</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=twinings-strawberry-and-raspberry-tea-health-benefits'>Twinings Strawberry And Raspberry Tea Health Benefits</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=manyata-tech-park-walk-in-interview-2019'>Manyata Tech Park Walk In Interview 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-calculate-square-feet-from-inches'>How To Calculate Square Feet From Inches</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-persian-rug-cleaning-toronto'>Best Persian Rug Cleaning Toronto</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-barbecue-restaurants-in-bangalore'>Best Barbecue Restaurants In Bangalore</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=12-qt-plastic-storage-container-with-lid'>12 Qt Plastic Storage Container With Lid</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-keep-breakfast-burritos-warm-for-a-crowd'>How To Keep Breakfast Burritos Warm For A Crowd</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=strictly-come-dancing-winners-2018'>Strictly Come Dancing Winners 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=growing-peas-in-greenhouse-uk'>Growing Peas In Greenhouse Uk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-temperature-do-you-roast-vegetables-in-convection-oven'>What Temperature Do You Roast Vegetables In Convection Oven</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=brown-living-room-color-schemes'>Brown Living Room Color Schemes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-an-old-kitchen-look-new-in-a-rental'>How To Make An Old Kitchen Look New In A Rental</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-is-the-time-in-california-just-now'>What Is The Time In California Just Now</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=liberty-furniture-farmhouse-reimagined-vanity'>Liberty Furniture Farmhouse Reimagined Vanity</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=great-british-baking-show-recipes-2018'>Great British Baking Show Recipes 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-is-a-vanity-tray-used-for'>What Is A Vanity Tray Used For</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-it-too-late-to-plant-bulbs-in-pots'>Is It Too Late To Plant Bulbs In Pots</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sausage-roll-wreath-paul-hollywood'>Sausage Roll Wreath Paul Hollywood</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=organizational-chart-template-word-free-download'>Organizational Chart Template Word Free Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=planning-a-rose-garden-uk'>Planning A Rose Garden Uk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=call-the-midwife-season-6-episode-1'>Call The Midwife Season 6 Episode 1</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=play-kitchen-hougang-mall-menu'>Play Kitchen Hougang Mall Menu</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=clash-of-the-titans-1981-full-movie'>Clash Of The Titans 1981 Full Movie</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-reupholster-a-chair-with-buttons'>How To Reupholster A Chair With Buttons</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=restaurants-that-serve-haggis-near-me'>Restaurants That Serve Haggis Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-hills-have-eyes-2'>The Hills Have Eyes 2</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mirchi-ka-salan-sanjeev-kapoor'>Mirchi Ka Salan Sanjeev Kapoor</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dwight-d-eisenhower-quotes-ww2'>Dwight D Eisenhower Quotes Ww2</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=reverse-painting-on-glass-silhouette'>Reverse Painting On Glass Silhouette</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-remove-old-stains-from-clothes-naturally'>How To Remove Old Stains From Clothes Naturally</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=large-format-tile-mortar-vs-regular'>Large Format Tile Mortar Vs Regular</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-clean-ikea-leather-couch'>How To Clean Ikea Leather Couch</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=jughead-jones-real-name-riverdale-show'>Jughead Jones Real Name Riverdale Show</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=feedback-control-of-dynamic-systems-8th-edition-ebook-pdf'>Feedback Control Of Dynamic Systems 8th Edition Ebook Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=shrimp-with-snow-peas-calories'>Shrimp With Snow Peas Calories</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dulux-colour-of-the-year-2020'>Dulux Colour Of The Year 2020</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-clean-a-white-couch'>How To Clean A White Couch</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=new-projects-in-pimple-saudagar-2019'>New Projects In Pimple Saudagar 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=meatless-baked-ziti-without-ricotta'>Meatless Baked Ziti Without Ricotta</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-museum-restaurant-st-anton'>The Museum Restaurant St Anton</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philips-sonicare-diamondclean-smart-9700-vs-9500'>Philips Sonicare Diamondclean Smart 9700 Vs 9500</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-pressure-washer-for-foam-cannon'>Best Pressure Washer For Foam Cannon</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rolling-meadows-il-9-digit-zip-code'>Rolling Meadows Il 9 Digit Zip Code</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-much-pomegranate-juice-should-i-drink-a-day'>How Much Pomegranate Juice Should I Drink A Day</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-to-put-with-tandoori-chicken'>What To Put With Tandoori Chicken</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=roasted-broccoli-with-garlic-lemon-and-parmesan'>Roasted Broccoli With Garlic Lemon And Parmesan</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-millionaire-matchmaker-season-8-episode-15'>The Millionaire Matchmaker Season 8 Episode 15</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=halt-and-catch-fire-netflix'>Halt And Catch Fire Netflix</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=3-bedroom-house-to-rent-cb1'>3 Bedroom House To Rent Cb1</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-horticulture-a-good-career'>Is Horticulture A Good Career</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-biscuits-at-home'>How To Make Biscuits At Home</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=things-to-do-in-winter-no-money'>Things To Do In Winter No Money</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=oven-beef-stroganoff-with-stew-meat'>Oven Beef Stroganoff With Stew Meat</a>,
+";s:7:"expired";i:-1;}

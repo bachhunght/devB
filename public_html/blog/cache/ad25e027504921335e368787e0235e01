@@ -1,0 +1,223 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3687:"Here's an epic guide and gallery of Zen gardens from all over the world, including Kyoto, Japan and many other temples and properties. # Objective For this project, you will create and provide the CSS for your own CSS Zen Garden design, which will … The designs added to the Zen Garden are also available. Unfortunately, designing this way highlights the flaws in the various implementations of CSS. Instead, keep it for reference. Best Website examples of Design with CSS3 Read more. Style sheets contributed by graphic designers from around the world are used to change the visual presentation of a single HTML file, producing hundreds of different designs. Change the files CSS. A zen garden is a refuge that can be placed in nearly any space. The CSS Zen Garden is a World Wide Web development resource "built to demonstrate what can be accomplished visually through CSS-based design.". The CSS Zen Garden is a World Wide Web development resource. Move style.css into the styles folder of your css-zen-garden project folder. This page is an archived list of Zen Garden designs added to date. Total designs listed: 1039 We would love to hear from you in the comment section below. The only real requirement we have is that your CSS validates. The goal of the site is to showcase what is possible with CSS-based design. Pull requests with improvements welcomed, but remember that changes to the HTML file affect the entire archive of 200+ designs. Also, many patterns and other elements are included - many great ideas. # Objective For this project, you will create and provide the CSS for your own CSS Zen Garden design, … You can also see the ones that didn’t make the cut.Total designs listed: 218 Beyond Zen: see more styles of Japanese gardens in 10 Garden Ideas to Steal from Japan. CSS Zen Garden 2003 – 2013; Nautical Disaster 2013; mezzoblue 2002 – 2011; Elevation 2009 – 2010; Paintbrush JS 2010; Chalkwork Icon Library 2006 – 2009; Web Directions North 2006 – 2008; The Zen of CSS Design 2004; CSS Sprites Using CSS (Cascading Style Sheets), you can quickly make alterations to the layout design, fonts, paragraph spacing, column size and many other aspects of a website and change its feel and look. They are all very unique which makes choosing the best Zen garden very difficult! Zen garden Ideas – The Japanese rock garden or often called Zen garden is a famous type of garden from Japan.Zen garden history is started when Zen Buddhist monks from Japan created the first Zen gardens to help in meditation. csszengarden.com. You can also see the ones that didn’t make the cut.Total designs listed: 218 Carted Up: Carted Up celebrates excellent cart designs in CSS … Clicking on any one will load the style sheet into this very page. “Css Zen Garden Examples” Small Garden Ideas Find how gardeners across the place have created terrific gardens in little spaces. The official repo of the CSS Zen Garden. Zen in Sanskrit or Mandarin dialect means ‘ meditative state’, and a zen garden will really make your relax and reflect a little. 2010 CFA's Best SH Manx Breed Winner and NAR's 6th Best Cat in Championship . The principles are simplicity, naturalness, and austerity. The only real requirement we have is that your CSS validates. There is clearly a need for CSS to be taken seriously by graphic artists. GC, GP, NW DEYDREAM HIGH HOPES 2006 NAR's 14th Best Kitten 2007 CFA's 2nd Best of Breed Manx and NAR's 8th Best Cat in Championship 2009 CFA's 7th Best Cat in Premiership and NAR's Best Cat in Premiership. N.B. For more than a decade, the CSS Zen Garden has been a source of inspiration and education for web designers and developers. ";s:7:"keyword";s:27:"best css zen garden designs";s:5:"links";s:5747:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=calories-in-grilled-eggplant-with-olive-oil'>Calories In Grilled Eggplant With Olive Oil</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=history-of-economic-thought-a-critical-perspective'>History Of Economic Thought A Critical Perspective</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-beet-sugar'>How To Make Beet Sugar</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=melissa-and-doug-fridge-fillers'>Melissa And Doug Fridge Fillers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=soda-springs-foam-in-the-park'>Soda Springs Foam In The Park</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=benefits-of-constructive-criticism-in-the-workplace'>Benefits Of Constructive Criticism In The Workplace</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=stir-fry-green-beans-soy-sauce'>Stir Fry Green Beans Soy Sauce</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-pioneer-woman-season-24-episode-1'>The Pioneer Woman Season 24 Episode 1</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=recipe-for-breakfast-casserole-using-frozen-waffles'>Recipe For Breakfast Casserole Using Frozen Waffles</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=end-of-the-roll-carpet'>End Of The Roll Carpet</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bobs-dream-modular-sofa-review'>Bobs Dream Modular Sofa Review</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philips-hue-ascend-wall-light'>Philips Hue Ascend Wall Light</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dylan-and-cole-sprouse-family'>Dylan And Cole Sprouse Family</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=big-sky-early-season-pass-prices'>Big Sky Early Season Pass Prices</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=iron-man-2-full-movie-dailymotion'>Iron Man 2 Full Movie Dailymotion</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hyatt-incline-village-sugar-pine-junior-suite'>Hyatt Incline Village Sugar Pine Junior Suite</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ottoman-double-sofa-bed-uk'>Ottoman Double Sofa Bed Uk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=m-arch-urban-design-syllabus'>M Arch Urban Design Syllabus</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-do-landscaping-on-your-own'>How To Do Landscaping On Your Own</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-root-a-palm-cutting'>How To Root A Palm Cutting</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=jumanji-the-next-level-review'>Jumanji The Next Level Review</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-get-a-job-at-wayfair'>How To Get A Job At Wayfair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mats-to-put-under-swimming-pool'>Mats To Put Under Swimming Pool</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lg-ice-maker-parts-diagram'>Lg Ice Maker Parts Diagram</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-is-considered-art-and-what-is-not'>What Is Considered Art And What Is Not</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dirt-devil-vacuum-bags-type-o'>Dirt Devil Vacuum Bags Type O</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-increase-stamina-in-bed-without-pills'>How To Increase Stamina In Bed Without Pills</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=aluminium-front-doors-with-glass-panels'>Aluminium Front Doors With Glass Panels</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=honor-10-vs-honor-view-20'>Honor 10 Vs Honor View 20</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=molten-chocolate-cake-near-me'>Molten Chocolate Cake Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=male-nurse-meaning-in-hindi'>Male Nurse Meaning In Hindi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-apply-for-scjp-certification'>How To Apply For Scjp Certification</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=are-poblano-pepper-seeds-hot'>Are Poblano Pepper Seeds Hot</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=air-fryer-buffalo-cauliflower-keto'>Air Fryer Buffalo Cauliflower Keto</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=baked-chicken-and-cauliflower-recipe'>Baked Chicken And Cauliflower Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bungalow-with-walkout-basement-plans'>Bungalow With Walkout Basement Plans</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-clean-oil-spill-in-engine-bay'>How To Clean Oil Spill In Engine Bay</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lemongrass-tea-for-weight-loss'>Lemongrass Tea For Weight Loss</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-does-military-1st-ship-from'>Where Does Military 1st Ship From</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=free-download-windows-8-ultimate-full-version'>Free Download Windows 8 Ultimate Full Version</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-to-buy-a-fern-peony'>Where To Buy A Fern Peony</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bad-ice-cream-2-unblocked-games-66-at-school'>Bad Ice Cream 2 Unblocked Games 66 At School</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sarjan-doctor-meaning-in-hindi'>Sarjan Doctor Meaning In Hindi</a>,
+";s:7:"expired";i:-1;}

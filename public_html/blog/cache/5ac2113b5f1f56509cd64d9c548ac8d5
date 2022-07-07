@@ -1,0 +1,227 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4328:"Learning how to conduct a workshop is important for educators, business leaders, scientists, and other professionals. What’s the difference between a class and a workshop? Workshop is more “hands-on” for the participants. This class provides a sacred space for parents and children to bond through practicing yoga & meditation together in a warm, peaceful & loving atmosphere. In a well-presented workshop, participants learn as much from methods and style of presentation as they do from workshop contents. A workshop is an informative or instructional class focused on teaching specialized skills or exploring a particular subject. The workshop setting supports children in taking their writing seriously and viewing themselves as writers. How to Conduct an Interactive Workshop Marva A. Barnett, Founding Director and Professor, Teaching Resource Center, University of Virginia Faculty, Department of French An information sheet designed to help faculty and TAs present the most effective workshops. A successful workshop provides participants with new skills, information, and a sense of accomplishment.  Workshops and Classes Right Voice For You is a workshop which uses the tools and processes of Access Consciousness to assist people (singers, business people, housewives, writers, actors, students, and more) with finding and sharing their voice with the world. Classes and Workshops. ... Training class or seminar in which the participants work individually and/or in groups to solve actual work related tasks to gain hands-on experience. Creative exercises will get everyone relaxed and involved, and don't forget to follow up afterward: although it can be scary to hear what people really thought of all your hard work, it's the only way you'll improve your next event. The ideal workshop also provides opportunities for participants to interact and learn actively. If this piece has inspired you to apply to a conference, workshop, symposium or seminar, read our piece on how to get accepted to an academic conference . Be enthusiastic. The four main components of writing workshop are the mini-lesson, status of the class, writing/conferring time, and sharing. The workshop's goal should be at the center of all your planning. Class registration will remain open until 48 hours before an event starts. We require a minimum of 5 registrants for a class to be taught. How to Prepare a Workshop. A workshop is a single session focused on learning a specific technique, a class will have multiple sessions with the goal of completing a specific project, and KAL's are projects knit over 1-2 month multiple sessions with like-minded crafty folks where only limited staff support is provided. The ideal workshop also provides … If we have fewer, a class … They are going to be working, thinking, doing, processing, creating (maybe physically), up and at ’em moving around, lots of interaction, etc. Workshops are a good opportunity to learn new skills and to familiarise yourself with a topic you don't know well. Learning how to conduct a workshop is important for educators, business leaders, scientists, and other professionals. If you really believe in what you're presenting, show it; it will help make participants more enthusiastic as well, and can have a huge effect on the success of your workshop. Workshops are much more effective and enjoyable if they involve participants in activities, discussion, and interaction with others, than if they merely shower people with information. A successful workshop provides participants with new skills, information, and a sense of accomplishment. quality process production backorder procedure fixed cost marginal cost equipment Use 'workshop' in a Sentence. Encourage participants to relate the workshop content to their reality. Classes, workshops and activities in Reading. They are going to be working, thinking, doing, processing, creating (maybe physically), up and at ’em moving around, lots of interaction, etc. If you’re a beginning writer, returning to writing after a break, or interested in concentrating on a new form, a class is a good place to start. If you're looking to learn a new skill or find fun with like-minded friends, check out our full list of dance classes, theatre schools, art workshops and children's activities in Reading. ";s:7:"keyword";s:24:"what is a workshop class";s:5:"links";s:6445:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cheese-recipes-for-indian-babies'>Cheese Recipes For Indian Babies</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=holiday-time-christmas-lights-review'>Holiday Time Christmas Lights Review</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=battery-operated-wall-sconces-lowes'>Battery Operated Wall Sconces Lowes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=new-york-new-york-signature-pool'>New York New York Signature Pool</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=modern-house-interior-designs-plans'>Modern House Interior Designs Plans</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=next-home-realty-franchise-cost'>Next Home Realty Franchise Cost</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=Another-One-Bites-the-Dust'>Another One Bites The Dust</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-to-buy-zymurgorium-gin'>Where To Buy Zymurgorium Gin</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=honey-cornbread-ice-cream-cold-stone'>Honey Cornbread Ice Cream Cold Stone</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=nebraska-furniture-mart-lazy-boy-recliners'>Nebraska Furniture Mart Lazy Boy Recliners</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-a-vacuum-pump-from-a-refrigerator-compressor'>How To Make A Vacuum Pump From A Refrigerator Compressor</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=characteristics-of-an-autonomous-person'>Characteristics Of An Autonomous Person</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=eames-lounge-chair-weight-limit'>Eames Lounge Chair Weight Limit</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=calgary-weather-forecast-by-hour'>Calgary Weather Forecast By Hour</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-use-a-celestial-globe'>How To Use A Celestial Globe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=tomato-sauce-recipe-with-fresh-tomatoes'>Tomato Sauce Recipe With Fresh Tomatoes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=restaurants-that-can-accommodate-large-parties'>Restaurants That Can Accommodate Large Parties</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=watch-the-oprah-winfrey-show-online-free'>Watch The Oprah Winfrey Show Online Free</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=farmhouse-outdoor-dining-table-set'>Farmhouse Outdoor Dining Table Set</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=archaeplastida-are-organisms-whose-cellulose-walled-cells-contain'>Archaeplastida Are Organisms Whose Cellulose Walled Cells Contain</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=zell-am-see-things-to-do'>Zell Am See Things To Do</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-diet-in-the-world'>Best Diet In The World</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lg-ice-maker-parts-diagram'>Lg Ice Maker Parts Diagram</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=when-does-marks-and-spencer-home-event-end'>When Does Marks And Spencer Home Event End</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-color-light-is-best-for-seedlings'>What Color Light Is Best For Seedlings</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=good-quotes-to-hang-on-your-wall'>Good Quotes To Hang On Your Wall</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=eurovision-2020-semi-final-draw'>Eurovision 2020 Semi Final Draw</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-sofa-goes-with-eames-chair'>What Sofa Goes With Eames Chair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-many-metres-for-kurti'>How Many Metres For Kurti</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=eames-soft-pad-side-chair-dimensions'>Eames Soft Pad Side Chair Dimensions</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=south-shore-platform-queen-bed-assembly-instructions-pdf'>South Shore Platform Queen Bed Assembly Instructions Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-is-the-kitchen-brigade-system'>What Is The Kitchen Brigade System</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ikea-bryne-how-to-hang'>Ikea Bryne How To Hang</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-tilapia-fish-good-for-you'>Is Tilapia Fish Good For You</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=when-is-gardeners-world-on-2020'>When Is Gardeners World On 2020</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=blue-curacao-drinks-with-sprite'>Blue Curacao Drinks With Sprite</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ashley-furniture-clearance-bedroom-sets'>Ashley Furniture Clearance Bedroom Sets</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=samsung-ecobubble-washer-dryer-not-drying'>Samsung Ecobubble Washer Dryer Not Drying</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=gray-dining-room-table-set'>Gray Dining Room Table Set</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cross-country-ski-rentals-south-lake-tahoe'>Cross Country Ski Rentals South Lake Tahoe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=michel-roux-dinner-party-recipes'>Michel Roux Dinner Party Recipes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-places-to-go-skiing-in-early-april'>Best Places To Go Skiing In Early April</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-happening-full-movie-free-download-720p'>The Happening Full Movie Free Download 720p</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-it-safe-to-eat-romaine-lettuce-today'>Is It Safe To Eat Romaine Lettuce Today</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=canvas-painting-for-living-room'>Canvas Painting For Living Room</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=brunch-potluck-ideas-to-buy'>Brunch Potluck Ideas To Buy</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=battle-of-waterloo-definition-quizlet'>Battle Of Waterloo Definition Quizlet</a>,
+";s:7:"expired";i:-1;}

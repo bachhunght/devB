@@ -1,0 +1,252 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3292:"Cylindrical tank volume formula. The dimensions for diameter, height and depth should be inside dimensions, otherwise the results will be larger than the real volume. Using the theory. Besides calculating volume for any particular depth, this calculator can also produce a "dipstick chart" showing volume across the entire range of tank depths. Fortunately you have this tool to do the work for you. Click Calculate. Vertical Tank Volume Calculator . Click one of the 3 tabs across the top which represents your tank 2. Use this calculator for computing the volume of partially-filled horizontal cylinders. Information. Octane’s Tank Volume Calculator makes it really easy to work out the volume of your storage tank. 9:13. Car, truck or van load space volume capacity. Capacity based upon a tank with flat ends (no allowance has been made for dish ends) Calculate. This second tool can provide a single detailed value of the volume of a partially filled horizontal oval tank.  The volume or capacity of a tank can be found in a few easy steps. Volume calculation on a partially filled elliptical tank. How to calculate the volume of a cylinder - Duration: 9:13. CheCalc Chemical engineering calculations to assist process, plant operation and maintenance engineers. Calculate horizontal, vertical and rectangular tank capacities and dip levels. Using the storage tank calculator below you will be able to estimate the volume for both vertical storage tanks and horizontal storage tanks and preview a quick aspect ratio correct sketch of your tank. If your tank is not rectangular, such as a bowfront (sometimes called eurostyle) or hexagonal tank, you can use the average of the questionable dimension to calculate your volume. Tank Orientation. Gauge Chart Calculator. Of course, the calculator above is the easiest way to calculate tank volume, but follow along to learn how to calculate it yourself. How to Calculate The Volume of a Tank. Optional: Enter liquid height to work out approximate tank contents (same measurement type required throughout). I am converting at 2.54 centimeters per inch, 231 cubic inches in a gallon, and 3.79 liters in a gallon if you wish to check the calculations yourself. How it works. Tank Volume Calculator. Total volume of a cylinder shaped tank is the area, A, of the circular end times the height, h. A = π r 2 where r is the radius which is equal to d/2. Chart Name. Rectangular storage tank capacity. Volume calculation on a partially filled cylindrical tank Some Theory. STW specializes in custom builds and tanks … Tank Calc - the easy way to calculate storage tank volumes for vertical storage tanks, horizontal storage tanks or rectangular storage tanks, including a quick-use liquid volume converter. Tank Shape: Estimates Volume filled in a Horizontal/ Vertical Vessel with 2:1 Ellipsoidal, Hemispherical, Torispherical and Flat heads. Calculate horizontal, vertical and rectangular tank capacities and dip levels. Vertical cylindrical tank volume calculator diagram: Fill Rate Fill Times @ Litres / Minute. Check out https://www.specialtytankandwelding.com! Specials; Trading Hours; Tank Master Installations; Terms and Conditions ; Delivery and Installations; Site Preparations; Colour Guide; Tank Fit Out Guide; Tools and Calculators. ";s:7:"keyword";s:38:"vertical tank volume calculator litres";s:5:"links";s:9852:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=object-pool-design-pattern-in-java'>Object Pool Design Pattern In Java</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=a-hero-of-our-time-themes'>A Hero Of Our Time Themes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=easy-jalapeno-cornbread-recipe-jiffy'>Easy Jalapeno Cornbread Recipe Jiffy</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ge-french-door-refrigerator-reviews'>Ge French Door Refrigerator Reviews</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cleaning-laminate-kitchen-cupboard-doors'>Cleaning Laminate Kitchen Cupboard Doors</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=to-hell-and-back-netflix'>To Hell And Back Netflix</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=round-farmhouse-table-and-chairs-for-sale'>Round Farmhouse Table And Chairs For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-do-you-say-hotel-in-italian'>How Do You Say Hotel In Italian</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lg-washer-leaking-water-from-underneath'>Lg Washer Leaking Water From Underneath</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=concise-oxford-english-dictionary-download'>Concise Oxford English Dictionary Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rubbermaid-1304-utility-cart-wheels'>Rubbermaid 1304 Utility Cart Wheels</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rose-garden-white-house-press-conference'>Rose Garden White House Press Conference</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=american-society-for-the-prevention-of-cruelty-to-animals-dba-aspca'>American Society For The Prevention Of Cruelty To Animals Dba Aspca</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=full-size-hd-wallpaper-for-laptop'>Full Size Hd Wallpaper For Laptop</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=next-home-realty-franchise-cost'>Next Home Realty Franchise Cost</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-are-shadows-formed-powerpoint'>How Are Shadows Formed Powerpoint</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-do-rudbeckia-seedlings-look-like'>What Do Rudbeckia Seedlings Look Like</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=social-media-words-and-phrases'>Social Media Words And Phrases</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=small-space-living-room-furniture'>Small Space Living Room Furniture</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pros-and-cons-of-exit-interviews'>Pros And Cons Of Exit Interviews</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=high-pressure-steam-cleaner-hire'>High Pressure Steam Cleaner Hire</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=forget-me-not-movie-netflix'>Forget Me Not Movie Netflix</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=craigslist-eau-claire-miscellaneous-for-sale'>Craigslist Eau Claire Miscellaneous For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=amla-powder-and-beetroot-for-hair'>Amla Powder And Beetroot For Hair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-gardening-youtube-channels-india'>Best Gardening Youtube Channels India</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chrissy-teigen-cravings-2-recipes'>Chrissy Teigen Cravings 2 Recipes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dyson-cyclone-v10-animal-review'>Dyson Cyclone V10 Animal Review</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=patton-1970-movie-download-480p'>Patton 1970 Movie Download 480p</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=house-plans-with-large-mudroom-and-butlers-pantry'>House Plans With Large Mudroom And Butlers Pantry</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-get-a-job-at-wayfair'>How To Get A Job At Wayfair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kitchen-appliance-packages-home-depot'>Kitchen Appliance Packages Home Depot</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=history-of-oil-painting-in-india'>History Of Oil Painting In India</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hyatt-centric-park-city-rental'>Hyatt Centric Park City Rental</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=quotes-about-prints-in-fashion'>Quotes About Prints In Fashion</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=joe-louis-vs-rocky-marciano'>Joe Louis Vs Rocky Marciano</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-pier-1-dog-friendly'>Is Pier 1 Dog Friendly</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=north-lake-tahoe-vacation-rentals-lakefront'>North Lake Tahoe Vacation Rentals Lakefront</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cuz-i-love-you-lyrics'>Cuz I Love You Lyrics</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=iron-chef-gauntlet-season-2-episode-2'>Iron Chef Gauntlet Season 2 Episode 2</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=new-mexican-green-chile-chicken-enchiladas'>New Mexican Green Chile Chicken Enchiladas</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=step-2-love-to-entertain-kitchen-amazon'>Step 2 Love To Entertain Kitchen Amazon</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bar-stools-clearance-near-me'>Bar Stools Clearance Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bainbridge-fabric-chaise-lounge-amazon'>Bainbridge Fabric Chaise Lounge Amazon</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pictures-of-beautiful-roses-bouquet'>Pictures Of Beautiful Roses Bouquet</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-cordless-vacuum-2018-uk'>Best Cordless Vacuum 2018 Uk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=old-country-buffet-fried-chicken-recipe'>Old Country Buffet Fried Chicken Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=osgood-5-piece-dining-set'>Osgood 5 Piece Dining Set</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=augmented-reality-in-food-industry'>Augmented Reality In Food Industry</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=can-i-buy-on-shopify'>Can I Buy On Shopify</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=grain-wood-furniture-greenport-2-door-armoire'>Grain Wood Furniture Greenport 2 Door Armoire</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wharton-top-grain-leather-dining-chair'>Wharton Top Grain Leather Dining Chair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=why-ammonia-is-used-as-refrigerant'>Why Ammonia Is Used As Refrigerant</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fresh-san-marzano-pizza-sauce-recipe'>Fresh San Marzano Pizza Sauce Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=avengers-age-of-ultron-ending-after-credits'>Avengers Age Of Ultron Ending After Credits</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=should-you-put-antifreeze-in-your-freshwater-tank'>Should You Put Antifreeze In Your Freshwater Tank</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=separate-entrance-homes-for-sale-brampton'>Separate Entrance Homes For Sale Brampton</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=television-essay-for-class-4'>Television Essay For Class 4</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kawasaki-hpw-220-vs-302'>Kawasaki Hpw 220 Vs 302</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=top-international-real-estate-brokers'>Top International Real Estate Brokers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bedroom-bench-for-king-bed'>Bedroom Bench For King Bed</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-veg-barbecue-at-home'>How To Make Veg Barbecue At Home</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philips-hue-outdoor-light-strip-cutting'>Philips Hue Outdoor Light Strip Cutting</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=are-you-the-one-season-8-watch-online'>Are You The One Season 8 Watch Online</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rooms-to-go-online-ordering'>Rooms To Go Online Ordering</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=art-institute-of-vancouver-game-design'>Art Institute Of Vancouver Game Design</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hsn-bertolia-mid-century-modern-coffee-table'>Hsn Bertolia Mid Century Modern Coffee Table</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=from-beyond-the-grave-review'>From Beyond The Grave Review</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bar-stools-clearance-near-me'>Bar Stools Clearance Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=do-you-have-to-remove-furniture-to-install-hardwood-floors'>Do You Have To Remove Furniture To Install Hardwood Floors</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=guildhall-school-of-music-and-drama-vice-chancellor'>Guildhall School Of Music And Drama Vice Chancellor</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=new-scandinavian-cooking-season-9'>New Scandinavian Cooking Season 9</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-drink-bacardi-black-rum'>How To Drink Bacardi Black Rum</a>,
+";s:7:"expired";i:-1;}

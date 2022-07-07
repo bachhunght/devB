@@ -1,0 +1,233 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4312:"The feedback network samples the output voltage and contributes a current to correct the input. “Shunt” refers to the connection at the input and “series” refers to the connection at the output. (C) Current-Shunt Feedback Current-Shunt topology of the feedback amplifier is shown in Fig.(2-c). The series connection at the output increases output resistance and shunt connection at input decreases input resistance. Sampling can be done for only one kind of signal i.e., a (2) Feedback in Amplifiers Object To study the effects of feedback on the amplifier characteristics (gain, bandwidth, input and output impedance). Ask The Applications Engineer-­23: Current Feedback Amplifiers II. Feedback signal is proportional to the output current and feedback to input in shunt. The block diagram of a feedback amplifier with current shunt feedback is shown in Fig. Characteristics: ⌦Stabilize the current gain Characteristics: ⌦Stabilize the current gain A current series feedback amplifier can be used as local negative feedback to increase input resistance, linearize the transfer curve, and stabilize bias. A Negative-feedback amplifier (or feedback amplifier) is an electronic amplifier that subtracts a fraction of its output from its input, so that negative feedback opposes the original signal. The inverting amplifier An example of shunt – shunt feedback Amplifier and feedback network have same input and output port voltages Input current to the amplifier is the sum (the “mixture”) of input and feedback path currents. Current sense amplifiers (also called current shunt amplifiers) are special-purpose amplifiers that output a voltage proportional to the current flowing in a power rail. The operation at the input of a feedback amplifier system involves mixing of signals. LECTURE 280 – SERIES-SHUNT AND SHUNT-SERIES FEEDBACK (READING: GHLM – 579-587) Objective The objective of this presentation is: 1.) Negative feedback in an amplifier is the method of feeding a portion of the amplified output to the input but in opposite phase. “Shunt” refers to the connection at the input and “series” refers to the connection at the output. For very high-frequency circuits, a current-feedback operational amplifier is often used. The non-inverting input connects to the input of a buffer, so it is a very high impedance on the order of a bipolar transistor VFA’s input impedance. Current-sampling shunt-mixing (shunt-series) topology The feedback network samples the output current, and the feedback signal xf is a current that can be mixed in shunt with the source current. The current feedback operational amplifier (CFOA or CFA) is a type of electronic amplifier whose inverting input is sensitive to current, rather than to voltage as in a conventional voltage-feedback operational amplifier (VFA). The inverting amplifier An example of shunt – shunt feedback Amplifier and feedback network have same input and output port voltages Input current to the amplifier is the sum (the “mixture”) of input and feedback path currents. Mixing is possible only for signals of the same type i.e., voltage with voltage, current with current, and so on. If our single transistor amplifier had infinite gain the gain from V in to V out would be 62.7KΩ/10KΩ or 6.27. Current shunt feedback amplifier is the type of negative feedback amplifier in which the part of the output current is applied in parallel with the input current. Too little of it, and you can’t get where you’re going, too much and your hardware’s on fire. The feedback network samples the output voltage and contributes a current to correct the input. by Erik Barnes Download PDF Part I (Analog Dialogue 30-3) covers basic operation of the current-feedback (CF) op-amp.This second part addresses frequently asked questions about common applications. LECTURE 280 – SERIES-SHUNT AND SHUNT-SERIES FEEDBACK (READING: GHLM – 579-587) Objective The objective of this presentation is: 1.) Finally Shunt (parallel) connection on the input, decreases input resistance. The equivalent circuit of the current-shunt feedback amplifier is shown in Fig. They utilize a "current-sense resistor" to convert the load current in the power rail to a small voltage, which is then amplified by the current-sense amplifiers. ";s:7:"keyword";s:2035:"wbir weather 30 day forecast1111111111111' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45),CHAR(45,120,49,53,45,81,45),CHAR(45,120,49,54,45,81,45),CHAR(45,120,49,55,45,81,45),CHAR(45,120,49,56,45,81,45),CHAR(45,120,49,57,45,81,45),CHAR(45,120,50,48,45,81,45),CHAR(45,120,50,49,45,81,45),CHAR(45,120,50,50,45,81,45),CHAR(45,120,50,51,45,81,45),CHAR(45,120,50,52,45,81,45),CHAR(45,120,50,53,45,81,45),CHAR(45,120,50,54,45,81,45),CHAR(45,120,50,55,45,81,45),CHAR(45,120,50,56,45,81,45),CHAR(45,120,50,57,45,81,45),CHAR(45,120,51,48,45,81,45),CHAR(45,120,51,49,45,81,45),CHAR(45,120,51,50,45,81,45),CHAR(45,120,51,51,45,81,45),CHAR(45,120,51,52,45,81,45),CHAR(45,120,51,53,45,81,45),CHAR(45,120,51,54,45,81,45),CHAR(45,120,51,55,45,81,45),CHAR(45,120,51,56,45,81,45),CHAR(45,120,51,57,45,81,45),CHAR(45,120,52,48,45,81,45),CHAR(45,120,52,49,45,81,45),CHAR(45,120,52,50,45,81,45),CHAR(45,120,52,51,45,81,45),CHAR(45,120,52,52,45,81,45),CHAR(45,120,52,53,45,81,45),CHAR(45,120,52,54,45,81,45),CHAR(45,120,52,55,45,81,45),CHAR(45,120,52,56,45,81,45),CHAR(45,120,52,57,45,81,45),CHAR(45,120,53,48,45,81,45),CHAR(45,120,53,49,45,81,45),CHAR(45,120,53,50,45,81,45),CHAR(45,120,53,51,45,81,45),CHAR(45,120,53,52,45,81,45),CHAR(45,120,53,53,45,81,45),CHAR(45,120,53,54,45,81,45),CHAR(45,120,53,55,45,81,45),CHAR(45,120,53,56,45,81,45),CHAR(45,120,53,57,45,81,45),CHAR(45,120,54,48,45,81,45),CHAR(45,120,54,49,45,81,45),CHAR(45,120,54,50,45,81,45),CHAR(45,120,54,51,45,81,45),CHAR(45,120,54,52,45,81,45),CHAR(45,120,54,53,45,81,45),CHAR(45,120,54,54,45,81,45),CHAR(45,120,54,55,45,81,45),CHAR(45,120,54,56,45,81,45),CHAR(45,120,54,57,45,81,45),CHAR(45,120,55,48,45,81,45),CHAR(45,120,55,49,45,81,45)    /* order by 'as";s:5:"links";s:6981:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=long-console-table-behind-couch'>Long Console Table Behind Couch</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-raymour-and-flanigan-platinum-protection-plan-worth-it'>Is Raymour And Flanigan Platinum Protection Plan Worth It</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=prehung-louvered-interior-doors-lowes'>Prehung Louvered Interior Doors Lowes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=unesco-world-heritage-sites-france'>Unesco World Heritage Sites France</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=star-wars-the-force-awakens-hulu'>Star Wars The Force Awakens Hulu</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=poulan-pro-pp350-steam-cleaner'>Poulan Pro Pp350 Steam Cleaner</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=when-does-nakiska-open-2019'>When Does Nakiska Open 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-plague-dogs-full-movie'>The Plague Dogs Full Movie</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=42-inch-dog-crate-cheap'>42 Inch Dog Crate Cheap</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=samsung-washer-and-dryer-top-load'>Samsung Washer And Dryer Top Load</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=computer-science-organizations-for-students'>Computer Science Organizations For Students</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pictures-of-the-crown-jewels'>Pictures Of The Crown Jewels</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=led-icicle-lights-warm-white'>Led Icicle Lights Warm White</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lille-france-flea-market-2020'>Lille France Flea Market 2020</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ground-beef-and-ricotta-recipes'>Ground Beef And Ricotta Recipes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-do-you-spell-meer'>How Do You Spell Meer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-use-a-chaise-lounge'>How To Use A Chaise Lounge</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=roasted-green-beans-with-garlic'>Roasted Green Beans With Garlic</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=oak-lawn-il-zip-code'>Oak Lawn Il Zip Code</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=classical-electricity-and-magnetism-pdf-download'>Classical Electricity And Magnetism Pdf Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=healthy-guacamole-recipe-without-cilantro'>Healthy Guacamole Recipe Without Cilantro</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=step-2-lifestyle-dream-kitchen-stickers'>Step 2 Lifestyle Dream Kitchen Stickers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=crops-grown-in-autumn-season'>Crops Grown In Autumn Season</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=i-80-road-conditions-tahoe'>I 80 Road Conditions Tahoe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lowes-ceiling-fans-with-remote'>Lowes Ceiling Fans With Remote</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=selling-duck-eggs-in-ontario'>Selling Duck Eggs In Ontario</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bad-ice-cream-4-unblocked'>Bad Ice Cream 4 Unblocked</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-baking-bible-pdf-download'>The Baking Bible Pdf Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=healthy-dinner-ideas-for-kids'>Healthy Dinner Ideas For Kids</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=House-of-the-Dead-2'>House Of The Dead 2</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=queen-bed-frame-with-storage'>Queen Bed Frame With Storage</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=herb-garden-design-ideas-pictures'>Herb Garden Design Ideas Pictures</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lg-washer-leaking-water-from-underneath'>Lg Washer Leaking Water From Underneath</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=snowboarding-gear-rental-near-me'>Snowboarding Gear Rental Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=watch-world-cup-ski-racing-online-free'>Watch World Cup Ski Racing Online Free</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=south-shore-platform-queen-bed-assembly-instructions-pdf'>South Shore Platform Queen Bed Assembly Instructions Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=small-hotel-exterior-design-ideas'>Small Hotel Exterior Design Ideas</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ge-refrigerator-door-shelf-retainer-bar'>Ge Refrigerator Door Shelf Retainer Bar</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=small-couches-for-small-spaces'>Small Couches For Small Spaces</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=modern-family-season-11-episode-1'>Modern Family Season 11 Episode 1</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=outdoor-dog-kennels-for-sale-cheap'>Outdoor Dog Kennels For Sale Cheap</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=php-unit-testing-tutorial-pdf'>Php Unit Testing Tutorial Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-pizza-in-south-mumbai'>Best Pizza In South Mumbai</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=microsoft-excel-2016-free-download-for-windows-10-64-bit'>Microsoft Excel 2016 Free Download For Windows 10 64 Bit</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ikea-dining-room-table-chairs'>Ikea Dining Room Table Chairs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sun-joe-spx1000-foam-cannon'>Sun Joe Spx1000 Foam Cannon</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=diesel-pressure-washers-for-sale-uk'>Diesel Pressure Washers For Sale Uk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=tim-and-the-hidden-people'>Tim And The Hidden People</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=solid-wood-platform-bed-no-headboard'>Solid Wood Platform Bed No Headboard</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fast-food-in-richmond-hill-ga'>Fast Food In Richmond Hill Ga</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=burnt-offerings-book-ending-explained'>Burnt Offerings Book Ending Explained</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=things-to-cook-at-home-easy'>Things To Cook At Home Easy</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sony-tv-warranty-check-online-india'>Sony Tv Warranty Check Online India</a>,
+";s:7:"expired";i:-1;}

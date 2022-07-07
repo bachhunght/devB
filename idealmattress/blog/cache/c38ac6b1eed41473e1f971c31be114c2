@@ -1,0 +1,201 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3576:"HEMA is a popular discount department store first founded in Amsterdam in the Netherlands and has more than 750 stores in 12 countries. But next to that they are also famous for their restaurant/cafeteria. In terms of turnover, the American supermarket chain is the largest company in the world. The location of Primark Amsterdam is at Damrak 77, opposite Beursplein and very close to Dam Square. There are a few older news articles which point out the doubling in floor size of HEMA Amsterdam-Oost, which created the largest HEMA store at that time (2012). That is to say, senior shoppers in their fifties. In 1927, HEMA opened its first store outside of Amsterdam and just a year later there were ten HEMA stores in the Netherlands. Cosmetics, clothes, food and other product ranges are available too. Hema has its own selection of low-priced toys, both wooden and plastic, as well as a good range of craft supplies. HEMA uses cookies and comparable technologies to offer you an optimal visitor experience, to offer you relevant advertisements, and to track your surfing activity. The light-filled second floor offers no-nonsense breakfasts, sandwiches, coffee, and snacks at very reasonable prices. Outdoor Activities. HEMA, a department store of sorts, which sells only own-brand products, is ubiquitous on the Dutch high street, but that doesn’t mean it’s pedestrian in any way. Action But next to that they are also famous for their restaurant/cafeteria. HEMA is a (small) department store that sells local food, clothes and all sorts of supplies. In the US, the company will start selling household items via Walmart.com from the summer. There are a small HEMA stores at Amsterdam Central Station and Schiphol airport. They're expanding to North America and will open their first Canadian store in Ontario this fall. HEMA is also branching out internationally with stores in Europe and the UK. As it turned out, I was in luck, because my in-laws are part of Hema’s second-largest shopper demographic. The HEMA headquarters have been located in Number One at the wharf since 2010. HEMA also opened a store on the ground floor, which was a big hit right from the start. It began operations as a dimestore.The current owner is Dutch billionaire Marcel Boekhoorn.The chain is characterized by relatively low pricing of generic housewares, which are mostly made by and for the … Chain/Online Stores. Hema’s 500+ store locations in the Netherlands range in size from small convenience shops in train stations and gas stations to large, multi-level, free-standing stores in city centers including The Hague, Rotterdam, Amsterdam, Utrecht, Groningen and Eindhoven. Food & Drink. There are 17 store locations in Amsterdam including Kalverstraat, Nieuwendijk, Ferdinand Bol Straat and Kinkerstraat. HEMA is a Dutch chain store that designs all of its products in-house. In Amsterdam you can shop till you drop at one of the many shopping malls and shopping centers. HEMA (Dutch pronunciation: ; originally an acronym for Hollandsche Eenheidsprijzen Maatschappij Amsterdam, "Hollandic Standard Prices Company Amsterdam") is a Dutch variety store-chain. Hema’s 500+ store locations in the Netherlands range in size from small convenience shops in train stations and gas stations to large, multi-level, free-standing stores in city centers including The Hague, Rotterdam, Amsterdam, Utrecht, Groningen and Eindhoven. AMSTERDAM (Reuters) - HEMA, one of the Netherlands’ largest retail chains, said on Thursday it will be bought for an undisclosed sum by investment … ";s:7:"keyword";s:31:"largest hema store in amsterdam";s:5:"links";s:2877:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=work-of-art-meaning-in-sarcastic-way'>Work Of Art Meaning In Sarcastic Way</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=reclining-sofa-sets-with-cup-holders'>Reclining Sofa Sets With Cup Holders</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=creamed-spinach-recipe-jamie-oliver'>Creamed Spinach Recipe Jamie Oliver</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=yahoo-fantasy-football-rankings-2019'>Yahoo Fantasy Football Rankings 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-transplant-a-schefflera-plant'>How To Transplant A Schefflera Plant</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=shopping-mall-design-considerations-pdf'>Shopping Mall Design Considerations Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=instructions-for-tourists-at-tourist-places'>Instructions For Tourists At Tourist Places</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-use-steam-cycle-on-samsung-washer'>How To Use Steam Cycle On Samsung Washer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=study-table-designs-for-adults'>Study Table Designs For Adults</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kitchen-chair-covers-round-back'>Kitchen Chair Covers Round Back</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=apex-office-furniture-sungai-buloh'>Apex Office Furniture Sungai Buloh</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-to-bbq-near-me'>Where To Bbq Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=similarities-between-vascular-and-nonvascular-plants'>Similarities Between Vascular And Nonvascular Plants</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kid-friendly-pizza-dough-recipe'>Kid Friendly Pizza Dough Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-paint-colors-for-finished-basements'>Best Paint Colors For Finished Basements</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=christmas-cookie-challenge-casting-2019'>Christmas Cookie Challenge Casting 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mountain-creek-ski-and-stay'>Mountain Creek Ski And Stay</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-outsider-cast-2019-netflix'>The Outsider Cast 2019 Netflix</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=commercial-pressure-washer-4000-psi'>Commercial Pressure Washer 4000 Psi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mesa-grill-las-vegas-reviews'>Mesa Grill Las Vegas Reviews</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=stuffed-italian-frying-peppers-recipe'>Stuffed Italian Frying Peppers Recipe</a>,
+";s:7:"expired";i:-1;}

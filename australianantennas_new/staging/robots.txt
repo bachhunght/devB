@@ -1,0 +1,9 @@
+User-agent: *
+User-agent: Googlebot
+User-agent: Googlebot-image
+User-agent: AdsBot-Google
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://www.australianantennas.com.au/sitemap_index.xml

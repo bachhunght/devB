@@ -1,0 +1,226 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2354:"Studio Daniel Libeskind, headquartered two blocks south of the World Trade Center site in New York, is currently working on more than forty projects across the world. World Trade Center Master Plan New York, New York, USA Under construction 2003. The One World Trade Center (Freedom Tower) by architect Daniel Libeskind was built in New York, United States in 2006-2013. The other buildings in the complex included the Marriott World Trade Center (3 WTC), 4 WTC, 5 WTC, 6 WTC, and 7 WTC. One World Trade opened in early 2015 with the symbolic height of 1,776 feet. Daniel Libeskind's 2002 proposal, "Life Victorious / Skyline," centered around the 2003 Plan for Freedom Tower, what Daniel Libeskind was calling a Vertical Garden of the World. Despite high financial expectations for the original complex, it did not become profitable until the 1980s. As the opening of 1 World Trade Center approaches, Daniel Libeskind has quietly transformed into one of the site’s most ardent boosters. The original World Trade Center featured the landmark Twin Towers, which opened on April 4, 1973, and were the tallest buildings in the world at their completion.  He has designed numerous cultural and commercial institutions, museums, concert halls, convention centers, universities, residences, hotels, and shopping centers. Daniel Libeskind: Architect at Ground Zero From his Jewish Museum in Berlin to his proposal for the World Trade Center site, Daniel Libeskind designs buildings that reach out to history and humanity Daniel Libeskind’s design, which was created a year before the Berlin Wall came down, was based on three insights: it is impossible to… More about this project. The Transportation Hub was completed in 2016 and Three World Trade was completed in 2018. Two World Trade is the next building in the master plan to be constructed. World Trade Center, WTC, Światowe Centrum Handlu – kompleks siedmiu budynków w dzielnicy Lower Manhattan w Nowym Jorku, w tym Twin Towers (bliźniacze wieże), zaprojektowany przez amerykańskiego architekta japońskiego pochodzenia Minoru Yamasakiego, któremu pomagał Antonio Brittiochi.Budowa rozpoczęła się 5 sierpnia 1966, a oficjalne otwarcie nastąpiło 4 kwietnia 1973. Matka pracowała w szwalniach („sweatshops”) na Manhattanie. World Trade Center Master Plan New York, New York, USA . ";s:7:"keyword";s:35:"daniel libeskind world trade center";s:5:"links";s:6064:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-gardening-youtube-channels-india'>Best Gardening Youtube Channels India</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pruning-fiddle-leaf-fig-youtube'>Pruning Fiddle Leaf Fig Youtube</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wooden-sofa-set-designs-for-small-living-room-with-price'>Wooden Sofa Set Designs For Small Living Room With Price</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-many-different-types-of-wool-are-there'>How Many Different Types Of Wool Are There</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=game-of-throne-meaning-in-tamil'>Game Of Throne Meaning In Tamil</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-veg-barbecue-at-home'>How To Make Veg Barbecue At Home</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=karcher-pressure-washer-repair-parts'>Karcher Pressure Washer Repair Parts</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=national-horticulture-board-established-in-year'>National Horticulture Board Established In Year</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=big-sky-montana-long-term-rentals'>Big Sky Montana Long Term Rentals</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=feminine-of-gardener-in-english'>Feminine Of Gardener In English</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-save-a-dying-aglaonema'>How To Save A Dying Aglaonema</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=salvation-army-online-store-singapore'>Salvation Army Online Store Singapore</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=southwest-airlines-new-orleans-terminal'>Southwest Airlines New Orleans Terminal</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-clean-fabric-dining-chairs'>How To Clean Fabric Dining Chairs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=authentic-tikka-masala-paste-recipe'>Authentic Tikka Masala Paste Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-a-banana-chair'>How To Make A Banana Chair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pink-and-grey-nursery-walls'>Pink And Grey Nursery Walls</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mainstays-upholstered-low-back-office-chair'>Mainstays Upholstered Low Back Office Chair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-lighting-kit-for-clothing-photography'>Best Lighting Kit For Clothing Photography</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=courgette-in-english-from-french'>Courgette In English From French</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cat-grass-seeds-home-depot'>Cat Grass Seeds Home Depot</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=squaw-mountain-maine-name-change'>Squaw Mountain Maine Name Change</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=uses-of-linen-fibre-in-points'>Uses Of Linen Fibre In Points</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-happened-to-fatima-ali'>What Happened To Fatima Ali</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-bristol-about-us'>University Of Bristol About Us</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=can-you-eat-fried-rice-when-pregnant'>Can You Eat Fried Rice When Pregnant</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=glass-pocket-doors-home-depot'>Glass Pocket Doors Home Depot</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=home-depot-philips-hue-color'>Home Depot Philips Hue Color</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=winsley-manager-chair-assembly-instructions'>Winsley Manager Chair Assembly Instructions</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=combine-factory-and-builder-pattern'>Combine Factory And Builder Pattern</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=words-that-start-with-phil'>Words That Start With Phil</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=distance-between-sofa-and-wall'>Distance Between Sofa And Wall</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-is-feces-made-of'>What Is Feces Made Of</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=molecular-weight-of-freon-123'>Molecular Weight Of Freon 123</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=all-star-movie-resort-food-court-menu'>All Star Movie Resort Food Court Menu</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=family-pictures-wall-decor-ideas'>Family Pictures Wall Decor Ideas</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=metals-on-the-periodic-table'>Metals On The Periodic Table</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=one-million-years-bc-costume'>One Million Years Bc Costume</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=indian-recipes-with-bread-slices'>Indian Recipes With Bread Slices</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-did-george-v-die'>How Did George V Die</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=small-gold-metal-wall-decor'>Small Gold Metal Wall Decor</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=standard-ceiling-height-in-feet'>Standard Ceiling Height In Feet</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-do-canvas-painting'>How To Do Canvas Painting</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=taste-of-texas-menu-mccook-ne'>Taste Of Texas Menu Mccook Ne</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=couches-for-sale-san-diego'>Couches For Sale San Diego</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=star-wars-the-last-jedi-release-date'>Star Wars The Last Jedi Release Date</a>,
+";s:7:"expired";i:-1;}

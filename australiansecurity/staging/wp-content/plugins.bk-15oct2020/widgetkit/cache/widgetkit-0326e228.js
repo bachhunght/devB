@@ -1,0 +1,1 @@
+var widgetkitajax="https://diwebdev.com/webdev/australiansecurity/wp-admin/admin-ajax.php?action=widgetkit&ajax=1";

@@ -1,0 +1,260 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:5297:"Choose 3/4-inch or 5/8-inch to use European style hinges. Move the cases into position where they’ll be installed. You want to make a door? MDF cabinet doors aren’t ideal for high temperatures. Plywood-core doors are dimensionally stable, and even raw MDF will resist warping as long as the laminate or thermofoil covering remains intact. Replacing cabinet doors will give your room an instant facelift. If you're building cabinets, and you aren't familiar with medium-density fiberboard, then it's time to get acquainted. Once you rip 3 strips at 12 ½” wide, you have a strip about 10 ½” or so leftover. DIY cabinet doors are a great way to update an old space. It took about 15 minutes to make each door (not including the time it took for the glue to dry). How to make a classic-looking door from plywood. Rather than using solid wood, which is more expensive and heavier, we used two plywood plates to make this flat door. And while I was at it, I needed to make two doors for a cabinet I have been working on for a friend.. But, I still had to make shaker cabinet doors for the big cabinet that I built. Material lists for cabinets can vary from cabinet to cabinet depending on size and style but for a generic list you will need the following: Plywood for the side panels, bottoms, and any other structural piece that won't be seen. But, I still had to make shaker cabinet doors for the big cabinet that I built. Shim the bottom edges to level the cabinets and make the face frame edges parallel with each other. Depending on the height you make the upper cabinets, you should be able to get two upper cabinets from a sheet (including enough for shelves) from one sheet of plywood. I also have a guide to making tongue and groove cabinet doors on the table saw that I will cover in another instructable. But the last order I placed took about six weeks to get here, and I didn’t want to wait that long. It took about 15 minutes to make each door (not including the time it took for the glue to dry). Part of the appeal of the slab-style cabinet door is that they can be finished in nearly any fashion. Compared to wood or plywood, MDF is considered less strong. Nearly every major cabinet manufacturer will offer cabinet lines that feature slab doors. These are simple “shaker style” cabinet doors and are not very expensive to make, but I warn you–they are a little time consuming. Learn about the specialty tools that make cabinetmaking a breeze. So I decided to make my own DIY cabinet doors this time. The slab-style cabinet door is a very basic type of cabinet door that is quite popular in Europe. MDF is one of the best materials you can use to fashion cabinets and make cabinet doors, but if you're encountering it for the first time, you need to know a … DIY cabinet doors are a great way to update an old space. Measuring For New Shaker Style Cabinet Doors. Plywood or a solid wood panel for the door panels. Put your finished cabinets to work.  For flatness and stability, MDF-core material is a better choice. Warping Plywood Cabinet Doors Cabinetmakers agree that plywood is not suitable for making doors because of its tendency to warp. They can be finished with paint, stain followed by polyurethane, or any other finish you deem appropriate. Make cabinet sides of 3/4, 5/8 or 1/2-inch plywood. Cost per door is around $20 (you can get about 6 center panels from each sheet of plywood). Cost per door is around $20 (you can get about 6 center panels from each sheet of plywood). Sources for Slab Doors. This simple cabinet door can be built from solid wood, banded plywood or even melamine. My shaker style cabinet doors needed to be 13.5 inches wide by 39.5 inches tall. Replacing cabinet doors will give your room an instant facelift. The article includes the following drawings: MDF profile cabinet doors; an elevation and section of a home made panel cabinet door; an elevation and section of a glass paneled cabinet door with muttin bars. From being susceptible to water to scratches to heat, MDF cabinet doors may need extra care on your part. My hallway cabinets are still under construction. Selecting 1/2-inch plywood for cabinets with face frames will save money and weight. But the last order I placed took about six weeks to get here, and I didn’t want to wait that long. Solid hardwood, too, if properly sealed with stain or paint, should not warp. And that, my friends, is that. I started off by taking all of the cabinet doors off and measuring them to see how big I needed to make the shaker cabinet doors. Cut your center panel out of 1/2″ plywood. Whether you are remodeling a kitchen, bathroom, laundry room, or any room with built in cabinets, you can build your own cabinet doors to make your space look like new again. Let’s take a look at some of those aspects. I contemplated purchasing custom cabinet doors for my hallway cabinets, just like the replacement doors I purchased for my kitchen. Making a Plywood Door. These are simple “shaker style” cabinet doors and are not very expensive to make… This article explains how to make your own cabinet doors for a kitchen cabinet or china cabinet. Simply sand and stain or paint your shaker cabinet door, add some awesome cabinet handles and hinges and you are good to go. ";s:7:"keyword";s:38:"how to make cabinet doors from plywood";s:5:"links";s:10806:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-did-the-pilgrims-eat-everyday'>What Did The Pilgrims Eat Everyday</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=singular-and-plural-verbs-worksheet'>Singular And Plural Verbs Worksheet</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=paneer-butter-masala-recipe-in-malayalam'>Paneer Butter Masala Recipe In Malayalam</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=interesting-facts-about-indian-sweets'>Interesting Facts About Indian Sweets</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-color-does-orange-and-green-make'>What Color Does Orange And Green Make</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-to-buy-closetmaid-shelftrack'>Where To Buy Closetmaid Shelftrack</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=benefits-of-pineapple-juice-for-hair-growth'>Benefits Of Pineapple Juice For Hair Growth</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-oregon-tuition-2020'>University Of Oregon Tuition 2020</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=used-patio-furniture-for-sale-on-craigslist'>Used Patio Furniture For Sale On Craigslist</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=things-to-do-in-breckenridge-in-september-2019'>Things To Do In Breckenridge In September 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=3d-faux-brick-wall-panels'>3d Faux Brick Wall Panels</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-to-buy-shrub-drink'>Where To Buy Shrub Drink</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=log-cabin-baby-quilt-pattern'>Log Cabin Baby Quilt Pattern</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-man-from-snowy-river-poem'>The Man From Snowy River Poem</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=vegetable-planting-guide-zone-6'>Vegetable Planting Guide Zone 6</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=basque-restaurants-in-elko-nevada'>Basque Restaurants In Elko Nevada</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=accent-chairs-for-living-room-clearance'>Accent Chairs For Living Room Clearance</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=48-inch-metal-exterior-door'>48 Inch Metal Exterior Door</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=there-is-a-light-that-never-goes-out-the-smiths'>There Is A Light That Never Goes Out The Smiths</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=steel-casement-windows-for-sale'>Steel Casement Windows For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=tenanted-commercial-property-for-sale-in-bangalore'>Tenanted Commercial Property For Sale In Bangalore</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=husky-hydrosurge-1600-replacement-parts'>Husky Hydrosurge 1600 Replacement Parts</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=displaying-learning-objectives-in-the-classroom'>Displaying Learning Objectives In The Classroom</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=simplehuman-triple-wall-mount-shower-pump-installation'>Simplehuman Triple Wall Mount Shower Pump Installation</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=black-frame-glass-door-singapore'>Black Frame Glass Door Singapore</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=smoke-bbq-boca-raton-menu'>Smoke Bbq Boca Raton Menu</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=does-verizon-support-huawei-p30-pro'>Does Verizon Support Huawei P30 Pro</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=new-restaurants-in-north-carolina'>New Restaurants In North Carolina</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hall-design-for-medium-family'>Hall Design For Medium Family</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-creature-from-the-black-lagoon-full-movie'>The Creature From The Black Lagoon Full Movie</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ron-zacapa-23-price-in-india'>Ron Zacapa 23 Price In India</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=holiday-valley-hiking-trail-map'>Holiday Valley Hiking Trail Map</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-can-i-buy-liberty-furniture'>Where Can I Buy Liberty Furniture</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=row-house-images-in-nashik'>Row House Images In Nashik</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=natural-history-museum-free-day'>Natural History Museum Free Day</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ikon-pass-promo-code-2020'>Ikon Pass Promo Code 2020</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-many-countries-in-africa'>How Many Countries In Africa</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=side-storage-table-with-bin'>Side Storage Table With Bin</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=when-trumpets-fade-historical-accuracy'>When Trumpets Fade Historical Accuracy</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wells-tufted-upholstered-swivel-armchair'>Wells Tufted Upholstered Swivel Armchair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=small-bathroom-with-freestanding-tub-and-separate-shower'>Small Bathroom With Freestanding Tub And Separate Shower</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wood-dining-chairs-set-of-6'>Wood Dining Chairs Set Of 6</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pro-mix-super-soil-recipe'>Pro Mix Super Soil Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-fast-food-chicken-sandwich-2019'>Best Fast Food Chicken Sandwich 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=iron-door-pub-happy-hour'>Iron Door Pub Happy Hour</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-to-buy-karcher-accessories'>Where To Buy Karcher Accessories</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fruits-and-vegetables-that-grow-in-the-shade'>Fruits And Vegetables That Grow In The Shade</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=costco-landmark-movie-passes-prices'>Costco Landmark Movie Passes Prices</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=raymour-and-flanigan-outlet-dining-room-sets'>Raymour And Flanigan Outlet Dining Room Sets</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-beet-sugar'>How To Make Beet Sugar</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-much-is-gary-jenkins-worth'>How Much Is Gary Jenkins Worth</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=parking-tiles-design-at-home'>Parking Tiles Design At Home</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=Benefits-of-tomatoes-for-skin'>Benefits Of Tomatoes For Skin</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=all-family-food-court-loyang-point'>All Family Food Court Loyang Point</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-do-you-say-vegetables-in-spanish'>How Do You Say Vegetables In Spanish</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=home-tek-steam-mop-not-steaming'>Home Tek Steam Mop Not Steaming</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=The-Last-Man-on-Earth'>The Last Man On Earth</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=daybed-pop-up-trundle-combo'>Daybed Pop Up Trundle Combo</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=separate-entrance-homes-for-sale-brampton'>Separate Entrance Homes For Sale Brampton</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=can-you-add-a-nailing-flange-to-a-window'>Can You Add A Nailing Flange To A Window</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=asia-pacific-property-awards-2018-winners'>Asia Pacific Property Awards 2018 Winners</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dressing-table-with-mirror-and-lights'>Dressing Table With Mirror And Lights</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-is-a-strawberry-shortcake-slang'>What Is A Strawberry Shortcake Slang</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=scottish-borders-points-of-interest'>Scottish Borders Points Of Interest</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=can-i-use-my-friends-zomato-gold'>Can I Use My Friends Zomato Gold</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-long-can-monstera-live-in-water'>How Long Can Monstera Live In Water</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=study-table-for-kids-amazon'>Study Table For Kids Amazon</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=heroes-of-the-storm-new-heroes'>Heroes Of The Storm New Heroes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cafe-near-st-james-park-newcastle'>Cafe Near St James Park Newcastle</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=uses-of-metal-in-points'>Uses Of Metal In Points</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=battle-of-eutaw-springs-primary-source'>Battle Of Eutaw Springs Primary Source</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=direct-flights-from-salt-lake-city-to-asia'>Direct Flights From Salt Lake City To Asia</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-cook-ribs-in-the-oven-fast'>How To Cook Ribs In The Oven Fast</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cheap-houses-for-sale-in-washington'>Cheap Houses For Sale In Washington</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=light-or-dark-corn-syrup-for-pecan-pie'>Light Or Dark Corn Syrup For Pecan Pie</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-a-formal-living-room-more-usable'>How To Make A Formal Living Room More Usable</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philips-hue-garnea-vs-aphelion'>Philips Hue Garnea Vs Aphelion</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=3-gallon-ice-cream-costco'>3 Gallon Ice Cream Costco</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-open-doors-usa-catholic'>Is Open Doors Usa Catholic</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-set-up-inflatable-pool'>How To Set Up Inflatable Pool</a>,
+";s:7:"expired";i:-1;}

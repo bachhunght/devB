@@ -1,0 +1,226 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3847:"Chemical Thermodynamics (Hindi) Thermochemistry for Class 11 CBSE. There are large number of compounds such as C 6 H 6, CO, C 2 H 6 etc whose direct synthesis from their constituent element is not possible. Also, does this article belong in Condensedmatter-stub? 2. Share with your friends. Born Haber cycle is a simplified method developed by Max Born and Fritz Haber in 1919 to correlate the lattice energies of ionic solids to other thermodynamic data. Na+(g) + Cl-(g) NaCl(s) Ho = -787.3 kJ/mol Born Haber cycle for NaCl: Lattice energy cannot be measured empirically, but it can be calculated using electrostatics or estimated using the Born-Haber cycle. This article is on the Thermodynamics Notes Class 11 of Chemistry.The notes on Thermodynamics of class 11 chemistry have been prepared with great care keeping in mind the effectiveness of it for the students. Enthalpy Change of a Reaction (in Hindi) 8m 7s. The Born-Haber cycle takes advantage of the state function property of the change in enthalpy to indirectly determine the lattice energy of ionic compounds through …  Share 0 Born Haber cycle is a simplified method developed by Max Born and Fritz Haber in 1919 to correlate the lattice energies of ionic solids to other thermodynamic data. Two main factors that contribute to… 4. Share with your friends. To Study Born Haber Cycle Class 11 Notes | EduRev for Class 11 this is your one stop solution. Their ΔH 0 f values can be determined indirectly by Hess’s law. Born-Haber Cycle. I've merged the two articles, but I lack knowledge about the subject, so not sure if the See Also links are actually relevant. Lattice energy is defined as the energy required to separate a mole of an ionic solid into gaseous ions. Formation involves the reaction from elements in the standard state to ionic compound. Born Haber Cycle uses Hess’s law to calculate lattice enthalpy. This is possible only when you have the best CBSE Class 11 Chemistry study material and a smart preparation … We usually use the energy level diagram to present the Born Haber Cycle, which can be broken down into 4 steps. Thermodynamics Chemistry Chapter 6 • Important Terms and Definitions System: Refers to the portion of universe which is under observation. CBSE Class 11 Chemistry Chemical Bonding and Molecular Structure– Get here the Notes for Class 11 Chemical Bonding and Molecular Structure. Standard Enthalpy of Formation (in Hindi) 8m 2s. Share 4. 76. It cannot be measured directly, but instead can be calculated indirectly by assuming that the formation of the ionic lattice occurs by a number of steps. Physical Chemistry. These are put together in a Born–Haber cycle. Born-Haber cycle for the formation of an ionic solid involves five steps, namely sublimation of a solid metal to its gaseous form, its ionization to cation, bond dissociation of the second gaseous molecule, formation of anion by gain of one electron, and then in the last step both the gaseous ions combine to form an ionic solid. Calculation of enthalpies of formation. 3. According to Hess’ laws, if a chemical reaction takes place in one step or several steps the total heat of reaction is constant. Thermodynamics. In this video we want to learn how to draw the Born Haber Cycle of ionic compounds using CaCl 2 as an example. Class-11-science » Chemistry. CLASS 11 – CHEMISTRY CHAPTER 7: THERMOCHEMISTRY. Or it may be defined as energy released when one mole of ionic solid … The Born-Haber cycle represents a series of steps leading to the formation of an ionic compound from its constituent gaseous ions. Chemical Bonding and Molecular Structure . Born Haber cycle. Enroll. By definition, the gaseous cation and anion forming the corresponding ionic compound release energy termed the lattice energy, the energy contained within the lattice structure. ";s:7:"keyword";s:25:"born haber cycle class 11";s:5:"links";s:6104:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=history-of-japanese-gardens-ppt'>History Of Japanese Gardens Ppt</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-boil-corn-kernels'>How To Boil Corn Kernels</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-restaurants-edinburgh-west-end'>Best Restaurants Edinburgh West End</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=free-things-to-do-in-vancouver-in-november'>Free Things To Do In Vancouver In November</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ikea-tools-needed-for-assembly'>Ikea Tools Needed For Assembly</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=brunel-university-qs-ranking-2019'>Brunel University Qs Ranking 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dining-bench-seat-with-back'>Dining Bench Seat With Back</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bissell-big-green-clean-machine-for-sale'>Bissell Big Green Clean Machine For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=tim-and-the-hidden-people'>Tim And The Hidden People</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-tenderizer-for-skirt-steak'>Best Tenderizer For Skirt Steak</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=medical-recliner-chairs-with-wheels'>Medical Recliner Chairs With Wheels</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wood-barn-sash-windows-home-depot'>Wood Barn Sash Windows Home Depot</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=office-interior-design-cost-per-square-foot'>Office Interior Design Cost Per Square Foot</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=royal-academy-exhibitions-october-2018'>Royal Academy Exhibitions October 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=crate-and-barrel-leather-dining-chairs'>Crate And Barrel Leather Dining Chairs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=why-did-gas-chambers-have-wooden-doors'>Why Did Gas Chambers Have Wooden Doors</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=study-desk-for-sale-johannesburg'>Study Desk For Sale Johannesburg</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=are-daisies-toxic-to-humans'>Are Daisies Toxic To Humans</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=jamie-oliver-pulled-pork-buns'>Jamie Oliver Pulled Pork Buns</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=aluminium-front-doors-with-glass-panels'>Aluminium Front Doors With Glass Panels</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=born-haber-cycle-class-11'>Born Haber Cycle Class 11</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=karcher-wd-6-p-manual'>Karcher Wd 6 P Manual</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=call-me-mrs-miracle-dvd'>Call Me Mrs Miracle Dvd</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=why-was-a-wrinkle-in-time-banned'>Why Was A Wrinkle In Time Banned</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=100-km-to-miles-per-hour'>100 Km To Miles Per Hour</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=homewood-high-school-football-schedule-2019'>Homewood High School Football Schedule 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-doctor-kit-for-older-child'>Best Doctor Kit For Older Child</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=introduction-to-food-production-pdf'>Introduction To Food Production Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=portable-reclining-chair-for-disabled'>Portable Reclining Chair For Disabled</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=red-wine-sauce-for-duck-gordon-ramsay'>Red Wine Sauce For Duck Gordon Ramsay</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=everybody-loves-raymond-funniest-episodes'>Everybody Loves Raymond Funniest Episodes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sony-xperia-1-release-date'>Sony Xperia 1 Release Date</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dollar-store-decor-outfitting-an-apartment'>Dollar Store Decor Outfitting An Apartment</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rhum-agricole-can-be-made-on-the-island-of'>Rhum Agricole Can Be Made On The Island Of</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-ball-moss-poisonous-to-dogs'>Is Ball Moss Poisonous To Dogs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=The-Yoga-Sutras-of-Patanjali'>The Yoga Sutras Of Patanjali</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=st-george-personal-loan-calculator'>St George Personal Loan Calculator</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=phpunit-assert-exception-not-thrown'>Phpunit Assert Exception Not Thrown</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-are-the-6-hobbit-meals'>What Are The 6 Hobbit Meals</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=marshalls-440-jersey-city-hours'>Marshalls 440 Jersey City Hours</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=indo-western-gown-for-reception'>Indo Western Gown For Reception</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-steam-clean-carpet-yourself'>How To Steam Clean Carpet Yourself</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=built-in-bedroom-cabinets-ikea'>Built In Bedroom Cabinets Ikea</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cheap-houses-for-sale-near-me-by-owner'>Cheap Houses For Sale Near Me By Owner</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=most-comfortable-chairs-for-relaxing'>Most Comfortable Chairs For Relaxing</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=are-mums-poisonous-to-humans'>Are Mums Poisonous To Humans</a>,
+";s:7:"expired";i:-1;}

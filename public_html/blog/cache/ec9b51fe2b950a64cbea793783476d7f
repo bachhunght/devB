@@ -1,0 +1,256 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3049:"The recipe is adapted from Weight Watchers Take 5 – 150 Five-Ingredient Recipes cookbook. 1 green pepper diced. Ingredients 1 pound lean ground beef. In a large skillet over medium-high heat, saute beef until browned; drain off excess liquid. 1 cup rice 1/4 cup extra virgin olive oil 1 pint low sodium chicken or beef broth 4 cloves garlic, minced pinch of cayenne 1 pint chopped fresh vegetables of your choice* 1 pint diced tomatoes and juice 1 tbsp. In a skillet, brown beef, onion, green pepper and rice. Add beef, onion, and green pepper, cooking until meat is browned; drain liquid. Mix well. Add milk, butter and salt and cook the rice on low heat, stirring constantly to avoid scorching. black pepper 1/4 cup Marsala or other red wine 1/4 tsp. 1 cup shredded cheddar cheese optional. Reduce heat to medium-low, cover, and cook for about 30 minutes, or until rice is tender. 1 medium yellow onion, diced. salt 1/4 tsp. This simple, easy Spanish Rice and Ground Beef recipe makes a great 30 minute dinner, perfect for those nights when you need to get food on the table fast. Yields 6 servings. 1 (15 oz) can tomato sauce. Enjoy these sides with red and green bell peppers, onions, tomatoes, garlic, and sweet tomato sauce. I also use Uncle Ben's Tomato Basil … Place the rice and water into the pot, bring to a boil then simmer for few minutes, covered, until the rice absorbs the water. This Spanish Rice is a nostalgic dish for me because it’s one of the very first dishes I helped my mom make. Bring to a boil over medium-high heat. Stir in remaining ingredients; reduce heat to low, cover, and simmer 20 minutes, or until rice is tender. tomato paste (optional) 1/2 tsp. salt and pepper, to taste. I also use the hot and spicy V 8 for zing. In a large skillet, heat oil over medium-high heat. Bake for 25-30 minutes.  sugar or honey 1/2 tsp. 4 cups white rice prepared. NOTE: you can heat the oven to 400 degrees and combine the cooked bacon, onion and pepper with the rice and tomatoes, salt and pepper, in a baking dish. Reduce heat. Sprinkle with cilantro and serve. Add remaining ingredients. It’s inexpensive but tasty and is a meal the whole family will love! Add the tomatoes, water, ketchup, rice, chili powder, sugar, and Worcestershire sauce, 1/2 teaspoon salt, and a dash of pepper. Bring to a boil. As a 4 and 5 year old I’d sit up on the kitchen counter, eager to help, and my mom would give me the task of browning the ground beef and stir in the remaining ingredients. Cover and simmer 20 to 25 minutes or until rice is tender. This is a classic, old-fashioned stuffed bell pepper. I use red peppers because they are sweeter. ALSO, you can substitute jarred or packaged cooked bacon bits, genuine or soy-imitation. I discovered this easy Spanish rice and ground beef recipe in … Stir in remaining ingredients, bring to a boil, reduce heat to low, cover, and … Top with crumbled bacon and … When the rice is almost cooked(about 10-15 minutes), add sugar and … Discover Knorr® Fiesta Sides: Spanish Rice. ";s:7:"keyword";s:33:"old fashioned spanish rice recipe";s:5:"links";s:10492:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=couches-for-sale-san-diego'>Couches For Sale San Diego</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rapid-prototyping-with-continuous-delivery-contributes-to-which-theme'>Rapid Prototyping With Continuous Delivery Contributes To Which Theme</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-strawberry-ice-cream-without-heavy-cream'>How To Make Strawberry Ice Cream Without Heavy Cream</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-propagate-guadua-bamboo'>How To Propagate Guadua Bamboo</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=occasional-chairs-at-the-range'>Occasional Chairs At The Range</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=menards-black-friday-2018-ad'>Menards Black Friday 2018 Ad</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fire-pit-table-and-chairs-set'>Fire Pit Table And Chairs Set</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=tim-tam-power-massager-pro'>Tim Tam Power Massager Pro</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lazy-boy-chairs-tafelberg-furnishers'>Lazy Boy Chairs Tafelberg Furnishers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=2-3-times-2-3-in-fraction-form'>2 3 Times 2 3 In Fraction Form</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-long-does-it-take-to-get-glowing-skin'>How Long Does It Take To Get Glowing Skin</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sur-la-table-locations-nj'>Sur La Table Locations Nj</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-create-storage-in-an-apartment'>How To Create Storage In An Apartment</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=does-west-elm-outlet-ship'>Does West Elm Outlet Ship</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-many-containers-can-be-defined-in-a-task-definition-in-ecs'>How Many Containers Can Be Defined In A Task Definition In Ecs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=black-krim-tavern-randolph-vt'>Black Krim Tavern Randolph Vt</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-restaurants-north-york-2019'>Best Restaurants North York 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=narrow-console-tables-for-narrow-hall'>Narrow Console Tables For Narrow Hall</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=private-swimming-pool-codes-and-regulations'>Private Swimming Pool Codes And Regulations</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cheese-recipes-for-indian-babies'>Cheese Recipes For Indian Babies</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mahindra-arjun-novo-harvester-price'>Mahindra Arjun Novo Harvester Price</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=upholstered-dining-chair-black-legs'>Upholstered Dining Chair Black Legs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=canvas-art-ideas-for-beginners'>Canvas Art Ideas For Beginners</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=a-new-tomato-ideal-for-urban-gardens-and-even-outer-space'>A New Tomato Ideal For Urban Gardens And Even Outer Space</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-style-does-philippe-starck-work-in'>What Style Does Philippe Starck Work In</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=list-of-all-unilever-brands'>List Of All Unilever Brands</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bathroom-with-separate-toilet-room'>Bathroom With Separate Toilet Room</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-drink-rum-and-coke'>How To Drink Rum And Coke</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=creative-wall-painting-ideas-for-living-room'>Creative Wall Painting Ideas For Living Room</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kimchi-fried-rice-recipe-with-chicken'>Kimchi Fried Rice Recipe With Chicken</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=2018-ram-1500-bed-dimensions'>2018 Ram 1500 Bed Dimensions</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=penumbral-lunar-eclipse-astrological-meaning'>Penumbral Lunar Eclipse Astrological Meaning</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=175-watt-metal-halide-bulb'>175 Watt Metal Halide Bulb</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=double-impatiens-buds-not-opening'>Double Impatiens Buds Not Opening</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=meatloaf-recipe-oatmeal-1-lb-hamburger'>Meatloaf Recipe Oatmeal 1 Lb Hamburger</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-liberation-of-the-philippines-summary'>The Liberation Of The Philippines Summary</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=delonghi-esam3300-magnifica-coffee-maker-with-grinder'>Delonghi Esam3300 Magnifica Coffee Maker With Grinder</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=new-zealand-red-stag-weight'>New Zealand Red Stag Weight</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=weekly-menu-planner-north-indian-vegetarian'>Weekly Menu Planner North Indian Vegetarian</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ashley-norcastle-oval-cocktail-table'>Ashley Norcastle Oval Cocktail Table</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=importance-of-keeping-the-classroom-clean'>Importance Of Keeping The Classroom Clean</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=computer-science-organizations-for-students'>Computer Science Organizations For Students</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bar-stools-clearance-near-me'>Bar Stools Clearance Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=urban-dictionary-new-words-2018'>Urban Dictionary New Words 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=https-watch-cookingchanneltv-com-activate'>Https Watch Cookingchanneltv Com Activate</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=5-minute-breakfast-recipes-indian-veg'>5 Minute Breakfast Recipes Indian Veg</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=home-tek-steam-mop-not-steaming'>Home Tek Steam Mop Not Steaming</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wards-creek-at-arbor-mill'>Wards Creek At Arbor Mill</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pancake-ideas-with-pancake-mix'>Pancake Ideas With Pancake Mix</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=oldcastle-planter-wall-block-lowes'>Oldcastle Planter Wall Block Lowes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=slideshare-ppt-downloader-online-free'>Slideshare Ppt Downloader Online Free</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=arrow-season-8-episode-1'>Arrow Season 8 Episode 1</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-run-a-restaurant-kitchen-efficiently'>How To Run A Restaurant Kitchen Efficiently</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=20-Million-Miles-to-Earth'>20 Million Miles To Earth</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=6-cube-storage-unit-with-baskets'>6 Cube Storage Unit With Baskets</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=5-star-hotel-kitchen-layout-design'>5 Star Hotel Kitchen Layout Design</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=books-like-the-magnolia-story'>Books Like The Magnolia Story</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=types-of-jade-plants-images'>Types Of Jade Plants Images</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-be-a-better-cook'>How To Be A Better Cook</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=vango-camping-chair-with-footrest'>Vango Camping Chair With Footrest</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=quotes-about-grass-being-greener'>Quotes About Grass Being Greener</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-use-steam-cycle-on-samsung-washer'>How To Use Steam Cycle On Samsung Washer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ebay-global-shipping-program-countries'>Ebay Global Shipping Program Countries</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=garage-storage-bins-for-sports-equipment'>Garage Storage Bins For Sports Equipment</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-draw-a-living-room-in-one-point-perspective-step-by-step'>How To Draw A Living Room In One Point Perspective Step By Step</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pioneer-woman-green-beans-and-new-potatoes'>Pioneer Woman Green Beans And New Potatoes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=williams-college-athletics-staff-directory'>Williams College Athletics Staff Directory</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=south-indian-restaurants-in-san-francisco'>South Indian Restaurants In San Francisco</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=artificial-flower-garlands-for-decoration'>Artificial Flower Garlands For Decoration</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dyson-ball-animal-2-total-clean'>Dyson Ball Animal 2 Total Clean</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=snow-white-and-the-seven-dwarfs-summary'>Snow White And The Seven Dwarfs Summary</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=houses-for-rent-concord-ma'>Houses For Rent Concord Ma</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=characteristics-of-plants-for-grade-1'>Characteristics Of Plants For Grade 1</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=garlic-growing-season-in-pakistan'>Garlic Growing Season In Pakistan</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-permanently-fix-posture'>How To Permanently Fix Posture</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=back-case-meaning-in-tamil'>Back Case Meaning In Tamil</a>,
+";s:7:"expired";i:-1;}

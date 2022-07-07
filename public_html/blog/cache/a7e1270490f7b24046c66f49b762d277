@@ -1,0 +1,232 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4736:"We are seeking to appoint a temporary Director of Postgraduate Admissions (maternity cover) at the College Admissions Team in the College of Arts, Humanities and Social Sciences. ... Edinburgh Napier University is a registered Scottish charity. The University of Edinburgh is a charitable body, registered in Scotland, with registration number SC005336, VAT Registration Number GB 592 9507 00, and is acknowledged by the UK authorities as a “Recognised body” which has been granted degree awarding powers. A review of the University’s Policy and procedure for the admissions of applicants with declared disabilities is planned once recommendations are received. Durham University ⇨ Academic Office ⇨ Recruitment & Admissions ⇨ Postgraduate Admissions; Postgraduate Admissions. You can find out how to do this on the University of Edinburgh website, where you'll also be able to: see detailed entrance requirements for each programme on … The Postgraduate Admissions team supports the postgraduate admissions process across the University, working closely with Faculty Offices and departments, which have responsibility for application processing. Documents vary by course, so always check the academic department website for which specific documents are needed. Wherever you’re from, wherever you’re going, postgraduate study at Edinburgh Napier will give you the competitive edge to succeed. ... University of Edinburgh Business School 29 Buccleuch Place Edinburgh EH8 9JS. About us. Contact Information. A question on disability is included on the application with disability categories which reflect HESA reporting categories.  The university offers a wide variety of UG courses to international students. The University of Edinburgh. Durham University’s Postgraduate Admissions Policy applies to the admission of students to postgraduate taught and postgraduate research programmes at Durham University. Most applications are processed within 12 weeks, with the majority of offers released in February and March. Academic Office; Academic Registrar's Office; Access and Engagement; Curriculum, Learning & Assessment; Ceremonies Unit; Student Immigration & Funding; Recruitment & Admissions. Postgraduate applications: Postgraduate applicants apply directly to the University of Edinburgh using an online application form linked to our student records system. While most candidates are accepted, the admission to most programmes at University of Edinburgh is competitive. The University of Edinburgh is a charitable body, registered in Scotland, with registration number SC005336, VAT Registration Number GB 592 9507 00, and is acknowledged by the UK authorities as a “Recognised body” … The admission to most programmes at the University of Edinburgh is very highly competitive. Student Recruitment and Admissions University of Edinburgh Date: Wed 14 November 2018, Acting Deputy Head of Recruitment and Admissions, University of Edinburgh. Taught programmes Applicants for MSc, MLitt, MRes, Conversion Diploma, and Postgraduate Certificate programmes should apply online using the applications and guidance for taught programmes. Edinburgh graduates are also among the UK’s top earners. The University of Edinburgh is a charitable body, registered in Scotland, with registration number SC005336, VAT Registration Number GB 592 9507 00, and is acknowledged by the UK authorities as a “Recognised body” … Find your course, get application help, funding advice and register for our next event to make your Masters a reality. Find out how and when to apply to a Masters and other postgraduate taught courses at York (MSc, MA, PG Dip, PG Cert, PGCE, Graduate Diploma and MRes). The College currently admits approximately 9500 students each year joining a total student population of more than 22,800 students representing more than 95 nationalities. The University of Edinburgh is a charitable body, … Location Edinburgh, AUA / Open University Postgraduate Certificate,. Team Leader Laura Hutchison. With a world-class Masters or MBA from the University of Edinburgh Business School, you will develop the knowledge and skills required to stand out from the crowd and achieve your goals.Much more than simply a source of knowledge, our School connects our students with local, national and international businesses, innovators and entrepreneurs. Admissions Assistants Heather Young ... the Admissions team ensures applications to the University are dealt with efficiently, fairly and in accordance with the requirements of external bodies UCAS, UKVI and QAA. If you'd like to study on a postgraduate programme at Edinburgh College of Art, you must apply through EUCLID, our online application system. ";s:7:"keyword";s:47:"university of edinburgh postgraduate admissions";s:5:"links";s:6958:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=potatoes-and-green-beans-in-oven'>Potatoes And Green Beans In Oven</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-gardening-youtube-channels-india'>Best Gardening Youtube Channels India</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-long-to-fry-bacon'>How Long To Fry Bacon</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=raw-flattened-rice-side-effects'>Raw Flattened Rice Side Effects</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=design-patterns-in-ios-raywenderlich'>Design Patterns In Ios Raywenderlich</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philips-hue-black-friday-canada'>Philips Hue Black Friday Canada</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-bittersweet-ski-resort-open'>Is Bittersweet Ski Resort Open</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=types-of-peas-in-india'>Types Of Peas In India</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=one-of-the-best-moments-of-my-life-meaning-in-hindi'>One Of The Best Moments Of My Life Meaning In Hindi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-big-were-the-guns-of-navarone'>How Big Were The Guns Of Navarone</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=black-friday-2019-skis-sale'>Black Friday 2019 Skis Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=new-construction-homes-in-shelby-township-mi'>New Construction Homes In Shelby Township Mi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=office-in-a-small-city'>Office In A Small City</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lower-roof-of-the-rockies-trail'>Lower Roof Of The Rockies Trail</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=famous-indian-painters-of-2017'>Famous Indian Painters Of 2017</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=describe-cat-in-one-sentence'>Describe Cat In One Sentence</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=robin-and-the-7-hoods-full-movie'>Robin And The 7 Hoods Full Movie</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=antique-claw-foot-table-value'>Antique Claw Foot Table Value</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=from-scratch-to-hatch-meaning'>From Scratch To Hatch Meaning</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=home-depot-storm-door-installation-cost'>Home Depot Storm Door Installation Cost</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=right-at-home-cost-per-hour'>Right At Home Cost Per Hour</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=black-and-white-prints-set-of-3'>Black And White Prints Set Of 3</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-did-the-battle-of-thermopylae-take-place'>Where Did The Battle Of Thermopylae Take Place</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-cook-sausage-patties-in-the-oven'>How To Cook Sausage Patties In The Oven</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=carpathian-walnut-vs-english-walnut'>Carpathian Walnut Vs English Walnut</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=generac-pressure-washer-repair-near-me'>Generac Pressure Washer Repair Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=name-brand-shoes-for-cheap'>Name Brand Shoes For Cheap</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ready-made-sofa-covers-sale'>Ready Made Sofa Covers Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=radar-for-mountain-top-pennsylvania'>Radar For Mountain Top Pennsylvania</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=olympic-size-pool-near-me'>Olympic Size Pool Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lg-front-load-washing-machine-leaking-from-bottom-front'>Lg Front Load Washing Machine Leaking From Bottom Front</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hell-is-for-heroes-full-movie'>Hell Is For Heroes Full Movie</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sunday-brunch-new-milford-ct'>Sunday Brunch New Milford Ct</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-was-frances-tophill-born'>Where Was Frances Tophill Born</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-grow-maruvam-plant-in-telugu'>How To Grow Maruvam Plant In Telugu</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=contemporary-metal-wall-art-uk'>Contemporary Metal Wall Art Uk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=can-anyone-shop-at-flavortown-market'>Can Anyone Shop At Flavortown Market</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dinner-ideas-for-friends-coming-over'>Dinner Ideas For Friends Coming Over</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=four-seasons-high-tea-kl-price'>Four Seasons High Tea Kl Price</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=tomato-benefits-for-skin-whitening'>Tomato Benefits For Skin Whitening</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=village-square-leisure-centre-swimming-pool-prices'>Village Square Leisure Centre Swimming Pool Prices</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hyatt-incline-village-sugar-pine-junior-suite'>Hyatt Incline Village Sugar Pine Junior Suite</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=smeg-dolce-gabbana-kettle-price'>Smeg Dolce Gabbana Kettle Price</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=museum-of-illusions-new-york'>Museum Of Illusions New York</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-plant-on-a-steep-slope'>How To Plant On A Steep Slope</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bungalow-with-walkout-basement-plans'>Bungalow With Walkout Basement Plans</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bar-stools-clearance-near-me'>Bar Stools Clearance Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-repair-refrigerator-compressor'>How To Repair Refrigerator Compressor</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=can-i-grow-potatoes-from-store-bought-potatoes'>Can I Grow Potatoes From Store Bought Potatoes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=home-cooked-meals-for-college-kids'>Home Cooked Meals For College Kids</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-restaurants-in-pretoria-2019'>Best Restaurants In Pretoria 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-time-to-go-to-neptune-oyster'>Best Time To Go To Neptune Oyster</a>,
+";s:7:"expired";i:-1;}

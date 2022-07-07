@@ -1,0 +1,231 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:249:"Darlin', you give love a bad name An angel's smile is what you sell "You Give Love a Bad Name" is a song written by Jon Bon Jovi, Desmond Child, and …  Shot through the heart, And you're to blame! Lyrics to 'You Give Love A Bad Name' by Bon Jovi. ";s:7:"keyword";s:24:"You Give Love A Bad Name";s:5:"links";s:6919:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-truth-about-charlie-trailer'>The Truth About Charlie Trailer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=on-the-go-portable-beach-lounger'>On The Go Portable Beach Lounger</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pros-and-cons-of-deep-frying'>Pros And Cons Of Deep Frying</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=does-verizon-support-huawei-p30-pro'>Does Verizon Support Huawei P30 Pro</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=daniel-libeskind-world-trade-center'>Daniel Libeskind World Trade Center</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-kitchen-raise-the-bbq'>The Kitchen Raise The Bbq</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=euphoria-israeli-tv-show-episodes'>Euphoria Israeli Tv Show Episodes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=why-are-fruits-good-for-you'>Why Are Fruits Good For You</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dog-friendly-trails-near-me'>Dog Friendly Trails Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hotels-near-glacier-national-park'>Hotels Near Glacier National Park</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=history-of-economic-thought-a-critical-perspective'>History Of Economic Thought A Critical Perspective</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lowes-hardwood-floor-cleaner-rental'>Lowes Hardwood Floor Cleaner Rental</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=crockpot-cheesy-potatoes-with-tater-tots'>Crockpot Cheesy Potatoes With Tater Tots</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ryobi-2300-electric-pressure-washer'>Ryobi 2300 Electric Pressure Washer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-are-the-main-benefits-of-agriculture'>What Are The Main Benefits Of Agriculture</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=most-popular-indian-food-in-the-world'>Most Popular Indian Food In The World</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=peas-and-dumplings-with-bisquick'>Peas And Dumplings With Bisquick</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-american-heritage-dictionary-of-the-english-language-1969'>The American Heritage Dictionary Of The English Language 1969</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=guy-fieri-juju-sauce-recipe'>Guy Fieri Juju Sauce Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fresh-green-bean-casserole-with-cream-of-mushroom'>Fresh Green Bean Casserole With Cream Of Mushroom</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sing-a-song-in-hindi'>Sing A Song In Hindi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=Path-in-the-Wheat-at-Pourville'>Path In The Wheat At Pourville</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fiddle-leaf-fig-support-stick'>Fiddle Leaf Fig Support Stick</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=quiche-lorraine-recette-sans-creme'>Quiche Lorraine Recette Sans Creme</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-to-sell-abstract-art'>Where To Sell Abstract Art</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=carrot-juice-for-hair-regrowth'>Carrot Juice For Hair Regrowth</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-is-the-time-in-california-just-now'>What Is The Time In California Just Now</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-qualifies-as-a-farm-in-ontario'>What Qualifies As A Farm In Ontario</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-big-game-book-summary'>The Big Game Book Summary</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-public-enemy-movie-message'>The Public Enemy Movie Message</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=perisher-lift-pass-prices-2019'>Perisher Lift Pass Prices 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=indian-breakfast-recipes-sanjeev-kapoor-in-hindi'>Indian Breakfast Recipes Sanjeev Kapoor In Hindi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=home-depot-delivery-never-showed-up'>Home Depot Delivery Never Showed Up</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cabinet-with-lots-of-small-drawers'>Cabinet With Lots Of Small Drawers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=umass-lowell-vs-umass-dartmouth'>Umass Lowell Vs Umass Dartmouth</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=all-i-see-is-you-ending-spoiler'>All I See Is You Ending Spoiler</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=honda-gcv160-carburetor-manual-choke'>Honda Gcv160 Carburetor Manual Choke</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=international-volunteer-hq-areas-served'>International Volunteer Hq Areas Served</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pool-valves-open-or-closed'>Pool Valves Open Or Closed</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sheffield-hallam-university-fees-payment'>Sheffield Hallam University Fees Payment</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-temperature-should-a-freezer-be-in-celsius'>What Temperature Should A Freezer Be In Celsius</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=can-you-grow-individually-in-a-relationship'>Can You Grow Individually In A Relationship</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=diners-drive-ins-and-dives-season-30-episode-2'>Diners Drive Ins And Dives Season 30 Episode 2</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=Two-and-a-Half-Men'>Two And A Half Men</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=greater-bird-of-paradise-for-sale'>Greater Bird Of Paradise For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dark-brown-nightstand-set-of-2'>Dark Brown Nightstand Set Of 2</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=reach-out-and-read-volunteer'>Reach Out And Read Volunteer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sugar-snap-pea-and-carrot-salad'>Sugar Snap Pea And Carrot Salad</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=single-sofa-beds-for-small-rooms'>Single Sofa Beds For Small Rooms</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bisquick-fried-chicken-fingers-recipe'>Bisquick Fried Chicken Fingers Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-to-do-with-leftover-fried-chicken-strips'>What To Do With Leftover Fried Chicken Strips</a>,
+";s:7:"expired";i:-1;}

@@ -1,0 +1,201 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3567:"Home to 14 of Michigan’s ski areas, the Upper Peninsula offers up some of the best views and conditions in the midwest. 15 Best Resorts in Michigan: Mission Point Resort: missionpoint. With nearly 50 open ski areas, Michigan is overflowing with opportunities to test the slopes and have fun on the runs. The Inn at Bay Harbour: innatbayharbor. Norway Mountain, located in the picturesque U.P. Norway Mountain, located in the picturesque U.P. Evaluated by Skiresort.info, the world's largest evaluation and test portal for ski resorts. Easily the most talked about ski resort in Michigan, Mount Bohemia is a must-do for any skier looking for a challenge. Top 10 ski resorts, areas in Michigan this winter. Grand Hotel: grandhotel. Boyne Highlands, located in North Michigan has the state's longest ski run. This hidden secret is a true treasure for backcountry skiers & riders. Garland Lodge and Resort: garlandusa. Play bucket list golf at the resorts of America’s Summer Golf Capital or experience a winter adventure the whole family can enjoy at resorts including Boyne, Crystal Mountain and Shanty Creek.So relax, have fun and live it up. Indianhead Mountain Resort - (Western U.P.) Upper Peninsula Michigan Ski Resorts: Resort directory featuring a complete list of 16 Ski Resorts. Mount Bohemia – Extreme Skiing, Endless Adventure. Featured Upper Peninsula Ski Resorts. Ski Brule Sign up for the Skibrule Newsletter! Grand Traverse Resort and Spa: grandtraverseresort. is an experience that should be on everybody’s list. The ski resort Nub's Nob Ski Area (same rating: Boyne Mountain) is the best ski resort in Michigan.With 2.8 out of 5 stars, it has the highest rating in Michigan. Skiing in Michigan? A timeless vacation can be yours at Indianhead. The Best Michigan Ski Resort in Midwest; ski, snowboard, terrain parks, tubing, acrobag, fat bike trails, cross country trails and more! Mount Bohemia in Michigan’s Upper Peninsula has the longest runs with the highest vertical and deepest powder in the Midwest. Michigan golf and ski resorts are popular destinations across Michigan offering a checklist of activities throughout each season. Ranging from smaller mom and pop type ski areas, to full-fledged resorts, skiing in the U.P. Boasting a family-friendly atmosphere, what Caberfae might lack in frills and over-the-top resort amenities, they more than make up for it by getting back to the core of skiing and snowboarding. Amenities include indoor pool, hot tub and sauna; Famer's Restaurant and bar and the Sitzmark bar. Here's a look at the best places to go this winter. Michigan 115 (M-115) is the start of ski areas in the northern lower. Shorter lift lines, a friendlier feel, and less expensive tickets—there’s a lot to love about smaller ski areas. Crystal Mountain Resort and Spa: crystalmountain. Located in the tip top of the Keweenaw Peninsula in the UP, Mount Bohemia offers an expert only experience. Check out 10 of the top Michigan downhill ski resorts. Michigan is home to more than 40 ski resorts. A cluster of resorts are located in the Upper Penninsula. Lac La Belle, Michigan, United States Wilderness Resort is nestled in the heart of beautiful Lac La Belle, an ideal location for both relaxation and fun! Best Upper Peninsula Resorts on Tripadvisor: Find traveler reviews, candid photos, and prices for 11 resorts in Upper Peninsula, Michigan, United States. With over 200 inches of annual snow (over 300 in some years) and a commitment to excellence, Blackjack Ski Resort assures you a great family ski vacation. ";s:7:"keyword";s:27:"best ski resort up michigan";s:5:"links";s:2779:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-creation-of-adam-facts'>The Creation Of Adam Facts</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=longman-dictionary-of-american-english'>Longman Dictionary Of American English</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=italian-marble-dining-table-singapore'>Italian Marble Dining Table Singapore</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bridger-bowl-season-pass-msu-student'>Bridger Bowl Season Pass Msu Student</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lily-of-the-nile-facts'>Lily Of The Nile Facts</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bon-appetit-recipes-from-1990s'>Bon Appetit Recipes From 1990s</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=i-80-road-conditions-tahoe'>I 80 Road Conditions Tahoe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=swimming-pool-kits-inground-fiberglass'>Swimming Pool Kits Inground Fiberglass</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=thesaurus-pronunciation-in-uk-english'>Thesaurus Pronunciation In Uk English</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=meaning-of-paramount-in-hindi'>Meaning Of Paramount In Hindi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=oil-painting-ideas-for-beginners-step-by-step'>Oil Painting Ideas For Beginners Step By Step</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-grow-iceberg-lettuce-from-scraps'>How To Grow Iceberg Lettuce From Scraps</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=baked-corn-on-the-cob-in-husk'>Baked Corn On The Cob In Husk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=food-science-and-technology-textbook'>Food Science And Technology Textbook</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-power-recliner-for-elderly-woman'>Best Power Recliner For Elderly Woman</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philips-hue-colour-bulb-gu10'>Philips Hue Colour Bulb Gu10</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-lay-a-garden-path'>How To Lay A Garden Path</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=an-idiot-abroad-season-1-episode-2'>An Idiot Abroad Season 1 Episode 2</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=target-kids-table-and-chairs'>Target Kids Table And Chairs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=make-ahead-camping-breakfast-burritos'>Make Ahead Camping Breakfast Burritos</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=second-hand-dining-chairs-ebay'>Second Hand Dining Chairs Ebay</a>,
+";s:7:"expired";i:-1;}

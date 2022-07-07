@@ -1,0 +1,270 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4865:"Home; NJ; Bloomfield; Bloomfield Houses For Rent; Find Houses for Rent In Bloomfield, New Jersey. $1,325 – $1,700. Your search for houses for rent in Bloomfield has returned 146 results. We have 272 properties for rent listed as house bloomfield nj, from just $1,125. Weichert Realtors is one of the nation's leading providers of Bloomfield, New Jersey real estate for sale and home ownership services. There are currently 16 houses available for rent which fluctuated 0.57% over the last 30-day period for Bloomfield, with 2,209 people recently looking for Bloomfield housing. Bloomfield apartments and more rentals are fast to find. Easily discover 89 apartments for rent in Bloomfield, NJ on realtor.com®. 1–2 Bedrooms. Zillow has 18 single family rental listings in Bloomfield NJ matching. Refine your search by using the filter at the top of the page to view 1, 2 or 3+ bedroom Houses, as well as cheap Houses, pet friendly Houses, Houses … Find Bloomfield, NJ rentals, apartments & homes for rent with Coldwell Banker Residential Brokerage. 110 N Fulton St, Bloomfield, NJ 07003. See 19 Houses for rent in Bloomfield, NJ, browse photos, floor plans, reviews and more to help you find your perfect home. Situated just 17 miles outside of New York City, the township of Bloomfield, N.J., is an excellent option for families that wish to be close to the bright lights of the Big Apple.Homes for rent in Bloomfield offer a unique pace of living, mainly due to the community's status as a high-density suburb. View listing photos, nearby sales and find the perfect home for rent in Bloomfield, NJ Search Bloomfield, NJ real estate for sale. Point2 Homes has 13 single family homes for rent in the Bloomfield, NJ area{# with prices between $1,500 and $2,600. Find bloomfield properties for rent at the best price Houses for Rent Search Houses for Rent in Bloomfield, NJ. $2,450 – $2,851. There are 73 real estate listings found in Bloomfield, NJ.View our Bloomfield real estate area information to learn about the weather, local school districts, demographic data, and general information about Bloomfield, NJ. Contact Weichert today to buy or sell real estate in Bloomfield, NJ. Condos for rent in Bloomfield. More Photos. Bloomfield is regarded as an up-and-coming area, boasting convenient access to New York City via major roadways, highways, buses, trains, commuter rail, and light rail. Use our detailed filters to find the perfect place, then get in touch with the landlord. Houses for rent in Bloomfield. See pricing and listing details of Bloomfield real estate for sale. Search by what matters to you: central air, garage or swimming pool.' Get in touch with a Bloomfield real estate agent who can help you find the home of your dreams in Bloomfield. Search these Bloomfield Rentals.  Find Bloomfield, NJ rentals, apartments & homes for rent with Coldwell Banker Residential Brokerage. View Houses for rent in Bloomfield, NJ and compare ratings reviews, 3D floor plans, and high res images. 1 Bathrooms. Compare rentals, see map views and save your favorite houses. We provide a cost calculator, pricing tools, and more so you’ll know exactly what it will cost to live in the city you love. Apartment in Bloomfield. Our newest single family home for rent in Bloomfield, NJ is from 02/11/2020. Search for Houses for Rent in Bloomfield, NJ. New - 19 hours ago. See floorplans, pictures, prices & info for available rental homes, condos, and townhomes in Bloomfield, NJ. See all available apartments for rent at 45 Bryant Ave in Bloomfield, NJ. Search 16 Single Family Homes For Rent in Bloomfield, New Jersey. Let Apartment Finder guide you in the process of finding your new home and getting a great deal! You found 18 Houses for rent. Troy Towers. View detailed property information, photos, street view, and receive real-time updates. 155 house rental listings are currently available. Townhomes for rent in Bloomfield. New - 19 hours ago. Search Bloomfield, NJ apartments with the largest and most trusted rental site. Available 7/15 $3550 5br - 2000ft 2 - (Piscataway) hide this posting restore restore this posting. 1 Bathrooms. New - 19 hours ago. Rooms for rent in Bloomfield NJ Cats allowed Cheap Children friendly For couples Dogs allowed Ensuite (or own bathroom) For females Furnished LGBT+ or Gay For males Pets allowed Private 40+ years welcome Shared Single Students welcome 45 Bryant Ave has rental units starting at $4000. Listing Provided by. With an ideal mix of suburban lifestyle and convenient access to the Big Apple, Bloomfield is a great place to call home. Listing Provided by. Search these Bloomfield Rentals. Search for Houses for Rent in Bloomfield, NJ. 0–1 Bedrooms How difficult is it to rent a house in Bloomfield, NJ? Find Bloomfield apartments, condos, townhomes, single family homes, and much more on Trulia. ";s:7:"keyword";s:29:"houses for rent bloomfield nj";s:5:"links";s:11982:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=scottish-borders-points-of-interest'>Scottish Borders Points Of Interest</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=flowers-that-bloom-all-season'>Flowers That Bloom All Season</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rustic-sisal-farmhouse-bathroom-rug'>Rustic Sisal Farmhouse Bathroom Rug</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=indoor-dog-kennels-for-sale'>Indoor Dog Kennels For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-kitchen-table-bistro-richmond-vt'>The Kitchen Table Bistro Richmond Vt</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=southern-food-with-a-twist'>Southern Food With A Twist</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-are-helinox-chairs-made'>Where Are Helinox Chairs Made</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=who-won-the-battle-of-britain'>Who Won The Battle Of Britain</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-did-italians-eat-before-tomatoes'>What Did Italians Eat Before Tomatoes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=crested-butte-lift-tickets-2020'>Crested Butte Lift Tickets 2020</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=no-1-duke-street-private-room'>No 1 Duke Street Private Room</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=750-sq-ft-house-plan-3d'>750 Sq Ft House Plan 3d</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ceramic-pots-with-drainage-holes'>Ceramic Pots With Drainage Holes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=garibaldi-lake-hike-in-rain'>Garibaldi Lake Hike In Rain</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=steam-pressure-washer-for-cars'>Steam Pressure Washer For Cars</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pressure-washer-spray-gun-replacement'>Pressure Washer Spray Gun Replacement</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=300g-of-broccoli-in-cups'>300g Of Broccoli In Cups</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=music-stores-that-no-longer-exist'>Music Stores That No Longer Exist</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=step-2-kitchen-replacement-parts'>Step 2 Kitchen Replacement Parts</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=diy-christmas-wreath-dollar-tree'>Diy Christmas Wreath Dollar Tree</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-restaurants-in-warsaw-2019'>Best Restaurants In Warsaw 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=nicol-bolas-dragon-god-japanese'>Nicol Bolas Dragon God Japanese</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=used-washing-machine-near-me'>Used Washing Machine Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=second-hand-furniture-shop-in-kl'>Second Hand Furniture Shop In Kl</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=who-voices-buff-in-borderlands-3'>Who Voices Buff In Borderlands 3</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-is-green-treated-wood'>What Is Green Treated Wood</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ge-supra-ibox-how-to-open'>Ge Supra Ibox How To Open</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=farmhouse-wall-decor-living-room'>Farmhouse Wall Decor Living Room</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-many-acres-in-a-square-mile'>How Many Acres In A Square Mile</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cape-cod-shingle-style-house'>Cape Cod Shingle Style House</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=samsung-dryer-parts-store-near-me'>Samsung Dryer Parts Store Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=houses-for-rent-in-east-los-angeles'>Houses For Rent In East Los Angeles</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=whirlpool-authorized-service-near-me'>Whirlpool Authorized Service Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=graphite-gray-panel-pool-set'>Graphite Gray Panel Pool Set</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=honda-pressure-washer-oil-check'>Honda Pressure Washer Oil Check</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=macdonald-furniture-closing-down-sale'>Macdonald Furniture Closing Down Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=city-of-fort-saskatchewan-employees'>City Of Fort Saskatchewan Employees</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=free-list-of-foreclosures-by-zip-code'>Free List Of Foreclosures By Zip Code</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=navy-and-gold-dining-chairs'>Navy And Gold Dining Chairs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=townhomes-for-sale-near-me-zillow'>Townhomes For Sale Near Me Zillow</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=edinburgh-college-of-art-address'>Edinburgh College Of Art Address</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sarah-j-maas-throne-of-glass'>Sarah J Maas Throne Of Glass</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=beko-fridge-freezer-recall-model-numbers'>Beko Fridge Freezer Recall Model Numbers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=master-bedroom-wallpaper-accent-wall'>Master Bedroom Wallpaper Accent Wall</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=The-Passion-of-Ayn-Rand'>The Passion Of Ayn Rand</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=water-bath-canning-apple-butter'>Water Bath Canning Apple Butter</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=100-vocabulary-words-with-meaning-and-sentence-pdf'>100 Vocabulary Words With Meaning And Sentence Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-it-safe-to-eat-romaine-lettuce-from-salinas-ca'>Is It Safe To Eat Romaine Lettuce From Salinas Ca</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=unesco-world-heritage-sites-france'>Unesco World Heritage Sites France</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=beef-stroganoff-with-stew-meat-and-cream-of-mushroom-soup'>Beef Stroganoff With Stew Meat And Cream Of Mushroom Soup</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=nopalito-diners-drive-ins-and-dives'>Nopalito Diners Drive Ins And Dives</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=office-interior-design-concepts-in-india'>Office Interior Design Concepts In India</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=beg-your-pardon-lyrics-03-greedo'>Beg Your Pardon Lyrics 03 Greedo</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=target-photo-print-to-store-coupon-code'>Target Photo Print To Store Coupon Code</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=a-hidden-life-on-netflix'>A Hidden Life On Netflix</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=easy-snack-ideas-for-picnics'>Easy Snack Ideas For Picnics</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dora-and-the-lost-city-of-gold-box-office-bomb'>Dora And The Lost City Of Gold Box Office Bomb</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-much-value-does-a-half-bathroom-add'>How Much Value Does A Half Bathroom Add</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-cancel-good-food'>How To Cancel Good Food</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wallpaper-borders-for-bathrooms-walmart'>Wallpaper Borders For Bathrooms Walmart</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chicken-and-waffles-near-me'>Chicken And Waffles Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-to-do-in-quebec-city'>What To Do In Quebec City</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=quebec-city-events-september-2019'>Quebec City Events September 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ikea-galant-desk-for-sale'>Ikea Galant Desk For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-grow-microgreens-commercially'>How To Grow Microgreens Commercially</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-do-you-say-hotel-in-italian'>How Do You Say Hotel In Italian</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=eu-permanent-residence-for-non-eu-citizens'>Eu Permanent Residence For Non Eu Citizens</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=plain-blue-wallpaper-for-walls'>Plain Blue Wallpaper For Walls</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=whirlpool-refrigerator-size-by-model-number'>Whirlpool Refrigerator Size By Model Number</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=keto-bacon-cheeseburger-casserole-recipe'>Keto Bacon Cheeseburger Casserole Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=neil-flynn-salary-per-episode-the-middle'>Neil Flynn Salary Per Episode The Middle</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=from-scratch-balkan-food-truck'>From Scratch Balkan Food Truck</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=coffee-shops-near-me-with-free-wifi'>Coffee Shops Near Me With Free Wifi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=feedback-amplifier-and-oscillator-pdf'>Feedback Amplifier And Oscillator Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=job-industries-on-the-rise'>Job Industries On The Rise</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=movie-buff-meaning-in-tamil'>Movie Buff Meaning In Tamil</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=are-moon-cactus-poisonous-to-dogs'>Are Moon Cactus Poisonous To Dogs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=atlas-diving-suit-spawn-command'>Atlas Diving Suit Spawn Command</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=coldwell-banker-property-management-maui'>Coldwell Banker Property Management Maui</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=resort-at-squaw-creek-cascades'>Resort At Squaw Creek Cascades</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=plastic-pots-for-plants-wholesale'>Plastic Pots For Plants Wholesale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dinner-by-heston-blumenthal-reopening'>Dinner By Heston Blumenthal Reopening</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=another-word-for-trap-house'>Another Word For Trap House</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=new-years-eve-2020-squaw-valley'>New Years Eve 2020 Squaw Valley</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-improve-presentation-skills-pdf'>How To Improve Presentation Skills Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=couch-and-loveseat-sets-for-cheap'>Couch And Loveseat Sets For Cheap</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=crockpot-cheesy-potatoes-with-tater-tots'>Crockpot Cheesy Potatoes With Tater Tots</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-decorate-room-with-simple-things'>How To Decorate Room With Simple Things</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ge-french-door-refrigerator-reviews'>Ge French Door Refrigerator Reviews</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=malai-chicken-tikka-pakistani-recipe'>Malai Chicken Tikka Pakistani Recipe</a>,
+";s:7:"expired";i:-1;}

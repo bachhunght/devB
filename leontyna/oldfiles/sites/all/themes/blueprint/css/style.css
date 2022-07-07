@@ -1,0 +1,236 @@
+body {
+font-family:Arial, Helvetica, Verdana, sans-serif;
+color: white;
+background-color: #000;
+background-repeat:repeat;
+}
+
+/*
+background-image: url(/sites/all/themes/blueprint/images/background-image.jpg);
+*/
+
+h1, h2, h3, h4, h5, h6 {
+  color: #a9a9a9;
+}
+
+tr.even td {
+background-color:black;
+}
+
+tr.odd td {
+background-color:black;
+}
+
+table td {
+background-color:black;
+}
+
+html.js fieldset.collapsible legend a {
+color:black;
+}
+
+mceItemTable, .mceItemTable td, .mceItemTable th{
+color:#fff;
+}
+
+p img {
+float:none;
+}
+
+.yellow {
+color:#F4D400
+}
+
+.white {
+color:white;
+}
+
+fieldset {
+  background-color: #000;
+}
+
+#block-block-1{
+padding-top:39px;
+}
+
+#header{
+  margin-left:75px;
+  margin-bottom:20px;
+}
+
+a:link{
+color:#F4D400;
+}
+
+a:visited {
+color:#F4D400;
+}
+
+a:hover {
+color: #FF0000;
+}
+
+a:active {
+color:#F4D400;
+}
+
+p {
+color:white;
+}
+
+div.help {
+background-color:#212829;
+}
+
+td {
+color: #fff;
+}
+
+#col-left{
+color: #000;
+}
+
+#content{
+color: #000;
+}
+
+ul.imagemenu{
+color: #000;
+}
+
+
+.col-left div.content li {
+list-style-type:none;
+list-style-image:none;
+padding-top:21px;
+}
+
+.col-center div.content li {
+list-style-type:disc;
+list-style-image:none;
+}
+
+div.content ul {
+text-align:left;
+}
+
+.heading{
+color:#939598;
+font-size:16px;
+font-weight:bold;
+margin:0;
+}
+
+#fontpage-block{
+width:635px;
+text-align:justify;
+}
+
+div.col-left{
+margin-right:0;
+}
+
+div.col-center{
+padding-top:15px
+}
+
+div.content #logos{
+padding-top:0;
+}
+
+div.fieldset {
+
+}
+#fieldset  {
+background:#333;
+}
+
+div.node-form {
+background:#333;
+}
+
+#left {
+float:left;
+padding-left:44px;
+width:323px;
+font-size:14px;
+}
+
+#right {
+float:right;
+color:#A7A9AC;
+font-size:14px;
+}
+
+#fieldset.menu-item-form{
+background:#000;
+}
+
+#fieldset.collapsible{
+background:#000;
+}
+
+#store-footer {
+display:none;
+}
+
+p img {
+margin:0;
+}
+
+
+div#block-simplenews-1 h3 {
+color:#F4D400;
+}
+
+div#block-simplenews-1 p {
+color:#939598;
+}
+
+
+table.awards {
+border:1px #d79900 solid;
+}
+
+table.awards td{
+border:1px #d79900 solid;
+}
+
+table ul.li {
+list-style:disc;
+}
+
+
+table ul li {
+list-style:disc;
+}
+
+table ul {
+list-style:disc;
+}
+
+.order-review-table .title-col {
+color:#fff;
+}
+
+.order-review-table .data-col {
+color:#fff;
+}
+
+.order-review-table tbody {
+color:#fff;
+}
+
+.order-review-table tr.pane-title-row td {
+  color:black;
+}
+
+.order-review-table td {
+  color: #fff;
+}
+
+div#foot {
+color:#a9a9a9;
+font-size:11px;
+text-align:right;
+}

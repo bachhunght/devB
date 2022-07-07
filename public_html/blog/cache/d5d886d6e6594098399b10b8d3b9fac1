@@ -1,0 +1,216 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:5272:"For years, my kids and I have used the Merriam-Webster app to look up new words. ‎The best dictionary available for English language learners, from Merriam-Webster. The app is free, and supported by ads. Get the Free Apps! Indeed, Merriam-Webster's new vocabulary app gives kids a fun and rewarding way to learn new words by enabling them to grow their vocabulary along with an adorable virtual pet. The dictionary by Merriam-Webster is America's most trusted online dictionary for English word definitions, meanings, and pronunciation. After some search, Merriam-Webster Dictionary and Dictionary.com became the top two choices. Definition of kid written for English Language Learners from the Merriam-Webster Learner's Dictionary with audio pronunciations, usage examples, and count/noncount noun labels. Both dictionary apps are good. And now we’ve added new word games! Also, it nicely displays the parts of speeches. ... Merriam-Webster on Facebook » Bookstore: Digital and Print . Merriam-Webster, America’s most-trusted dictionary, is excited to announce the launch of  Puku, a fun and motivating vocabulary-building app for kids. How to use app in a sentence. To install Dictionary – Merriam-Webster 2019 For PC Windows, you will need to install an Android Emulator like Xeplayer, Bluestacks or Nox App Player first. It’s never been more fun to learn new words and test your vocabulary for everyone from English learners to total word nerds. In addition to all the definitions from Merriam-Webster's Collegiate Dictionary, this app offers synonyms, antonyms, example sentences, Word of the Day, and more. It’s a great tool for reference, education, and vocabulary building. The Merriam-Webster Dictionary and Thesaurus provides a definitive reference of words in the English language in an easy-to-use electronic format. I have been trying to find a good dictionary app for my son. Both are pretty good, but I don’t want to load too many apps on the iPAD, so I picked Merriam-Webster (Free). With this android emulator app you will be able to Download Dictionary – Merriam-Webster full version on your PC Windows 7, 8, 10 and Laptop. App Store Google Play Download merriam webster for windows 10 for free. Apps SCRABBLE ® Dictionary ... Merriam-Webster references for Mobile, Kindle, print, and more. Designed for children ages 8–12, the app’s unique format offers ongoing, leveled vocabulary play and gives users the ability to … #wordsmatter Master written and spoken English with this app designed especially for learners and teachers of the language. Dictionary.com is the world’s leading online source for English definitions, synonyms, word origins and etymologies, audio pronunciations, example sentences, slang phrases, idioms, word games, legal and medical terms, Word of the Day and more. Dictionary.com Free, carrying more information, but with intrusive ads, is better for upper middle and high school kids. From Merriam-Webster, America’s most-trusted dictionary, Puku is the best vocabulary-building app for kids ages 8 and up. Merriam-Webster's Word Central offers kids a student dictionary, Daily Buzzword, and interactive word games. Merriam-Webster may just have made their giant brick of a dictionary obsolete, with this very well-designed and fully-featured dictionary app. Merriam-Webster references for Mobile, Kindle, print, and more. But recently, Merriam-Webster launched Puku, a new vocabulary app specifically for children ages 8 to 12. Master written and spoken English with this app designed especially for learners and teachers of the language. Merriam-Webster Dictionary doesn't just contain the complete Collegiate Dictionary, but also adds hyperlinks to other definitions, quick synonym and antonym lookups, and even voice search and word pronunciation. In addition to all the definitions from Merriam-Webster's Collegiate Dictionary, the app offers voice search, synonyms, antonyms, example sentences, Word of the Day, and more. Kid definition is - a young person; especially : child —often used as a generalized reference to one especially younger or less experienced. Merriam-Webster’s Dictionary contains the complete text of definitions from the Merriam-Webster Collegiate Dictionary. Improve your understanding of English words and phrases with full, clear definitions and numerous usag… The app features Puku, a virtual pet that grows and evolves as players master new words, in an engaging display that rewards progress.  Merriam-Webster Free, with less intrusive ads and unlimited voice search, is better for younger kids, such as those in elementary school, or even middle school. The app delivers adaptive, personalized vocabulary training. Merriam-Webster, America’s most-trusted dictionary, is excited to announce the launch of Puku, a fun and motivating vocabulary-building app for kids. I remember when I was a little kid I would just pick up a dictionary (especially Merriam-Webster), sit down, and start reading through it randomly learning new words. Merriam-Webster has launched Puku, a fun and motivating vocabulary-building app for kids. Education software downloads - Merriam-Webster by Paragon Software and many more programs are available for instant and free download. ";s:7:"keyword";s:28:"merriam webster app for kids";s:5:"links";s:4810:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=theodore-roosevelt-national-park-hotels'>Theodore Roosevelt National Park Hotels</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=words-that-start-with-phil'>Words That Start With Phil</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=new-york-city-population-2019'>New York City Population 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=brett-favre-hall-of-fame'>Brett Favre Hall Of Fame</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-is-shadow-for-class-2'>What Is Shadow For Class 2</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=top-chef-fatima-ali-essay'>Top Chef Fatima Ali Essay</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=canola-oil-banned-in-uk'>Canola Oil Banned In Uk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=student-chair-with-writing-pad-in-coimbatore'>Student Chair With Writing Pad In Coimbatore</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ottoman-double-sofa-bed-uk'>Ottoman Double Sofa Bed Uk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=les-arcs-hotels-5-star'>Les Arcs Hotels 5 Star</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-eat-spinach-for-weight-loss'>How To Eat Spinach For Weight Loss</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=coldwell-banker-property-management-maui'>Coldwell Banker Property Management Maui</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=whistler-lift-tickets-half-day'>Whistler Lift Tickets Half Day</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ultra-modern-kitchen-designs-luxury'>Ultra Modern Kitchen Designs Luxury</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-eat-tree-tomato'>How To Eat Tree Tomato</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=low-fat-desserts-slimming-world'>Low Fat Desserts Slimming World</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=competitive-youth-swimming-near-me'>Competitive Youth Swimming Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=good-slogan-for-a-laundry-service'>Good Slogan For A Laundry Service</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=public-parking-near-natural-history-museum'>Public Parking Near Natural History Museum</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=stores-that-went-out-of-business-in-the-2000s'>Stores That Went Out Of Business In The 2000s</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=park-city-mall-trick-or-treat-2019'>Park City Mall Trick Or Treat 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=planting-strawberry-seeds-in-pots'>Planting Strawberry Seeds In Pots</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pottery-barn-black-friday-2018'>Pottery Barn Black Friday 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=simplehuman-rechargeable-soap-dispenser-troubleshooting'>Simplehuman Rechargeable Soap Dispenser Troubleshooting</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=beef-liver-pate-nutrition-facts'>Beef Liver Pate Nutrition Facts</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=royal-conservatoire-of-scotland-drama'>Royal Conservatoire Of Scotland Drama</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dyson-v6-slim-good-guys'>Dyson V6 Slim Good Guys</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fields-and-furrows-log-cabin-quilt'>Fields And Furrows Log Cabin Quilt</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=squaw-valley-gingerbread-village-2019'>Squaw Valley Gingerbread Village 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pictures-of-white-bird-of-paradise'>Pictures Of White Bird Of Paradise</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-is-the-kitchen-brigade-system'>What Is The Kitchen Brigade System</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-beetroot-lip-balm-without-vaseline'>How To Make Beetroot Lip Balm Without Vaseline</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=small-kitchen-living-room-combo'>Small Kitchen Living Room Combo</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=repossessed-houses-for-sale-in-jamaica'>Repossessed Houses For Sale In Jamaica</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=menards-black-friday-2018-ad'>Menards Black Friday 2018 Ad</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=black-and-decker-pressure-washer-gun-leaking'>Black And Decker Pressure Washer Gun Leaking</a>,
+";s:7:"expired";i:-1;}

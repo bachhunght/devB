@@ -1,0 +1,226 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3845:"In the Union Budget 2020 announced on February 1, Finance Minister Nirmala Sitharaman announced to increase customs duty on imported furniture from the present 20 per cent to 25 per cent. Madras is an emotion: A north Indian writes on falling in love with Chennai As a north Indian, Chennai was new to me but the discoveries I made about the place surprised me. Swedish furniture company IKEA Store coming to Chennai by 2020 , followed by Mumbai , Bengaluru , Hyderabad Here is the announcementhttps:// www.thehindu.com/business/Industry/ikea-plans-to-set-up-two-stores-in-chennai… IKEA is planning its first store in India.. Well, considering this I thought I’ll list down some Indian online furniture retailers that have already made a mark in the Indian market. By Suneera Tandon. ... At a later stage an e-commerce website will also come up for IKEA India; IKEA group is targetting to reach to over 4 million Indian customers every every year through its … After Bengaluru, IKEA's next store will open in Delhi. In the next phase, IKEA would cover Ahmedabad, Surat, Pune, Chennai and Kolkata. IKEA Makes A Grand Opening in Mumbai | To Open 25 More Stores in India.  IKEA representatives confirmed in a statement Wednesday that the company will not be opening a location in Antioch in 2020. Ikea is opening its first India store at a 13-acre complex in Hitec City, Hyderabad, and expects to welcome as many as 7 million visitors a year. After Bengaluru, IKEA's next store will open in Delhi. Of course, you can’t actually buy anything yet. First IKEA teased us with the Hej Home at the Forum Mall in Hyderabad, and now inching closer to its first store launch, the IKEA website is live, and we’re excited. The 19th of this month marks the opening of India’s first Ikea store in Hyderabad, which follows a research project during which designers visited over 1,000 of the country’s homes to determine what styles to feature in their stores. IKEA is finally coming to India, but its story here goes back four decades. August 8, 2018. Book your tickets online for the top things to do in Chennai (Madras), India on Tripadvisor: See 34,638 traveler reviews and photos of Chennai (Madras) tourist attractions. Shivali Angurala 20/05/2017. After Hyderabad, Mumbai and Bangalore, Chennai is fourth in line to welcome this Swedish home furniture company and we’re getting, not one, but two stores by 2019. store in Bengaluru - ET Retail The company plans to … Ikea not to pass on duty hike impact on imported furniture to customers. In August 2008, IKEA also announced that it had created IKEA GreenTech, a €50 million venture capital fund. In the next phase, IKEA would cover Ahmedabad, Surat, Pune, Chennai and Kolkata. And did you know, IKEA has been sourcing textiles from suppliers in Tirupur (our favourite fabric hub in Tamil Nadu)? A big thank you to our top 100 women entrepreneurs from New Delhi for making Meesho Mission Rise - Women Entrepreneurship Summit a grand success. There is no one stop solution to IKEA in India. Finally, the dream is getting real. We have reviews of the best places to see in Chennai … It’s a meme in itself. Ikea, a global leader in retail furniture, will lay the foundation stone in Hyderabad next month for its first store in India that will open next year. IKEA Group, the leading Swedish home furnishings company, plans to open 25 stores over next 10 years in India. Find what to do today, this weekend, or in March. As of oct 2018; the expectation is mid 2020. Even though there are lot of furniture options available in India, most of these are heavy or not neat in design like IKEA’s. With its first four stores coming up later this month in Hyderabad, the company, going forward will launch stores in Mumbai, Bengaluru, Delhi NCR, Ahmedabad, Surat, Pune, Chennai and Kolkata. ";s:7:"keyword";s:25:"is ikea coming to chennai";s:5:"links";s:6128:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=home-office-design-ideas-photos'>Home Office Design Ideas Photos</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=top-10-developers-in-singapore-2018'>Top 10 Developers In Singapore 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=reebok-ice-cream-skate-shoes'>Reebok Ice Cream Skate Shoes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=download-slideshare-ppt-online-free'>Download Slideshare Ppt Online Free</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-a-stencil'>How To Make A Stencil</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=flower-container-ideas-for-full-sun'>Flower Container Ideas For Full Sun</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=distance-between-earth-and-sun'>Distance Between Earth And Sun</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pirates-of-the-caribbean-2-download'>Pirates Of The Caribbean 2 Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=iron-man-2-google-drive'>Iron Man 2 Google Drive</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=modern-architecture-in-india-ppt'>Modern Architecture In India Ppt</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-hand-that-rocks-the-cradle-123movies'>The Hand That Rocks The Cradle 123movies</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-build-a-walk-in-closet-in-a-small-bedroom'>How To Build A Walk In Closet In A Small Bedroom</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-shelf-headboard'>How To Make Shelf Headboard</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=good-luck-bamboo-growth-spray'>Good Luck Bamboo Growth Spray</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=do-black-eyed-susans-spread'>Do Black Eyed Susans Spread</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-keep-your-refrigerator-running-efficiently'>How To Keep Your Refrigerator Running Efficiently</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=peel-and-stick-photo-canvas'>Peel And Stick Photo Canvas</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=solid-green-spider-plant-care'>Solid Green Spider Plant Care</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=karcher-pressure-washer-surging-pulsing'>Karcher Pressure Washer Surging Pulsing</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hot-pink-velvet-dining-chair'>Hot Pink Velvet Dining Chair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-thing-i-ever-ate-florida'>Best Thing I Ever Ate Florida</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-much-papaya-should-i-eat-per-day'>How Much Papaya Should I Eat Per Day</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-idaho-acceptance-rate-2018'>University Of Idaho Acceptance Rate 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=malice-at-the-palace-highlights'>Malice At The Palace Highlights</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=history-of-the-refrigerator-timeline'>History Of The Refrigerator Timeline</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=black-metal-bed-frame-king'>Black Metal Bed Frame King</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=real-property-vs-personal-property-mobile-home'>Real Property Vs Personal Property Mobile Home</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-is-sundance-film-festival'>Where Is Sundance Film Festival</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-spice-up-tacos'>How To Spice Up Tacos</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=de-powder-not-sticking-to-filter'>De Powder Not Sticking To Filter</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dining-room-hutch-and-buffet-plans'>Dining Room Hutch And Buffet Plans</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=large-living-room-design-ideas'>Large Living Room Design Ideas</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=call-the-midwife-season-8-episode-1-recap'>Call The Midwife Season 8 Episode 1 Recap</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=twelve-oaks-mall-holiday-hours-2019'>Twelve Oaks Mall Holiday Hours 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=custom-auto-upholstery-near-me'>Custom Auto Upholstery Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-hot-dogs-in-the-oven'>How To Make Hot Dogs In The Oven</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=plantation-agriculture-definition-ap-human-geography'>Plantation Agriculture Definition Ap Human Geography</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cool-things-for-your-room-amazon'>Cool Things For Your Room Amazon</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-sell-on-etsy-singapore'>How To Sell On Etsy Singapore</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=36-by-36-replacement-window'>36 By 36 Replacement Window</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-is-melrose-abbey-located-in-scotland'>Where Is Melrose Abbey Located In Scotland</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=teddy-fleece-duvet-cover-set'>Teddy Fleece Duvet Cover Set</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=transfer-from-reno-to-south-lake-tahoe'>Transfer From Reno To South Lake Tahoe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-baker-in-america-season-2-winner'>Best Baker In America Season 2 Winner</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bay-area-ski-bus-schedule'>Bay Area Ski Bus Schedule</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=aspen-colorado-cabins-with-hot-tubs'>Aspen Colorado Cabins With Hot Tubs</a>,
+";s:7:"expired";i:-1;}

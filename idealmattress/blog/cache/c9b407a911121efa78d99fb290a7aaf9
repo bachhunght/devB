@@ -1,0 +1,210 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4578:"You might be wondering why we don’t have a lunar eclipse every month as the moon orbits Earth. During a lunar eclipse, Earth gets in the way of the sun’s light hitting the moon. Why don’t we have a lunar eclipse every month? The next lunar eclipse will take place between July 16 and 17, but unlike the Super Blood Wolf Moon which appeared in the night sky on January 21, this will only be a partial lunar eclipse. That means that during the night, a full moon fades away as Earth’s shadow covers it up. It could occur in the middle of your day. There are three types; the most dramatic is a total lunar eclipse. A lunar eclipse occurs at least 2 times a year. The New Moon and the Sun also have to be near a lunar node, which happens a little less than 6 months apart, and lasts, on average, around 34.5 days. Total Lunar Eclipse: This occurs when the earth’s umbra will be able to darken the whole of the moon’s area so that the moon becomes completely invisible. We know that eclipses occur when sun, moon and earth align in a straight line. A lunar eclipse occurs when the moon passes behind the earth so that the earth blocks the sun's rays from striking the moon. When it's partially blocked, you get a "partial" lunar eclipse (Moon passes through only a part of Earth's shadow); when it's completely blocked, you get a "total" lunar eclipse. A lunar eclipse occurs when the moon passes behind the earth so that the earth blocks the sun's rays from striking the moon. This can only happen when there’s a full moon. However, when during the night it occurs will depend upon where you are on the Earth. When the Sun, Earth, and Moon come together in a straight line, a total lunar eclipse takes place. The moon fully enters the umbral shadow during a total lunar eclipse. Types of Lunar Eclipses. A lunar eclipse occurs when the Sun, Earth and Moon are in a straight line with the Earth between the Sun and Moon. A lunar eclipse always occurs at night. The Solar eclipse occurs when the moon comes in between the sun and the earth. As such a lunar eclipse can only occur during a full moon. Otherwise, the Earth cannot cast a shadow on the Moon's surface and an eclipse cannot take place. This is because it is the act of the moon passing through the Earth’s shadow. You have to wait until the alignment is such that the Earth DOES block at least part of the Sun's light to the Moon. A Moon eclipse or lunar eclipse occurs when the planet Earth crosses between the Sun and the Moon, creating a perfectly straight line between all three.This astronomical phenomenon occurs more often than solar eclipses, but is still a much-anticipated natural phenomenon that many people find amazing to watch. the most recent total eclipse was on 28th August 2007 where the sun, earth and moon were in total alignment. When does a lunar eclipse occurs? The total lunar eclipse appears in deep orange color. There are three kinds of Lunar Eclipses. Start studying Lunar Eclipse. The Sun, Earth and Moon all need to be aligned for a lunar eclipse to occur. The time the moon spends encased in the umbra is called totality. They are. For a lunar eclipse to occur, the Sun, Earth, and Moon must be roughly aligned in a line. The moon appears orange-red in a total lunar eclipse on October 27, 2004. Learn vocabulary, terms, and more with flashcards, games, and other study tools. A partial lunar eclipse occurs when a portion of the moon is obscured by the umbra.  Accordingly, it is visible to others on the opposite side of the world. Find out when is the next one. The total lunar eclipse occurs when the moon is entirely immersed in the umbra section of the earth’s shadow. It occurs whenever the moon passes through some portion of the earth's shadow when the sun,earth, moon are aligned axactly or very close to, with the earth in the middle, the moon is always full near lunar eclipse. That means that during the night, a full moon fades away as Earth’s shadow covers it up. Who can see it is strictly a function of orbital mechanics. When does a lunar eclipse occurs? If the moon gets completely into the Earth’s shadow, then a complete Lunar eclipse occurs. But this does not mean that eclipses of the Sun happen every New Moon night. The Lunar eclipse is formed when the … Lunar eclipses occur when Earth's shadow blocks the sun. It rarely occurs as compared to the other two types of a lunar eclipse— partial and the penumbra eclipses. This period is called the eclipse season, and it … An Eclipse is formed when a celestial body is obscured by another. ";s:7:"keyword";s:31:"when does a lunar eclipse occur";s:5:"links";s:4028:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hot-dog-ingredients-and-procedure'>Hot Dog Ingredients And Procedure</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=members-of-the-national-association-of-real-estate-brokers-are-called'>Members Of The National Association Of Real Estate Brokers Are Called</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philips-tv-software-update-2018'>Philips Tv Software Update 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=home-store-salt-lake-city'>Home Store Salt Lake City</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=summon-person-meaning-in-marathi'>Summon Person Meaning In Marathi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-cook-spinach-without-losing-nutrients'>How To Cook Spinach Without Losing Nutrients</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=taste-of-texas-menu-mccook-ne'>Taste Of Texas Menu Mccook Ne</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pea-full-form-in-medical'>Pea Full Form In Medical</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=in-ground-pool-steps-amazon'>In Ground Pool Steps Amazon</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=jamie-oliver-vegetarian-bubble-and-squeak'>Jamie Oliver Vegetarian Bubble And Squeak</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=top-chef-meals-free-shipping'>Top Chef Meals Free Shipping</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=when-is-wayfair-opening-in-jacksonville-fl'>When Is Wayfair Opening In Jacksonville Fl</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dirt-devil-vacuum-bags-type-u'>Dirt Devil Vacuum Bags Type U</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-is-sandstone-formed-in-the-rock-cycle'>How Is Sandstone Formed In The Rock Cycle</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=michael-jackson-last-days-video'>Michael Jackson Last Days Video</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=big-little-lies-season-2-episode-1-full-episode'>Big Little Lies Season 2 Episode 1 Full Episode</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cool-bedroom-ideas-for-teenage-guys-small-rooms'>Cool Bedroom Ideas For Teenage Guys Small Rooms</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-redfin-stock-a-buy'>Is Redfin Stock A Buy</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-my-air-plant-dead'>Is My Air Plant Dead</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bathroom-repair-services-near-me'>Bathroom Repair Services Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-many-chlorine-tablets-for-10ft-pool'>How Many Chlorine Tablets For 10ft Pool</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-are-the-objectives-of-gardening'>What Are The Objectives Of Gardening</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cold-breakfast-ideas-for-camping'>Cold Breakfast Ideas For Camping</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dhaba-mutton-curry-recipe-in-hindi'>Dhaba Mutton Curry Recipe In Hindi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dark-teal-blue-throw-pillows'>Dark Teal Blue Throw Pillows</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=legend-tomato-seeds-for-sale'>Legend Tomato Seeds For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=house-for-sale-by-owner-forms-pdf'>House For Sale By Owner Forms Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=designer-brands-for-less-app'>Designer Brands For Less App</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=blue-star-fern-fuzzy-roots'>Blue Star Fern Fuzzy Roots</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-to-buy-karcher-accessories'>Where To Buy Karcher Accessories</a>,
+";s:7:"expired";i:-1;}

@@ -1,0 +1,226 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3257:"Tours depart on foot from 202 Bear Street in downtown Banff. This forested trail close to the Town of Banff is ideal for visitors wanting to experience a taste of the backcountry. The Town of Banff is a sophisticated mountain resort featuring excellent shopping opportunities, diverse dining, and fun nightlife spots. Let our expert guides show you something amazing on the tours we operate in Banff National Park, Alberta. The town of Banff is located on the Bow River, just off of Highway 1, and 127km west of Calgary. Considered one of Canada’s premiere national parks, Banff National Park has been designated a World Heritage Site, renowned for its majestic mountain ranges, and pristine mountain lakes and forests. We are a municipality located in Banff National Park, Alberta, Canada, part of the Canadian Rocky Mountain Parks – a UNESCO World Heritage Site. Get the most out of your Rocky Mountain adventure with some of our exciting summer tours and activities! With an elevation of 1,383 metres, it is the highest town in Canada! THE TOP 10 HIKES AROUND THE TOWN OF BANFF, ALBERTA It is centrally located in the midst of some of North America's most majestic mountain ranges. The downtown’s main street is where hotels, restaurants and souvenir shops are. Situated on the outskirts of town, but only a 5-minute bus ride from the centre of town, the Banff Gondola takes you all the way up to Sulphur Mountain. Banff walking tours, private walking tours, easy guided hikes and new food tours are an authentic and unforgettable way to start your adventure. The festival draws some of the world’s best film makers and accomplished outdoor heroes to celebrate adventure, the environment, mountain culture and the outdoors through film. The town of Banff, as well as the surrounding national park is one of the most precious jewels in all of Canada. The eight-minute ride takes guests to a lofty altitude of 2,281 metres (7,486 feet) in cabins that seat up to four people. Banff Gondola The Banff Sightseeing Gondola is located just 5 minutes from the Town of Banff, on the shoulder of Sulphur Mountain, in the heart of the Canadian Rockies. Small Guided Tours, Big Banff Adventures. A small resort town Banff is the main hub when visiting Banff National Park. Then, we’ll ride to the top of Sulphur Mountain on the incredible Banff Gondola and finish the tour at Lake Minnewanka. From cosy mountain lodges, to adventures in the Canadian Rockies, this travel guide will help you plan a romantic honeymoon in Banff (and beyond). It’s located in the province of Alberta, 127 km from Calgary. The views are incredible. Our tours let you explore the town of Banff, Alberta — inside Banff National Park. Banff's historic town centre is alive with shops, galleries, cafes and restaurants.We’ll explore the iconic highlights and take in multiple views of the famous peaks.  Where is Banff? Floating its way up Sulphur Mountain, the Banff Sightseeing Gondola is located five minutes’ drive from the town of Banff. Experience the picture perfect viewpoints of Banff before soaring up to a mountain summit on the Banff Gondola for 360 degree views over Banff. The town of Banff, in the Canadian Rockies, is a wonderful base for outdoor holidays. ";s:7:"keyword";s:33:"town of banff mountain adventures";s:5:"links";s:6108:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-far-is-wilmore-kentucky'>How Far Is Wilmore Kentucky</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=new-england-vegetable-management-guide'>New England Vegetable Management Guide</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=landscape-architecture-salary-per-month'>Landscape Architecture Salary Per Month</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-type-of-bacon-for-breakfast'>Best Type Of Bacon For Breakfast</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-reupholster-a-dining-chair'>How To Reupholster A Dining Chair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mid-century-modern-powder-room'>Mid Century Modern Powder Room</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=park-city-main-street-webcam'>Park City Main Street Webcam</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=3-panel-door-with-glass'>3 Panel Door With Glass</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=old-school-buildings-for-sale-near-me'>Old School Buildings For Sale Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=detached-vs-semi-detached-value'>Detached Vs Semi Detached Value</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=zuan-yuan-chinese-restaurant-menu-2020'>Zuan Yuan Chinese Restaurant Menu 2020</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sour-cream-pound-cake-recipe'>Sour Cream Pound Cake Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rochester-institute-of-technology-notable-alumni'>Rochester Institute Of Technology Notable Alumni</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-can-i-complain-to-ikea'>How Can I Complain To Ikea</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=william-sonoma-margarita-cake-recipe'>William Sonoma Margarita Cake Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=costco-landmark-movie-passes-prices'>Costco Landmark Movie Passes Prices</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ge-french-door-refrigerator-reviews'>Ge French Door Refrigerator Reviews</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-care-for-lavender-plants-in-pots'>How To Care For Lavender Plants In Pots</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=largest-hema-store-in-amsterdam'>Largest Hema Store In Amsterdam</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cheap-front-doors-for-sale'>Cheap Front Doors For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-sheffield-world-ranking-2020'>University Of Sheffield World Ranking 2020</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=use-of-landform-in-landscape-design'>Use Of Landform In Landscape Design</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=never-talk-to-strangers-movie-download-300mb'>Never Talk To Strangers Movie Download 300mb</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-glassdoor-good-for-finding-jobs'>Is Glassdoor Good For Finding Jobs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=tales-from-the-hood-2-budget'>Tales From The Hood 2 Budget</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-to-do-in-bear-valley-in-winter'>What To Do In Bear Valley In Winter</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=small-swivel-chair-for-desk'>Small Swivel Chair For Desk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rooms-to-go-fabric-cleaner'>Rooms To Go Fabric Cleaner</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=standard-sofa-height-in-cm'>Standard Sofa Height In Cm</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=things-to-do-in-jasper-national-park'>Things To Do In Jasper National Park</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=paint-colors-with-light-wood-trim'>Paint Colors With Light Wood Trim</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=easiest-fruit-to-grow-indoors'>Easiest Fruit To Grow Indoors</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=modern-japanese-living-room-design'>Modern Japanese Living Room Design</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=shopify-t-shirt-store-examples'>Shopify T Shirt Store Examples</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-measure-round-above-ground-pool-size'>How To Measure Round Above Ground Pool Size</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=unilever-future-leaders-program-application'>Unilever Future Leaders Program Application</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-restaurants-in-mexico-city-2018'>Best Restaurants In Mexico City 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kitchen-cabinet-shops-near-me'>Kitchen Cabinet Shops Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sarjan-doctor-meaning-in-hindi'>Sarjan Doctor Meaning In Hindi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dris-top-boy-season-2'>Dris Top Boy Season 2</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=canola-oil-banned-in-uk'>Canola Oil Banned In Uk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=salisbury-steak-with-cream-of-mushroom-soup'>Salisbury Steak With Cream Of Mushroom Soup</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-cook-pasta-with-sauce'>How To Cook Pasta With Sauce</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=benefits-of-eating-raw-tomatoes'>Benefits Of Eating Raw Tomatoes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-public-enemy-movie-message'>The Public Enemy Movie Message</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=edible-plants-that-grow-in-full-shade'>Edible Plants That Grow In Full Shade</a>,
+";s:7:"expired";i:-1;}

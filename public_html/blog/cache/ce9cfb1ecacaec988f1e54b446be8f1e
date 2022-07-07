@@ -1,0 +1,258 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3768:"The higher the temperature, the higher the flux for a given conductivity and pressure, and it is common to assume that a 1 °C change in water temperature will cause the flow rate to change by 1.5%. Hydranautics recommends that the feed to the RO/NF system is equipped with an Oxidation-Reduction Potential (ORP) meter. pH & ORP Sensors Hach offers a variety of analog and digital pH sensors and ORP sensors to meet your application needs for inline pH or ORP monitoring of water or other fluids. CPA membranes have an estimated chlorine tolerance of 1,000 to 2,000 ppm-hours before a • GO, Zeolite and CNT based NCM offered high chlorine resistance and water flux. Temperature directly influences the membrane flux — the amount of water that permeates through an RO membrane. I have some problem measuring ORP-value in reverse osmosis permeate. Some types of RO membranes are sensitive to feed water pH and can become damaged if the pH is outside the recommended range of 5 to 8 pH. Alkaline/ Neg ORP Potential Filter- The alkaline filter, the 5th stage in this system is recommended, as reverse osmosis product water tends to be acidic due to the purity of the water.All minerals have been stripped from the water. As shown in Figure 1.3, there is a non-woven polyester support layer, a polysulfone FILMTEC™ Membranes Brackish Water Product Portfolio The Highest Quality Water at the Lowest Total Cost FILMTEC™ reverse osmosis membrane elements from Dow are engineered to meet the varying needs of a wide range of industrial, municipal, commercial and drinking water applications. Therefore, operators should ensure that oxidant does not enter the RO system. A high ORP reading would indicate a need for pretreatment. damage of the membrane. A common use for RO is for purifying water, removing salts and other impurities to improve the color, taste and other properties. In fact, the World Health Organization (WHO) suggests an ORP value of between 680-720 mV, depending on the sensor and the particular context, for safe bathing water. ORP (Oxidation Reduction Potential/REDOX) and pH are important parameters in measuring the success and useful life of an RO membrane. RO has become an important process for a wide variety of applications including: medical, … monitor, monitoring for a residual bisulfite concentration, or by an ORP monitor. At a pH of 4.2 to 4.5 or At a pH of 4.2 to 4.5 or lower, all alkalinity is in the form of carbon dioxide. ORP. TFC membranes have a higher rejection rate of 95–98% and a longer life than CTA membranes. Some types of RO membranes are sensitive to feed water pH and can become damaged if the pH is outside the recommended range of 5 to 8 pH.A pH sensor upstream of the membrane can provide a feedback signal to control dosing of acidic or basic reagent to maintain the pH within acceptable limits. To protect the TFC membrane elements from chlorine damage, carbon filters are used as pre-treatment in all residential reverse osmosis systems. The permeate of an RO unit varies based on the feed concentration and operating pressure. pH, ORP or conductivity sensors that also measure temperature are cheaper than installing two … mV reading. Some types of RO membranes are sensitive to feed water pH and can become damaged if the pH is outside the recommended range of 5 to 8 pH. A pH sensor upstream of the membrane can provide a feedback signal to control dosing of acidic or basic reagent to maintain the pH within acceptable limits. Example 2: ORP for Control of Chlorine Removal Before R.O. The ORP may be used to determine the activity of an oxidizer. Reverse osmosis systems can remove up to 100% of suspended solids and approximately 90% of dissolved solids, dissolved silica, alkalinity and hardness. ";s:7:"keyword";s:25:"orp range for ro membrane";s:5:"links";s:10568:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philips-led-automotive-light-bulbs'>Philips Led Automotive Light Bulbs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-edge-a-garden-with-stone'>How To Edge A Garden With Stone</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rta-cabinet-supply-fairless-hills-pa'>Rta Cabinet Supply Fairless Hills Pa</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-put-pottery-barn-slipcover-on-anywhere-chair'>How To Put Pottery Barn Slipcover On Anywhere Chair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-draw-a-simple-bedroom-in-two-point-perspective'>How To Draw A Simple Bedroom In Two Point Perspective</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-get-to-rothorn-from-zermatt'>How To Get To Rothorn From Zermatt</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=classic-car-events-france-2019'>Classic Car Events France 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-decorate-an-outdated-apartment'>How To Decorate An Outdated Apartment</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-use-steam-cycle-on-samsung-washer'>How To Use Steam Cycle On Samsung Washer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-increase-pennis-size-naturally-at-home-in-tamil'>How To Increase Pennis Size Naturally At Home In Tamil</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=loft-bedroom-ideas-for-adults'>Loft Bedroom Ideas For Adults</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-is-a-seed-simple-definition'>What Is A Seed Simple Definition</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=robin-and-the-7-hoods-full-movie'>Robin And The 7 Hoods Full Movie</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-outsider-cast-2019-netflix'>The Outsider Cast 2019 Netflix</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lite-source-halotech-desk-lamp'>Lite Source Halotech Desk Lamp</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=couch-and-loveseat-sets-for-cheap'>Couch And Loveseat Sets For Cheap</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mountain-high-rentals-frisco-co'>Mountain High Rentals Frisco Co</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=36-by-36-replacement-window'>36 By 36 Replacement Window</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=simple-wedding-decorations-for-house'>Simple Wedding Decorations For House</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-do-you-become-an-iron-chef-on-food-network'>How Do You Become An Iron Chef On Food Network</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-start-a-big-brother-big-sister-program'>How To Start A Big Brother Big Sister Program</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=door-to-door-door-company'>Door To Door Door Company</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-is-the-difference-between-real-property-and-personal-property-quizlet'>What Is The Difference Between Real Property And Personal Property Quizlet</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=white-bedroom-furniture-for-girl'>White Bedroom Furniture For Girl</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wall-mount-tv-ideas-for-living-room'>Wall Mount Tv Ideas For Living Room</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=modern-backyard-ideas-on-a-budget'>Modern Backyard Ideas On A Budget</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=when-does-mt-bachelor-open-for-skiing'>When Does Mt Bachelor Open For Skiing</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=step-2-grand-walk-in-kitchen'>Step 2 Grand Walk In Kitchen</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bachelor-of-fine-arts-jobs'>Bachelor Of Fine Arts Jobs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-road-not-taken-questions'>The Road Not Taken Questions</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kids-study-desk-and-chair'>Kids Study Desk And Chair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=worst-time-to-sell-a-house-in-california'>Worst Time To Sell A House In California</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-bbq-in-dallas-2019'>Best Bbq In Dallas 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-a-fabric-covered-headboard'>How To Make A Fabric Covered Headboard</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=potatoes-and-eggs-recipe-italian'>Potatoes And Eggs Recipe Italian</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=carpenter-work-meaning-in-tamil'>Carpenter Work Meaning In Tamil</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=godrej-metal-almirah-with-mirror'>Godrej Metal Almirah With Mirror</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=against-her-will-an-incident-in-baltimore'>Against Her Will An Incident In Baltimore</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wrought-iron-outdoor-pet-gates'>Wrought Iron Outdoor Pet Gates</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=broyhill-furniture-big-lots-reviews'>Broyhill Furniture Big Lots Reviews</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=peace-lily-in-shock-after-repotting'>Peace Lily In Shock After Repotting</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=crate-and-barrel-leather-dining-chairs'>Crate And Barrel Leather Dining Chairs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-grow-potatoes-in-a-bag'>How To Grow Potatoes In A Bag</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=healthy-recipes-for-weight-loss'>Healthy Recipes For Weight Loss</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=uses-of-performance-appraisal-ppt'>Uses Of Performance Appraisal Ppt</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=why-did-adam-richman-leave-man-vs-food'>Why Did Adam Richman Leave Man Vs Food</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=Words-I-Use-When-I-Write'>Words I Use When I Write</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philips-xtreme-ultinon-led-h4-price-in-india'>Philips Xtreme Ultinon Led H4 Price In India</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hell-is-for-heroes-full-movie'>Hell Is For Heroes Full Movie</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=driftwood-coffee-table-with-rectangular-glass-top'>Driftwood Coffee Table With Rectangular Glass Top</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=potato-side-dishes-for-steak'>Potato Side Dishes For Steak</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=modern-house-exterior-design-pictures'>Modern House Exterior Design Pictures</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=can-you-grow-hakonechloa-from-seed'>Can You Grow Hakonechloa From Seed</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=inn-at-jackson-hole-renovation'>Inn At Jackson Hole Renovation</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=does-valerie-bertinelli-have-children'>Does Valerie Bertinelli Have Children</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=beef-liver-pate-nutrition-facts'>Beef Liver Pate Nutrition Facts</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=2-piece-sectional-with-chaise-leather'>2 Piece Sectional With Chaise Leather</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rustic-outdoor-decor-for-sale'>Rustic Outdoor Decor For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=diamond-brite-pool-plaster-colors'>Diamond Brite Pool Plaster Colors</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-check-cucumber-version'>How To Check Cucumber Version</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kitchen-doors-and-drawer-fronts'>Kitchen Doors And Drawer Fronts</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=diy-kitchen-ideas-for-small-kitchens'>Diy Kitchen Ideas For Small Kitchens</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=black-eyed-susans-julia-heaberlin-pdf'>Black Eyed Susans Julia Heaberlin Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=amazon-shopping-app-not-compatible'>Amazon Shopping App Not Compatible</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=tips-for-staying-hard-after-coming'>Tips For Staying Hard After Coming</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=brunch-potluck-ideas-to-buy'>Brunch Potluck Ideas To Buy</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fiddle-leaf-fig-ikea-uk'>Fiddle Leaf Fig Ikea Uk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-far-is-owensboro-ky-from-me'>How Far Is Owensboro Ky From Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=alternate-phrase-for-feel-free'>Alternate Phrase For Feel Free</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=buy-one-get-one-free-recliners-2018'>Buy One Get One Free Recliners 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fundamentals-of-property-management-pdf'>Fundamentals Of Property Management Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=home-depot-sop-mutual-attraction'>Home Depot Sop Mutual Attraction</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lexington-ma-town-trick-or-treat-2019'>Lexington Ma Town Trick Or Treat 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-online-sales-right-now-clothing'>Best Online Sales Right Now Clothing</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=Whole-Thirty-Fast-and-Easy'>Whole Thirty Fast And Easy</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-book-to-learn-c-in-depth'>Best Book To Learn C In Depth</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=gaming-chair-without-wheels-reddit'>Gaming Chair Without Wheels Reddit</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fiddle-leaf-fig-support-stick'>Fiddle Leaf Fig Support Stick</a>,
+";s:7:"expired";i:-1;}

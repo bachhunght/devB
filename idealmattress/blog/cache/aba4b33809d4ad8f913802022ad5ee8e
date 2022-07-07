@@ -1,0 +1,263 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:5117:"Let us do the driving. Connecting you to the things you care about. One of the easiest and most affordable ways to get to Banff is the On-It Transit service. It operates on weekends and holidays, and the route runs from Calgary’s downtown and the Crowfoot LRT, to Canmore, the Banff train station, and the Banff High School. On-it Regional Transit is a bus service that will take you from Calgary to Banff for only $10 each way! The shuttle between Calgary Airport to Canmore is approximately 1.5 hours, to Banff is approximately two hours, to Lake Louise is approximately four hours and to Jasper is approximately 7.5 hours. Below are all the options for transport from Calgary to Canmore (just outside of Banff NP), Banff & Jasper. In addition to your On-It tickets, all visitors to Banff National Park are required to have a valid National Park Entry Pass. Banff & Canmore Service. It’s the cheapest and best option of getting to Banff for those of us without a car, however, they only run during certain times of the year, and even then only on certain days. We make sure you can find a bus service from Calgary to Banff from the most reliable bus companies operating this trip. Weekend service May 2019 - September 2019. Once you are in Banff, there will be plenty to do within walking distance. New to the Calgary-Banff bus service is On-It Regional Transport. Weekday Route 3 service between Canmore and Banff every 30mins from 6AM through to 7PM - Ride On! You’ll need to buy a park pass when visiting Banff National Park, even on the bus.. Getting To Banff With On-it Regional Transit. Take the LRT to Crowfoot Station in Calgary where you’ll be able to catch the On-It bus to Banff. Schedules for On-It's Calgary to Banff / Canmore Service. On-It Canada 150 Calgary/Banff regional bus service is celebrating our nation’s birthday with weekend bus service to and from Banff National Park. Plan your trip with Roam Public Transit Once in Banff, there are shuttles to and from all three ski areas. Get the best fare and schedule, book a round trip ticket or find buses with WiFi and electrical outlets. On-it Regional Transit offers bus service to Banff from Calgary for only $10, each way! It departs from several transit spots and in downtown Calgary (but does not stop at the airport). THE 2020 Season Starts In . Once you have arrived in Banff, you can transfer for free onto Roam Transit to travel around the town of Banff. Let us do the driving. Contact Us. Only $10 one-way! One of the easiest and most affordable ways to get to Banff is the On-It Transit service. If you do not have a pass, you can purchase it online here or in person at the Visitor Center in Banff. September 10, 2019, Banff, Alberta – This fall, visitors can experience the larch season in a new and convenient way. Leave the car behind, relax and enjoy the incredible views as you travel by comfortable coach to the park, then on to your chosen adventure using one of Banff’s transit options.  Follow us! Public transit. On-It is bringing commuters from Okotoks, Black Diamond, Turner Valley and High River to Somerset/Bridlewood LRT station, Monday to Friday during peak commuting hours. Banff Airporter is the best way to get between Calgary Airport and Banff. Getting to Banff on transit is easy and affordable with On-It regional transit. www.greyhound.com. Check back soon for more information . Weekend visits to Banff National Park just got easier! A separate, two-year On-It pilot project also provided year-round commuter transit service between the communities of Okotoks, High River, Black Diamond and Turner Valley, and the city of Calgary. It’s the cheapest and best option of getting to Banff for those of us without a car, however, they only run during certain times of the year, and even then only on certain days. The most popular option if you are arriving at the Calgary International Airport is to take a shuttle bus, which usually requires booking in advance. Together, the Bow Valley Regional Transit Services Commission (BVRSTC) and Parks Canada are excited to announce a Roam Public Transit route direct from downtown Banff to … Travel from Calgary to Banff on weekends with several departures from Calgary to Canmore and Banff. A new weekend and holiday public transit service between Calgary and Banff, with stops in Okotoks, Cochrane and possibly Canmore, will get rolling some time this June. Check back soon for more information . Banff National Park’s transit and shuttle options will take you out of your vehicle and into nature – without missing a thing. (they also operate elsewhere in Alberta, too). Check out our News and Updates for details. Buses run a direct route from Calgary to Banff and fare is only $10 each way, so you can create a schedule that suits your individual plans. On-it Regional Transit is a bus service that will take you from Calgary to Banff for only $10 each way! Please refer to the current schedule for full details. Weekend and holiday service May 2019 - September 2019. BanffNow. www.banffairporter.com. Shuttles traveling to or from Calgary … ";s:7:"keyword";s:30:"on it transit calgary to banff";s:5:"links";s:11279:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-grow-papaya-in-pots'>How To Grow Papaya In Pots</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=douglas-macarthur-cause-of-death'>Douglas Macarthur Cause Of Death</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-price-karcher-pressure-washer'>Best Price Karcher Pressure Washer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-soak-almonds-overnight'>How To Soak Almonds Overnight</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-measure-for-pocket-replacement-windows'>How To Measure For Pocket Replacement Windows</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lg-front-load-washing-machine-7kg'>Lg Front Load Washing Machine 7kg</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sun-joe-portable-pressure-washer'>Sun Joe Portable Pressure Washer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-much-do-real-estate-agents-make-per-sale'>How Much Do Real Estate Agents Make Per Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bona-hardwood-floor-cleaner-concentrate'>Bona Hardwood Floor Cleaner Concentrate</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wayfair-labor-day-sale-2018'>Wayfair Labor Day Sale 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=14-day-forecast-salem-ma'>14 Day Forecast Salem Ma</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=free-real-estate-bio-template'>Free Real Estate Bio Template</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=coimbatore-institute-of-technology-address'>Coimbatore Institute Of Technology Address</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=room-for-rent-nyc-craigslist'>Room For Rent Nyc Craigslist</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philips-hue-gu10-colour-size'>Philips Hue Gu10 Colour Size</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=target-night-shift-jobs-near-me'>Target Night Shift Jobs Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-shop-for-earrings'>How To Shop For Earrings</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=frisco-texas-homes-for-sale'>Frisco Texas Homes For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=black-metal-bed-frame-king'>Black Metal Bed Frame King</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=become-conscious-or-aware-of-crossword-clue'>Become Conscious Or Aware Of Crossword Clue</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=frozen-2-online-free-full'>Frozen 2 Online Free Full</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=la-cucina-the-regional-cooking-of-italy-pdf-download'>La Cucina The Regional Cooking Of Italy Pdf Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=walk-in-closet-designs-bangalore'>Walk In Closet Designs Bangalore</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-thick-irish-stew'>How To Make Thick Irish Stew</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-old-cabinets-look-modern'>How To Make Old Cabinets Look Modern</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=classic-beef-stroganoff-recipe-with-sour-cream'>Classic Beef Stroganoff Recipe With Sour Cream</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=diet-for-a-small-planet-granola-recipe'>Diet For A Small Planet Granola Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ground-beef-and-ricotta-recipes'>Ground Beef And Ricotta Recipes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-do-i-run-a-diagnostic-on-my-samsung-washing-machine'>How Do I Run A Diagnostic On My Samsung Washing Machine</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=karcher-pressure-washer-problems-electric'>Karcher Pressure Washer Problems Electric</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=teaching-jobs-in-sharjah-indian-school'>Teaching Jobs In Sharjah Indian School</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-is-academy-of-art-university-known-for'>What Is Academy Of Art University Known For</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=shopee-home-and-living-fair'>Shopee Home And Living Fair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=diy-photo-collage-for-boyfriend'>Diy Photo Collage For Boyfriend</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=unesco-world-heritage-sites-france'>Unesco World Heritage Sites France</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rooms-to-go-online-ordering'>Rooms To Go Online Ordering</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=are-habitat-for-humanity-houses-free'>Are Habitat For Humanity Houses Free</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=things-to-do-in-vienna-in-july'>Things To Do In Vienna In July</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-repair-double-hung-sash-windows'>How To Repair Double Hung Sash Windows</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-eat-garlic-in-the-morning'>How To Eat Garlic In The Morning</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=katalon-studio-vs-selenium-webdriver'>Katalon Studio Vs Selenium Webdriver</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=red-and-white-c9-led-christmas-lights'>Red And White C9 Led Christmas Lights</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=home-sweet-home-sign-michaels'>Home Sweet Home Sign Michaels</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-to-buy-trichloroacetic-acid'>Where To Buy Trichloroacetic Acid</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-college-of-environmental-design'>The College Of Environmental Design</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=are-stargazer-lilies-poisonous-to-cats'>Are Stargazer Lilies Poisonous To Cats</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=architectural-digest-best-kitchens-2019'>Architectural Digest Best Kitchens 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=tu-delft-undergraduate-tuition-and-fees'>Tu Delft Undergraduate Tuition And Fees</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-reset-samsung-washing-machine'>How To Reset Samsung Washing Machine</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-pronounce-clare-smyth'>How To Pronounce Clare Smyth</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-did-st-george-do'>What Did St George Do</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=jeld-wen-impact-entry-doors'>Jeld Wen Impact Entry Doors</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-defrost-samsung-ice-maker'>How To Defrost Samsung Ice Maker</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-cheap-rum-for-rum-and-coke'>Best Cheap Rum For Rum And Coke</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hgtv-urban-oasis-2019-minneapolis-address'>Hgtv Urban Oasis 2019 Minneapolis Address</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=washing-machine-repair-east-london'>Washing Machine Repair East London</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pressure-washer-wall-surface-cleaner'>Pressure Washer Wall Surface Cleaner</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=new-scandinavian-cooking-season-9'>New Scandinavian Cooking Season 9</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-eat-whole-grains'>How To Eat Whole Grains</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hayward-led-pool-light-bulb'>Hayward Led Pool Light Bulb</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hideout-at-the-laylow-waikiki'>Hideout At The Laylow Waikiki</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=second-battle-of-bull-run-documentary'>Second Battle Of Bull Run Documentary</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rob-lowe-movies-and-tv-shows'>Rob Lowe Movies And Tv Shows</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=coldwell-banker-advantage-sanford-nc'>Coldwell Banker Advantage Sanford Nc</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-paint-colors-for-finished-basements'>Best Paint Colors For Finished Basements</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=therma-tru-door-reviews-2019'>Therma Tru Door Reviews 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-lass-of-richmond-hill-scottish-country-dance'>The Lass Of Richmond Hill Scottish Country Dance</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=marble-queen-pothos-not-white'>Marble Queen Pothos Not White</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=furniture-stores-in-oak-cliff'>Furniture Stores In Oak Cliff</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=karisakattu-poove-en-avanai-mp3-song-free-download'>Karisakattu Poove En Avanai Mp3 Song Free Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=vanbow-high-back-leather-office-chair'>Vanbow High Back Leather Office Chair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pulihora-recipe-in-telugu-pdf'>Pulihora Recipe In Telugu Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=download-autocad-2016-student-version'>Download Autocad 2016 Student Version</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=environmental-scientists-and-specialists-jobs'>Environmental Scientists And Specialists Jobs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-many-metres-for-kurti'>How Many Metres For Kurti</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wooden-sofa-set-designs-for-small-living-room-with-price'>Wooden Sofa Set Designs For Small Living Room With Price</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=eames-molded-plastic-chair-replica'>Eames Molded Plastic Chair Replica</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mumbai-best-architecture-colleges-in-india'>Mumbai Best Architecture Colleges In India</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kentucky-state-employee-salaries-2018'>Kentucky State Employee Salaries 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-to-buy-lavender-plants-in-dubai'>Where To Buy Lavender Plants In Dubai</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=log-cabin-quilt-pattern-using-jelly-roll'>Log Cabin Quilt Pattern Using Jelly Roll</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dining-room-lights-above-table'>Dining Room Lights Above Table</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=operation-market-garden-radio-problems'>Operation Market Garden Radio Problems</a>,
+";s:7:"expired";i:-1;}

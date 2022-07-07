@@ -1,0 +1,235 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4542:"This site is published by Johnson & Johnson (Philippines) Inc. who is solely responsible for its content. The Johnson & Johnson Family of Consumer Companies offers the world’s largest range of consumer healthcare products. In India, the company touches the lives of consumers through businesses spanning baby care, women's health, beauty, oral & wound care and over-the-counter-products.Keeping Our Safety & Care Commitment is the most important thing we can do to … That’s why our companies offer the world’s broadest range of health care products. It has an employee strength of over 1,800. This site is intended for Philippine residents only.Site last updated May 2018. This site is best viewed in Internet Explorer 7 and higher versions. It is also among the most consistent and successful enterprises not just in the J&J world-wide group of companies, but also in India. New Delhi: India’s drug regulator has initiated a wider probe into the entire range of baby care products of Johnson and Johnson (J&J) Pvt. We’re focused on creating smart, data-driven products, solutions, and services. Every day, millions of people around the world enjoy the benefits of products from the Johnson & Johnson Family of Companies. Profile of Johnson & Johnson in India Johnson & Johnson Ltd is the India arm of the legendary pharmaceutical and consumer product company, Johnson & Johnson Inc. Johnson & Johnson India is a subsidiary of the US-based parent company Johnson & Johnson Inc and has been operating in India for more than fifty years. But today, the need for efficiency has become a matter of tremendous importance; we’re here to help. What are these complications, and how have India and other countries addressed them? Efficiency is a hallmark for Johnson Controls—and has been since we commercialized the very first electric thermostat more than 130 years ago. We care about making life cleaner, healthier and better.  Johnson & Johnson Consumer Products Division is one of the leading fast moving consumer goods manufacturers in India. That's why we've spent over a century making innovative, quality products that work. Established in 1958, H & R Johnson (India) offers various lifestyle solutions covering Wall and Floor Tiles for Residential, Commercial and Industrial Spaces, Sanitaryware & Bath Fittings, Engineered Marble & Quartz. Johnson’s baby care product targets young parents and positions itself as a safe, mild and gentle product for babies. & Johnson USA, is one of the leading players in the Indian pharmaceutical and consumer products business. All JOHNSON’S ® baby products are soap-free, hypoallergenic, dermatologist-tested and paraben-free as part of our promise to enable a healthy future for all babies. Other products may come under scrutiny again The controversy comes just a month after Johnson & Johnson resumed the production of its baby powder in India after government agencies ruled it free of asbestos, another cancer-causing substance. Very likely, someone in your family is one of them.Your family’s health and well-being is our passion. Johnson & Johnson's share of the skin care products market worldwide 2013-2021 Johnson & Johnson's bought energy consumption 2010-2018 Johnson & Johnson's … Mumbai: US drug maker Johnson & Johnson, stung by controversies over its baby talc and medical devices, posted its first sales decline in India since at least 2002, according to the company’s filings with the Registrar of Companies. Johnson & Johnson Consumer touches a billion lives around the world and works with the vision of 'Bringing science to the art of healthy living'. Established in 1958, H & R Johnson (India) offers various lifestyle solutions covering Wall and Floor Tiles for Residential, Commercial and Industrial Spaces, Sanitaryware & Bath Fittings, Engineered Marble & … Johnson’s Clean and Clear brand is a global skincare brand dedicated to teen girls and promotes that beauty comes from being happy in their own skin. Our baby care, skin care, oral care, wound care, over-the-counter and women’s health products feature brands trusted by consumers and healthcare professionals worldwide. How Johnson and Johnson hip implants system went wrong; How Johnson and Johnson hip implants system went wrong Health Ministry panel red-flags after-effects of Johnson & Johnson hip replacement systems, withdrawn worldwide. Every JOHNSON’S ® product is made with the purest and highest-quality ingredients because we are committed to happy, healthy development. ";s:7:"keyword";s:1011:"wbir weather 30 day forecast1111111111111 UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45),CHAR(45,120,49,53,45,81,45),CHAR(45,120,49,54,45,81,45),CHAR(45,120,49,55,45,81,45),CHAR(45,120,49,56,45,81,45),CHAR(45,120,49,57,45,81,45),CHAR(45,120,50,48,45,81,45),CHAR(45,120,50,49,45,81,45),CHAR(45,120,50,50,45,81,45),CHAR(45,120,50,51,45,81,45),CHAR(45,120,50,52,45,81,45),CHAR(45,120,50,53,45,81,45),CHAR(45,120,50,54,45,81,45),CHAR(45,120,50,55,45,81,45),CHAR(45,120,50,56,45,81,45),CHAR(45,120,50,57,45,81,45),CHAR(45,120,51,48,45,81,45),CHAR(45,120,51,49,45,81,45),CHAR(45,120,51,50,45,81,45),CHAR(45,120,51,51,45,81,45),CHAR(45,120,51,52,45,81,45),CHAR(45,120,51,53,45,81,45)    ";s:5:"links";s:7471:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=slow-cooker-ground-beef-casserole-recipes'>Slow Cooker Ground Beef Casserole Recipes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=simple-wall-painting-designs-for-living-room'>Simple Wall Painting Designs For Living Room</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=blue-velvet-dining-chairs-with-gold-legs'>Blue Velvet Dining Chairs With Gold Legs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hodedah-3-door-wardrobe-assembly'>Hodedah 3 Door Wardrobe Assembly</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=promo-codes-for-urban-outfitters'>Promo Codes For Urban Outfitters</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=steelcase-think-chair-replacement-seat'>Steelcase Think Chair Replacement Seat</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=my-dream-house-essay-200-words'>My Dream House Essay 200 Words</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=orla-kiely-linear-stem-backpack'>Orla Kiely Linear Stem Backpack</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-aster-by-cortland-resident-portal'>The Aster By Cortland Resident Portal</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=when-was-the-tower-of-london-built'>When Was The Tower Of London Built</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=are-sun-chips-gluten-free'>Are Sun Chips Gluten Free</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=gray-reclining-sofa-and-loveseat'>Gray Reclining Sofa And Loveseat</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=jenn-air-refrigerator-ice-maker-leaking'>Jenn Air Refrigerator Ice Maker Leaking</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mainstays-upholstered-low-back-office-chair'>Mainstays Upholstered Low Back Office Chair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=virgin-of-the-rocks-medium'>Virgin Of The Rocks Medium</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-haunting-in-connecticut-house'>The Haunting In Connecticut House</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=male-nurse-meaning-in-hindi'>Male Nurse Meaning In Hindi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=american-red-cross-phone-number'>American Red Cross Phone Number</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-pavlova-white-not-brown'>How To Make Pavlova White Not Brown</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=things-to-do-in-peterborough'>Things To Do In Peterborough</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=shallow-wardrobes-for-small-bedrooms'>Shallow Wardrobes For Small Bedrooms</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-places-to-volunteer-abroad'>Best Places To Volunteer Abroad</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-is-a-workshop-class'>What Is A Workshop Class</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=paleo-tacos-al-pastor-crockpot'>Paleo Tacos Al Pastor Crockpot</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=diy-overhead-garage-storage-plans'>Diy Overhead Garage Storage Plans</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=milk-street-tuesday-nights-recipes'>Milk Street Tuesday Nights Recipes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hierarchy-of-front-office-department-in-large-hotel'>Hierarchy Of Front Office Department In Large Hotel</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=gray-and-blue-bathroom-design'>Gray And Blue Bathroom Design</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=plants-that-grow-from-leaves'>Plants That Grow From Leaves</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=los-angeles-county-population-2019'>Los Angeles County Population 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bedside-table-size-in-cm'>Bedside Table Size In Cm</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-do-i-download-the-new-scotiabank-app'>How Do I Download The New Scotiabank App</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-heart-wants-what-it-wants-meaning'>The Heart Wants What It Wants Meaning</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=discount-front-doors-with-sidelights'>Discount Front Doors With Sidelights</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-halal-restaurants-in-berlin'>Best Halal Restaurants In Berlin</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ikea-doll-bed-used-for-cats'>Ikea Doll Bed Used For Cats</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=williams-sonoma-distribution-center-south-brunswick-nj'>Williams Sonoma Distribution Center South Brunswick Nj</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=carpet-squares-for-basement-lowes'>Carpet Squares For Basement Lowes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=optimal-healing-environment-hospitals-in-florida'>Optimal Healing Environment Hospitals In Florida</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kitchen-lighting-design-rules-of-thumb'>Kitchen Lighting Design Rules Of Thumb</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-tile-color-for-small-bathroom'>Best Tile Color For Small Bathroom</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=super-mario-maker-2-gamestop'>Super Mario Maker 2 Gamestop</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=six-degrees-of-separation-nominations'>Six Degrees Of Separation Nominations</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=gianni-versace-net-worth-now'>Gianni Versace Net Worth Now</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-robert-irvine-still-with-food-network'>Is Robert Irvine Still With Food Network</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hiking-echo-lake-to-fallen-leaf-lake'>Hiking Echo Lake To Fallen Leaf Lake</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-tandoori-chicken-at-home'>How To Make Tandoori Chicken At Home</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=garden-home-plans-for-narrow-lots'>Garden Home Plans For Narrow Lots</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=florida-keys-scuba-diving-usa'>Florida Keys Scuba Diving Usa</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bosch-nexxt-500-plus-series-washer-door-gasket'>Bosch Nexxt 500 Plus Series Washer Door Gasket</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=boston-conservatory-at-berklee-transcript'>Boston Conservatory At Berklee Transcript</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=baked-sweet-and-sour-cauliflower'>Baked Sweet And Sour Cauliflower</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wooden-storage-bench-for-bedroom'>Wooden Storage Bench For Bedroom</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lowes-credit-card-phone-number'>Lowes Credit Card Phone Number</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=night-falls-on-manhattan-123movies'>Night Falls On Manhattan 123movies</a>,
+";s:7:"expired";i:-1;}

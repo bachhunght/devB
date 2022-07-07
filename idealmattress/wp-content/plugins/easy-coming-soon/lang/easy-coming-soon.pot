@@ -1,0 +1,1479 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Easy coming soon lite\n"
+"POT-Creation-Date: 2017-11-10 16:50+0530\n"
+"PO-Revision-Date: 2017-11-10 16:50+0530\n"
+"Last-Translator: \n"
+"Language-Team: webriti <themes@webriti.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: \\\\JITENDRA\\Users\\Public\\2. Pathak\\plugin\\Lite"
+"\\Easy coming soon\n"
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/coming-soon-plugin.php:32
+msgid "Easy coming soon"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/pro-detail.php:96
+#: soon/theme_options/pages/aboutpro_version_settings.php:14
+#: soon/theme_options/pages/pro_features_settings.php:14
+msgid "Coming Soon Pro Features"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/pro-detail.php:102
+msgid ""
+"Hey There <br><br> Thanks for using the lite version of Easy Coming Soon. I "
+"hope the plugin will enable you to quickly and easily create a landing page "
+"If you are looking to create a more feature rich landing page then I would "
+"suggest you to have a look at the premium version of the Easy Coming Soon "
+"Plugin. It has a lot of additional features which will allow you to quickly "
+"create a good looking landing page.<br><br> I would suggest you to checkout "
+"the <a href ='http://easycomingsoon.com/demos/' target='_blank'> Sample "
+"Coming Soon Page </a> created by the premium version of the plugin <br><br> "
+"Also Check out the Admin Panel <a href = 'http://easycomingsoon.com/demos/' "
+"target='_blank'> here </a> User Login: user and Password: user"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/pro-detail.php:115
+#: soon/theme_options/pages/aboutpro_version_settings.php:37
+msgid "Here is the complete List of Features in Pro Version "
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/pro-detail.php:123
+msgid "1. Multiple Design Templates "
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/pro-detail.php:124
+msgid ""
+"A Launch Page can play an important role in branding so we made sure that "
+"all included templates are good looking."
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/pro-detail.php:124
+msgid ""
+"\n"
+"As a user you just have to fill in the data via option panel and a Coming "
+"Soon Page will be created as per the selected template."
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/pro-detail.php:128
+msgid "2. Email Capture Form"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/pro-detail.php:129
+msgid ""
+"A Launch Page is ideal for collecting Email address of the interested "
+"visitors. You can quickly setup a Email Capture Form and Start collecting "
+"Email Address. All the Emails are stored on in your Website Database"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/pro-detail.php:131
+msgid "3. Newsletter / Autoresponder Integration"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/pro-detail.php:132
+msgid ""
+"Easy Coming Soon integrates with MailChimp, Aweber, Constant Contact , "
+"CampaignMonitor and Madmimi. You can connect the plugin to third party "
+"services and started building your Email List"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/pro-detail.php:135
+msgid "4. User White List"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/pro-detail.php:137
+msgid ""
+"This feature is very useful if you are building the website for a client. "
+"With this feature you can allow client / contributor to view the live site "
+"while all others will be presented with the Coming Soon Page."
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/pro-detail.php:139
+msgid "5. Landing Page Mode"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/pro-detail.php:140
+msgid ""
+"With this feature you can choose to display the Coming Soon Page on the "
+"entire site or on a single Page. <br> Here is a Use Case: Suppose you want "
+"the blog to be accessible to all users while displaying the coming soon page "
+"on the font page. It can be done with the Landing Page Mode."
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/pro-detail.php:148
+msgid "6. Custom Favicon and Logo Support"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/pro-detail.php:150
+msgid ""
+"You can quickly upload a Custom Logo and favicon via the option Panel. We "
+"make use of Wordpress Mdeia Uploader, so you can also insert the logo from "
+"the Wordpress Media Library."
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/pro-detail.php:153
+msgid "7. Count-Down Timer Support"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/pro-detail.php:155
+#: soon/theme_options/pages/aboutpro_version_settings.php:75
+msgid ""
+"This feature was implemented as a response to a suggestion by one of our "
+"user. With this feature you can display a count down timer on the coming "
+"soon page. The timer can be quickly configure via option panel."
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/pro-detail.php:159
+msgid "8. Progress Bar Support"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/pro-detail.php:161
+msgid ""
+"It is also possible to display a Progress Bar on the coming soon page. "
+"Currently 3 styles of progress bars are supported, Basic, Striped and "
+"Animated. "
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/pro-detail.php:163
+msgid "9. Custom Text Strings"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/pro-detail.php:164
+msgid ""
+"This feature allows you to quickly change the labels of the Text Fields and "
+"Buttons."
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/pro-detail.php:167
+msgid "10. BackGround Slide-Show"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/pro-detail.php:168
+msgid ""
+"You can create a SlideShow and display it as a background with this feature. "
+"You may add as many slides as you want. It is also possible to display a "
+"Static Image or simply a color as a background."
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/pro-detail.php:170
+msgid "11. Video BackGround Support"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/pro-detail.php:171
+msgid ""
+"This feature allows you to create a Full Screen Video BackGround. Just "
+"upload the video on Youtube and configure the settings via the Admin Panel. "
+"Its that simple!"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/pro-detail.php:173
+msgid "12. Social Icon Support"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/pro-detail.php:174
+msgid ""
+"The premium version has support for 20 Social Media Network. You just need "
+"to fill in the url and the respective icon will be displayed on the coming "
+"soon page."
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/pro-detail.php:176
+msgid "13. Design Customization Options"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/pro-detail.php:177
+msgid ""
+"The plugin allows you to quickly customize the settings like Font Color, "
+"Font Size, Font type, Button Color etc. All of these settings can be "
+"accessed via the Option Panel."
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/pro-detail.php:179
+msgid "14. Custom CSS Support"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/pro-detail.php:180
+#: soon/theme_options/pages/aboutpro_version_settings.php:100
+msgid ""
+"A lot of times the inbuilt settings are just not enough. With the Custom CSS "
+"support you can quikly add style rules to the coming soon page."
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/pro-detail.php:182
+msgid "15. Google Analytics Support"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/pro-detail.php:183
+msgid ""
+"You can paste the google analytics tracking code and track the pageviews. No "
+"need to install a separate plugin.."
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/pro-detail.php:203 soon/theme_options/webriti_option_pannel.php:32
+#: soon/theme_options/pages/pricing_settings.php:7
+msgid "Pricing"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/pro-detail.php:204
+msgid ""
+"The pro version is priced at <strong>very reasonable 29 USD</strong> and "
+"entitles you to receive <strong>support and updates for 1 year</strong>. "
+"<br><br>If you need updates and support after one year, then simply renew "
+"the license. If not, then you may keep using the plugin. <br>You may use the "
+"plugin on any number of websites you want"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/pro-detail.php:207
+msgid "How to Purchase."
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/pro-detail.php:208
+msgid "If you are interested then you can buy the plugin"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/pro-detail.php:208
+msgid "here"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/pro-detail.php:210 soon/theme_options/pages/pricing_settings.php:19
+msgid "I look Forward to Working with you"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/pro-detail.php:211 soon/theme_options/pages/pricing_settings.php:20
+msgid ""
+"Thousands of users have enjoyed using our. I hope you will also enjoy "
+"working with us"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/pro-detail.php:231
+#: soon/theme_options/pages/aboutpro_version_settings.php:126
+msgid "Cheers"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/pro-detail.php:233
+msgid "Co-Founder, Webriti Themes and Plugins"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/pro-detail.php:272 soon/theme_options/webriti_option_pannel.php:8
+#: soon/theme_options/pages/aboutpro_version_settings.php:141
+#: soon/theme_options/pages/pricing_settings.php:36
+msgid "Upgrade to pro version"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/pro-detail.php:273
+#: soon/theme_options/pages/aboutpro_version_settings.php:142
+#: soon/theme_options/pages/pricing_settings.php:37
+#: soon/theme_options/pages/pro_features_settings.php:22
+#: soon/theme_options/pages/pro_features_settings.php:242
+#: soon/theme_options/pages/pro_features_settings.php:493
+msgid "View Live demo"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/template/coming_soon_display.php:131
+msgid "Social Settings"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/webriti_option_pannel.php:2
+msgid "Settings"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/webriti_option_pannel.php:6
+msgid "Easy Coming Soon Plugin"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/webriti_option_pannel.php:7
+msgid "Preview"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/webriti_option_pannel.php:9
+msgid "Share Your Feedback"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/webriti_option_pannel.php:18
+#: soon/theme_options/pages/header_page_settings.php:60
+msgid "General Settings"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/webriti_option_pannel.php:20
+msgid "Design"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/webriti_option_pannel.php:22
+msgid "Notification Settings"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/webriti_option_pannel.php:24
+#: soon/theme_options/pages/template_page_settings.php:70
+msgid "Templates"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/webriti_option_pannel.php:26
+msgid "Live Preview"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/webriti_option_pannel.php:28
+msgid "Pro Features"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/webriti_option_pannel.php:30
+msgid "Whats included in the Pro Version"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/webriti_option_pannel.php:34
+#: soon/theme_options/webriti_option_pannel.php:181
+msgid "Show Some Love"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/webriti_option_pannel.php:36
+msgid "Video Tutorial"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/webriti_option_pannel.php:183
+msgid "Like this plugin? Show your support by"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/webriti_option_pannel.php:194
+msgid "Rate It"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/webriti_option_pannel.php:195
+msgid "Tweet It"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/webriti_option_pannel.php:196
+msgid "Buy Pro"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/webriti_option_pannel.php:220
+msgid "Fully functional coming soon page in 30 minutes"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/webriti_option_pannel.php:222
+msgid ""
+"In this <a target = '_blank' href ='https://www.youtube.com/watch?"
+"v=jwXOO9DDSpY'>video tutorial</a>, I will demonstrate how you can create a "
+"fully functional Coming Soon Page in as little as 30 minutes."
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/webriti_option_pannel.php:223
+msgid "Here is what we the landing page will look like."
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/webriti_option_pannel.php:229
+msgid ""
+"This video tutorial is for the premium version of the plugin. As you can "
+"see, it has:"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/webriti_option_pannel.php:232
+msgid "1. Company logo"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/webriti_option_pannel.php:233
+msgid "2. An image slide show backGround"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/webriti_option_pannel.php:234
+msgid "3. Email capture box, with option to capture first name and last name"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/webriti_option_pannel.php:235
+msgid "4. Countdown timer"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/webriti_option_pannel.php:236
+msgid "5. A progress bar"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/webriti_option_pannel.php:237
+msgid "6. Social media icons"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/webriti_option_pannel.php:238
+msgid ""
+"7. The video also contains a brief overview of the features like multiple "
+"templates, Ip based access, newsletter integration etc."
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/webriti_option_pannel.php:241
+msgid ""
+"</p>The premium version is priced at 29 USD and lets you use the plugin on "
+"unlimited website.</p><p>Here find the <a target = \"_blank\" href = "
+"\"https://www.youtube.com/watch?v=JEbKUdvbzys\"> link to the video </"
+"a>demonstrating how to create coming soon page.</p>"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/webriti_option_pannel.php:313
+msgid "Thanks for subscribing this page"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/aboutpro_version_settings.php:19
+msgid ""
+"Hey There<br><br> Thanks for using the lite version of Easy Coming Soon. I "
+"hope the plugin will enable you to quickly and easily create a landing page."
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/aboutpro_version_settings.php:21
+msgid ""
+"If you are looking to create a more feature rich landing page then I would "
+"suggest you to have a look at the premium version of the Easy Coming Soon "
+"Plugin.\n"
+"It has a lot of additional features which will allow you to quickly create a "
+"good looking landing page."
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/aboutpro_version_settings.php:23
+msgid ""
+"I would suggest you to checkout the <a href = \"http://easycomingsoon.com/"
+"demos/\" target=\"_blank\">Sample Coming Soon Page</a> created by the "
+"premium version of the plugin. <br><br>\n"
+"Also Check out the Admin Panel <a href = \"http://easycomingsoon.com/demos/"
+"\" target=\"_blank\">here</a>. User Login: user and Password: user"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/aboutpro_version_settings.php:45
+msgid "1. Realtime Page Customizer "
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/aboutpro_version_settings.php:46
+msgid ""
+"Real-time page customizer provides you more flexibility in a place. You can "
+"change any design and content aspect in real-time on your Coming Soon Page. "
+"You can see output when you will edit page."
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/aboutpro_version_settings.php:48
+msgid "2. Multiple Design Templates "
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/aboutpro_version_settings.php:49
+msgid ""
+"A launch page can play an important role in branding so we made sure that "
+"all included templates are good looking. <br>\n"
+"As a user you just have to fill in the data via option panel and a coming "
+"soon page will be created as per the selected template."
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/aboutpro_version_settings.php:53
+msgid "3. Email Capture Form"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/aboutpro_version_settings.php:54
+msgid ""
+"A launch page is ideal for collecting email address of the interested "
+"visitors. You can quickly setup a email capture form and start collecting "
+"email address. All the emails are stored on in your website database"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/aboutpro_version_settings.php:56
+msgid "4. Newsletter / Autoresponder Integration"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/aboutpro_version_settings.php:57
+msgid ""
+"Easy Coming Soon integrates with MailChimp, Aweber, Constant Contact , "
+"CampaignMonitor and Madmimi. You can connect the plugin to third party "
+"services and started building your email list"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/aboutpro_version_settings.php:60
+msgid "5. User White List"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/aboutpro_version_settings.php:62
+msgid ""
+"This feature is very useful if you are building the website for a client. "
+"With this feature you can allow client / contributor to view the live site "
+"while all others will be presented with the coming soon page."
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/aboutpro_version_settings.php:64
+msgid "6. Landing Page Mode"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/aboutpro_version_settings.php:65
+msgid ""
+"With this feature you can choose to display the coming soon page on the "
+"entire site or on a single page. <br> Here is a use case: Suppose you want "
+"the blog to be accessible to all users while displaying the coming soon page "
+"on the font page. It can be done with the landing page mode."
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/aboutpro_version_settings.php:68
+msgid "7. Custom Favicon and Logo Support "
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/aboutpro_version_settings.php:70
+msgid ""
+"You can quickly upload a custom logo and favicon via the option Panel. We "
+"make use of WordPress mdeia uploader, so you can also insert the logo from "
+"the WordPress media library."
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/aboutpro_version_settings.php:73
+msgid "8. Count-Down Timer Support"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/aboutpro_version_settings.php:79
+msgid "9. Progress Bar Support "
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/aboutpro_version_settings.php:81
+msgid ""
+"It is also possible to display a progress bar on the coming soon page. "
+"Currently 3 styles of progress bars are supported, basic, striped and "
+"animated."
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/aboutpro_version_settings.php:83
+msgid "10. Custom Text Strings"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/aboutpro_version_settings.php:84
+msgid ""
+"This feature allows you to quickly change the labels of the text fields and "
+"buttons."
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/aboutpro_version_settings.php:87
+msgid "11. BackGround Slide-Show"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/aboutpro_version_settings.php:88
+msgid ""
+"You can create a slideshow and display it as a background with this feature. "
+"You may add as many slides as you want. It is also possible to display a "
+"static image or simply a color as a background."
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/aboutpro_version_settings.php:90
+msgid "12. Video BackGround Support"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/aboutpro_version_settings.php:91
+msgid ""
+"This feature allows you to create a full screen video background. Just "
+"upload the video on YouTube and configure the settings via the admin panel. "
+"Its that simple!"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/aboutpro_version_settings.php:93
+msgid "13. Social Icon Support"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/aboutpro_version_settings.php:94
+msgid ""
+"The premium version has support for 20 social media network. You just need "
+"to fill in the url and the respective icon will be displayed on the coming "
+"soon page."
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/aboutpro_version_settings.php:96
+msgid "14. Design Customization Options"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/aboutpro_version_settings.php:97
+msgid ""
+"The plugin allows you to quickly customize the settings like font color, "
+"font size, font type, button color etc. All of these settings can be "
+"accessed via the option panel."
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/aboutpro_version_settings.php:99
+msgid "15. Custom CSS Support"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/aboutpro_version_settings.php:102
+msgid "16. Google Analytics Support"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/aboutpro_version_settings.php:103
+msgid ""
+"You can paste the google analytics tracking code and track the pageviews. No "
+"need to install a separate plugin."
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/aboutpro_version_settings.php:105
+msgid "17. Subscriber Export Settings"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/aboutpro_version_settings.php:106
+msgid ""
+"Export your all subscribers with a single click. You will get all emails in "
+"CSV file."
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/aboutpro_version_settings.php:108
+msgid "18. Show Landing page on Specific page"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/aboutpro_version_settings.php:109
+msgid ""
+"Show landing page on a specific page. You can use this feature when  you "
+"edit page and want to show landing page for visitors."
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/aboutpro_version_settings.php:111
+msgid "19. Store Emails in the WordPress Database"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/aboutpro_version_settings.php:112
+msgid ""
+"Your subscriber's email will save in WordPress database and can check out "
+"all subscribers in a single place."
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/aboutpro_version_settings.php:128
+msgid "Co-Founder, Easy Coming Soon"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/design_page_settings.php:29
+#: soon/theme_options/pages/design_page_settings.php:51
+#: soon/theme_options/pages/header_page_settings.php:27
+#: soon/theme_options/pages/template_page_settings.php:28
+#: soon/theme_options/pages/template_page_settings.php:43
+msgid "Sorry, your nonce did not verify."
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/design_page_settings.php:72
+msgid "Design Settings"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/design_page_settings.php:75
+#: soon/theme_options/pages/header_page_settings.php:63
+#: soon/theme_options/pages/live_preview_settings.php:8
+#: soon/theme_options/pages/notification_page_setting.php:51
+#: soon/theme_options/pages/template_page_settings.php:56
+msgid "Options data successfully Saved"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/design_page_settings.php:76
+#: soon/theme_options/pages/header_page_settings.php:64
+#: soon/theme_options/pages/live_preview_settings.php:9
+#: soon/theme_options/pages/notification_page_setting.php:52
+#: soon/theme_options/pages/template_page_settings.php:57
+msgid "Options data successfully reset"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/design_page_settings.php:87
+msgid "Background Color"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/design_page_settings.php:92
+msgid "Headline Font Color"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/design_page_settings.php:97
+msgid "Headline Font Size"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/design_page_settings.php:107
+msgid "Headline Font Style"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/design_page_settings.php:136
+msgid "Description Font Color"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/design_page_settings.php:141
+msgid "Description Font Size"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/design_page_settings.php:151
+msgid "Description Font Style"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/design_page_settings.php:181
+msgid "Effect"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/design_page_settings.php:182
+msgid "None"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/design_page_settings.php:183
+msgid "Noise"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/design_page_settings.php:188
+#: soon/theme_options/pages/header_page_settings.php:69
+#: soon/theme_options/pages/header_page_settings.php:139
+msgid "Save Options"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/design_page_settings.php:189
+#: soon/theme_options/pages/header_page_settings.php:68
+#: soon/theme_options/pages/header_page_settings.php:140
+msgid "Restore Defaults"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/header_page_settings.php:78
+msgid "Select status"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/header_page_settings.php:79
+msgid "Disabled"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/header_page_settings.php:80
+msgid "Enable Coming Soon Mode"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/header_page_settings.php:86
+msgid "Background image"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/header_page_settings.php:98
+msgid "Headline"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/header_page_settings.php:105
+msgid "Description"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/header_page_settings.php:112
+msgid "Google Analytics Code"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/header_page_settings.php:119
+#: soon/theme_options/pages/header_page_settings.php:120
+msgid "Facebook URL"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/header_page_settings.php:126
+#: soon/theme_options/pages/header_page_settings.php:127
+msgid "Twitter URL"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/header_page_settings.php:133
+#: soon/theme_options/pages/header_page_settings.php:134
+msgid "GooglePlus URL"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/live_preview_settings.php:5
+msgid "Live Preview Page"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/live_preview_settings.php:21
+msgid "Click here </a> for live preview template"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/notification_page_setting.php:48
+msgid "Notification Forms Settings"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/notification_page_setting.php:65
+msgid "Mail Option"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/notification_page_setting.php:67
+msgid "Do not display signup field"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/notification_page_setting.php:68
+msgid "Mail to the owner"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/notification_page_setting.php:75
+msgid "Owner Email Address"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/notification_page_setting.php:82
+msgid "Display Message After User Subscribing"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/notification_page_setting.php:89
+msgid "Subscribe Button"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/notification_page_setting.php:96
+msgid "Email Textbox Placeholder"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/notification_page_setting.php:103
+msgid "Custom Email Message to Owner"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/notification_page_setting.php:106
+msgid ""
+"Use Shortcode <strong style='font-size:15px;'>[email]</strong> to include "
+"the email address entered by the Subscriber"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pricing_settings.php:8
+msgid "We have 2 set of licenses"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pricing_settings.php:10
+msgid ""
+"<strong>Single Site License</strong> - The price of this license is <b>$29</"
+"b>. Which allow you to use the Premium plugin on single site."
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pricing_settings.php:11
+msgid ""
+"<strong>Unlimited Site License</strong> - This price of this license is <b>"
+"$59</b>. Which allow you to use the plugin on unlimited wordPress websites."
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pricing_settings.php:13
+msgid ""
+"Support and Updates will be given for 1 year. <br>If you need updates and "
+"support after one year, then simply renew the license. If not, then you may "
+"keep using the plugin."
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pricing_settings.php:16
+msgid "How to Purchase"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pricing_settings.php:17
+msgid ""
+"If you are interested then you can buy the plugin <a href = 'http://member."
+"easycomingsoon.com/pricing/' target = '_blank'>here.</a> Once the purchase "
+"process gets complete, the license key will be emailed to you. Add and "
+"activate this license key in the license option page in the premium version "
+"of this plugin. Make sure that you activate this license key in order to "
+"enjoy the continue support and plugin updates."
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pro_features_settings.php:19
+msgid ""
+"The premium version allows you to capture visitor email address, integrates "
+"with various autoresponders, comes with six different templates and provide "
+"loads of design customization options. \n"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pro_features_settings.php:21
+#: soon/theme_options/pages/pro_features_settings.php:241
+#: soon/theme_options/pages/pro_features_settings.php:492
+msgid "Upgrade To Pro Version"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pro_features_settings.php:37
+#: soon/theme_options/pages/pro_features_settings.php:329
+msgid "Realtime Page Customizer"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pro_features_settings.php:38
+msgid ""
+"Real-time Page customizer provides you more flexibility in a place. You can "
+"change any design and content aspect in real-time on your Coming Soon Page. "
+"You can see output when you will edit page. "
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pro_features_settings.php:60
+msgid "Email Capture Field"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pro_features_settings.php:61
+msgid ""
+"Collect email address of your visitors with an email capture field. The "
+"captured email address are stored in your WordPress website."
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pro_features_settings.php:80
+msgid "Newsletter Integration"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pro_features_settings.php:81
+msgid ""
+"Premium version integrates with popular newsletter services like <ul><li> "
+"Mailchimp</li><li>Aweber</li><li>Madmimi</li><li>Constant Contact</"
+"li><li>Campaign Monitor</li><li>FeedBurner</li></ul>"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pro_features_settings.php:100
+#: soon/theme_options/pages/pro_features_settings.php:283
+msgid "Mobile Ready & Responsive"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pro_features_settings.php:101
+msgid ""
+"Create a responsive landing page mode. Easy coming soon support Bootstrap "
+"based landing page which display perfectly on mobile and tablet device."
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pro_features_settings.php:113
+msgid "5 Additional Design Templates"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pro_features_settings.php:114
+msgid ""
+"The premium version comes with 5 extra templates.  All the templates are "
+"completely customizable."
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pro_features_settings.php:132
+msgid "Powerful Design Settings"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pro_features_settings.php:133
+msgid ""
+"Make your maintenance page look Sexy!!! The premium version comes with loads "
+"of design settings like<ul><li>Video Background</li><li>Background "
+"Slideshow</li><li>Google Font integration</li><li>Text color Customization</"
+"li><li>Custom CSS</li></ul>"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pro_features_settings.php:144
+msgid "Landing Page Mode"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pro_features_settings.php:145
+msgid ""
+"Design and publish a landing page on your WordPress Website. The premium "
+"version enables you add a landing page to your existing WordPress website."
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pro_features_settings.php:163
+msgid "Access Controls"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pro_features_settings.php:164
+msgid ""
+"Powerful access control feature lets you decide which users can view the "
+"live website.  Whitelist IP address and user roles. Assign coming soon page "
+"to a particualr WordPress page."
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pro_features_settings.php:181
+msgid "Social Media Icons Support"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pro_features_settings.php:182
+msgid ""
+"Quickly add links to your social profiles. The plugin supports adding links "
+"to Facebook, Twitter, GooglePlus, Pinterest, YouTube, Tumblr, Viemo etc."
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pro_features_settings.php:197
+msgid "All Browser Support"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pro_features_settings.php:198
+msgid ""
+"Plugin tested with all popular browsers like  <ul><li> IE 9 +</li><li> "
+"Google Chrome</li><li> Mozilla Firefox </li><li> Apple Safari</li></ul>"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pro_features_settings.php:213
+msgid "Translation Ready"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pro_features_settings.php:214
+msgid "Quickly translate the plugin in the language of your choice."
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pro_features_settings.php:235
+msgid "Upgarde to Coming Soon Pro Here"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pro_features_settings.php:258
+msgid "Comparison Table of Free And Pro Version"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pro_features_settings.php:264
+msgid "Features"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pro_features_settings.php:265
+msgid "Free"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pro_features_settings.php:266
+msgid "Premium"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pro_features_settings.php:274
+msgid "Plugin is compataible with all the WordPress Themes."
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pro_features_settings.php:275
+msgid "Works with any WordPress theme"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pro_features_settings.php:282
+msgid ""
+"All the templates created by the plugin are responsive in all the devices."
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pro_features_settings.php:290
+msgid "Real time page customizer makes this plugin more intutive."
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pro_features_settings.php:291
+msgid "User-friendly setup"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pro_features_settings.php:299
+msgid "Collect your subscriber's email along with name."
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pro_features_settings.php:300
+msgid "Ability to Capture Name along with the Email"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pro_features_settings.php:311
+msgid "Google Analytics supports."
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pro_features_settings.php:312
+msgid "Google Analytics support"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pro_features_settings.php:319
+msgid "Popular social media links are already there in the plugin."
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pro_features_settings.php:320
+msgid "Social Media  Links"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pro_features_settings.php:321
+msgid "Facebook, Twitter, GooglePlus"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pro_features_settings.php:322
+msgid ""
+"Twitter, Facebook, LinkedIn, GooglePlus, Youtube, Email, Pinterest, Yahoo  "
+"etc."
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pro_features_settings.php:327
+msgid ""
+"Realtime page customizer will give you same experience as WordPress Theme "
+"Customizer gives. Create your coming soon pages in real time."
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pro_features_settings.php:338
+msgid "By default you will find number of google fonts."
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pro_features_settings.php:339
+msgid "Integrated Google Fonts"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pro_features_settings.php:346
+msgid ""
+"Plugin even works in case of the multi-site environment. A WordPress "
+"multisite network allows you to run and manage multiple WordPress sites from "
+"a single WordPress installation."
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pro_features_settings.php:347
+msgid "Multisite support"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pro_features_settings.php:355
+msgid ""
+"All text strings displayed, can be translated into your native language."
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pro_features_settings.php:356
+msgid "Translation ready"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pro_features_settings.php:363
+msgid "limit access with clients who want to view regular sites."
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pro_features_settings.php:364
+msgid "Limit access with client view"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pro_features_settings.php:371
+msgid ""
+"The plugin comes with six pre-defined templates. You can customize any one "
+"template and make your landing page"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pro_features_settings.php:372
+msgid "Multiple design templates"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pro_features_settings.php:379
+msgid ""
+"You can give to clients or visitors which allows the coming soon page and "
+"access the site. You can also enable access by IP Address and User."
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pro_features_settings.php:380
+msgid "Access controls / User whitelist"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pro_features_settings.php:389
+msgid ""
+"Quickly add a full-screen background image and color to display stunning "
+"coming soon page."
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pro_features_settings.php:390
+msgid "Full screen background image & color"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pro_features_settings.php:397
+msgid ""
+"Quickly add a full-screen background image slideshow to display stunning "
+"coming soon page."
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pro_features_settings.php:398
+msgid "Full screen background slideshow"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pro_features_settings.php:405
+msgid ""
+"Quickly add a full-screen YouTube video to display stunning coming soon page."
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pro_features_settings.php:406
+msgid "Full screen background video"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pro_features_settings.php:414
+msgid ""
+"Integrated leading email marketing service in the plugin. You can send "
+"emails directly to your favorite service. Check out following service "
+"included in the plugin like MailChimp, Campaign Monitor, Constant Contact, "
+"Madmimi, Aweber, and Feedburner."
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pro_features_settings.php:415
+msgid "Integrated leading email marketing service"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pro_features_settings.php:423
+msgid ""
+"Configure the date and time when your store will be live and the countdown "
+"timer will show counts accordingly."
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pro_features_settings.php:424
+msgid "Countdown timer"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pro_features_settings.php:433
+msgid ""
+"The countdown timer is essential on a landing page. You can set project "
+"launching date to your visitors."
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pro_features_settings.php:434
+msgid "Progress bar"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pro_features_settings.php:441
+msgid ""
+"SEO settings ready in the plugin. You can maintain SEO related setting for "
+"your landing page. In this settings, you can add meta title, description and "
+"favicon image."
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pro_features_settings.php:442
+msgid "SEO settings & Custom Favicon"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pro_features_settings.php:449
+msgid ""
+"There are two modes in the plugin, first coming soon and second maintenance "
+"mode. Want to see the difference between both? Refer plugin article."
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pro_features_settings.php:450
+msgid "Landing page mode settings"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pro_features_settings.php:456
+msgid "You can show your company's logo and copyright link."
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pro_features_settings.php:457
+msgid "Logo and credit link setting"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pro_features_settings.php:464
+msgid "Export all your subscribers in a single click."
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pro_features_settings.php:465
+msgid "Subscriber Export Settings"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pro_features_settings.php:472
+msgid ""
+"Show landing page on a specific page. When you edit a page, during that time "
+"you can show the maintenance page to your visitor."
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pro_features_settings.php:473
+msgid "Show Landing page on Specific page"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pro_features_settings.php:480
+msgid "Optionally store all your subscriber's email id in WordPress Database."
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/pro_features_settings.php:481
+msgid "Store Emails in the WordPress Database"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/template_page_settings.php:53
+msgid "Templates Settings"
+msgstr ""
+
+#: \\JITENDRA\Users\Public\2. Pathak\plugin\Lite\Easy coming
+#: soon/theme_options/pages/template_page_settings.php:111
+#: soon/theme_options/pages/template_page_settings.php:133
+#: soon/theme_options/pages/template_page_settings.php:155
+#: soon/theme_options/pages/template_page_settings.php:171
+#: soon/theme_options/pages/template_page_settings.php:182
+#: soon/theme_options/pages/template_page_settings.php:193
+msgid "Available In Pro"
+msgstr ""

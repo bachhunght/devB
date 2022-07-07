@@ -1,0 +1,234 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4210:"Definition: Wikipedia defines strategy pattern as: “In computer programming, the strategy pattern (also known as the policy pattern) is a software design pattern that enables an algorithm’s behavior to be selected at runtime. Most large programs I write, games or otherwise, end up using it somewhere. You can find an example on our Singleton pattern page. Using a strategy pattern and a command pattern (5) Both design patterns encapsulate an algorithm and decouple implementation details from their calling classes. The strategy pattern is a behavioral design pattern that enables selecting an algorithm at runtime — Wikipedia. Command pattern: Typically the Command pattern is used to make an object out of what needs to be done -- to take an operation and its arguments and wrap them up in an object to be logged, held for undo, sent to a remote site, etc. This information includes the method name, the object that owns the method and values for the method parameters. Given this background information, lets take a look at two Java Command Pattern examples. The .NET optimized code demonstrates the same real-world situation as above but uses modern, built-in .NET features, such as, generics, reflection, object initializers, automatic properties, etc. You can find an example on our Singleton pattern page. When I’ve used it in the right place, it’s neatly untangled some really gnarly code. There will tend to be a large number of… import abc class Context: """ Define the interface of interest to clients. A strategy might have a number of methods specific to the algorithm. Command Game Programming Patterns Design Patterns Revisited. Warum kann das nicht funktionieren? In order to decouple the client class from strategy classes is possible to use a factory class inside the context object to create the strategy object to be used. When I’ve used it in the right place, it’s neatly untangled some really gnarly code. Strategy Design Pattern in Python Back to Strategy description """ Define a family of algorithms, encapsulate each one, and make them interchangeable. Instead of implementing a single algorithm directly, code receives run-time instructions as to which in a family of algorithms to use. Das Strategy Design Pattern würde diesen Umstand versuchen aufzulösen, in dem es eine Druckerschnittstelle einführt. All other patterns (and much more) are available in our .NET Design Pattern Framework 4.5.  Strategy lets the algorithm vary independently from clients that use it. """ We will learn what the strategy pattern is and then apply it to solve our problem. Don't worry, just … The definition is a bit confusing at first but let’s step through it. Strategy lets the algorithm vary independently from clients that use it. Most large programs I write, games or otherwise, end up using it somewhere. In object-oriented programming, the command pattern is a behavioral design pattern in which an object is used to encapsulate all information needed to perform an action or trigger an event at a later time. Command pattern: Typically the Command pattern is used to make an object out of what needs to be done -- to take an operation and its arguments and wrap them up in an object to be logged, held for undo, sent to a remote site, etc. I have to admit, though, that there are cases where I can't tell for sure whether something is a Command or a Strategy. The code in the book is in C++, I ported it to Java here. The strategy pattern The only difference I can discern is that the Strategy pattern takes in parameters for execution, while the Command pattern doesn't. the strategy pattern is used only as an implementation technique. Observer pattern falls under behavioral pattern category. Using a strategy pattern and a command pattern (5) Both design patterns encapsulate an algorithm and decouple implementation details from their calling classes. In Strategy pattern, a class behavior or its algorithm can be changed at run time. This information includes the method name, the object that owns the … The command pattern helps us do that. I.e. The waiter or waitress takes an order or command from a customer and encapsulates that order by writing it … ";s:7:"keyword";s:35:"command pattern vs strategy pattern";s:5:"links";s:7232:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=large-slate-rock-for-sale'>Large Slate Rock For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=redfin-tour-coordinator-job-description'>Redfin Tour Coordinator Job Description</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=exercise-ball-exercises-at-your-desk'>Exercise Ball Exercises At Your Desk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=175-watt-metal-halide-bulb'>175 Watt Metal Halide Bulb</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=seth-curry-net-worth-2019'>Seth Curry Net Worth 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-far-is-1000-meters'>How Far Is 1000 Meters</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=schedule-a-showing-with-showingtime'>Schedule A Showing With Showingtime</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=over-easy-egg-nutrition-facts'>Over Easy Egg Nutrition Facts</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lg-washer-dryer-combo-nz'>Lg Washer Dryer Combo Nz</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=indian-lunch-buffet-near-me'>Indian Lunch Buffet Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=commercial-building-plan-dwg-free-download'>Commercial Building Plan Dwg Free Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=types-of-indoor-foliage-plants'>Types Of Indoor Foliage Plants</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-fat-duck-price-2019'>The Fat Duck Price 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-to-buy-paintings-in-kuala-lumpur'>Where To Buy Paintings In Kuala Lumpur</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wells-tufted-leather-swivel-chair'>Wells Tufted Leather Swivel Chair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-aster-by-cortland-resident-portal'>The Aster By Cortland Resident Portal</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=brno-flat-bar-chair-with-arm-pads'>Brno Flat Bar Chair With Arm Pads</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-light-shop-coupon-code'>The Light Shop Coupon Code</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=printed-tussar-silk-sarees-wholesale'>Printed Tussar Silk Sarees Wholesale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-an-old-kitchen-look-new-in-a-rental'>How To Make An Old Kitchen Look New In A Rental</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=buffalo-cauliflower-with-frozen-cauliflower'>Buffalo Cauliflower With Frozen Cauliflower</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=marble-dining-table-set-with-bench'>Marble Dining Table Set With Bench</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ikea-bedroom-event-2019-canada'>Ikea Bedroom Event 2019 Canada</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=They-Died-with-Their-Boots-On'>They Died With Their Boots On</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bachelor-of-science-in-information-technology'>Bachelor Of Science In Information Technology</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=zell-am-see-things-to-do'>Zell Am See Things To Do</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=insidious-2-full-movie-dailymotion'>Insidious 2 Full Movie Dailymotion</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=comforting-messages-for-a-friend-who-is-sad'>Comforting Messages For A Friend Who Is Sad</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-label-fabric-cubbies'>How To Label Fabric Cubbies</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=indian-restaurant-in-mall-of-emirates'>Indian Restaurant In Mall Of Emirates</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=images-of-greenhouse-effect-and-global-warming'>Images Of Greenhouse Effect And Global Warming</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=portulacaria-afra-variegata-indoor-care'>Portulacaria Afra Variegata Indoor Care</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lake-louise-weather-environment-canada'>Lake Louise Weather Environment Canada</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=breakfast-casserole-with-potatoes-and-ham'>Breakfast Casserole With Potatoes And Ham</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rise-of-ottoman-empire-movie'>Rise Of Ottoman Empire Movie</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=johnson-johnson-products-list-price'>Johnson Johnson Products List Price</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=side-effects-of-eating-too-much-celery'>Side Effects Of Eating Too Much Celery</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=blood-and-bone-full-movie-download-in-tamilrockers'>Blood And Bone Full Movie Download In Tamilrockers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=8-foot-mirror-for-wall'>8 Foot Mirror For Wall</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-access-my-tripadvisor-account'>How To Access My Tripadvisor Account</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=gardening-makes-me-happy-quotes'>Gardening Makes Me Happy Quotes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=warm-water-with-lemon-and-honey-reviews'>Warm Water With Lemon And Honey Reviews</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-ripen-papaya-after-cutting'>How To Ripen Papaya After Cutting</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bolt-from-the-blue-meaning-in-hindi'>Bolt From The Blue Meaning In Hindi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=greek-italian-restaurant-near-me'>Greek Italian Restaurant Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rooms-to-go-leather-sofa-recliner'>Rooms To Go Leather Sofa Recliner</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=simplehuman-tension-shower-caddy-replacement-parts'>Simplehuman Tension Shower Caddy Replacement Parts</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-pipe-mini-pavlovas'>How To Pipe Mini Pavlovas</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ikea-customer-service-dubai-salary'>Ikea Customer Service Dubai Salary</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wall-art-for-finished-basement'>Wall Art For Finished Basement</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=handy-portable-steamer-smooth-finish'>Handy Portable Steamer Smooth Finish</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lemona-bts-where-to-buy'>Lemona Bts Where To Buy</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=big-lots-folding-dining-table'>Big Lots Folding Dining Table</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=4-star-hotels-in-montreal'>4 Star Hotels In Montreal</a>,
+";s:7:"expired";i:-1;}

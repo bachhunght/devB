@@ -1,0 +1,232 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4350:"After washing loads of dirty laundry, the inside of the machine can get stained, and odors may cling to its walls and get transferred to your clothes. Otherwise, you’ll end up with shrunken clothes or damaged fibers. Use a high spin setting on your washing machine to remove as much water as possible from your clothes before you even take them from the wash. Yes, in a way – the spin cycle at the end of a wash extracts moisture from your clothes, leaving them damp instead of dripping wet. How to: dry your clothes in a flash (without a tumble dryer)  Use a high spin. Drying your clothes in a clothes dryer saves time, but it takes more than just shoving your clothes in and turning the machine on. If you do not have an all-in-one machine, use a dryer to dry-clean your clothes at home. When you see a washer that says it’s capacity is 6kg, know that the 6kg is the weight of dry clothes you can put in. If you are only washing a few pieces of clothing, you only need enough water to submerge them one at a time. Use a high-spin wash. Washing clothes by hand typically uses less energy and water than washing machines, and may be less likely to cause damage. Your clothes should take a few hours to dry. Seeing as a washing machine’s job is to take dry clothes and make them wet, it can be a bit confusing as to what the machine capacity means. How to Wash a Dry Clean Only Garment. Use a high spin setting on your washing machine so that as much water as possible is removed from your clothes before they’re even ready to dry. All you'll need to make your own clothesline is a strong rope that you can tie between two trees or two poles. Several manufacturers, such as LG, sell washing machines that also dry clothes. To protect all clothes from the damage that a washing machine can do, zip all zippers, and turn the clothes inside out before washing. Manufacturers label their garments with washing and drying instructions, they are designed to help the item last as long as possible. Start from the bottom of the towel and roll it up into a sausage shape. Save money and driving time by dry-cleaning your clothes in a front-loading washing machine that has a drying cycle. Place your wet garment on top. If you're using a washing machine, you can prime your clothes to dry more quickly. You need to read the care labels on the clothing and know what kind of heat the fabric can take. Give them room. Your clothes won’t last as long, and you’ll end up spending money to replace damaged items. Put a large fluffy towel down and lay the item of clothing on top.  Some clothing can only be dry cleaned while other clothing, like that made of wool, needs to be hand-washed with a special soap and dried by placing over a towel or rack. If you live in warmer, sunnier weather, take advantage of being able to dry your clothing outside. How To Dry Clothes With Towels Lay out the towel flat on the ground. Use a high spin setting on your washing machine so that as much water as possible...  Two towel tricks. The kilogram capacity is in reference to dry clothing, yes, dry. Does a washing machine dry clothes? According to the Energy Saving Trust, the increased energy used to do this is nothing compared to the energy needed to run a tumble dryer. Two towel tricks You may use a washing tub or bucket, or scrub a sink clean and put in a stopper. Select the highest spin speed suitable for the load to remove as much water as possible without damaging your clothes. Hang your clothes on a clothesline to dry outside. You need to read the care labels on the clothing and know what kind of heat the fabric can take. How to Wash Clothes without a Washing Machine. How to dry clothes in a washing machine? Use low spin speeds for delicate fabrics. Everything needs to be cleaned once in a while, and a washing machine is no exception. Make sure you haven't overloaded the drum and use the high spin setting on your washing machine so that as much water as possible is removed from your clothes. Fill a container with cool water. Otherwise, you’ll end up with shrunken clothes or damaged fibers. Some delicate clothing may be damaged by warm water, so only use cool unless the clothing is heavily stained. Drying your clothes in a clothes dryer saves time, but it takes more than just shoving your clothes in and turning the machine on. ";s:7:"keyword";s:37:"how to dry clothes in washing machine";s:5:"links";s:7010:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=isle-royale-national-park-timeline'>Isle Royale National Park Timeline</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=d-4-dance-academy-sharjah'>D 4 Dance Academy Sharjah</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=solid-marble-coffee-table-set'>Solid Marble Coffee Table Set</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lemon-pound-cake-ina-garten'>Lemon Pound Cake Ina Garten</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=amritsari-chole-masala-powder-recipe'>Amritsari Chole Masala Powder Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-choose-a-winter-pool-cover'>How To Choose A Winter Pool Cover</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bank-of-america-locations-near-me'>Bank Of America Locations Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hurricane-dorian-national-hurricane-center'>Hurricane Dorian National Hurricane Center</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chole-bhature-recipe-in-marathi'>Chole Bhature Recipe In Marathi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lg-front-load-washing-machine-leaking-from-bottom-front'>Lg Front Load Washing Machine Leaking From Bottom Front</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=alpaca-fiber-processing-near-me'>Alpaca Fiber Processing Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=testng-selenium-interview-questions-pdf'>Testng Selenium Interview Questions Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=locking-storage-cabinet-living-room'>Locking Storage Cabinet Living Room</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hotel-talisa-grand-hyatt-vail'>Hotel Talisa Grand Hyatt Vail</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philips-hue-bridge-range-reddit'>Philips Hue Bridge Range Reddit</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=new-construction-ranch-homes-in-macomb-county-mi'>New Construction Ranch Homes In Macomb County Mi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=custom-made-windows-near-me'>Custom Made Windows Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-draw-a-fantasy-castle'>How To Draw A Fantasy Castle</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=2-drawer-nightstand-near-me'>2 Drawer Nightstand Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=modavari-forrest-live-edge-collection'>Modavari Forrest Live Edge Collection</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lg-water-filter-home-depot'>Lg Water Filter Home Depot</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=june-lake-weather-15-day-forecast'>June Lake Weather 15 Day Forecast</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=my-location-to-ogden-utah'>My Location To Ogden Utah</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=tables-and-chairs-rental-makati'>Tables And Chairs Rental Makati</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=small-gold-metal-wall-decor'>Small Gold Metal Wall Decor</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=barn-homes-for-sale-in-washington-state'>Barn Homes For Sale In Washington State</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-reupholster-a-headboard-with-wood-frame'>How To Reupholster A Headboard With Wood Frame</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=instagram-download-for-android-apk'>Instagram Download For Android Apk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=easy-camping-breakfast-for-large-groups'>Easy Camping Breakfast For Large Groups</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=can-i-check-my-home-depot-gift-card-balance-online'>Can I Check My Home Depot Gift Card Balance Online</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-pastry-chef-in-the-world-2019rubbermaid-brute-32-gallon-lid'>Best Pastry Chef In The World 2019rubbermaid Brute 32 Gallon Lid</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=augmented-reality-home-design-app'>Augmented Reality Home Design App</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=milk-street-tuesday-nights-recipes'>Milk Street Tuesday Nights Recipes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=built-in-living-room-cabinets'>Built In Living Room Cabinets</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-to-eat-with-quinoa-for-dinner'>What To Eat With Quinoa For Dinner</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=karcher-k4-hose-pops-off'>Karcher K4 Hose Pops Off</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=tips-for-staying-hard-after-coming'>Tips For Staying Hard After Coming</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chair-and-a-half-pet-cover'>Chair And A Half Pet Cover</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dirt-devil-vacuum-bags-type-u'>Dirt Devil Vacuum Bags Type U</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mise-en-place-in-a-sentence'>Mise En Place In A Sentence</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rooms-to-go-carriage-bed'>Rooms To Go Carriage Bed</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bona-hardwood-floor-cleaner-concentrate'>Bona Hardwood Floor Cleaner Concentrate</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ultra-hd-wallpapers-1080p-for-mobile'>Ultra Hd Wallpapers 1080p For Mobile</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-coffee-shops-to-work-in-manhattan'>Best Coffee Shops To Work In Manhattan</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wells-tufted-upholstered-swivel-armchair'>Wells Tufted Upholstered Swivel Armchair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=he-gave-me-many-advices'>He Gave Me Many Advices</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=one-bedroom-house-plans-with-photos'>One Bedroom House Plans With Photos</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=herman-miller-sayl-chair-instructions'>Herman Miller Sayl Chair Instructions</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-neutralize-spicy-food-in-mouth'>How To Neutralize Spicy Food In Mouth</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cheap-kitchen-ideas-for-small-kitchens'>Cheap Kitchen Ideas For Small Kitchens</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-utilize-a-narrow-hallway'>How To Utilize A Narrow Hallway</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-branch-a-dracaena'>How To Branch A Dracaena</a>,
+";s:7:"expired";i:-1;}

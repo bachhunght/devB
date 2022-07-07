@@ -1,0 +1,226 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3835:"2. ... 3 - The third light means that your Philips Hue has internet connectivity. Connecting your Hue Bridge to your network. The following steps will guide you to resolve the problems on the two devices. As the one above it must be fixed meaning it has the internet connection. You can control your Philips hue system from anywhere with celluar data or wifi. [HELP] Hue Bridge connected to network but internet light blinking I just set up my hue system today and everything works great from the app, but the bridge is not connecting to the internet because the 3rd light is … Restart both the Philips hue bridge and the echo. To begin setup, you will need to be on the same wifi connect that your hue bridge is connected to. However, when I am away from home (or simulate such by turning off WiFi on my phone) the App is unable to connect. Here, we will present some of the most common issues that you can come across while using Philips Hue lights and their solutions. The Fix. Here are some common issues that you might be coming across and how to fix them. Does Philips Hue need an Internet Connection to Work? Philips Hue lights are some of the best smart home lighting equipment out there, however like any piece of tech they are not without their faults. After connecting the Hue Bridge directly to your internet router with an ethernet cord, you can wirelessly connect to the Hue smart-lights in your house using the Philips Hue … I am not a Comcast Employee. If you are using a dorm or apartment building network with Philips hue, you may run into difficulty connecting to your hue bridge. Only two lights are solid and the Internet light just blinks which means it's not connecting to internet. When I am at home the Philips Hue App can connect to and control everything. Once you have done this the Philips Hue bridge will be able to discover and connect to them. In our previous article about the most common Philips Hue connection issues, we showed an image of the hue bridge and what each light means (see below). Philips Hue lights are great when they’re working properly, but sometimes it’s not all sunshine and roses. Is it possible I need a plug play (upnp) for this to work? I don't recommend using port forwarding for Xbox purposes. When I first connected the bridge everything worked fine. tylernLA, Jan 10, 2020: I have a 6T on T-Mobile and my Phillips Hue App has stopped connecting - it'll connect if I uninstall then reinstall the Hue App and will work for about an hour, but then once the phone goes to sleep, the app stops reconnecting to the Hue … This is … Connecting your Hue Bridge to your network. The answer is yes. Often connectivity issues in these type of applications is related to the type of network or security settings of these networks that will cause bridge connectivity issues. Internet connection is not necessary if you don’t want to control your lights through the cloud. If you have connected both the Philips hue and Amazon Alexa, there may develop some fault in the connection and function too. Philips has a line of smart light-bulbs that can fit any of your existing standard light sockets. Ensure that the correct Philips Wi-Fi dongle is used if the TV is Wi-Fi Ready: the PTA01 or the PTA128. Long story short, I have been dealing with Philips about a Hue bridge not being able to connect to my phone app to complete the setup of my lights. I have some Philips Hue bulbs and a Bridge set up in my house. I'm not sure why port forwarding 3074 would cause an issue with the Hue. But now a couple months later I cannot get the two to communicate. Philips Hue lights bulb not connecting to Google Nest mini 0 Recommended Answers 11 Replies 14 Upvotes I've tried every recommendation I can find in the troubleshooting but the Google home app doesn't find the light bulb. ";s:7:"keyword";s:38:"philips hue not connecting to internet";s:5:"links";s:6140:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wooden-center-table-design-for-living-room'>Wooden Center Table Design For Living Room</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=he-gave-me-many-advices'>He Gave Me Many Advices</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-do-i-give-feedback-to-my-teacher'>How Do I Give Feedback To My Teacher</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=orland-park-hotels-with-jacuzzi'>Orland Park Hotels With Jacuzzi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=red-bull-cliff-diving-2020'>Red Bull Cliff Diving 2020</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kadalai-paruppu-in-hindi-name'>Kadalai Paruppu In Hindi Name</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=frec-approved-real-estate-schools'>Frec Approved Real Estate Schools</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pro-mix-super-soil-recipe'>Pro Mix Super Soil Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-much-bleach-for-10000-gallon-pool'>How Much Bleach For 10000 Gallon Pool</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=west-elm-industrial-storage-coffee-table-craigslist'>West Elm Industrial Storage Coffee Table Craigslist</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=battle-of-eutaw-springs-primary-source'>Battle Of Eutaw Springs Primary Source</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-use-samsung-washing-machine'>How To Use Samsung Washing Machine</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=small-one-bedroom-apartment-floor-plans'>Small One Bedroom Apartment Floor Plans</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chagall-i-and-the-village-video'>Chagall I And The Village Video</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bobs-furniture-7-piece-living-room-set'>Bobs Furniture 7 Piece Living Room Set</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=double-barrel-pressure-washer-wand'>Double Barrel Pressure Washer Wand</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kulfi-with-condensed-milk-and-evaporated-milk'>Kulfi With Condensed Milk And Evaporated Milk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=history-of-japanese-gardens-ppt'>History Of Japanese Gardens Ppt</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-bombay-sultani-biryani-house-khar'>The Bombay Sultani Biryani House Khar</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=blush-pink-living-room-ideas'>Blush Pink Living Room Ideas</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=steelcase-leap-v1-vs-v2'>Steelcase Leap V1 Vs V2</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cream-cheese-pound-cake-with-buttermilk'>Cream Cheese Pound Cake With Buttermilk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=oxford-guide-to-english-grammar'>Oxford Guide To English Grammar</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=directions-to-niagara-falls-state-park'>Directions To Niagara Falls State Park</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fur-vanity-chair-with-back'>Fur Vanity Chair With Back</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=The-Lady-with-a-Fan'>The Lady With A Fan</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-to-buy-shrub-drink'>Where To Buy Shrub Drink</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=list-of-indian-trees-with-pictures-pdf'>List Of Indian Trees With Pictures Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=a-and-m-carpet-fresno'>A And M Carpet Fresno</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pottery-barn-black-friday-2018'>Pottery Barn Black Friday 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-lass-of-richmond-hill-scottish-country-dance'>The Lass Of Richmond Hill Scottish Country Dance</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=oregon-honors-college-acceptance-rate'>Oregon Honors College Acceptance Rate</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ponytail-palm-top-broke-off'>Ponytail Palm Top Broke Off</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=simplehuman-sensor-stainless-steel-soap-pump'>Simplehuman Sensor Stainless Steel Soap Pump</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=can-you-replace-led-christmas-light-bulbs'>Can You Replace Led Christmas Light Bulbs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=coq-au-vin-julia-child'>Coq Au Vin Julia Child</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wiring-recessed-lights-in-parallel-diagram'>Wiring Recessed Lights In Parallel Diagram</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=all-that-the-rain-promises-and-more-free-pdf'>All That The Rain Promises And More Free Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=poo-pourri-santa-commercial-2018'>Poo Pourri Santa Commercial 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-color-bedding-goes-with-grey-walls'>What Color Bedding Goes With Grey Walls</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=words-that-start-with-thermo'>Words That Start With Thermo</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cost-of-building-a-garden'>Cost Of Building A Garden</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=umass-lowell-tuition-due-date'>Umass Lowell Tuition Due Date</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=commercial-wet-dry-vacuum-with-squeegee'>Commercial Wet Dry Vacuum With Squeegee</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=when-to-plant-zinnia-seeds'>When To Plant Zinnia Seeds</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=stryker-india-pvt-ltd-careers'>Stryker India Pvt Ltd Careers</a>,
+";s:7:"expired";i:-1;}

@@ -1,0 +1,224 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3313:"Alkali metals have one electron in their outer shell, which is loosely bound. Due to having the lowest atomic weight and the largest atomic radius of all the elements in their periods, the alkali metals are the least dense metals in the periodic table. Here is a look at the location and the properties of these elements: What elements are alkaline earth metals? They are ready to give up those two electrons in electrovalent (ionic) bonds. Prior to the 19th century, substances that were nonmetallic, insoluble in water, and Alkaline Earth Metals The elements in the alkaline earth metals group; beryllium (Be), magnesium (Mg), calcium (Ca), strontium (Sr), barium (Ba), and radium (Ra), have two electrons in their outer electronic shell. The alkaline earth metals get their name because of their reactive properties. The alkaline earth metals are one group of elements on the periodic table. The Group 2 alkaline earth metals include Beryllium, Magnesium, Calcium, Barium, Strontium and Radium and are soft, silver metals that are less metallic in character than the Group 1 Alkali Metals. Each element in this family has two valence electrons, which means that they will lose these electrons to form ions with a +2 charge. The alkaline earth elements are metallic elements found in the second group of the periodic table. The alkaline earth metals are metallic elements that are found in the second vertical row of the periodic table. They are all in the second column of the periodic table. Magnesium is a shiny gray solid which bears a close physical resemblance to the other five elements in the second column (group 2, or alkaline earth metals) of the periodic table: all group 2 elements have the same electron configuration in the outer electron shell and a similar crystal structure. they are basic in nature. This gives alkaline earth metals the largest atomic radii in their periods. The alkali metals exhibit many of the physical properties common to metals, although their densities are lower than those of other metals. This group lies in the s-block of the periodic table. The elements highlighted in yellow on the periodic table in the graphic belong to the alkaline earth element group. Periodic Table of the Elements, Alkaline Earth Metals - Science Quiz: There are 6 alkaline earth metals, and they are part of Group 2 (the second column) of the periodic table. All living organisms (in fact, even dead ones) have and need calcium for survival. Alkaline earth metals humans body figure 4 1 periodic table of elements the periodic table of life in white on text Periodic Table Of The Elements Alkaline Earth Metals Science QuizPeriodic Table Of Elements With Worked Solutions SWhat Are The Properties Of Alkaline Earth MetalsAlkali And Alkaline Earth MetalsSolved The Periodic Table Of Elements He … Answer. They have very similar behavior and characteristics. Alkaline earth metals are more stable than alkali metals. Alkaline-earth metals: The alkaline-earth metals make up Group 2 of the periodic table, from beryllium (Be) through radium (Ra). Alkaline earth metals. This is the second most reactive family of elements in the periodic table.Do you know why they are called alkaline?When these compounds are mixed in solutions, they are likely to form solutions with a pH greater than 7. ";s:7:"keyword";s:36:"alkaline earth metals periodic table";s:5:"links";s:5944:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-bristol-about-us'>University Of Bristol About Us</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=funny-group-pictures-for-whatsapp'>Funny Group Pictures For Whatsapp</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=honor-10-lite-carphone-warehouse'>Honor 10 Lite Carphone Warehouse</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fire-with-fire-2012-cast'>Fire With Fire 2012 Cast</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=castles-in-the-us-for-vacation'>Castles In The Us For Vacation</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-does-de-mean-in-whirlpool-washing-machine'>What Does De Mean In Whirlpool Washing Machine</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=unforgettable-memories-of-school-life'>Unforgettable Memories Of School Life</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lettuce-salad-recipes-for-a-crowd'>Lettuce Salad Recipes For A Crowd</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=royal-veterinary-college-acceptance-rate'>Royal Veterinary College Acceptance Rate</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=healthy-sandwich-recipes-for-weight-loss'>Healthy Sandwich Recipes For Weight Loss</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-to-do-in-bear-valley-in-winter'>What To Do In Bear Valley In Winter</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=selena-gomez-good-for-you-lyrics'>Selena Gomez Good For You Lyrics</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=next-plc-annual-report-2019'>Next Plc Annual Report 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=things-to-do-in-montana-in-november'>Things To Do In Montana In November</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-breakfast-saigon-district-1'>Best Breakfast Saigon District 1</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=downstairs-toilet-ideas-under-stairs'>Downstairs Toilet Ideas Under Stairs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pur-steam-cleaner-how-to-use'>Pur Steam Cleaner How To Use</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philanthropy-used-in-a-short-sentence'>Philanthropy Used In A Short Sentence</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=eliot-coleman-soil-block-recipe'>Eliot Coleman Soil Block Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sanjeev-kapoor-khana-khazana-vegetarian-recipes-in-hindi'>Sanjeev Kapoor Khana Khazana Vegetarian Recipes In Hindi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=brief-moment-meaning-in-hindi'>Brief Moment Meaning In Hindi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-many-nerf-guns-are-there'>How Many Nerf Guns Are There</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=home-franchise-concepts-irvine-ca'>Home Franchise Concepts Irvine Ca</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=vmware-download-for-windows-8'>Vmware Download For Windows 8</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=when-does-at-home-ellenton-open'>When Does At Home Ellenton Open</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=theories-of-human-communication-11th-edition-ebook'>Theories Of Human Communication 11th Edition Ebook</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=head-first-servlets-and-jsp-3rd-edition-flipkart'>Head First Servlets And Jsp 3rd Edition Flipkart</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=in-pool-lounge-chairs-for-sun-shelf'>In Pool Lounge Chairs For Sun Shelf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sweet-southern-bbq-sauce-recipe'>Sweet Southern Bbq Sauce Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=application-letter-for-cook-position'>Application Letter For Cook Position</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=project-62-leanne-ford-peggy-large-pendant'>Project 62 Leanne Ford Peggy Large Pendant</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=malazan-book-of-the-fallen-pdf'>Malazan Book Of The Fallen Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-fluffy-pancakes'>How To Make Fluffy Pancakes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=4-vintage-leather-club-chairs'>4 Vintage Leather Club Chairs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=walmart-assessment-test-answers-2019'>Walmart Assessment Test Answers 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=technical-university-of-munich-phd-programs'>Technical University Of Munich Phd Programs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=national-society-of-white-engineers'>National Society Of White Engineers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hgtv-dream-home-2019-canada'>Hgtv Dream Home 2019 Canada</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-long-dumb-road-trailer'>The Long Dumb Road Trailer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=why-furniture-is-uncountable-noun'>Why Furniture Is Uncountable Noun</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=arrabelle-vail-local-phone-number'>Arrabelle Vail Local Phone Number</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pier-one-credit-card-phone-number'>Pier One Credit Card Phone Number</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=king-vs-california-king-headboard'>King Vs California King Headboard</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=happy-world-food-day-quotes'>Happy World Food Day Quotes</a>,
+";s:7:"expired";i:-1;}

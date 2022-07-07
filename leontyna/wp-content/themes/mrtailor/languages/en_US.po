@@ -1,0 +1,596 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mr. Tailor\n"
+"POT-Creation-Date: 2019-06-04 11:19+0300\n"
+"PO-Revision-Date: 2019-06-04 11:19+0300\n"
+"Last-Translator: Get Bowtied <hq@getbowtied.com>\n"
+"Language-Team: Get Bowtied <hq@getbowtied.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;__ngettext:1,2;_n:1,2;"
+"__ngettext_noop:1,2;_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;"
+"_nx_noop:4c,1,2;_ex:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;"
+"esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../woocommerce\n"
+"X-Poedit-SearchPathExcluded-1: ../settings\n"
+"X-Poedit-SearchPathExcluded-2: ../inc/tgm\n"
+
+#: ../404.php:14
+msgid "Oops 404 again! That page can&rsquo;t be found."
+msgstr ""
+
+#: ../404.php:18
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: ../archive.php:30
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: ../archive.php:38
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: ../archive.php:41
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: ../archive.php:44
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: ../archive.php:47
+msgid "Asides"
+msgstr ""
+
+#: ../archive.php:50
+msgid "Images"
+msgstr ""
+
+#: ../archive.php:53
+msgid "Videos"
+msgstr ""
+
+#: ../archive.php:56
+msgid "Quotes"
+msgstr ""
+
+#: ../archive.php:59
+msgid "Links"
+msgstr ""
+
+#: ../archive.php:62 ../sidebar.php:13
+msgid "Archives"
+msgstr ""
+
+#: ../archive.php:126 ../archive.php:130
+msgid "Continue Reading"
+msgstr ""
+
+#: ../archive.php:136
+msgid "Continue reading"
+msgstr ""
+
+#: ../author-bio.php:6
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: ../author-bio.php:11
+#, php-format
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../comments.php:27
+#, php-format
+msgctxt "comments title"
+msgid "One reply on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s replies on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../comments.php:34 ../comments.php:54
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:35 ../comments.php:55
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:36 ../comments.php:56
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:66
+msgid "Comments are closed."
+msgstr ""
+
+#: ../comments.php:87
+msgid "Leave a Reply"
+msgstr ""
+
+#: ../comments.php:91
+msgid "Name"
+msgstr ""
+
+#: ../comments.php:93
+msgid "Email Address"
+msgstr ""
+
+#: ../comments.php:95
+msgid "Website"
+msgstr ""
+
+#: ../comments.php:101
+msgid "Message"
+msgstr ""
+
+#: ../content-aside.php:21 ../content-aside.php:24 ../content-audio.php:35
+#: ../content-audio.php:38 ../content-chat.php:34 ../content-gallery.php:154
+#: ../content-gallery.php:157 ../content-image.php:28 ../content-image.php:31
+#: ../content-link.php:30 ../content-link.php:33 ../content-quote.php:33
+#: ../content-quote.php:36 ../content-status.php:22 ../content-status.php:25
+#: ../content-video.php:40 ../content-video.php:43 ../content.php:56
+#: ../content.php:59 ../index.php:60 ../index.php:65
+msgid "Continue reading &rarr;"
+msgstr ""
+
+#: ../content-aside.php:27 ../content-audio.php:41 ../content-chat.php:40
+#: ../content-gallery.php:161 ../content-image.php:34 ../content-link.php:36
+#: ../content-page.php:8 ../content-quote.php:39 ../content-search_.php:27
+#: ../content-status.php:28 ../content-video.php:46 ../content.php:62
+msgid "Pages:"
+msgstr ""
+
+#: ../content-link.php:21
+msgid "Posted on "
+msgstr ""
+
+#: ../content-none.php:16
+msgid "Nothing Found"
+msgstr ""
+
+#: ../content-none.php:22
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../content-none.php:26
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../content-none.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../content-page.php:7 ../content-search_.php:26
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../footer.php:54
+msgid "Payment methods"
+msgstr ""
+
+#: ../footer.php:117 ../header-topbar.php:58
+msgid "Logout"
+msgstr ""
+
+#: ../footer.php:249 ../header-centered.php:101 ../header-centered.php:148
+#: ../header-default.php:66
+msgid "MENU"
+msgstr ""
+
+#: ../functions.php:41
+msgid ""
+"The <strong>GetBowtied Tools</strong> plugin is no longer required. You can "
+"deactivate and delete it. Use the <strong>Envato Market</strong> plugin for "
+"future updates."
+msgstr ""
+
+#: ../functions.php:43
+msgid "Read More"
+msgstr ""
+
+#: ../functions.php:194
+msgid "Top Bar Navigation"
+msgstr ""
+
+#: ../functions.php:195
+msgid "Main Navigation"
+msgstr ""
+
+#: ../functions.php:391
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../functions.php:452
+msgid "Sidebar"
+msgstr ""
+
+#: ../functions.php:462
+msgid "Footer Widget Area"
+msgstr ""
+
+#: ../functions.php:472
+msgid "Shop Sidebar"
+msgstr ""
+
+#: ../image.php:27
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span>.<a href=\"%3$s\" class=\"image-size\" title="
+"\"Link to full-size image\">%4$s &times; %5$s</a> in <a class=\"image-folder"
+"\" href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%7$s</a>"
+msgstr ""
+
+#: ../image.php:45
+msgid "&larr; Previous"
+msgstr ""
+
+#: ../image.php:49
+msgid "Next &rarr;"
+msgstr ""
+
+#: ../inc/admin/wizard/class-gbt-install-wizard.php:32
+#: ../inc/admin/wizard/class-gbt-install-wizard.php:33
+msgid "Theme Setup"
+msgstr ""
+
+#: ../inc/admin/wizard/class-gbt-install-wizard.php:53
+msgid "Introduction"
+msgstr ""
+
+#: ../inc/admin/wizard/class-gbt-install-wizard.php:58
+msgid "Plugins"
+msgstr ""
+
+#: ../inc/admin/wizard/class-gbt-install-wizard.php:63
+msgid "Demo Import"
+msgstr ""
+
+#: ../inc/admin/wizard/class-gbt-install-wizard.php:68
+msgid "Ready!"
+msgstr ""
+
+#: ../inc/admin/wizard/class-gbt-install-wizard.php:216
+msgid "Return to the WordPress Dashboard"
+msgstr ""
+
+#: ../inc/admin/wizard/class-gbt-install-wizard.php:239
+msgid "'s"
+msgstr ""
+
+#: ../inc/admin/wizard/class-gbt-install-wizard.php:239
+msgid "Theme Setup Wizard"
+msgstr ""
+
+#: ../inc/admin/wizard/class-gbt-install-wizard.php:242
+msgid "Get Started"
+msgstr ""
+
+#: ../inc/admin/wizard/class-gbt-install-wizard.php:244
+msgid "The quickest way to setup the theme"
+msgstr ""
+
+#: ../inc/admin/wizard/class-gbt-install-wizard.php:244
+msgid "and start working on your site."
+msgstr ""
+
+#: ../inc/admin/wizard/class-gbt-install-wizard.php:259
+msgid "Plugin Installation"
+msgstr ""
+
+#: ../inc/admin/wizard/class-gbt-install-wizard.php:260
+msgid "Install the required plugins before importing the demo content."
+msgstr ""
+
+#: ../inc/admin/wizard/class-gbt-install-wizard.php:268
+msgid "Recommended"
+msgstr ""
+
+#: ../inc/admin/wizard/class-gbt-install-wizard.php:274
+#: ../inc/admin/wizard/class-gbt-install-wizard.php:376
+msgid "Skip"
+msgstr ""
+
+#: ../inc/admin/wizard/class-gbt-install-wizard.php:275
+#: ../inc/admin/wizard/class-gbt-install-wizard.php:378
+msgid "Install"
+msgstr ""
+
+#: ../inc/admin/wizard/class-gbt-install-wizard.php:333
+msgid "Install Now"
+msgstr ""
+
+#: ../inc/admin/wizard/class-gbt-install-wizard.php:334
+msgid "Update Now"
+msgstr ""
+
+#: ../inc/admin/wizard/class-gbt-install-wizard.php:335
+msgid "Activate"
+msgstr ""
+
+#: ../inc/admin/wizard/class-gbt-install-wizard.php:340
+msgid "Active"
+msgstr ""
+
+#: ../inc/admin/wizard/class-gbt-install-wizard.php:363
+msgid "Demo Content Import"
+msgstr ""
+
+#: ../inc/admin/wizard/class-gbt-install-wizard.php:364
+msgid "Start with pre-built page layouts, dummy product pages,"
+msgstr ""
+
+#: ../inc/admin/wizard/class-gbt-install-wizard.php:364
+msgid "blog posts and widgets."
+msgstr ""
+
+#: ../inc/admin/wizard/class-gbt-install-wizard.php:371
+msgid ""
+"Please make sure <b>Visual Composer</b> and <b>WooCommerce</b> are installed "
+"and activated before importing the demo content."
+msgstr ""
+
+#: ../inc/admin/wizard/class-gbt-install-wizard.php:380
+msgid "Go back"
+msgstr ""
+
+#: ../inc/admin/wizard/class-gbt-install-wizard.php:385
+msgid "Importing, please wait!"
+msgstr ""
+
+#: ../inc/admin/wizard/class-gbt-install-wizard.php:405
+msgid "Setup has been<br/> completed successfully!"
+msgstr ""
+
+#: ../inc/admin/wizard/class-gbt-install-wizard.php:406
+msgid "View Site"
+msgstr ""
+
+#: ../inc/admin/wizard/class-gbt-install-wizard.php:407
+msgid "You should be able to start working on your site now."
+msgstr ""
+
+#: ../inc/admin/wizard/class-gbt-install-wizard.php:408
+msgid "Best of luck with your project!"
+msgstr ""
+
+#: ../inc/admin/wizard/class-gbt-install-wizard.php:413
+msgid "What's next?"
+msgstr ""
+
+#: ../inc/admin/wizard/class-gbt-install-wizard.php:420
+msgid "Customize the theme"
+msgstr ""
+
+#: ../inc/admin/wizard/class-gbt-install-wizard.php:426
+msgid "WooCommerce Setup Wizard"
+msgstr ""
+
+#: ../inc/admin/wizard/class-gbt-install-wizard.php:442
+msgid "Activate Theme Updates"
+msgstr ""
+
+#: ../inc/admin/wizard/class-gbt-install-wizard.php:445
+msgid "Help Center / Support"
+msgstr ""
+
+#: ../inc/custom-menu/edit_custom_walker.php:78
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#: ../inc/custom-menu/edit_custom_walker.php:82
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: ../inc/custom-menu/edit_custom_walker.php:106
+msgid "Move up"
+msgstr ""
+
+#: ../inc/custom-menu/edit_custom_walker.php:119
+msgid "Move down"
+msgstr ""
+
+#: ../inc/custom-menu/edit_custom_walker.php:121
+#: ../inc/custom-menu/edit_custom_walker.php:123
+msgid "Edit Menu Item"
+msgstr ""
+
+#: ../inc/custom-menu/edit_custom_walker.php:132
+msgid "URL"
+msgstr ""
+
+#: ../inc/custom-menu/edit_custom_walker.php:139
+msgid "Navigation Label"
+msgstr ""
+
+#: ../inc/custom-menu/edit_custom_walker.php:145
+msgid "Title Attribute"
+msgstr ""
+
+#: ../inc/custom-menu/edit_custom_walker.php:152
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: ../inc/custom-menu/edit_custom_walker.php:157
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: ../inc/custom-menu/edit_custom_walker.php:163
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: ../inc/custom-menu/edit_custom_walker.php:169
+msgid "Description"
+msgstr ""
+
+#: ../inc/custom-menu/edit_custom_walker.php:171
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: ../inc/custom-menu/edit_custom_walker.php:179
+msgid "Background URL"
+msgstr ""
+
+#: ../inc/custom-menu/edit_custom_walker.php:189
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: ../inc/custom-menu/edit_custom_walker.php:202
+msgid "Remove"
+msgstr ""
+
+#: ../inc/custom-menu/edit_custom_walker.php:203
+msgid "Cancel"
+msgstr ""
+
+#: ../inc/custom-styles/read-options.php:56
+#: ../inc/helpers/customizer-options.php:50
+msgid "Free Shipping on All Orders Over $75!"
+msgstr ""
+
+#: ../inc/custom-styles/read-options.php:65
+#: ../inc/helpers/customizer-options.php:58
+msgid ""
+"&copy; <a href='http://www.getbowtied.com/'>Get Bowtied</a> - Elite "
+"ThemeForest Author."
+msgstr ""
+
+#: ../inc/custom-styles/read-options.php:75
+#: ../inc/helpers/customizer-options.php:68
+msgid "Sale!"
+msgstr ""
+
+#: ../inc/custom-styles/read-options.php:76
+#: ../inc/helpers/customizer-options.php:69
+msgid "Out of stock"
+msgstr ""
+
+#: ../inc/demo/ocdi-setup.php:110
+msgid "One Click Demo Import"
+msgstr ""
+
+#: ../inc/demo/ocdi-setup.php:111
+msgid "Import Demo Data"
+msgstr ""
+
+#: ../inc/templates/post-meta.php:8
+msgid "Sticky"
+msgstr ""
+
+#: ../inc/templates/post-meta.php:12
+msgid " This entry was posted by "
+msgstr ""
+
+#: ../inc/templates/post-meta.php:14
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: ../inc/templates/post-meta.php:25
+msgid " in "
+msgstr ""
+
+#: ../inc/templates/post-meta.php:31
+msgid " and tagged "
+msgstr ""
+
+#: ../inc/templates/post-meta.php:42 ../inc/templates/post-meta.php:66
+#, php-format
+msgctxt "1: post format name. 2: date"
+msgid "%1$s on %2$s"
+msgstr ""
+
+#: ../inc/templates/post-meta.php:47 ../inc/templates/post-meta.php:54
+msgid " on "
+msgstr ""
+
+#: ../inc/templates/post-meta.php:49 ../inc/templates/post-meta.php:56
+#: ../inc/templates/post-meta.php:73 ../inc/templates/post-meta.php:80
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: ../inc/templates/template-tags.php:86
+msgid "Previous Reading"
+msgstr ""
+
+#: ../inc/templates/template-tags.php:90
+msgid "Next Reading"
+msgstr ""
+
+#: ../inc/templates/template-tags.php:102
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: ../inc/templates/template-tags.php:108
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../inc/templates/template-tags.php:174
+msgid "Pingback:"
+msgstr ""
+
+#: ../inc/templates/template-tags.php:174
+#: ../inc/templates/template-tags.php:214
+msgid "Edit"
+msgstr ""
+
+#: ../inc/templates/template-tags.php:189
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../inc/templates/template-tags.php:192
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../inc/templates/template-tags.php:197
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../search.php:17
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../searchform.php:3
+msgid "Search for:"
+msgstr ""
+
+#: ../searchform.php:4
+msgid "Search..."
+msgstr ""
+
+#: ../searchform.php:5
+msgid "Search"
+msgstr ""
+
+#: ../sidebar.php:20
+msgid "Meta"
+msgstr ""

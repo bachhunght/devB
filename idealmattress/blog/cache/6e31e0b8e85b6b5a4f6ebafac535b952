@@ -1,0 +1,272 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3426:"I use VirtualBox to keep multiple instances of development sandboxes, so I can freely experiment and blow things up without worrying about losing anything. it can load a number of OS over the currently installed one. How to Install Ubuntu on VirtualBox. It should be possible to use Oracle VM VirtualBox on most systems based on Linux kernel 2.6, 3.x, 4.x or 5.x using either the Oracle VM VirtualBox installer or by doing a manual installation. It is available for installation on a number of operating systems, like Windows, Linux, Mac, Solaris etc. This beginner’s tutorial explains various ways to install VirtualBox on Ubuntu and other Debian-based Linux distributions. A lot of the users would like to do crazy stuffs with their Kali Linux. As a security-testing platform, it is best to install Kali as a VM on VirtualBox. Install Guest Linuxes. If you are still lost, what VirtualBox basically does is let you run any operating system inside your current operating system virtually!. It has versions for all modern operating systems, and it's free and open source. After that, do yum install VirtualBox-6.1 to get the latest maintenance release of VirtualBox 6.1.x installed. A step-by-step guide to install Linux Mint on VirtualBox. Not that installing Linux is very exciting as it’s been dead-easy for years. This wikiHow teaches you how to install Ubuntu Linux on a computer by using VirtualBox. How to Install Ubuntu on VirtualBox. Whenever penetration testing tools are mentioned, all you can think off is Kali Linux. We can use VirtualBox to install & use operating over the currently installed OS i.e. Not “loosing”.) You’ll see a window like Figure 1. It’s a fast and easy way to test distros and capture installation screenshots. Oracle Linux. I’m going to skip over installation because it’s easy– just use your favorite Linux package manager. In order words, when we are done we shall have Ubuntu (the guest operating system) running as a virtual machine on Windows (the host operating system). Once you have installed different operating systems in Oracle VirtualBox, you may want to enable communication between the host and the virtual machines.. 0. This detailed beginner’s guide shows you how to install Windows 10 in a VirtualBox in Linux. Linux Mint is an open-source ubuntu-based operating system that is community-driven. General instructions for creating a virtual machine and details about using different settings are available in the VirtualBox manual section Creating Your First Virtual Machine.. See Section 2.3, “Installing on Linux Hosts”. Oracle’s free and open source offering VirtualBox is an excellent virtualization tool, specially for desktop operating systems. With over 600 preinstalled penetration-testing programs, it earned a reputation as one of the best-operating systems used for security testing. Now run the Guest Addition setup again: sudo rcvboxadd setup Using VirtualBox Guest Addition features. If you’re doing something you’re not sure, you want to install unknown packages, modify some code but don’t want to break your HOST OS, running and installing Kali Linux on VirtualBox is … A detailed guide on installing Kali Linux on VirtualBox. Whenever penetration testing tools are mentioned, all you can think off is Kali Linux. We can than start, pause or shutdown the installed OS with VirtualBox. Devansh Anand Tiwari-August 31, 2018. ";s:7:"keyword";s:31:"how to use virtualbox for linux";s:5:"links";s:12136:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bathroom-pictures-to-hang-on-wall'>Bathroom Pictures To Hang On Wall</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=visitor-pattern-vs-strategy-pattern'>Visitor Pattern Vs Strategy Pattern</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=diy-drawer-dividers-for-makeup'>Diy Drawer Dividers For Makeup</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=navy-and-gold-dining-chairs'>Navy And Gold Dining Chairs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=portes-du-soleil-opening-dates'>Portes Du Soleil Opening Dates</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=second-hand-glass-dining-table-and-chairs'>Second Hand Glass Dining Table And Chairs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=3d-oil-painting-by-m-scott'>3d Oil Painting By M Scott</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chef-salary-with-culinary-degree'>Chef Salary With Culinary Degree</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=park-city-main-street-bars'>Park City Main Street Bars</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=does-wayfair-offer-free-return-shipping'>Does Wayfair Offer Free Return Shipping</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chicken-wing-dipping-sauce-mayo'>Chicken Wing Dipping Sauce Mayo</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=celery-root-substitute-in-cooking'>Celery Root Substitute In Cooking</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=things-to-do-in-march-2020'>Things To Do In March 2020</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=two-and-a-half-men-season-1'>Two And A Half Men Season 1</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=4k-nature-video-free-download'>4k Nature Video Free Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=paula-deen-no-bake-desserts'>Paula Deen No Bake Desserts</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=crystal-mountain-long-range-forecast'>Crystal Mountain Long Range Forecast</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=great-divide-ski-area-season-pass'>Great Divide Ski Area Season Pass</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=diners-drive-ins-and-dives-vietnamese'>Diners Drive Ins And Dives Vietnamese</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wooden-outdoor-signs-for-home'>Wooden Outdoor Signs For Home</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=starting-a-farm-in-ontario'>Starting A Farm In Ontario</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=black-wallpaper-hd-for-iphone'>Black Wallpaper Hd For Iphone</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-organize-kitchen-cabinets-youtube'>How To Organize Kitchen Cabinets Youtube</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=vegetarian-roasted-red-pepper-sandwich'>Vegetarian Roasted Red Pepper Sandwich</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sarjan-doctor-meaning-in-hindi'>Sarjan Doctor Meaning In Hindi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=most-expensive-metal-in-the-world-2019'>Most Expensive Metal In The World 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=park-city-long-range-snow-forecast'>Park City Long Range Snow Forecast</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-time-to-go-to-neptune-oyster'>Best Time To Go To Neptune Oyster</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-install-canless-recessed-lighting'>How To Install Canless Recessed Lighting</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rose-gold-marble-wallpaper-hd'>Rose Gold Marble Wallpaper Hd</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=shallow-wardrobes-for-small-bedrooms'>Shallow Wardrobes For Small Bedrooms</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mobile-brick-oven-pizza-catering-near-me'>Mobile Brick Oven Pizza Catering Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=high-back-fabric-dining-room-chairs'>High Back Fabric Dining Room Chairs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=melissa-and-doug-pizza-oven'>Melissa And Doug Pizza Oven</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ursula-k-le-guin-earthsea'>Ursula K Le Guin Earthsea</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=covet-meaning-in-the-bible'>Covet Meaning In The Bible</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rachael-ray-show-12-30-19'>Rachael Ray Show 12 30 19</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-permits-do-i-need-to-sell-food-in-california'>What Permits Do I Need To Sell Food In California</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=towneplace-suites-orlando-at-seaworld'>Towneplace Suites Orlando At Seaworld</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=jaquar-taps-price-list-2018'>Jaquar Taps Price List 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-mushroom-plugs'>How To Make Mushroom Plugs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-do-sweet-pea-seeds-look-like'>What Do Sweet Pea Seeds Look Like</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-tandoori-chicken-near-me'>Best Tandoori Chicken Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-the-grouse-grind-open-2019'>Is The Grouse Grind Open 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=easy-creme-brulee-recipe-without-ramekins'>Easy Creme Brulee Recipe Without Ramekins</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-commercial-pressure-washer-in-india'>Best Commercial Pressure Washer In India</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=liberty-furniture-magnolia-manor-vanity-desk'>Liberty Furniture Magnolia Manor Vanity Desk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-does-moisture-affect-food-spoilage'>How Does Moisture Affect Food Spoilage</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=apartments-with-sunrooms-in-atlanta'>Apartments With Sunrooms In Atlanta</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ski-big-3-season-pass'>Ski Big 3 Season Pass</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ultimate-veg-jamie-oliver-recipes'>Ultimate Veg Jamie Oliver Recipes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=orientation-of-outdoor-swimming-pool'>Orientation Of Outdoor Swimming Pool</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=teddy-fleece-duvet-cover-set'>Teddy Fleece Duvet Cover Set</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=whirlpool-ice-maker-parts-water-valve'>Whirlpool Ice Maker Parts Water Valve</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=finance-companies-in-manyata-tech-park'>Finance Companies In Manyata Tech Park</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=costco-membership-promo-code-2019'>Costco Membership Promo Code 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=2-3-times-2-3-in-fraction-form'>2 3 Times 2 3 In Fraction Form</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kitchen-table-at-bubbledogs-reservation'>Kitchen Table At Bubbledogs Reservation</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-can-you-do-in-ottawa-for-free'>What Can You Do In Ottawa For Free</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wrought-iron-garden-wall-art'>Wrought Iron Garden Wall Art</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cold-calling-real-estate-2019'>Cold Calling Real Estate 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=microsoft-annual-report-2018-pdf'>Microsoft Annual Report 2018 Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=are-you-the-one-season-8-watch-online'>Are You The One Season 8 Watch Online</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cost-of-living-in-orem-utah'>Cost Of Living In Orem Utah</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=banyan-tree-hotel-kl-parking-rate'>Banyan Tree Hotel Kl Parking Rate</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=why-is-it-called-the-kitchen-in-pickleball'>Why Is It Called The Kitchen In Pickleball</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cute-desk-chairs-with-wheels'>Cute Desk Chairs With Wheels</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lg-refrigerator-double-door-cooling-settings'>Lg Refrigerator Double Door Cooling Settings</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=slogans-for-advertising-home-appliances'>Slogans For Advertising Home Appliances</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=omaha-ne-events-next-14-days'>Omaha Ne Events Next 14 Days</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ara-institute-of-canterbury-fees'>Ara Institute Of Canterbury Fees</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-grow-texas-persimmon'>How To Grow Texas Persimmon</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=furniture-shop-in-bukit-mertajam'>Furniture Shop In Bukit Mertajam</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philips-hue-adore-mirror-review'>Philips Hue Adore Mirror Review</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=texas-cottage-food-law-2018'>Texas Cottage Food Law 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-cook-papaya-leaves'>How To Cook Papaya Leaves</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=solid-wood-tv-stands-made-in-usa'>Solid Wood Tv Stands Made In Usa</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=patterned-wall-to-wall-carpet'>Patterned Wall To Wall Carpet</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pottery-barn-uk-john-lewis'>Pottery Barn Uk John Lewis</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=obergurgl-ski-school-meeting-point'>Obergurgl Ski School Meeting Point</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-online-sales-right-now-clothing'>Best Online Sales Right Now Clothing</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=millionaire-shortbread-great-british-baking-show'>Millionaire Shortbread Great British Baking Show</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=coming-to-hbo-sept-2019'>Coming To Hbo Sept 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=How-to-be-a-food-blogger'>How To Be A Food Blogger</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fake-fiddle-leaf-fig-tree'>Fake Fiddle Leaf Fig Tree</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-ward-2010-full-movie-download-in-hindi'>The Ward 2010 Full Movie Download In Hindi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-does-stroganoff-taste-like'>What Does Stroganoff Taste Like</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-greenwich-open-days-2019'>University Of Greenwich Open Days 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-cook-kidney-beans-fast'>How To Cook Kidney Beans Fast</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=guy-fieri-panama-city-beach-fl'>Guy Fieri Panama City Beach Fl</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fallout-4-ivy-companion-mod'>Fallout 4 Ivy Companion Mod</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=zucchini-noodles-recipe-with-chicken'>Zucchini Noodles Recipe With Chicken</a>,
+";s:7:"expired";i:-1;}

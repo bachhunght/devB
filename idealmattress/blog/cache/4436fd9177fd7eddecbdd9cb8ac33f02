@@ -1,0 +1,215 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:1054:"Recipe by Kozmic Blues. This Egg In A Hole Breakfast Sandwich from Delish.com is the best! When the eggs begin to set around the edge of the hole, flip. Use fresh eggs, preferably Organic eggs. Sprinkle eggs with salt and freshly ground pepper to taste. Really sharp edge cookie cutter, to get clean cut out, although the lid to a mason jar has worked for me as well. ... Add a bit of butter to the center of the bread, and gently crack your eggs into the hole. The bread slices should be firm and thick. This Egg In A Hole Breakfast Sandwich from Delish.com is the best! V for Vendetta's - Eggy in a Basket! When the eggs begin to set around the edge of the hole, flip. Start with a loaf of good quality sandwich bread. Martha Stewart updates the traditional egg in a basket sandwich and shares her easy recipe. It should be big enough to hold an egg in the middle. Sprinkle eggs with salt and freshly ground pepper to taste.  Finish cooking eggs as you prefer (over easy or over medium). HOW TO MAKE EGGS IN A BASKET. Love fried eggs? Love fried eggs? ";s:7:"keyword";s:25:"eggs in a basket sandwich";s:5:"links";s:4663:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-add-call-to-action-button-on-existing-facebook-post'>How To Add Call To Action Button On Existing Facebook Post</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=step-2-grand-walk-in-kitchen'>Step 2 Grand Walk In Kitchen</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-properly-pronounce-thyme'>How To Properly Pronounce Thyme</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-yarn-for-winter-scarves'>Best Yarn For Winter Scarves</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-fridge-repair-near-me'>Best Fridge Repair Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=small-master-bedroom-ideas-2018'>Small Master Bedroom Ideas 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=longman-dictionary-of-american-english'>Longman Dictionary Of American English</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=changing-table-with-drawers-plans'>Changing Table With Drawers Plans</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=library-help-desk-job-description'>Library Help Desk Job Description</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=one-slide-case-study-template'>One Slide Case Study Template</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=american-best-restaurants-in-new-haven'>American Best Restaurants In New Haven</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=samsung-top-load-washer-lid-hinge'>Samsung Top Load Washer Lid Hinge</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=types-of-shadows-in-science'>Types Of Shadows In Science</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kenmore-side-by-side-refrigerator-reviews'>Kenmore Side By Side Refrigerator Reviews</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rooms-to-go-phoenix-arizona'>Rooms To Go Phoenix Arizona</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-repot-lucky-bamboo-plant-in-rocks'>How To Repot Lucky Bamboo Plant In Rocks</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-did-st-george-do'>What Did St George Do</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=doctor-foster-season-3-release-date'>Doctor Foster Season 3 Release Date</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cheap-bedroom-furniture-sets-under-500'>Cheap Bedroom Furniture Sets Under 500</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=skyrim-se-becoming-a-landlord'>Skyrim Se Becoming A Landlord</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lighting-ideas-for-living-room-with-low-ceiling'>Lighting Ideas For Living Room With Low Ceiling</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=%C3%A9cor%C3%A9cr%C3%A9o-old-port-of-montreal'>écorécréo Old Port Of Montreal</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=orange-tomatoes-vs-red-tomatoes'>Orange Tomatoes Vs Red Tomatoes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=black-garage-doors-home-depot'>Black Garage Doors Home Depot</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=tryna-be-crate-song-name'>Tryna Be Crate Song Name</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=high-paying-ski-resort-jobs'>High Paying Ski Resort Jobs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=upper-east-side-casual-restaurants'>Upper East Side Casual Restaurants</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-order-in-zomato-in-tamil'>How To Order In Zomato In Tamil</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=j2ee-tutorial-for-beginners-javatpoint'>J2ee Tutorial For Beginners Javatpoint</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=accent-chairs-for-living-room-clearance'>Accent Chairs For Living Room Clearance</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=under-armour-t-shirts-amazon'>Under Armour T Shirts Amazon</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-a-succulent-garden'>How To Make A Succulent Garden</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=little-indian-badmaash-san-francisco'>Little Indian Badmaash San Francisco</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=622-lorong-1-toa-payoh'>622 Lorong 1 Toa Payoh</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=12-qt-plastic-storage-container-with-lid'>12 Qt Plastic Storage Container With Lid</a>,
+";s:7:"expired";i:-1;}

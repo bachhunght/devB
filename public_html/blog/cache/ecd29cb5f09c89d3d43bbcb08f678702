@@ -1,0 +1,255 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:1846:"Help keep your heart healthy with recipes that are low in fat, cholesterol and sodium but high in flavor and nutrition. Food See all Food . By Woman's Day Staff Presented by Product of ... Food + Recipes Oct 25, 2018 Waldorf Salad. Find heart-healthy recipes, discover tasty foods and learn heart-healthy cooking techniques from your favorite Food Network chefs. Chicken. Healthier Recipes, from the food and nutrition experts at EatingWell. Help keep your heart healthy with recipes that are low in fat, cholesterol and sodium but high in flavor and nutrition. Food. Find healthy, delicious dinner recipes including quick and easy dinners for families, vegan and vegetarian dinners, and dinner party ideas. 77 Delicious Heart-Healthy Dinner Recipes. Healthy Recipes Find trusted recipes for eating healthy: start the day with a wholesome breakfast, cut the carbs or calories, find the perfect main dish for your special diet. Make soups like chicken noodle, minestrone, beef chili and lentil. These tasty dishes make staying healthy easy. Beat the winter chill with bone-warming soup recipes from Food Network. Delicious recipes filled with good-for-the-heart fresh ingredients, healthy fats, and whole grains.  View All Start Slideshow Romulo Yanes. Follow to get the latest healthy recipes, articles and more! March 05, 2015 Pin. More. Delicious recipes filled with good-for-the-heart fresh ingredients, healthy fats, and whole grains. No. Food for the Heart Heart-Healthy Recipes Allrecipes has more than 2,000 recipes full of fiber, nutrients and healthy fats to comply with your heart-healthy diet. Delicious recipes filled with good-for-the-heart fresh ingredients, ... My Food and Family this link opens in a new tab; More. 20 Fast Dinner Ideas for Any Night of the Week ... Best Heart-Healthy Recipes Best Heart-Healthy Recipes. Boring. ";s:7:"keyword";s:34:"food network heart healthy recipes";s:5:"links";s:10277:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=indian-vegetarian-tasting-menu-london'>Indian Vegetarian Tasting Menu London</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=steak-diane-recipe-without-alcohol'>Steak Diane Recipe Without Alcohol</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-lethbridge-international-students'>University Of Lethbridge International Students</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hayward-ac003-residential-co2-ph-control-system'>Hayward Ac003 Residential Co2 Ph Control System</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lennar-homes-atlantic-beach-fl'>Lennar Homes Atlantic Beach Fl</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=procedure-of-allotment-of-shares-pdf'>Procedure Of Allotment Of Shares Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-american-heritage-dictionary-of-the-english-language-1969'>The American Heritage Dictionary Of The English Language 1969</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=set-of-2-recliner-chairs'>Set Of 2 Recliner Chairs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=health-benefits-of-arugula-vs-kale'>Health Benefits Of Arugula Vs Kale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-next-iron-chef-cast'>The Next Iron Chef Cast</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-transplant-a-schefflera-plant'>How To Transplant A Schefflera Plant</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=small-one-bedroom-apartment-floor-plans'>Small One Bedroom Apartment Floor Plans</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=modern-apartment-design-floor-plan'>Modern Apartment Design Floor Plan</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pakistani-food-near-me-open-now'>Pakistani Food Near Me Open Now</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=live-free-or-die-hard-full-movie-download-in-hindi-720p'>Live Free Or Die Hard Full Movie Download In Hindi 720p</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=blue-lagoon-cafe-menu-iceland'>Blue Lagoon Cafe Menu Iceland</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kitchen-table-at-bubbledogs-reservation'>Kitchen Table At Bubbledogs Reservation</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ryobi-3000-psi-pressure-washer-gas-type'>Ryobi 3000 Psi Pressure Washer Gas Type</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=run-all-night-dual-audio-480p-download'>Run All Night Dual Audio 480p Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=creamy-sweet-potato-mash-with-marshmallows'>Creamy Sweet Potato Mash With Marshmallows</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hanging-gardens-of-babylon-images'>Hanging Gardens Of Babylon Images</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=joe-louis-vs-rocky-marciano'>Joe Louis Vs Rocky Marciano</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-grocery-list-app-2019-iphone'>Best Grocery List App 2019 Iphone</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=black-dining-room-chairs-set-of-4'>Black Dining Room Chairs Set Of 4</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=paula-deen-chicken-casserole-with-ritz-crackers'>Paula Deen Chicken Casserole With Ritz Crackers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=great-green-wall-africa-2018'>Great Green Wall Africa 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=24-bathroom-vanity-with-top'>24 Bathroom Vanity With Top</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kitchen-window-herb-garden-ideas'>Kitchen Window Herb Garden Ideas</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-do-you-spell-dictionary-in-french'>How Do You Spell Dictionary In French</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=zumba-classes-in-abu-dhabi'>Zumba Classes In Abu Dhabi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=portable-reclining-chair-for-disabled'>Portable Reclining Chair For Disabled</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=table-made-from-tree-trunk'>Table Made From Tree Trunk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=paper-as-an-adjective-in-a-sentence'>Paper As An Adjective In A Sentence</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=restoration-hardware-ludlow-dining-table'>Restoration Hardware Ludlow Dining Table</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=johnson-and-johnson-lenses-recall'>Johnson And Johnson Lenses Recall</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dyson-vacuum-cleaner-india-review'>Dyson Vacuum Cleaner India Review</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=matte-lipstick-meaning-in-telugu'>Matte Lipstick Meaning In Telugu</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pioneer-woman-green-beans-and-new-potatoes'>Pioneer Woman Green Beans And New Potatoes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=blue-and-white-bedroom-50-favorite-bedrooms'>Blue And White Bedroom 50 Favorite Bedrooms</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=spicy-potato-salad-with-bacon'>Spicy Potato Salad With Bacon</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=good-ole-soul-food-recipes-turkey-wings'>Good Ole Soul Food Recipes Turkey Wings</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-shark-reef-at-mandalay-bay-shark-reef-aquarium-at-mandalay-bay-january-1'>The Shark Reef At Mandalay Bay Shark Reef Aquarium At Mandalay Bay January 1</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-set-a-beautiful-buffet-table'>How To Set A Beautiful Buffet Table</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ikon-pass-promo-code-2020'>Ikon Pass Promo Code 2020</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=free-electric-wheelchair-for-disabled'>Free Electric Wheelchair For Disabled</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wooden-wardrobe-designs-with-mirror'>Wooden Wardrobe Designs With Mirror</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=roper-refrigerator-parts-near-me'>Roper Refrigerator Parts Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=restaurant-staff-training-plan-pdf'>Restaurant Staff Training Plan Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=working-at-container-store-corporate'>Working At Container Store Corporate</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-online-lighting-stores-uk'>Best Online Lighting Stores Uk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=french-to-english-dictionary-translation'>French To English Dictionary Translation</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ina-garten-chinese-chicken-salad'>Ina Garten Chinese Chicken Salad</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=Death-on-the-Ridge-Road'>Death On The Ridge Road</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=isaac-newton-apple-tree-location'>Isaac Newton Apple Tree Location</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=metal-chairs-with-wood-table'>Metal Chairs With Wood Table</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=frigidaire-refrigerator-temperature-control-problems'>Frigidaire Refrigerator Temperature Control Problems</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=spring-5-design-patterns-pdf-download-free'>Spring 5 Design Patterns Pdf Download Free</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=live-edge-walnut-dining-table'>Live Edge Walnut Dining Table</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lowes-ceiling-fans-with-remote'>Lowes Ceiling Fans With Remote</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=quotes-on-healthy-food-vs-junk-food'>Quotes On Healthy Food Vs Junk Food</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=why-did-adam-richman-leave-man-vs-food'>Why Did Adam Richman Leave Man Vs Food</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=a-hero-of-our-time-themes'>A Hero Of Our Time Themes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dimensions-of-a-24-foot-round-pool'>Dimensions Of A 24 Foot Round Pool</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=10x10-l-shaped-kitchen-designs'>10x10 L Shaped Kitchen Designs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=spring-5-design-patterns-pdf-download-free'>Spring 5 Design Patterns Pdf Download Free</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=manjula-pothos-vs-marble-queen'>Manjula Pothos Vs Marble Queen</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=6-inch-recessed-can-light-trim'>6 Inch Recessed Can Light Trim</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=AIA-Guide-to-New-York-City'>AIA Guide To New York City</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=red-bedroom-ideas-for-adults'>Red Bedroom Ideas For Adults</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lg-washing-machine-in-pakistan'>Lg Washing Machine In Pakistan</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=steamship-definition-ap-world-history'>Steamship Definition Ap World History</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=4-cube-storage-unit-grey'>4 Cube Storage Unit Grey</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=portable-reclining-chair-for-disabled'>Portable Reclining Chair For Disabled</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=edible-plants-that-grow-in-full-shade'>Edible Plants That Grow In Full Shade</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cute-desk-chairs-with-wheels'>Cute Desk Chairs With Wheels</a>,
+";s:7:"expired";i:-1;}

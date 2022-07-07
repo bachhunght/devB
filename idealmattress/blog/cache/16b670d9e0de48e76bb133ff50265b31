@@ -1,0 +1,246 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2873:"Label the steps in the cycle with symbols like those used above rather than numerical va1ues. The Born-Haber Cycle requires that the elements involved in the reaction are in their gaseous forms.  A revision guide covering the information needed for the specification points for the AQA Chemistry topic Born–Haber Cycles. The cycle is concerned with the formation of an ionic compound from the reaction of a metal (often a Group I or Group II element) with a halogen or other non-metallic element such as oxygen. There are several important concept to understand before the Born-Haber Cycle can be applied to determine the lattice energy of an ionic solid; ionization energy, electron affinity, dissociation energy, sublimation energy, heat of formation, and Hess's Law. Born-Haber Cycles. All you need to deliver teaching on Born Haber and enthalpy of solution. Some important concepts to understand before implementing Born-Haber Cycle are discussed below: Ionization Energy or ionization potential – The energy required to remove an electron from a neutral atom with external energy is called ionization energy. Born-Haber Cycle. Add the changes in enthalpy to turn one of the elements into … The lattice enthalpy for a compound is defined as the enthalpy change when 1 mole of a solid in its standard state is formed from its ions in the gaseous state.For example, Na + (g) + Cl-(g) NaCl (s); Lattice enthalpies for ionic compounds give a good indication as to the strength of the ionic bonding in the lattice. In a cycle, all $\Delta H$ values pointing upwards are endothermic while all $\Delta H$ values pointing downwards are exothermic. This is an AS Chemistry lesson on constructing Born Haber cycles in order to calculate lattice enthalpy for ionic compounds. A Born-Haber cycle allows for the calculation of an enthalpy change which cannot be measured directly, such as lattice enthalpy. To use a Born-Haber cycle your starting point and your destination are given by the question's requirements. (a) Construct a Born-Haber cycle for sodium bromide. We’ve created hundreds of specification specific revision guides like this one to support students in their learning and teachers in their planning. Born-Haber presents this idea in a graphical form, with the endothermic steps on the left and the exothermic steps on the right. (6) (b) Use the data above and the Born-Haber cycle in part (a) to calculate the enthalpy of vaporisation, Hvap of liquid bromine. 20.1 Born-Haber Cycles What are Born-Haber cycles? construct Born–Haber cycles to calculate lattice enthalpies using these enthalpy changes; construct Born–Haber cycles to calculate one of the other enthalpy changes; compare lattice enthalpies from Born–Haber cycles with those from calculations based on a perfect ionic model to provide evidence for covalent character in ionic compounds. ";s:7:"keyword";s:34:"born haber cycle a level chemistry";s:5:"links";s:8836:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-much-did-silk-cost-in-ancient-china'>How Much Did Silk Cost In Ancient China</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=low-fat-chocolate-pudding-recipe'>Low Fat Chocolate Pudding Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=west-elm-sputnik-flush-mount'>West Elm Sputnik Flush Mount</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-recommend-a-restaurant'>How To Recommend A Restaurant</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=front-door-frames-with-sidelights'>Front Door Frames With Sidelights</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lounge-chair-with-ottoman-ikea'>Lounge Chair With Ottoman Ikea</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=32-inch-prehung-interior-door'>32 Inch Prehung Interior Door</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=used-steel-cabinets-for-sale'>Used Steel Cabinets For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=salisbury-steak-with-mushroom-gravy-pioneer-woman'>Salisbury Steak With Mushroom Gravy Pioneer Woman</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mstar-international-sanders-6-piece-modular-fabric-sectional-sofa'>Mstar International Sanders 6 Piece Modular Fabric Sectional Sofa</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-wolverine-full-movie-in-hindi-download-480p'>The Wolverine Full Movie In Hindi Download 480p</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=phirni-recipe-with-rice-flour'>Phirni Recipe With Rice Flour</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=5-minute-indian-snacks-recipes'>5 Minute Indian Snacks Recipes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=compound-wall-designs-kerala-style'>Compound Wall Designs Kerala Style</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-led-light-strips-for-room'>Best Led Light Strips For Room</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-give-feedback-to-students'>How To Give Feedback To Students</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pictures-of-hallways-in-homes'>Pictures Of Hallways In Homes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dyson-v6-not-holding-charge'>Dyson V6 Not Holding Charge</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=indoor-garden-ideas-for-small-spaces'>Indoor Garden Ideas For Small Spaces</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dining-table-seats-14-ikea'>Dining Table Seats 14 Ikea</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=japanese-floor-chair-with-armrest'>Japanese Floor Chair With Armrest</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=baked-chicken-and-dumplings-bisquick'>Baked Chicken And Dumplings Bisquick</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=new-mexican-green-chile-chicken-enchiladas'>New Mexican Green Chile Chicken Enchiladas</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=patterned-wall-to-wall-carpet'>Patterned Wall To Wall Carpet</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-long-does-cooked-chicken-last-out-of-the-fridge'>How Long Does Cooked Chicken Last Out Of The Fridge</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=2-bedroom-apartment-floor-plans'>2 Bedroom Apartment Floor Plans</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=gardeners-supply-promo-code-2019'>Gardeners Supply Promo Code 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=george-brown-college-continuing-education'>George Brown College Continuing Education</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=used-windows-for-sale-ontario'>Used Windows For Sale Ontario</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cross-country-skiing-holidays-beginners'>Cross Country Skiing Holidays Beginners</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=words-that-start-with-dis'>Words That Start With Dis</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=le-cordon-bleu-julia-child-summary'>Le Cordon Bleu Julia Child Summary</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=asia-pacific-property-awards-2018-winners'>Asia Pacific Property Awards 2018 Winners</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sofa-bed-with-memory-foam-mattress'>Sofa Bed With Memory Foam Mattress</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cactus-adaptations-to-their-environment'>Cactus Adaptations To Their Environment</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ladies-cloth-shop-near-me'>Ladies Cloth Shop Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=plain-blue-wallpaper-for-walls'>Plain Blue Wallpaper For Walls</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-clean-beef-tongue'>How To Clean Beef Tongue</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-next-iron-chef-thailand-ep-6'>The Next Iron Chef Thailand Ep 6</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=big-lots-3-piece-table-set'>Big Lots 3 Piece Table Set</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ski-holidays-france-all-inclusive'>Ski Holidays France All Inclusive</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cucumber-unable-to-find-step-definition'>Cucumber Unable To Find Step Definition</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=oliver-coopersmith-homes-under-the-hammer'>Oliver Coopersmith Homes Under The Hammer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hotel-talisa-grand-hyatt-vail'>Hotel Talisa Grand Hyatt Vail</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=washing-machine-repair-singapore-review'>Washing Machine Repair Singapore Review</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=faux-pampas-grass-for-sale'>Faux Pampas Grass For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-much-protein-in-broccoli-sprouts'>How Much Protein In Broccoli Sprouts</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=roller-coaster-car-for-sale'>Roller Coaster Car For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=why-is-pampas-grass-bad'>Why Is Pampas Grass Bad</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=karcher-1800-psi-electric-pressure-washer'>Karcher 1800 Psi Electric Pressure Washer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=deer-valley-lift-tickets-costco'>Deer Valley Lift Tickets Costco</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=yoyogi-national-gymnasium-3d-model'>Yoyogi National Gymnasium 3d Model</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=eleanor-may-solomon-r-guggenheim'>Eleanor May Solomon R Guggenheim</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chow-chow-north-indian-recipe'>Chow Chow North Indian Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=day-beds-with-trundle-and-mattresses'>Day Beds With Trundle And Mattresses</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=most-popular-cheese-in-germany'>Most Popular Cheese In Germany</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=who-won-the-battle-of-the-alamo'>Who Won The Battle Of The Alamo</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-ninja-saviors-return-of-the-warriors-metacritic'>The Ninja Saviors Return Of The Warriors Metacritic</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=good-food-channel-co-uk'>Good Food Channel Co Uk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=electrolux-washer-parts-model-eiflw55hiw0'>Electrolux Washer Parts Model Eiflw55hiw0</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=saeco-caffitaly-coffee-machine-manual'>Saeco Caffitaly Coffee Machine Manual</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=can-you-grow-hakonechloa-from-seed'>Can You Grow Hakonechloa From Seed</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=Another-One-Bites-the-Dust'>Another One Bites The Dust</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=landscaping-classes-programs-near-me'>Landscaping Classes Programs Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=I-love-you-john-images'>I Love You John Images</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-to-order-at-open-bar'>What To Order At Open Bar</a>,
+";s:7:"expired";i:-1;}

@@ -1,0 +1,223 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3659:"The secret to the Korean BBQ sauce is Gochujang.  It’s a Korean red pepper paste, that’s got a lot of flavor and a moderate heat. 3/4 cup dark brown sugar. If you've ever had barbecue Korean short ribs, you've had the pleasure of sampling the marinade that makes these ribs taste like no other; now make the marinade yourself with this recipe.If you're a Korean food devotee or new to Korean cuisine but eager to make sure you're preparing the food as custom dictates, have no fear, this is a traditional marinade. This BBQ sauce recipe requires a whole cup of thick Gochujang, but it makes a lot of BBQ sauce. Due to the fatty flavor from the pork ribs and how tender and juicy the meat is when slow cooked. 2 tablespoons ground white pepper. Brush a generous amount of the BBQ sauce over both sides of the ribs and place back in the oven for a further 10 minutes. 1/2 cup ketchup. If you like it even hotter, you can add cayenne pepper to reach your spice level. Remove the ribs from the oven and unwrap from the foil. Ingredients. Use sauce to marinate beef short ribs (see Korean Barbecued Short-Ribs for details) or slabs of extra firm tofu (drained and pressed) or tempeh. My partner always handles the grilling of galbi (Korean short ribs) plus tofu or tempeh for me, but it seemed silly not to know what went into the sauce for this deeply flavored, salty and sweet Korean-style barbecue. This marinade is intended for 1 pound of meat, but it can easily be doubled or tripled if you want to serve it for your whole family or at a dinner party. Remove most of the juices, leaving about 2 cups. 1 tablespoon rice wine vinegar. Place the protein in a shallow dish or zip-top bag and coat evenly with marinade. 1 tablespoon Sriracha. 1 teaspoon sesame oil. 2 tablespoons unseasoned rice vinegar. Korean Barbecue Ribs. 1 cup soy sauce. For my Bulgogi Korean BBQ Short Ribs my secret flavor weapon is apple sauce. 1 teaspoon grated fresh ginger. This adds a sweet and sour flavor, a thickening quality to the marinade, and enhances the caramelization while under the broiler, or better yet, grilled for some superb BBQ. For this Korean Barbecue Rib recipe I actually decided to go with pork ribs instead of beef. The sauce gives Korean short ribs a delicious sweet soy flavor and an amazing tenderness. Although this is specifically the recipe for Korean galbi, you may also use this marinade on any thick cuts of meat as well as pork or chicken. 1 cup gochujang (see Note) 1/2 cup hoisin sauce. Whether they are smoked low and slow or baked in the oven, this barbecue rib sauce will add a touch of heat, a bit of smoke, and a lot of flavor. 1 tablespoon water. It's sweet, salty, spicy, and very tender (Thanks to the Coke®). 2 tablespoons finely grated fresh ginger. Fortunately, it’s pretty simple and now that I know, I can share it with you, too. Transfer short ribs to a platter and skim off any fat. 1/2 cup sake. In place of a dry rub I use a marinade to season the meat, and at the very end I hit them with a Spicy-Sweet Korean BBQ glaze. 1 tablespoon sweet chile sauce. These ribs are way different than your traditional BBQ ribs. Keep in mind, this flavorful blend acts as the marinade, glaze and dipping sauce for the Asian ribs. If you’re looking to branch out from your typical American barbecue, give these Korean Barbecue Short Ribs (or Galbi) a try. This sauce tastes … 1/2 cup honey. I use this same recipe to make Bulgogi and Dae Ji Bool Gogi (Spicy Pork) and simply change the onions to sliced bulbs for the bulgogi." Spoon the Hoisin Korean BBQ sauce over each short rib (see instructions for preparing the BBQ sauce below). ";s:7:"keyword";s:32:"korean bbq sauce recipe for ribs";s:5:"links";s:5779:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-grow-texas-persimmon'>How To Grow Texas Persimmon</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-cut-yellow-zucchini'>How To Cut Yellow Zucchini</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=las-meninas-the-maids-of-honor'>Las Meninas The Maids Of Honor</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=build-real-estate-and-property-awards'>Build Real Estate And Property Awards</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-write-a-review-for-a-home-depot-employee'>How To Write A Review For A Home Depot Employee</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=st-george-personal-loan-email-address'>St George Personal Loan Email Address</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=will-rubber-tree-leaves-grow-back'>Will Rubber Tree Leaves Grow Back</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=20-Million-Miles-to-Earth'>20 Million Miles To Earth</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ashley-furniture-coupon-code-august-2019'>Ashley Furniture Coupon Code August 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mungaru-male-2-mp3-songs-download-320kbps'>Mungaru Male 2 Mp3 Songs Download 320kbps</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=houses-for-rent-in-renton'>Houses For Rent In Renton</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=farmhouse-outdoor-dining-table-set'>Farmhouse Outdoor Dining Table Set</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=beef-taco-lettuce-wraps-keto'>Beef Taco Lettuce Wraps Keto</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=frying-peppers-in-the-oven'>Frying Peppers In The Oven</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=easy-meatball-subs-with-frozen-meatballs'>Easy Meatball Subs With Frozen Meatballs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=southwest-airlines-new-orleans-to-orlando'>Southwest Airlines New Orleans To Orlando</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=stryker-india-pvt-ltd-careers'>Stryker India Pvt Ltd Careers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-death-of-superman-movie'>The Death Of Superman Movie</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=landscaping-in-front-of-colonial-house'>Landscaping In Front Of Colonial House</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-build-a-she-shed'>How To Build A She Shed</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=king-waterbed-pedestal-with-drawers'>King Waterbed Pedestal With Drawers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=10-month-old-baby-food-list'>10 Month Old Baby Food List</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-electric-spray-paint-machine'>Best Electric Spray Paint Machine</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=jamie-oliver-lamb-curry-5-ingredients'>Jamie Oliver Lamb Curry 5 Ingredients</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sun-joe-detergent-not-working'>Sun Joe Detergent Not Working</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-best-thing-i-ever-made-recipes'>The Best Thing I Ever Made Recipes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-factory-reset-toshiba-satellite-laptop-windows-7-without-cd'>How To Factory Reset Toshiba Satellite Laptop Windows 7 Without Cd</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=activities-for-1-year-olds'>Activities For 1 Year Olds</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lg-refrigerator-compressor-replacement-cost'>Lg Refrigerator Compressor Replacement Cost</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=little-tikes-smart-shopping-cart'>Little Tikes Smart Shopping Cart</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mukesh-patel-college-of-engineering-review'>Mukesh Patel College Of Engineering Review</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=clearwater-cascades-mobile-homes-for-sale'>Clearwater Cascades Mobile Homes For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dog-friendly-restaurants-long-island'>Dog Friendly Restaurants Long Island</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=to-see-hibiscus-flower-in-dream'>To See Hibiscus Flower In Dream</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=unforgettable-memories-of-school-life'>Unforgettable Memories Of School Life</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-is-polyester-material-like'>What Is Polyester Material Like</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philips-lifeline-homesafe-user-manual'>Philips Lifeline Homesafe User Manual</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=big-bear-cabins-for-less'>Big Bear Cabins For Less</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=star-wars-mystery-box-target'>Star Wars Mystery Box Target</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=amaryllis-care-outdoors-sun-or-shade'>Amaryllis Care Outdoors Sun Or Shade</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ultimate-veg-jamie-oliver-recipes'>Ultimate Veg Jamie Oliver Recipes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bar-stools-clearance-near-me'>Bar Stools Clearance Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-place-for-a-group-dinner'>Best Place For A Group Dinner</a>,
+";s:7:"expired";i:-1;}

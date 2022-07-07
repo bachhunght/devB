@@ -1,0 +1,238 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3804:"Find the best Breakfast on Yelp: search reviews of 8 West Yellowstone businesses by price, type, or location.  Best West Yellowstone B&Bs on Tripadvisor: Find 343 traveller reviews, 195 candid photos, and prices for 8 bed and breakfasts in West Yellowstone, Montana, United States. Best Dining in West Yellowstone, Montana: See 22,711 Tripadvisor traveller reviews of 67 West Yellowstone restaurants and search by cuisine, price, location, and more. Find 22,876 traveller reviews of the best West Yellowstone American Restaurants for Breakfast and search by price, location and more. Best American Restaurants for Breakfast in West Yellowstone, Montana. We are known for our delicious pancakes, homemade baked goods and our clean and friendly atmosphere. Ernie's Bakery and Deli: Best breakfast in West Yellowstone - See 616 traveler reviews, 96 candid photos, and great deals for West Yellowstone, MT, at TripAdvisor. Compare reviews of restaurants serving tasty breakfast. Running Bear Pancake House offers family style dining also including a children's menu. It serves a daily breakfast and has a children’s playground on site. Find 22,927 traveller reviews of the best West Yellowstone Cafés for Breakfast and search by price, location and more. Best Cafés for Breakfast in West Yellowstone, Montana. Best Steakhouses in West Yellowstone, MT 59758 - Boondocks Restaurant, The Branch Restaurant and Bar, The Rustic Smokehouse, Corral Bar, Steakhouse & … Find 22,927 traveller reviews of the best West Yellowstone Cafés for Breakfast and search by price, location and more. De beste ontbijtrestaurants in West Yellowstone, Montana: Lees TripAdvisor-reizigersbeoordelingen van de beste ontbijtrestaurants in West Yellowstone en zoek op prijs, locatie en meer. Explore guest reviews and book the perfect place to stay for your trip. Whether a day of hiking the local trails or discovering a new favorite boutique sounds ideal, rest assured that a relaxing vacation is easy at our West Yellowstone hotel. After spending nearly all of my summers throughout college in West Yellowstone, Montana, you could say that the little town with a population of 1,321 townies has a special place in my heart. Find and book deals on the best places to stay in West Yellowstone, United States of America! Located 5 minutes from the West Gate of Yellowstone National Park, this bed and breakfast has spacious rooms with free Wi-Fi. Best Cafés for Breakfast in West Yellowstone, Montana. Explore best places to eat breakfast in West Yellowstone and nearby. Running Bear Pancake House is located at 538 Madison Ave, in West Yellowstone Montana. Compare reviews of restaurants serving tasty breakfast. Find 22,967 traveller reviews of the best West Yellowstone Cafés for Breakfast and search by price, location and more. The West Yellowstone Bed and Breakfast, open year round, is located just 4.5 miles from the west entrance to Yellowstone National Park.A quiet location just 5 minutes to Yellowstone nestled among the lodge pole pines in the Gallatin National Forest with abundant wildlife when you least expect. The Best West Yellowstone Restaurants. Running Bear Pancake House: Best Breakfast in West Yellowstone - See 1,835 traveller reviews, 226 candid photos, and great deals for West Yellowstone, MT, at Tripadvisor. Explore best places to eat breakfast in West Yellowstone and nearby. Just blocks away from Yellowstone National Park. The Best Western Desert Inn is just 30 miles to Old Faithful, and our Main Street location is close to restaurants and shops. Best Breakfast Restaurants in West Yellowstone, Montana: Find Tripadvisor traveler reviews of THE BEST Breakfast Restaurants in West Yellowstone, and search by price, location, and more. Best Cafés for Breakfast in West Yellowstone, Montana. ";s:7:"keyword";s:34:"best breakfast in west yellowstone";s:5:"links";s:7948:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=main-drain-leak-in-inground-pool'>Main Drain Leak In Inground Pool</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sweet-potato-marshmallow-thanksgiving-dish'>Sweet Potato Marshmallow Thanksgiving Dish</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=t350-vs-t450-patio-cleaner'>T350 Vs T450 Patio Cleaner</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=natural-wood-edge-coffee-table'>Natural Wood Edge Coffee Table</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=basement-parking-plan-with-ramp'>Basement Parking Plan With Ramp</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=structure-and-function-of-xylem-and-phloem'>Structure And Function Of Xylem And Phloem</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=do-you-have-to-remove-furniture-to-install-hardwood-floors'>Do You Have To Remove Furniture To Install Hardwood Floors</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mesa-grill-las-vegas-reviews'>Mesa Grill Las Vegas Reviews</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-pictures-to-put-in-bedroom'>What Pictures To Put In Bedroom</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=family-restaurants-near-me-now'>Family Restaurants Near Me Now</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=coca-cola-sales-by-product'>Coca Cola Sales By Product</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=epic-australia-pass-falls-creek'>Epic Australia Pass Falls Creek</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-maximize-space-in-a-studio-apartment'>How To Maximize Space In A Studio Apartment</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-season-collard-greens-without-salt'>How To Season Collard Greens Without Salt</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cheap-ceiling-fans-home-depot'>Cheap Ceiling Fans Home Depot</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-many-ads-do-you-see-on-social-media'>How Many Ads Do You See On Social Media</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=family-room-home-addition-plans'>Family Room Home Addition Plans</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=homes-for-sale-rumford-maine'>Homes For Sale Rumford Maine</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=light-blue-paint-for-bedroom'>Light Blue Paint For Bedroom</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hulled-barley-vs-brown-rice'>Hulled Barley Vs Brown Rice</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=who-makes-predator-pressure-washers'>Who Makes Predator Pressure Washers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=indian-fast-food-recipes-pdf'>Indian Fast Food Recipes Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bed-bath-and-beyond-plano'>Bed Bath And Beyond Plano</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=referral-agreement-and-commission-agreement'>Referral Agreement And Commission Agreement</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=tree-painting-black-and-white'>Tree Painting Black And White</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rent-pressure-washer-with-water-tank'>Rent Pressure Washer With Water Tank</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=a-history-of-violence-trailer'>A History Of Violence Trailer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=paint-colors-that-go-with-dark-wood-floors'>Paint Colors That Go With Dark Wood Floors</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=types-of-cold-storage-warehouse'>Types Of Cold Storage Warehouse</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=amazon-mid-century-coffee-table'>Amazon Mid Century Coffee Table</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=under-the-sea-wind-amazon'>Under The Sea Wind Amazon</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-way-to-make-money-in-the-food-business'>Best Way To Make Money In The Food Business</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=who-makes-ikea-appliances-uk'>Who Makes Ikea Appliances Uk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=diners-drive-ins-and-dives-reno-nevada'>Diners Drive Ins And Dives Reno Nevada</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=black-tie-ski-rentals-whistler'>Black Tie Ski Rentals Whistler</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=taco-bar-ideas-for-graduation-party'>Taco Bar Ideas For Graduation Party</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-swimming-pool-water-blue'>How To Make Swimming Pool Water Blue</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mitsubishi-aircon-spare-parts-singapore'>Mitsubishi Aircon Spare Parts Singapore</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=williams-sonoma-distribution-center-south-brunswick-nj'>Williams Sonoma Distribution Center South Brunswick Nj</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=red-deer-weather-forecast-environment-canada'>Red Deer Weather Forecast Environment Canada</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=strawberry-shortcake-characters-lemon-meringue'>Strawberry Shortcake Characters Lemon Meringue</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wall-mounted-clothes-airer-indoor'>Wall Mounted Clothes Airer Indoor</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-electric-spray-paint-machine'>Best Electric Spray Paint Machine</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rooms-to-go-coupons-november-2019'>Rooms To Go Coupons November 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sweet-potato-chaat-for-fast'>Sweet Potato Chaat For Fast</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=preethsod-thappa-hd-kannada-full-movie-download'>Preethsod Thappa Hd Kannada Full Movie Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=landscape-architecture-documentation-standards-pdf'>Landscape Architecture Documentation Standards Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-color-gladiolus-means-strength'>What Color Gladiolus Means Strength</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=vanbow-high-back-leather-office-chair'>Vanbow High Back Leather Office Chair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=things-to-do-in-cincinnati'>Things To Do In Cincinnati</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=A-History-of-British-Birds'>A History Of British Birds</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=who-won-the-battle-of-britain-for-kids'>Who Won The Battle Of Britain For Kids</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=diners-drive-ins-and-dives-vietnamese'>Diners Drive Ins And Dives Vietnamese</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-build-a-french-door-frame'>How To Build A French Door Frame</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fantasy-meadow-hike-winter-park'>Fantasy Meadow Hike Winter Park</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-storables-out-of-business'>Is Storables Out Of Business</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-american-horticultural-society-encyclopedia-of-gardening'>The American Horticultural Society Encyclopedia Of Gardening</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-edinburgh-notable-alumni'>University Of Edinburgh Notable Alumni</a>,
+";s:7:"expired";i:-1;}

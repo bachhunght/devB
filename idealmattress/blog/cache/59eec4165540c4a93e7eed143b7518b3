@@ -1,0 +1,273 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4814:"IEEE Quantum Week is a multidisciplinary quantum computing venue where attendees will have the unique opportunity to discuss challenges and opportunities with quantum researchers, scientists, engineers, entrepreneurs, ... (TQE) and ACM Transactions on Quantum Computing (TQC). Computing Reviews is the leading online review service for books and articles across all disciplines of computing. ACM journal editors are thought leaders in their fields, and ACM’s emphasis on rapid publication ensures minimal delay in communication of … ACM publishes more than 50 scholarly peer-reviewed journals in dozens of computing and information technology disciplines. Subscribe to ACM TQC. It is soliciting paper submissions on all aspects of multimedia. This collaboration between Reviews.com and the ACM is centered on an international community of over 1,000 reviewers, who provide timely commentaries and authoritative critiques of current computing literature.  Visit tqc.acm.org for more information or to submit your manuscript. The new journal from ACM provides an important forum to discuss how advances in quantum computer science can accelerate the development and application of this exciting technology,” said Humble. ACM Fellows comprise an elite group that represents less than 1% of the Association’s global membership. The best papers will be invited to the journals IEEE Transactions on Quantum Engineering (TQE) and ACM Transactions on Quantum Computing (TQC). ACM Transactions on Computing for Healthcare (HEALTH) is a multi-disciplinary journal for the publication of high-quality original research papers, survey papers, and challenge papers that have scientific and technological results pertaining to how computing is improving healthcare. CCF Full Name Impact Factor Publisher ISSN; Studia Logica: 0.342: Springer: 0039-3215: ACM Transactions on Spatial Algorithms and Systems: ACM: 2374-0353: c: ACM Journal on Emerging Technologies in Computing Systems Transactions on Quantum Computing will publish its first issue in 2020. IEEE Quantum Week 2020. According to ACM: ACM Transactions on Multimedia Computing, Communications and Applications主要以同行评审的方法来选择与筛选所投送的稿件录取与否。 ACM Transactions on Multimedia Computing, Communications and Applications的研究主题涵盖以下类别: Computer Networks and Communications (Q1), Hardware and Architecture (Q1)。 Papers accepted by IEEE International Conference on Quantum Computing & Engineering (QCE 2020) will be submitted to IEEE Xplore Digital Library. ACM has named 58 members 2019 ACM Fellows for significant contributions in areas including artificial intelligence, cloud computing, combating cybercrime, quantum computing and wireless networking. Technical Paper Tracks publishes high-impact, original research papers and select surveys on topics in quantum computing and quantum information science ACM Transactions on Quantum Computing publishes high-impact, original research papers and select surveys on topics in quantum computing and quantum information science. QCE20 Tutorial & Workshop Proposal deadlines are approaching rapidly. The ACM Transactions on Multimedia Computing Communications and Applications is the flagship publication of the ACM Special Interest Group in Multimedia (SIGMM). This collaboration between Reviews.com and the ACM is centered on an international community of over 1,000 reviewers, who provide timely commentaries and authoritative critiques of current computing literature. Impact Factor of ACM Transactions on Multimedia Computing Communications and Applications, 1551-6857, Journal Impact Factor report Programmers are being given a free opportunity to break the ice on a new era of quantum computing. Call for Tutorial & Workshop Proposals. Topics can include models of quantum computing, quantum algorithms and complexity, quantum computing architecture, principles and methods of fault-tolerant quantum computation, design automation for quantum computing, quantum programming languages and systems, and more. ORNL Distinguished Scientist Travis Humble has been named as the co-Editor-In-Chief of a new quantum computing journal published by the Association for Computing Machinery (ACM). Both D-Wave Systems and IBM are offering free access to their superconducting quantum computers in the cloud, along with access to their continually evolving programming tools.. Papers on single media (for instance, audio, video, animation) and their processing are also welcome. Computing Reviews is the leading online review service for books and articles across all disciplines of computing. ACM Journals. With your contributions and your participation, together we can build a premier meeting to advance quantum computing, engineering, and technology. ";s:7:"keyword";s:37:"acm transactions on quantum computing";s:5:"links";s:12643:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=black-bear-inn-arnold-ca'>Black Bear Inn Arnold Ca</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=consumer-reports-best-top-freezer-refrigerators'>Consumer Reports Best Top Freezer Refrigerators</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=celery-juice-detox-side-effects'>Celery Juice Detox Side Effects</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rainbow-six-siege-pro-league-schedule-2019'>Rainbow Six Siege Pro League Schedule 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=Big-Book-of-English-Words'>Big Book Of English Words</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=eames-lounge-chair-dimensions-cm'>Eames Lounge Chair Dimensions Cm</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=national-association-of-realtors-utah'>National Association Of Realtors Utah</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=types-of-cold-storage-ppt'>Types Of Cold Storage Ppt</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=homes-for-sale-brookline-ma'>Homes For Sale Brookline Ma</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=string-of-tears-vs-string-of-pearls'>String Of Tears Vs String Of Pearls</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=urban-agriculture-grow-your-own-tree'>Urban Agriculture Grow Your Own Tree</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=real-simple-slow-cooker-chicken'>Real Simple Slow Cooker Chicken</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bitter-daisies-netflix-season-2'>Bitter Daisies Netflix Season 2</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hair-salon-quotes-for-business-cards'>Hair Salon Quotes For Business Cards</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=modular-home-additions-floor-plans'>Modular Home Additions Floor Plans</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=unfinished-cabinet-doors-with-glass'>Unfinished Cabinet Doors With Glass</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=costco-air-hockey-table-299'>Costco Air Hockey Table 299</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=custom-peel-and-stick-decals'>Custom Peel And Stick Decals</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=session-and-cookies-in-java-servlets'>Session And Cookies In Java Servlets</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=humble-pie-30-days-in-the-hole'>Humble Pie 30 Days In The Hole</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=can-i-put-a-bigger-pump-on-my-pressure-washer'>Can I Put A Bigger Pump On My Pressure Washer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=gray-faux-fur-hairpin-leg-chair'>Gray Faux Fur Hairpin Leg Chair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=home-design-games-for-pc'>Home Design Games For Pc</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=does-wyndham-own-smugglers-notch'>Does Wyndham Own Smugglers Notch</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=emry-lurker-of-the-loch-edh'>Emry Lurker Of The Loch Edh</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=vanilla-ice-cream-cake-recipe'>Vanilla Ice Cream Cake Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-blue-green-gray-paint-colors'>Best Blue Green Gray Paint Colors</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-flowers-are-safe-for-cats'>What Flowers Are Safe For Cats</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=greater-bird-of-paradise-for-sale'>Greater Bird Of Paradise For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rustic-french-country-house-plans'>Rustic French Country House Plans</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=use-of-chain-of-responsibility-pattern'>Use Of Chain Of Responsibility Pattern</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=a-history-of-violence-trailer'>A History Of Violence Trailer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-many-chlorine-tablets-for-10ft-pool'>How Many Chlorine Tablets For 10ft Pool</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=high-pressure-dry-steam-cleaner'>High Pressure Dry Steam Cleaner</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=modern-living-room-sets-for-small-spaces'>Modern Living Room Sets For Small Spaces</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=raw-flattened-rice-side-effects'>Raw Flattened Rice Side Effects</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=top-food-bloggers-in-india-on-instagram'>Top Food Bloggers In India On Instagram</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=home-depot-led-shop-light-4-foot'>Home Depot Led Shop Light 4 Foot</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=weather-in-aspen-co-30-days'>Weather In Aspen Co 30 Days</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=simplehuman-dish-rack-with-knife-holder'>Simplehuman Dish Rack With Knife Holder</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=another-word-for-business-drivers'>Another Word For Business Drivers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-happened-after-the-battle-of-monmouth'>What Happened After The Battle Of Monmouth</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fur-vanity-chair-with-back'>Fur Vanity Chair With Back</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=city-of-fort-saskatchewan-employees'>City Of Fort Saskatchewan Employees</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=grey-faux-fur-chair-big-lots'>Grey Faux Fur Chair Big Lots</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hi-touch-office-supplies-login'>Hi Touch Office Supplies Login</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=george-rr-martin-new-book'>George Rr Martin New Book</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-much-does-home-depot-pay-in-california'>How Much Does Home Depot Pay In California</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=jasmine-name-meaning-in-hindi'>Jasmine Name Meaning In Hindi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=types-of-tourism-destination-pdf'>Types Of Tourism Destination Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-color-bedding-goes-with-grey-walls'>What Color Bedding Goes With Grey Walls</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-cook-kamut-in-rice-cooker'>How To Cook Kamut In Rice Cooker</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=courtyard-by-marriott-edinburgh-tripadvisor'>Courtyard By Marriott Edinburgh Tripadvisor</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=top-40-restaurants-in-the-us'>Top 40 Restaurants In The Us</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=uses-of-cotton-in-interior-design'>Uses Of Cotton In Interior Design</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=melody-twin-to-king-daybed'>Melody Twin To King Daybed</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wooden-wardrobe-designs-with-mirror'>Wooden Wardrobe Designs With Mirror</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=masters-in-landscape-architecture-in-australia'>Masters In Landscape Architecture In Australia</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wayfair-labor-day-sale-coupon'>Wayfair Labor Day Sale Coupon</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=menards-exterior-french-doors-with-frame'>Menards Exterior French Doors With Frame</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hip-hop-night-clubs-minneapolis'>Hip Hop Night Clubs Minneapolis</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=shelves-for-rubbermaid-vertical-shed'>Shelves For Rubbermaid Vertical Shed</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=suicide-squad-full-movie-in-hindi-watch-online'>Suicide Squad Full Movie In Hindi Watch Online</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=residential-land-for-sale-near-me'>Residential Land For Sale Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chicken-mandi-recipe-by-faiza'>Chicken Mandi Recipe By Faiza</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=restoration-hardware-ludlow-dining-table'>Restoration Hardware Ludlow Dining Table</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=solid-oak-extending-dining-table-and-6-chairs'>Solid Oak Extending Dining Table And 6 Chairs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=swimming-starting-blocks-with-wedge'>Swimming Starting Blocks With Wedge</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ginger-tea-benefits-for-skin'>Ginger Tea Benefits For Skin</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-get-a-black-pool-clear-water'>How To Get A Black Pool Clear Water</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=green-chile-chicken-enchiladas-with-flour-tortillas'>Green Chile Chicken Enchiladas With Flour Tortillas</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=beauty-benefits-of-drinking-water'>Beauty Benefits Of Drinking Water</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=healthy-snacks-kids-can-make'>Healthy Snacks Kids Can Make</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=aluminium-front-doors-with-glass-panels'>Aluminium Front Doors With Glass Panels</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-role-did-nancy-priddy-play-on-days-of-our-lives'>What Role Did Nancy Priddy Play On Days Of Our Lives</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=round-ottoman-coffee-table-wayfair'>Round Ottoman Coffee Table Wayfair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-get-better-at-nordic-skiing'>How To Get Better At Nordic Skiing</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=romantic-bedroom-decorating-ideas-cheap-for-valentines-day'>Romantic Bedroom Decorating Ideas Cheap For Valentines Day</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=male-italian-chefs-on-food-network'>Male Italian Chefs On Food Network</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pressure-washer-pump-repair-manual'>Pressure Washer Pump Repair Manual</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=huawei-mate-10-pro-specification'>Huawei Mate 10 Pro Specification</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-old-is-nancy-fuller-farmhouse-rules'>How Old Is Nancy Fuller Farmhouse Rules</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mobile-brick-oven-pizza-catering-near-me'>Mobile Brick Oven Pizza Catering Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=baked-chicken-and-cauliflower-recipe'>Baked Chicken And Cauliflower Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=casino-in-rocky-mountain-housebar-harbor-maine-things-to-do'>Casino In Rocky Mountain Housebar Harbor Maine Things To Do</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cut-pampas-grass-for-sale'>Cut Pampas Grass For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=my-bakery-empire-game-free-download-for-pc'>My Bakery Empire Game Free Download For Pc</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=are-daisies-toxic-to-humans'>Are Daisies Toxic To Humans</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=modern-built-in-tv-wall-unit-designs-2018'>Modern Built In Tv Wall Unit Designs 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-a-living-wall-diy'>How To Make A Living Wall Diy</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=live-by-night-rotten-tomatoes'>Live By Night Rotten Tomatoes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cooking-with-aisha-fried-chicken'>Cooking With Aisha Fried Chicken</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=shallow-wardrobes-for-small-bedrooms'>Shallow Wardrobes For Small Bedrooms</a>,
+";s:7:"expired";i:-1;}

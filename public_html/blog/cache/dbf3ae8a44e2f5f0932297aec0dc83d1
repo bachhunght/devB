@@ -1,0 +1,237 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3981:"A major problem with the peer review process is that it … Spend time with the class discussing the quality of the feedback they have given. Exemplars offers rich performance tasks for assessment & instruction in math, science & writing. Additionally, it has a place as a means of summative assessment. Learn by giving feedback! 1. This may include establishing their own assessment criteria through consultation with teaching staff. They’re easy for a teacher to implement on an ongoing basis anytime. Formative Peer Assessment. Team Peer Assessment: This is when members of a team or group rate their co-member’s performance, participation, and contribution in a team assignment. Teacher tools. Peergrade is a free online platform to facilitate peer feedback sessions with students. Additionally, it has a place as a means of summative assessment. Many students dislike being asked to mark other students work and receiving marks from other students. 1WHAT WIST WTPTAER11T11MT WNE?TTPER11T11MT W 2 GETTING STARTED GUIDELINES FOR CREATING EFFECTIVE PEER ASSESSMENT 1 1. Peer assessment involves students in the assessment process, with them taking on the role of teacher by reviewing work of other students against a set criteria. Rubrics & student anchor papers are included. Resources. These are awesome formative assessments that we like because they’re creative, low-tech, fun, and best of all, engaging for students. Formative assessment, also known as educational evaluation, is used to aid learning Example of peer assessment for students. In peer assessment, a collaborative learning technique, students evaluate their peers’ work and have their work evaluated by peers. They can submit anything – text, files, videos, links and even Google docs! Peer- and self-assessment has shown that group members will be more likely to be personally accountable for their share of the work load knowing that their peers will be assessing one another. Do not tolerate over-generosity: collect the work in afterwards and double-check that it was marked properly. Peer assessment or peer review provides a structured learning process for students to critique and provide feedback to each other on their work. DETERMINE THE CRITERIA ON WHICH THE … Peer assessment can take many forms that can vary depending on the learning goals, the disciplinary context, and available technologies. The purpose for using self and peer assessment should be explicit for staff and students. Types of Peer Assessments. > Additional Resources APRIL 2013 STUDENT-CENTERED ASSESSMENT PEER ASSESSMENT By Georgia Brooke & Heidi Andrade. Peer- and self-assessment gives students the opportunity to critically assess the performance of group members and themselves. They reflect on their own efforts, and extend and enrich this reflection by exchanging feedback on their own and their peers' work. It helps students develop lifelong skills in assessing and providing feedback to others, and also equips them with skills to self-assess and improve their own work. Students receive feedback from their peers, they react, discuss and engage with their feedback. Student Rubrics: Jigsaw Rubric (math) Seed Rubric (science) How Do I Know When I Am Done? Peergrade is a free online platform to facilitate peer feedback sessions with students. Do not tolerate over-generosity: collect the work in afterwards and double-check that it was marked properly. It is a key assessment-for-learning strategy that can help teachers quickly determine the level of knowledge and understanding of pupils. There are a few challenges, but these are greatly outweighed by the the benefits. Get Your FREE Sample Task Today. Students engage with their feedback. Self and peer assessment – advantages and disadvantages Group work can be more successful when students are involved in developing the assessment process. Examples of student self assessment. The following slide deck is the same as the one used in the video. ";s:7:"keyword";s:37:"peer assessment examples for students";s:5:"links";s:7671:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-to-buy-acrylic-paint-cheap-india'>Where To Buy Acrylic Paint Cheap India</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-fine-dining-restaurants-in-dubai'>Best Fine Dining Restaurants In Dubai</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=benefits-of-air-purifying-plants'>Benefits Of Air Purifying Plants</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mixing-leather-and-fabric-living-room'>Mixing Leather And Fabric Living Room</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=blueberry-fruit-in-tamil-meaning'>Blueberry Fruit In Tamil Meaning</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=are-the-duke-and-duchess-of-kent-still-married'>Are The Duke And Duchess Of Kent Still Married</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-lay-brick-edging-driveway'>How To Lay Brick Edging Driveway</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=42-inch-dog-crate-cheap'>42 Inch Dog Crate Cheap</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=antique-gift-shop-in-bangalore'>Antique Gift Shop In Bangalore</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hayden-5-piece-dining-set-big-lots'>Hayden 5 Piece Dining Set Big Lots</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=anderson-japanese-gardens-cherry-blossom'>Anderson Japanese Gardens Cherry Blossom</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=honda-gx160-pressure-washer-manual'>Honda Gx160 Pressure Washer Manual</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=1-gallon-cordless-shop-vac'>1 Gallon Cordless Shop Vac</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=weather-salt-lake-city-hourly'>Weather Salt Lake City Hourly</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=white-swivel-chair-with-arms'>White Swivel Chair With Arms</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=free-material-samples-for-students'>Free Material Samples For Students</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hue-play-hdmi-sync-box-australia'>Hue Play Hdmi Sync Box Australia</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=michigan-state-university-acceptance-rate'>Michigan State University Acceptance Rate</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=loved-it-meaning-in-hindi'>Loved It Meaning In Hindi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=4k-nature-video-free-download'>4k Nature Video Free Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=halt-and-catch-fire-netflix'>Halt And Catch Fire Netflix</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=calories-in-4-pieces-of-chicken-tikka'>Calories In 4 Pieces Of Chicken Tikka</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=diy-makeup-brush-holder-with-lid'>Diy Makeup Brush Holder With Lid</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=courtyard-marriott-edinburgh-phone-number'>Courtyard Marriott Edinburgh Phone Number</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=main-drain-connected-to-skimmer'>Main Drain Connected To Skimmer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=closeout-kitchen-cabinets-near-me'>Closeout Kitchen Cabinets Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=coin-purse-frames-hobby-lobby'>Coin Purse Frames Hobby Lobby</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=plants-drooping-at-end-of-light-cycle'>Plants Drooping At End Of Light Cycle</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=5-star-hotel-organizational-chart-pdf'>5 Star Hotel Organizational Chart Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lemon-trees-for-sale-at-lowes'>Lemon Trees For Sale At Lowes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=can-you-lay-new-carpet-over-old-underlay'>Can You Lay New Carpet Over Old Underlay</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=american-society-for-the-prevention-of-cruelty-to-animals-dba-aspca'>American Society For The Prevention Of Cruelty To Animals Dba Aspca</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=home-franchise-concepts-irvine-ca'>Home Franchise Concepts Irvine Ca</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philips-hue-gu10-colour-size'>Philips Hue Gu10 Colour Size</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=traditional-dining-room-tables-and-chairs'>Traditional Dining Room Tables And Chairs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=most-popular-cheese-in-germany'>Most Popular Cheese In Germany</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=deep-fried-mars-bar-newcastle'>Deep Fried Mars Bar Newcastle</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=when-did-frank-williams-die'>When Did Frank Williams Die</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-mini-fridge-for-bedroom'>Best Mini Fridge For Bedroom</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=100-km-to-miles-per-hour'>100 Km To Miles Per Hour</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-does-moisture-affect-food-spoilage'>How Does Moisture Affect Food Spoilage</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=orange-tree-richmond-christmas-menu'>Orange Tree Richmond Christmas Menu</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=search-girl-name-by-meaning'>Search Girl Name By Meaning</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cute-room-ideas-for-small-rooms'>Cute Room Ideas For Small Rooms</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=portland-maine-things-to-do'>Portland Maine Things To Do</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=craigslist-mobile-homes-for-rent-by-owner-near-me'>Craigslist Mobile Homes For Rent By Owner Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hobby-lobby-wooden-kitchen-sign'>Hobby Lobby Wooden Kitchen Sign</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=steelcase-leap-v2-seat-cushion'>Steelcase Leap V2 Seat Cushion</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=beko-washing-machine-repair-singapore'>Beko Washing Machine Repair Singapore</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=band-of-horses-the-funeral'>Band Of Horses The Funeral</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-keep-weeds-out-of-ground-cover'>How To Keep Weeds Out Of Ground Cover</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=easiest-annual-flowers-to-grow'>Easiest Annual Flowers To Grow</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=storage-and-transportation-of-ammonia'>Storage And Transportation Of Ammonia</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-to-buy-linens-in-paris'>Where To Buy Linens In Paris</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=floor-and-decor-near-me'>Floor And Decor Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=la-cucina-the-regional-cooking-of-italy-pdf-download'>La Cucina The Regional Cooking Of Italy Pdf Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lg-smart-drum-direct-drive-washing-machine-manual'>Lg Smart Drum Direct Drive Washing Machine Manual</a>,
+";s:7:"expired";i:-1;}

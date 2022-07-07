@@ -1,0 +1,229 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:5037:"Information on Getting a Computer Science Degree at UMass Lowell. It is the only public research system in Massachusetts and one of the most highly regarded public university systems in the world. Find the best Master's of Computer Science programs at TFE Times. The OP is comparing UMass Lowell to UMass Boston, not UMass to Carnegie Mellon or Stanford. Student Life at UMass Lowell University of Massachusetts--Lowell has a total undergraduate enrollment of 14,005, with a gender distribution of 61 percent male … The College of Information and Computer Sciences (CICS) at the University of Massachusetts Amherst is ranked among the top twenty graduate computer science programs in the country according to U.S. News and World Report's 2019 edition of Best Graduate Schools.. The rankings, which were announced today, place CICS at #20, up five spots from its 2014 rank. Massachusetts Schools Offering Computer Science Listed in Order of Popularity. Drawing on the combined strengths of UMass Lowell's first-rate engineering and business programs, the online Master's Degree in Engineering Management prepares students for a wide range of design, manufacturing and infrastructure management careers. UMass began life in 1863 as the Massachusetts Agricultural College.  Some of their programs are much better than others and that is especially true for their engineering and CS programs. Part of the University of Massachusetts system, UMass Lowell is a nationally-ranked research university located in the vibrant and historic city of Lowell, MA, just 35 minutes from Boston. Learn how UMass Lowell ranks across all of College Factual's rankings including Best Colleges Nationwide, Best Colleges for Your Money, Best Colleges in Massachusetts and the region, and Best Majors. Read More. Learn more about taking the test again. Let College Factual help you discover whether UMass Lowell offers the right fit, value and cost to meet your educational goals. Within this field, Computer Science students make up 25,798 graduates per year. The UMass Lowell Department of Computer Science offers degree programs leading to bachelor's, master's and doctoral degrees that blend applied and theoretical aspects of computation, including a minor in robotics and options in bioinformatics. UMass Lowell is a national research university located on a high-energy campus in the heart of a global community. It certainly is if you are a resident of Massachusetts and working near-by and having your employer pay for your Masters. UMass began life in 1863 as the Massachusetts Agricultural College. The university offers its more than 18,000 students bachelor’s, master’s and doctoral degrees in business, education, engineering, fine arts, health, humanities, sciences and social sciences. View University of Massachusetts - Lowell rankings for 2020 and see where it ranks among top colleges in the U.S. Learn how UMass Lowell ranks across all of College Factual's rankings including Best Colleges Nationwide, Best Colleges for Your Money, Best Colleges in Massachusetts and the region, and Best Majors. Here is our Methodology. It took on its current name in 1947. About the University of Massachusetts Lowell. Interested in attending UMass Lowell to study Computer Science? Our BS program in Computer Science is accredited by the Computing Accreditation Commission of ABET. It is the overarching body of the five noted campuses located in Amherst, Boston, Dartmouth, Lowell and UMass Medical School in Worcester. You can take the computer-delivered GRE ® revised General Test once every 21 days, up to five times within any continuous rolling 12-month period (365 days). University of Massachusetts--Lowell Rankings. In the United States, Computer Science is the 28th most popular college major. January 23, 2014. You can take the computer-delivered GRE ® revised General Test once every 21 days, up to five times within any continuous rolling 12-month period (365 days). Degree Pathways are a semester-by-semester sequence of courses recommended for successful completion of a degree, diploma, credential or certificate from the university. 2020 Rankings for University of Massachusetts - Lowell. You can take the computer-delivered GRE ® revised General Test once every 21 days, up to five times within any continuous rolling 12-month period (365 days). It is the only public research system in Massachusetts and one of the most highly regarded public university systems in the world. To find out more about the ranking of the most popular Computer Science schools, read the ranking methodology. Become a Business-Savvy Tech Leader in the Field of Engineering. It displays comparisons based on Cost of studying, Scholarships, Weather, Location, Ranking, and so much more!!. The College of Information and Computer Sciences (CICS) at the University of Massachusetts Amherst is ranked among the top twenty graduate computer science programs in the country according to U.S. News and World Report's 2019 edition of Best Graduate Schools.. ";s:7:"keyword";s:37:"umass lowell computer science ranking";s:5:"links";s:6707:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=Scout-Attacked-by-a-Tiger'>Scout Attacked By A Tiger</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wall-mounted-soap-dispenser-commercial'>Wall Mounted Soap Dispenser Commercial</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=living-room-chaise-lounge-covers'>Living Room Chaise Lounge Covers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=architecture-timeline-historical-periods-and-styles-pdf'>Architecture Timeline Historical Periods And Styles Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=used-espresso-machine-for-sale-craigslist'>Used Espresso Machine For Sale Craigslist</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=godrej-interio-kreation-wardrobe-price'>Godrej Interio Kreation Wardrobe Price</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=house-for-sale-by-owner-forms-pdf'>House For Sale By Owner Forms Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=positive-feedback-examples-for-students'>Positive Feedback Examples For Students</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=round-dining-table-for-4-white'>Round Dining Table For 4 White</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=romantic-things-to-do-in-owensboro-ky'>Romantic Things To Do In Owensboro Ky</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=convert-halogen-fixture-to-led'>Convert Halogen Fixture To Led</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=diamond-brite-pool-colors-images'>Diamond Brite Pool Colors Images</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=traditional-polish-food-near-me'>Traditional Polish Food Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=set-up-a-captive-portal'>Set Up A Captive Portal</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=difference-between-demi-chef-and-chef-de-partie'>Difference Between Demi Chef And Chef De Partie</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bright-lighting-for-craft-room'>Bright Lighting For Craft Room</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mirimyn-accent-cabinet-antique-grey'>Mirimyn Accent Cabinet Antique Grey</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-fuchsia-poisonous-to-dogs'>Is Fuchsia Poisonous To Dogs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=shark-duoclean-corded-stick-vacuum-cleaner-hv390ukco'>Shark Duoclean Corded Stick Vacuum Cleaner Hv390ukco</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cheap-lamp-shades-for-table-lamps'>Cheap Lamp Shades For Table Lamps</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=when-do-lemon-trees-produce-fruit'>When Do Lemon Trees Produce Fruit</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bobs-dream-modular-sofa-review'>Bobs Dream Modular Sofa Review</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ikea-ektorp-sofa-bed-cover'>Ikea Ektorp Sofa Bed Cover</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=quaker-oats-meatloaf-recipe-with-milk'>Quaker Oats Meatloaf Recipe With Milk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=things-to-do-in-nashville-in-may'>Things To Do In Nashville In May</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wall-mounted-tv-cabinets-for-flat-screens-with-doors'>Wall Mounted Tv Cabinets For Flat Screens With Doors</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=steamship-definition-ap-world-history'>Steamship Definition Ap World History</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-prepare-raw-broccoli'>How To Prepare Raw Broccoli</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=utrecht-university-masters-application-deadline'>Utrecht University Masters Application Deadline</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-assemble-sanyang-wardrobe-cabinet'>How To Assemble Sanyang Wardrobe Cabinet</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=box-up-meaning-in-hindi'>Box Up Meaning In Hindi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dyson-v11-animal-best-buy'>Dyson V11 Animal Best Buy</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=american-furniture-warehouse-near-me'>American Furniture Warehouse Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bank-of-america-foreclosure-listings'>Bank Of America Foreclosure Listings</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=essay-on-my-school-garden-for-class-3'>Essay On My School Garden For Class 3</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=electric-roll-up-garage-doors'>Electric Roll Up Garage Doors</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=things-to-do-in-louisville-ky-for-couples'>Things To Do In Louisville Ky For Couples</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=high-back-swivel-vanity-stool'>High Back Swivel Vanity Stool</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cheap-king-size-bed-with-storage'>Cheap King Size Bed With Storage</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-air-layer-a-tree'>How To Air Layer A Tree</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-grow-up-emotionally'>How To Grow Up Emotionally</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=seasoned-grilled-corn-on-the-cob-in-foil'>Seasoned Grilled Corn On The Cob In Foil</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=a-history-of-violence-trailer'>A History Of Violence Trailer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=breakfast-with-santa-ikea-sheffield-1-december'>Breakfast With Santa Ikea Sheffield 1 December</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=z-line-gaming-desk-l-shaped-work-center'>Z Line Gaming Desk L Shaped Work Center</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-return-something-online'>How To Return Something Online</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=national-association-of-hispanic-journalists-twitter'>National Association Of Hispanic Journalists Twitter</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=snap-peas-and-carrots-recipe-epicurious'>Snap Peas And Carrots Recipe Epicurious</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-northstar-open-on-christmas'>Is Northstar Open On Christmas</a>,
+";s:7:"expired";i:-1;}

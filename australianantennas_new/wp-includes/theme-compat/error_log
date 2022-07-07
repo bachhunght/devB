@@ -1,0 +1,8 @@
+[24-Oct-2021 10:59:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/australiana/public_html/wp-includes/theme-compat/embed-404.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/australiana/public_html/wp-includes/theme-compat/embed-404.php on line 14
+[24-Oct-2021 13:23:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/australiana/public_html/wp-includes/theme-compat/embed-404.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/australiana/public_html/wp-includes/theme-compat/embed-404.php on line 14

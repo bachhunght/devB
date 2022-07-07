@@ -1,0 +1,252 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4484:"Get started with our handy advice to promote your project and encourage others to contribute. One of the hardest parts of setting up a school or community garden is finding financial or hands on help to get things off the ground. Getting Community Garden Grants. The National Garden Scheme Community Gardens Award has funding available to support community garden projects around the UK. This is just a smattering. Community gardening projects Local councils and community residents are creating gardens and improving neighbourhoods around the country. There are lots of resources out there to help fund garden projects. But it's a start. Funding … Mission … Learn About Fundraising. Some support construction of facilities, while others support planning of projects. Funding Criteria for both Start-up and Existing Gardens Eligible/Ineligible Items under this Fund How to Apply Past CGDF Allocations Be sure to read this entire page and the entire CGN Page before you apply for the CGDF. Today, I’m going to fill you in on the top 10 state and national funding opportunities for soil-less science educators as provided to me by Brook Brockman, the Grants Coordinator for the Wyoming Department of Education.</p> **And remember, you don't only have to go after gardening grants. There are lots of resources out there to help fund garden projects. We’ve compiled a list of some the key funding sources that support green spaces in UK. This is just a smattering. And this movement is growing strong. **And remember, you don't only have to go after gardening grants. Funding Criteria for both Start-up and Existing Gardens Eligible/Ineligible Items under this Fund How to Apply Past CGDF Allocations Be sure to read this entire page and the entire CGN Page before you apply for the CGDF. Marshall College Community Garden Proposal Proposal Contents: I. Fundraising for Community Gardens by Gary Goosman, ACGA. Always explore funding from local or regional foundations and corporations as well as state agencies when searching for a grant for your community development project. Funding and Donations 15 Garden Skills Training 17 SECTION 4: FINDING LAND 19 Local Plans and Community Gardens 19 Local Zoning and Community Gardens 21 Community Gardens on Public Land 24 Community Gardens on Public and Low-Income Housing Sites 25 Community Gardens on Private Land 26 Community Organizations and Land Access for Gardens 28 Keeping a Garden Site 29 … Motivation for the Garden V. Site and Physical Planning VI.Proposed Sites I. Whether you’re looking to fund your community garden, green spaces or neighborhood beautification, look no further because the Instrumentl team has assembled some of our favorite small grant… Whether you're looking for a grant to turn your community project into a reality, want to partner with us to change lives or simply want to give a few hours a week to a cause that benefits your community, Groundwork can help you do something special. Funding … There are also grants for health, STEM education, art, literature, food and nutrition, exercise and … The attendance of at least one garden coordinator at a How to Start a Community Garden workshop is … Continue reading "Community Garden Development Fund" Below are some ideas to get you started. ACE Support for Community Groups - Community groups in Scotland are invited to apply for support as part of the ACE programme. Biffa Award: Biffa Award provides two streams of funding to community projects under four different themes: rebuilding biodiversity, community buildings, cultural facilities and recreation.. Big Lottery Fund – Awards for All: Funding for community based projects across UK. Funding and Donations 15 Garden Skills Training 17 SECTION 4: FINDING LAND 19 Local Plans and Community Gardens 19 Local Zoning and Community Gardens 21 Community Gardens on Public Land 24 Community Gardens on Public and Low-Income Housing Sites 25 Community Gardens on Private Land 26 Community Organizations and Land Access for Gardens 28 Keeping a Garden Site 29 … Keep reading to learn more about grant funding for community gardens and community garden fundraising ideas. Raising and managing funds is a hugely important aspect of any community gardening project, but there are many interesting and exciting ways you can inspire others to donate. SeedMoney is a nonprofit that helps vulnerable people and communities to start and sustain healthy and sustainable food garden projects. ";s:7:"keyword";s:37:"funding for community garden projects";s:5:"links";s:9856:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=portable-carpet-extractor-for-auto-detailing'>Portable Carpet Extractor For Auto Detailing</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=vep%C5%99o-knedlo-zelo-czech-food'>Vepřo Knedlo Zelo Czech Food</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=2x4-drop-ceiling-light-fixtures'>2x4 Drop Ceiling Light Fixtures</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=samsung-rf23j9011sg-water-filter-replacement'>Samsung Rf23j9011sg Water Filter Replacement</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=magnum-4000-series-gold-pressure-washer'>Magnum 4000 Series Gold Pressure Washer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-to-wear-in-prague-in-november'>What To Wear In Prague In November</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ricotta-rigatoni-casserole-home-chef'>Ricotta Rigatoni Casserole Home Chef</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-wine-for-boeuf-bourguignon'>Best Wine For Boeuf Bourguignon</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-can-i-buy-frozen-duck-near-me'>Where Can I Buy Frozen Duck Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wrong-turn-at-tahoe-2009-hindi-dubbed-movie'>Wrong Turn At Tahoe 2009 Hindi Dubbed Movie</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=china-peak-promo-code-2020'>China Peak Promo Code 2020</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=squaw-valley-tram-discount-tickets'>Squaw Valley Tram Discount Tickets</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=whirlpool-refrigerator-215-ltr-price'>Whirlpool Refrigerator 215 Ltr Price</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=joy-of-cooking-2006-pdf'>Joy Of Cooking 2006 Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hall-design-for-medium-family'>Hall Design For Medium Family</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kids-art-table-with-storage'>Kids Art Table With Storage</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pickle-bath-for-rust-removal'>Pickle Bath For Rust Removal</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dona-maria-mole-limited-edition-glasses'>Dona Maria Mole Limited Edition Glasses</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-reset-samsung-washing-machine'>How To Reset Samsung Washing Machine</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=gardening-with-native-plants-of-the-northeast'>Gardening With Native Plants Of The Northeast</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=war-for-the-planet-of-the-apes-full-movie'>War For The Planet Of The Apes Full Movie</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=furniture-factory-outlet-pretoria-west-pretoria'>Furniture Factory Outlet Pretoria West Pretoria</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fridge-and-freezer-temperature-log-sheet'>Fridge And Freezer Temperature Log Sheet</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=50x50-carpet-tiles-price-philippines'>50x50 Carpet Tiles Price Philippines</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-use-a-celestial-globe'>How To Use A Celestial Globe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=honda-gcv160-pressure-washer-soap-dispenser-parts'>Honda Gcv160 Pressure Washer Soap Dispenser Parts</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=plants-that-grow-from-leaves'>Plants That Grow From Leaves</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=upma-rava-in-hindi-name'>Upma Rava In Hindi Name</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ladder-with-seat-on-top'>Ladder With Seat On Top</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=natural-history-museum-los-angeles-hours'>Natural History Museum Los Angeles Hours</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=diy-wall-mounted-drop-leaf-table'>Diy Wall Mounted Drop Leaf Table</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=french-to-english-dictionary-with-pronunciation'>French To English Dictionary With Pronunciation</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=papaya-tree-male-and-female'>Papaya Tree Male And Female</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=white-swivel-chair-with-arms'>White Swivel Chair With Arms</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-much-chlorine-to-add-to-pool-first-time'>How Much Chlorine To Add To Pool First Time</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bed-bath-and-beyond-credit-card-approval-odds'>Bed Bath And Beyond Credit Card Approval Odds</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-did-italians-eat-before-tomatoes'>What Did Italians Eat Before Tomatoes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=house-cleaning-routine-in-india'>House Cleaning Routine In India</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=oregon-state-university-undergraduate-tuition-and-fees'>Oregon State University Undergraduate Tuition And Fees</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=queen-mary-university-of-london-law'>Queen Mary University Of London Law</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=small-bayonet-led-dimmable-candle-bulbs'>Small Bayonet Led Dimmable Candle Bulbs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=abstract-painting-ideas-black-and-white'>Abstract Painting Ideas Black And White</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=florida-keys-scuba-diving-usa'>Florida Keys Scuba Diving Usa</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=le-cordon-bleu-julia-child-summary'>Le Cordon Bleu Julia Child Summary</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=behr-paint-home-depot-reviews'>Behr Paint Home Depot Reviews</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-much-did-silk-cost-in-ancient-china'>How Much Did Silk Cost In Ancient China</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ie-school-of-architecture-and-design-fees'>Ie School Of Architecture And Design Fees</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=peace-lily-in-shock-after-repotting'>Peace Lily In Shock After Repotting</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=a9-pressure-washer-gun-parts'>A9 Pressure Washer Gun Parts</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=when-does-gardeners-world-start-2019'>When Does Gardeners World Start 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=top-selling-soft-drinks-2018'>Top Selling Soft Drinks 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=whirlpool-refrigerator-265-ltr-price'>Whirlpool Refrigerator 265 Ltr Price</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-to-buy-fresh-guajillo-chiles'>Where To Buy Fresh Guajillo Chiles</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dollar-tree-fall-decor-2018'>Dollar Tree Fall Decor 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=How-to-build-bed-headboard'>How To Build Bed Headboard</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kitchen-table-at-bubbledogs-reservation'>Kitchen Table At Bubbledogs Reservation</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-time-to-visit-villa-taranto'>Best Time To Visit Villa Taranto</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pressure-washer-pump-shaft-key'>Pressure Washer Pump Shaft Key</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=office-space-planning-standards-pdf'>Office Space Planning Standards Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=remove-calcium-nodules-in-pool'>Remove Calcium Nodules In Pool</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=subway-ski-run-alpine-meadows'>Subway Ski Run Alpine Meadows</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=theory-of-cookery-parvinder-s-bali-pdf-download'>Theory Of Cookery Parvinder S Bali Pdf Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-to-serve-with-chicken-fried-steak'>What To Serve With Chicken Fried Steak</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=vax-steam-mop-descaling-pin'>Vax Steam Mop Descaling Pin</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-keep-your-refrigerator-running-efficiently'>How To Keep Your Refrigerator Running Efficiently</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dollar-tree-contact-paper-as-wallpaper'>Dollar Tree Contact Paper As Wallpaper</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=why-is-a-chefs-life-ending'>Why Is A Chefs Life Ending</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=big-cook-little-cook-recipe-cards'>Big Cook Little Cook Recipe Cards</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=why-is-mckesson-stock-dropping-2019'>Why Is Mckesson Stock Dropping 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=good-fortune-plants-for-front-door'>Good Fortune Plants For Front Door</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=social-by-heinz-beck-restaurant-dubai-menu'>Social By Heinz Beck Restaurant Dubai Menu</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kenny-albert-partner-on-fox'>Kenny Albert Partner On Fox</a>,
+";s:7:"expired";i:-1;}

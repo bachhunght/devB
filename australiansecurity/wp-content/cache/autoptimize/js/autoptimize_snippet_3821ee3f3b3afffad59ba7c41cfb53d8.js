@@ -1,0 +1,2 @@
+
+;(function($){$(document).ready(function(){setTimeout(function(){$('img.rpt_recommended').each(function(){var topPush=($(this).parent().outerHeight()/2)-($(this).height()/2);$(this).css('top',(topPush-2)+'px')})},50)})})(jQuery);

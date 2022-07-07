@@ -1,0 +1,238 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3239:"Lighting accounts for one fifth of the world’s total electricity consumption. How many miles per gallon can we get out of LED? DURHAM, NC-- Cree, Inc. (Nasdaq: CREE) records another significant LED milestone with the demonstration of 303 lumens per watt from a white, high-power LED.Reaching the landmark achievement much faster than previously believed possible, this result surpasses Cree’s previous R&D industry-best of 276 lumens per watt announced just over a year ago. Effective PAR ratings should be above 600uMol to be highly effective in photosynthesis or the growth of the plant. How to Calculate Lumens Per Watt ... A CFL bulb consumes even less energy – only 26 W – so its efficiency is 61 lumens per watt. On average, an incandescent bulb produces around 14 lumens per watt, compared to 63 lumens for energy saving compact fluorescents (CFL) and 74 for LED bulbs. That's almost a 33 percent efficiency increase over the efficiency of the spiral CFL from GE. By creating the most energy-efficient LED lamp prototype ever at 200 lumens per watt, Philips hopes to cut business and household lighting bills by at least half.  G8LED grow lights have PAR ratings of 1200-3600 uMol which means they are very effective in growing plants! Enter the power in watts, luminous efficacy in lumens per watt and press the Calculate button to get the luminous flux in lumens: Conventional incandescent light bulbs typically are about 15 lumens per watt and the compact fluorescent lamps are about 50 lumens per watt. So 1,000 lumens, concentrated into an area of one square metre, lights up that square metre with an illuminance level of 1000 lux. Watts measure the amount of energy required to light a product, whereas lumens measure the amount of light produced by the product. A typical 40W-equivalent LED light bulb, the Cree Standard 40W Replacement LED, uses just 6 watts of electricity to produce 450 lumens. For example, to replace a 15 watt light bulb for a LED lamp the amount of lumens must be compared. Sometimes the term "luminous efficacy" is used. A typical 40W-equivalent LED light bulb, the Cree Standard 40W Replacement LED, uses just 6 watts of electricity to produce 450 lumens. Apache Tech: We are using the most efficient LED chips on the market that produce 120 lumens per watt. Two lighting metrics to consider for warehouse space. The more lumens in a light bulb, the brighter the light. The Color Temperature Factor Are you looking for an energy-efficient replacement for your 15 watt light? Lighthouse Hydro: the Chrome series of LED grow lights represents the most lumens per watt of any LED currently in production. It depends on a number of factors, including how the bulb makes light, the quality of the materials from which the bulb is made and how much of the input energy is wasted as heat. Conventional incandescent light bulbs typically are about 15 lumens per watt and the compact fluorescent lamps are about 50 lumens per watt. In the table below you can easily see how much 15 watt in lumens is and which alternatives you can choose. Compare lumens to watts. That's nearly 75 lumens per watt. I’m proud to say, I now buy high-end chocolates (with much greater results) and 201 lm/W high bays. ";s:7:"keyword";s:28:"how many lumens per watt led";s:5:"links";s:7832:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-inflate-aldi-air-lounger'>How To Inflate Aldi Air Lounger</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=a-moveable-feast-with-fine-cooking-season-5'>A Moveable Feast With Fine Cooking Season 5</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-return-an-item-to-wayfair'>How To Return An Item To Wayfair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=good-eats-the-return-watch-online'>Good Eats The Return Watch Online</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-often-do-you-water-tomato-plants-in-hot-weather'>How Often Do You Water Tomato Plants In Hot Weather</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=direct-flights-from-salt-lake-city-to-asia'>Direct Flights From Salt Lake City To Asia</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=auto-body-repair-mechanicsville-va'>Auto Body Repair Mechanicsville Va</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=symptoms-of-eating-old-cooked-chicken'>Symptoms Of Eating Old Cooked Chicken</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hideout-at-the-laylow-waikiki'>Hideout At The Laylow Waikiki</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-a-succulent-garden'>How To Make A Succulent Garden</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=drinking-carrot-juice-for-a-month'>Drinking Carrot Juice For A Month</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dreamstation-adaptive-vs-fixed-humidification'>Dreamstation Adaptive Vs Fixed Humidification</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-french-ski-resorts-for-intermediates'>Best French Ski Resorts For Intermediates</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=atom-symbol-on-plastic-container'>Atom Symbol On Plastic Container</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=zabiha-halal-food-near-me'>Zabiha Halal Food Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bathroom-wall-cabinet-with-towel-bar'>Bathroom Wall Cabinet With Towel Bar</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mexican-cornbread-with-sour-cream-and-jiffy-mix'>Mexican Cornbread With Sour Cream And Jiffy Mix</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=i-love-you-song-2016'>I Love You Song 2016</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=eating-3-carrots-a-day'>Eating 3 Carrots A Day</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=used-arctic-steamer-for-sale'>Used Arctic Steamer For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=3-4-lite-fiberglass-entry-door'>3 4 Lite Fiberglass Entry Door</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=betty-crocker-cake-mix-cupcakes'>Betty Crocker Cake Mix Cupcakes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=easy-chicken-and-dumplings-recipe'>Easy Chicken And Dumplings Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=iron-man-2-full-movie-dailymotion'>Iron Man 2 Full Movie Dailymotion</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sam-the-cooking-guy-most-recent-youtube'>Sam The Cooking Guy Most Recent Youtube</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cole-and-son-discount-wallpaper'>Cole And Son Discount Wallpaper</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fresh-figs-carbs-per-100g'>Fresh Figs Carbs Per 100g</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=deep-seating-replacement-cushions-for-outdoor-furniture'>Deep Seating Replacement Cushions For Outdoor Furniture</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=calgary-weather-forecast-by-hour'>Calgary Weather Forecast By Hour</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=healthy-family-meals-for-a-week'>Healthy Family Meals For A Week</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=burj-khalifa-at-the-top'>Burj Khalifa At The Top</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-is-the-rhs-level-2-certificate-equivalent-to'>What Is The Rhs Level 2 Certificate Equivalent To</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ghost-adventures-season-18-episode-12'>Ghost Adventures Season 18 Episode 12</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=15-quick-easy-grilling-recipes'>15 Quick Easy Grilling Recipes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=american-farmhouse-wallpaper-home-depot'>American Farmhouse Wallpaper Home Depot</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=40000-psi-pressure-washer-rental'>40000 Psi Pressure Washer Rental</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-power-of-punctuation-funny'>The Power Of Punctuation Funny</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-implement-behaviour-driven-development'>How To Implement Behaviour Driven Development</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cabot-cove-maine-homes-for-sale'>Cabot Cove Maine Homes For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=l-shaped-pool-with-diving-board'>L Shaped Pool With Diving Board</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=can-you-use-instant-mash-for-shepherds-pie'>Can You Use Instant Mash For Shepherds Pie</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=spiritual-healing-in-the-bible'>Spiritual Healing In The Bible</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=havells-company-jobs-in-faridabad'>Havells Company Jobs In Faridabad</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dyson-v10-absolute-best-price-uk'>Dyson V10 Absolute Best Price Uk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=above-ground-pool-deck-ideas'>Above Ground Pool Deck Ideas</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=Still-life-with-a-violin'>Still Life With A Violin</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fairchild-tropical-botanic-garden-night-garden'>Fairchild Tropical Botanic Garden Night Garden</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=free-catalog-request-home-decor'>Free Catalog Request Home Decor</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=muskmelon-fruit-meaning-in-tamil'>Muskmelon Fruit Meaning In Tamil</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-draw-shelves-on-a-wall'>How To Draw Shelves On A Wall</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=honda-pressure-washer-manual-gcv160'>Honda Pressure Washer Manual Gcv160</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=inverness-ca-bed-and-breakfast'>Inverness Ca Bed And Breakfast</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-a-refrigeration-system-works'>How A Refrigeration System Works</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=shelf-above-bed-instead-of-nightstand'>Shelf Above Bed Instead Of Nightstand</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=white-barn-door-medicine-cabinet'>White Barn Door Medicine Cabinet</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-all-mesh-office-chair'>Best All Mesh Office Chair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=overstock-furniture-and-mattress-knightdale-nc'>Overstock Furniture And Mattress Knightdale Nc</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mobile-homes-with-porch-on-end'>Mobile Homes With Porch On End</a>,
+";s:7:"expired";i:-1;}

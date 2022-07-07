@@ -1,0 +1,217 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3793:"Museum Restaurant, St. Anton am Arlberg: 306 Bewertungen - bei Tripadvisor auf Platz 5 von 78 von 78 St. Anton am Arlberg Restaurants; mit 4,5/5 von Reisenden bewertet. Dining in this historic ambiance celebrates delicious modern mountain cuisine that is locally sourced and seasonally inspired. Das Museum St. Anton am Arlberg ist in der „Villa Trier“ untergebracht, welche der deutsche Industrielle um 1910 nach Plänen von Hanns Kornberger errichten ließ. Description: Set in a tastefully refurbished historic mansion, just steps from the ski runs, gondolas and village center of St. Anton, the Museum is a restaurant that features a walk through ski history. The Museum Restaurant, St. Anton am Arlberg: See 302 unbiased reviews of The Museum Restaurant, rated 4.5 of 5 on Tripadvisor and ranked #5 of 77 restaurants in St. Anton am Arlberg. Welcome to the Museum of St. Anton am Arlberg. It is a reflection of the history of Austrian cooking, infused with today’s culinary vision. Get a reservation for your wonderful dinner in our Museum Restaurant in St. Anton am Arlberg! This venue is set in the famous Arlberg Kandahar House in St Anton, which, unsurprisingly also houses the ski museum. Address Museum Restaurant Rudi-Matt-Weg 10 Enjoy! Get a reservation for your wonderful dinner in our Museum Restaurant in St. Anton am Arlberg! The Museum Restaurant, Sankt Anton am Arlberg: Pogledajte nepristrasne komentar (302) za The Museum Restaurant, koji ima ocenu 4,5/5 na Tripadvisoru i rangiran je kao br. Restaurants near The Museum Restaurant, St. Anton am Arlberg on Tripadvisor: Find traveler reviews and candid photos of dining near The Museum Restaurant in St. Anton am Arlberg, Austria. The Museum Restaurant, St. Anton am Arlberg: See 301 unbiased reviews of The Museum Restaurant, rated 4.5 of 5 on TripAdvisor and ranked #5 of 76 restaurants in St. Anton am Arlberg. The rooms are very decorative and in some of them the woodcarving is just exquisite. The Museum Restaurant, St. Anton am Arlberg: See 301 unbiased reviews of The Museum Restaurant, rated 4.5 of 5 on TripAdvisor and ranked #5 of 76 restaurants in St. Anton am Arlberg. The Museum Restaurant, St. Anton am Arlberg: See 287 unbiased reviews of The Museum Restaurant, rated 4.5 of 5 on TripAdvisor and ranked #6 of 76 restaurants in St. Anton am Arlberg. Your reservations is confirmd as soon as you receive our confirmation e-mail which can take 1 to 2 days. The museum of St. Anton am Arlberg is housed in “Villa Trier” which the German industrialist commissioned to be built around the year 1910 according to the plans drawn by Hanns Kornberger. Museum Restaurant-Café Rudi-Matt-Weg 10 6580 St. Anton am Arlberg +43 5446 2475 info@museum-restaurant.at At the Museum you get flavourful seasonal dishes utilizing the highest quality ingredients and local produce. Heute ist sie ein Ort, an dem man der Geschichte St. Antons nachspüren kann, aber auch ein Ort der Begegnung und der kulinarischen Genüsse im dazugehörigen Restaurant. Expect a beautiful old atmosphere, crisp white linnen covered tables and pleasant service. The finest Austrian cuisine and exquisite wines – a culinary adventure in the unique ambience of the over 100-year-old Villa Trier. The finest Austrian cuisine and exquisite wines – a culinary adventure in the unique ambience of the over 100-year-old Villa Trier. Open in summer & winter. For last-minute reservations please call us on 0043 (0)5446 2475. Classic restaurant in great setting Museum is located in the old town and a part of the building is still showing the history of St Anton. Here an overview of our Menu for Lunch and Dinner at the Museum Restaurant in St. Anton am Arlberg → Important information: Please reserve at least 2 days before your visit. ";s:7:"keyword";s:30:"the museum restaurant st anton";s:5:"links";s:4937:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-couch-in-a-box'>Best Couch In A Box</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=yellow-bell-pepper-calories-100g'>Yellow Bell Pepper Calories 100g</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-counter-depth-refrigerator-2018'>Best Counter Depth Refrigerator 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=free-standing-corner-shower-caddy-rust-proof'>Free Standing Corner Shower Caddy Rust Proof</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sector-in-a-sentence-easy'>Sector In A Sentence Easy</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-southampton-ranking-2018'>University Of Southampton Ranking 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=modern-contemporary-doors-entry-front-doors'>Modern Contemporary Doors Entry Front Doors</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=frameless-tempered-glass-wall-art'>Frameless Tempered Glass Wall Art</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hurricane-dorian-national-hurricane-center'>Hurricane Dorian National Hurricane Center</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=nassau-community-college-academic-calendar-fall-2020'>Nassau Community College Academic Calendar Fall 2020</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=frameless-tempered-glass-wall-art'>Frameless Tempered Glass Wall Art</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=accidents-in-south-jersey-today'>Accidents In South Jersey Today</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=small-closet-organizers-do-it-yourself'>Small Closet Organizers Do It Yourself</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=junior-bake-off-2019-recipes'>Junior Bake Off 2019 Recipes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lone-mountain-ranch-wedding-cost'>Lone Mountain Ranch Wedding Cost</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cosco-5-piece-table-set-home-depot'>Cosco 5 Piece Table Set Home Depot</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bed-bath-and-beyond-college-futon'>Bed Bath And Beyond College Futon</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-disassemble-rubbermaid-storage'>How To Disassemble Rubbermaid Storage</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-ski-resort-in-australia'>Best Ski Resort In Australia</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=houses-in-las-vegas-for-rent'>Houses In Las Vegas For Rent</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=falls-landing-cannon-falls-mn'>Falls Landing Cannon Falls Mn</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=amazon-cole-haan-promo-code'>Amazon Cole Haan Promo Code</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=2-piece-wall-art-amazon'>2 Piece Wall Art Amazon</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mountain-bike-trails-near-me'>Mountain Bike Trails Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=west-elm-mid-century-media-console'>West Elm Mid Century Media Console</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=naf-s-125-fire-suppression-system'>Naf S 125 Fire Suppression System</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-is-feedback-in-the-workplace'>What Is Feedback In The Workplace</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-steam-cleaner-for-carpet'>Best Steam Cleaner For Carpet</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ge-profile-refrigerator-not-cooling-or-freezing'>Ge Profile Refrigerator Not Cooling Or Freezing</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=will-butter-lettuce-grow-back'>Will Butter Lettuce Grow Back</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=room-for-rent-in-ajman-jurf-2'>Room For Rent In Ajman Jurf 2</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mah-jong-sofa-replica-india'>Mah Jong Sofa Replica India</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=diners-drive-ins-and-dives-california-road-trip'>Diners Drive Ins And Dives California Road Trip</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ikea-customer-service-dubai-salary'>Ikea Customer Service Dubai Salary</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-is-cork-cambium-formed'>How Is Cork Cambium Formed</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=vail-snow-days-2019-lineup'>Vail Snow Days 2019 Lineup</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=gordon-ramsay-ultimate-cookery-course-book'>Gordon Ramsay Ultimate Cookery Course Book</a>,
+";s:7:"expired";i:-1;}

@@ -1,0 +1,236 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3632:"1) What is TestNG? Selenium is a free (open source) automated testing suite for web applications across different browsers and platforms. > These are just Interview Questions without answers and I will be creating the answers for each and every question listed below in future posts. Selenium is a free (open source) automated testing suite for web applications across different browsers and platforms. TestNG is a testing framework inspired from JUnit and NUnit but introducing some new functionalities that make it more powerful and easier to use. Select the variation which finds elements based on the driver’s underlying CSS selector engine in Web driver Selenium. you can check our other posts on interview questions on selenium testing, selenium tricky interview questions. 1500 Plus Selenium Interview Questions (Includes questions on Selenium, Java, Cucumber, TestNG and other topics) What is Selenium and what are the different components and versions of Selenium? We hope these Selenium interview questions and answers are useful and will help you to get the best job in the networking industry. 1) What is TestNG? 50 Selenium Interview Questions and Answers 2017 + PDF Download Posted on March 31, 2017 by The top interview team If you are a software tester looking for the job of test automation or testing, you are at the right place. Posted by Interview Questions and Answers - atozIQ at 03:41. Selenium IDE (Integrated Development Environment) : It is a tool for recording and playing back. C. TestNG Framework For Selenium – Selenium Interview Questions. 36. testng Interview questions on How to set priority, TestNG assertions, usage of Soft Assertion, regular expression and time out test configuration In selenium webdriver TestNG Interview Questions And Answers For Selenium WebDriver PDF report is one of the advanced reporting in Selenium of the Test case execution. for more visit our SoftwareTestingo.com. Selenium Interview Questions and Answers for beginners and experts. | Selenium MCQS A. TestNextGeneration B. TestNewGenerlization C. TestNewGeneration D. TestNextGenerations Ans: A. Here are questions about automation and tools. The testng.xml file is important because of the following reasons: It defines the order of the execution of all the test cases. From here on, you’ll read all the TestNG and Selenium Webdriver interview questions for experienced professionals. TestNG is a testing framework inspired from JUnit and NUnit but introducing some new functionalities that make it more powerful and easier to use. Well, this doc is not going to help you crack that interview but I know there are many interviewer out there who want to know answer of one liner Selenium interview questions. It allows you to group the test cases and can be executed as per the requirements. Key Highlights of Selenium Tutorial PDF are 1000+ pages This article will be useful for all who are planning to get a testing or test automation job. Using TestNG framework in Selenium we can, In TestNG, listeners can be implemented at the suite level. With most of the browsers Webdriver and RC works.  If you already are using TestNG in your projects, then please proceed directly to the TestNG interview questions. ... Java API IText is required for generating pdf … Q #1) What is TestNG? I’m pretty sure you all know the importance of TestNG. 50 Selenium Interview Questions and Answers 2017 + PDF Download Posted on March 31, 2017 by The top interview team If you are a software tester looking for the job of test automation or testing, you are at the right place. Key Highlights of Selenium Tutorial PDF are ";s:7:"keyword";s:39:"testng selenium interview questions pdf";s:5:"links";s:7604:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=porter-cable-led-work-light-costco'>Porter Cable Led Work Light Costco</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=why-is-spider-silk-so-strong'>Why Is Spider Silk So Strong</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=breakfast-sausage-recipe-without-sage'>Breakfast Sausage Recipe Without Sage</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=gordon-ramsay-ultimate-cookery-course-book'>Gordon Ramsay Ultimate Cookery Course Book</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pre-made-meals-for-the-week'>Pre Made Meals For The Week</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=former-student-meaning-in-hindi'>Former Student Meaning In Hindi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=graffiti-facts-for-and-against'>Graffiti Facts For And Against</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=money-tree-leaves-turning-yellow-with-brown-spots'>Money Tree Leaves Turning Yellow With Brown Spots</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=food-science-and-technology-textbook'>Food Science And Technology Textbook</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mechanism-of-how-cookies-work'>Mechanism Of How Cookies Work</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=stressless-chairs-at-john-lewis'>Stressless Chairs At John Lewis</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=custom-windows-and-doors-near-me'>Custom Windows And Doors Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=storm-doors-at-home-depot'>Storm Doors At Home Depot</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=difference-between-kilos-and-kg'>Difference Between Kilos And Kg</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=honda-gcv160-carburetor-manual-choke'>Honda Gcv160 Carburetor Manual Choke</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ariston-water-heater-dealer-singapore'>Ariston Water Heater Dealer Singapore</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=415-n-village-rd-ogunquit-me-03907'>415 N Village Rd Ogunquit Me 03907</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=uberflex-50-ft-kink-resistant-pressure-washer-hose'>Uberflex 50 Ft Kink Resistant Pressure Washer Hose</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=why-is-spider-silk-so-strong'>Why Is Spider Silk So Strong</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=copper-mountain-lift-hours-2019'>Copper Mountain Lift Hours 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=things-to-do-in-vancouver-in-winter'>Things To Do In Vancouver In Winter</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-many-gallons-in-a-kiddie-pool'>How Many Gallons In A Kiddie Pool</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=avon-army-depot-lexington-ky'>Avon Army Depot Lexington Ky</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=carpathian-walnut-vs-english-walnut'>Carpathian Walnut Vs English Walnut</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dining-room-hutch-and-buffet'>Dining Room Hutch And Buffet</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=karcher-se-4001-price-in-india'>Karcher Se 4001 Price In India</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-branch-a-dracaena'>How To Branch A Dracaena</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=top-box-office-movies-this-weekend'>Top Box Office Movies This Weekend</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=charles-rennie-mackintosh-house-kilmacolm'>Charles Rennie Mackintosh House Kilmacolm</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=honor-10-vs-honor-view-20'>Honor 10 Vs Honor View 20</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-idaho-grad-app'>University Of Idaho Grad App</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-la-quebrada-cliff-divers-provide-daily-entertainment'>The La Quebrada Cliff Divers Provide Daily Entertainment</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-read-recliner-dimensions'>How To Read Recliner Dimensions</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pier-1-woven-block-seagrass-queen-headboard'>Pier 1 Woven Block Seagrass Queen Headboard</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=whitefish-mountain-resort-payment-plan'>Whitefish Mountain Resort Payment Plan</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ras-al-khaimah-to-dubai'>Ras Al Khaimah To Dubai</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wayfair-corporate-office-contact-number'>Wayfair Corporate Office Contact Number</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=black-cherry-tomato-determinate-or-indeterminate'>Black Cherry Tomato Determinate Or Indeterminate</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hardest-colleges-to-get-good-grades'>Hardest Colleges To Get Good Grades</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kitchen-cabinet-shops-near-me'>Kitchen Cabinet Shops Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pumpkin-seeds-benefits-for-men'>Pumpkin Seeds Benefits For Men</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=squaw-valley-gingerbread-village-2019'>Squaw Valley Gingerbread Village 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=white-tv-console-table-with-storage'>White Tv Console Table With Storage</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=small-bookshelf-cabinet-with-doors'>Small Bookshelf Cabinet With Doors</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-wet-and-dry-vacuum-cleaner-uk'>Best Wet And Dry Vacuum Cleaner Uk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-more-branches-in-adenium'>How To Make More Branches In Adenium</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=upma-rava-in-hindi-name'>Upma Rava In Hindi Name</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hotel-organizational-structure-departments-and-its-functions-rank-and-file'>Hotel Organizational Structure Departments And Its Functions Rank And File</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=perisher-ski-tube-prices-2019'>Perisher Ski Tube Prices 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=step-2-grand-walk-in-kitchen-and-grill'>Step 2 Grand Walk In Kitchen And Grill</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=square-foot-gardening-spacing-template'>Square Foot Gardening Spacing Template</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kroger-carpet-cleaner-rental-reviews'>Kroger Carpet Cleaner Rental Reviews</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-oregon-tuition-2020'>University Of Oregon Tuition 2020</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ski-big-3-season-pass'>Ski Big 3 Season Pass</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=london-south-bank-university-reputation'>London South Bank University Reputation</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=city-of-sheboygan-falls-jobs'>City Of Sheboygan Falls Jobs</a>,
+";s:7:"expired";i:-1;}

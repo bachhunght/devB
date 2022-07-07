@@ -1,0 +1,241 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4449:"“This is why so many agents make the transition to Compass. Builder Wall 3D Axis Compass Build a House TNT Cannon. For example, an agent may archive various computer files or retrieve electronic messages on a regular schedule. Compass, now valued at $2.2 billion, has riled competitors by aggressively courting agents and managers from rival firms, and sources said it’s ramped up its efforts in recent months. As long as that's the case, they aren't really changing anything. Compass serves you, the tenant. Compass is doing things differently and striving to create a better real estate experience for buyers, sellers and agents alike. In this tutorial you will make some chat commands to have your agent move and turn.  Today, more than 320 local agents … Rob Lehman, chief growth officer for Compass, put it this way: “Our mission is to help everyone find their place in the world. Now they are turning heads because of the amazing rate that they have been able to onboard brokers. This creates inherent conflicts of interest. Our newest video captures a vibrant slice of the Compass community—a place where agents, staff, and technology intersect to build the future of real estate. During one of the Hacker Connect sessions, Maëlle Gavet from Compass said the following: It's about the agent. This article covers the following concepts: Other brokerage companies typically represent both landlords and tenants. The level in the Compass app on your iPhone is a bit of a doozy to work with, especially if you're fighting off a hoard of zombies whilst trying to build a barricade to keep them out. You can count on Compass Real Estate Advisors to be your advocate. Agents serve New York City, Washington DC, Boston, Miami, The Hamptons, Los Angeles, Santa Barbara, Montecito and San Francisco. About. Courses. I’ll be speaking on a panel with one this week. basic.forever(() => { }) Step 2. If degrees is less than 45 or greater than 315, then the compass heading is mostly pointing toward North. Store the reading of the micro:bit in a variable called degrees. You can easily organize homes, centralize your discussions, and monitor the market by receiving immediate status and price updates. We want our people to feel valued, respected, supported, cared for and happy But how do you use them? Called the Pinterest of real estate, this curated visual workspace allows agents and clients to collaborate in real time. Founded in 2012 in New York, Compass has come on strong in the Bay Area in the last two years. Contact us and compare. You can find out more about this software here: About Us - Compass Real Estate To give you and example of what they do, I own a software company that provides software to people who already own investment properties and that software provides tools needed for management of those properties. Get your agent to move. Lessons Blocks Minecraft Authors. In this tutorial you will make some chat commands to have your agent move and turn. Other brokerage companies typically represent both landlords and tenants. Call 866.305.5442 or email us at agents@compassmoving.com This creates inherent conflicts of interest. Compass has been growing quickly in the Philadelphia region since it launched during the summer of 2018. Search our national directory of real estate agents who can help you find the best home or buyer. Agent Moves Introduction . Senior management comes from top Tech/Marketing/Finance companies and understands the need to disrupt the stale residential real estate industry. Navigation is one of the Ten Essentials and most outdoor speople take a compass with them on every adventure. Agent, also called softbot (“software robot”), a computer program that performs various actions continuously and autonomously on behalf of an individual or an organization. Compass has the experience to provide the highest level service to tenant clients. Compass serves you, the tenant. Such simple tasks barely begin to tap the potential uses of agents, however. Thus, Agents are able to market their businesses in the most modern and innovative ways. Compass provides free, no-obligation estimates. Lance Pendleton, the head of agent development at Compass, speaks to a group of real estate agents at the company's Ardmore office. Since our founding in 1982, the goal of Compass Moving has been the same – provide our customers with the best overall move experience at a competitive price. ";s:7:"keyword";s:32:"why are agents moving to compass";s:5:"links";s:8337:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-skiing-in-new-york'>Best Skiing In New York</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=flower-wallpaper-for-android-phone'>Flower Wallpaper For Android Phone</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hom-furniture-card-synchrony-bank'>Hom Furniture Card Synchrony Bank</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=summer-vacation-rentals-in-aspen-colorado'>Summer Vacation Rentals In Aspen Colorado</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=beets-benefits-and-side-effects'>Beets Benefits And Side Effects</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=in-ground-pool-steps-amazon'>In Ground Pool Steps Amazon</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rock-landscaping-ideas-for-front-yard'>Rock Landscaping Ideas For Front Yard</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=canvas-painting-price-in-india'>Canvas Painting Price In India</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chair-for-living-room-india'>Chair For Living Room India</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wipro-led-lighting-price-list-2018-pdf'>Wipro Led Lighting Price List 2018 Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=vintage-room-ideas-for-teenage'>Vintage Room Ideas For Teenage</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=godrej-interio-kreation-wardrobe-price'>Godrej Interio Kreation Wardrobe Price</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=david-hunt-everybody-loves-raymond'>David Hunt Everybody Loves Raymond</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-guelph-graduate-application-deadline'>University Of Guelph Graduate Application Deadline</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-haunting-in-connecticut-ectoplasm'>The Haunting In Connecticut Ectoplasm</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ashley-furniture-clearance-bedroom-sets'>Ashley Furniture Clearance Bedroom Sets</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ashley-power-lift-recliner-reviews'>Ashley Power Lift Recliner Reviews</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=beef-liver-pate-nutrition-facts'>Beef Liver Pate Nutrition Facts</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=light-brown-bathroom-wall-cabinets'>Light Brown Bathroom Wall Cabinets</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=download-bandini-movie-all-songs-mp3'>Download Bandini Movie All Songs Mp3</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dietz-and-watson-bacon-ranch-cheddar-cheese'>Dietz And Watson Bacon Ranch Cheddar Cheese</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=samsung-vrt-plus-front-load-washer-reviews'>Samsung Vrt Plus Front Load Washer Reviews</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=birds-nest-fern-brown-tips'>Birds Nest Fern Brown Tips</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wayfair-corporate-office-contact-number'>Wayfair Corporate Office Contact Number</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pavlova-torta-sa-zutim-kremom'>Pavlova Torta Sa Zutim Kremom</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=vegan-keto-pasta-dough-recipe'>Vegan Keto Pasta Dough Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sydney-olympic-park-aquatic-centre-food'>Sydney Olympic Park Aquatic Centre Food</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-add-lights-to-headboard'>How To Add Lights To Headboard</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=closeout-kitchen-cabinets-near-me'>Closeout Kitchen Cabinets Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=4000-psi-electric-pressure-washer'>4000 Psi Electric Pressure Washer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-cook-eggplant-in-oven'>How To Cook Eggplant In Oven</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=walk-in-interview-dubai-dubizzle'>Walk In Interview Dubai Dubizzle</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=made-in-italy-exclusively-for-excelsior'>Made In Italy Exclusively For Excelsior</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wayfair-peel-and-stick-wallpaper'>Wayfair Peel And Stick Wallpaper</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=suicide-squad-full-movie-with-english-subtitles-watch-online'>Suicide Squad Full Movie With English Subtitles Watch Online</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-leeds-acceptance-rate-for-international-students'>University Of Leeds Acceptance Rate For International Students</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-cook-long-grain-rice'>How To Cook Long Grain Rice</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bosch-washing-machine-singapore-manual'>Bosch Washing Machine Singapore Manual</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rose-flower-garden-hd-wallpaper'>Rose Flower Garden Hd Wallpaper</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-large-bathers-and-les-demoiselles-d-avignon'>The Large Bathers And Les Demoiselles D Avignon</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chef-and-the-farmer-cookbook'>Chef And The Farmer Cookbook</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dessert-recipes-with-pancake-mix'>Dessert Recipes With Pancake Mix</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=free-farmhouse-laundry-room-printables'>Free Farmhouse Laundry Room Printables</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=importance-of-poultry-farming-in-india'>Importance Of Poultry Farming In India</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=putting-up-wallpaper-with-paste'>Putting Up Wallpaper With Paste</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=infanta-margareta-teresa-in-a-peach-dress'>Infanta Margareta Teresa In A Peach Dress</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-to-buy-trees-in-france'>Where To Buy Trees In France</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-raft-of-the-medusa-darker'>The Raft Of The Medusa Darker</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-boil-corn-kernels'>How To Boil Corn Kernels</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=betty-crocker-loose-leaf-cookbook'>Betty Crocker Loose Leaf Cookbook</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=history-of-sign-language-pdf'>History Of Sign Language Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=paula-deen-recipes-for-thanksgiving'>Paula Deen Recipes For Thanksgiving</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=national-gardening-association-houseplant-sales'>National Gardening Association Houseplant Sales</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dollar-tree-fall-table-decor'>Dollar Tree Fall Table Decor</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=luminus-led-retrofit-light-kit-costco'>Luminus Led Retrofit Light Kit Costco</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=city-of-sheboygan-falls-jobs'>City Of Sheboygan Falls Jobs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=karcher-2400-psi-pressure-washer-troubleshooting'>Karcher 2400 Psi Pressure Washer Troubleshooting</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=harriman-bear-mountain-trail-map'>Harriman Bear Mountain Trail Map</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=at-home-realogy-sign-in'>At Home Realogy Sign In</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=double-pocket-door-rough-opening-chart'>Double Pocket Door Rough Opening Chart</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=havells-switches-price-list-2019-pdf'>Havells Switches Price List 2019 Pdf</a>,
+";s:7:"expired";i:-1;}

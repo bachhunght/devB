@@ -1,0 +1,208 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4990:"Method 2: Apply all pending Windows updates. There does not seem to be any way to switch off safe search. You now know how to easily turn Safe Search on or off in Windows 10 whenever you want. In Bing, the process is much the same. When SafeSearch is off, we'll provide the most relevant results for your search which may include explicit content when you search … This tutorial will teach you how to turn off the SafeSearch feature of Yahoo Search. My problem is that I do not want my search results being decided by some filter somewhere. When I click images or video it brings up the feature to turn safe search off, but when I click accept it brings me back to the home search engine. How to change Bing Settings to turn off Bing SafeSearch off? I've always had it saved as off, since every key word seems to be suggestive in nature. Under Advanced, Select General. my computer is in afe search mode can't switch it off. For the newer Yahoo account, I have changed my birth date so that I am now older. Here are the pages that I have read and followed, looking for a solution on Google Search Help forum: Safesearch won't turn off RS. While SafeSearch isn’t 100% accurate, it’s designed to help block explicit results, like pornography, from your Google search results. All searches now have to go through a Google filter. When you click the "Settings" icon you'll be taken to a Search Settings page, where you can turn off filtering. Fix: Safe Search Won’t Turn Off in Microsoft Edge and IE Method 1: Turning Safe Search Off from inside the Search Engine’s Settings. While this is great as a parental control, it doesn't always work perfectly and may occasionally filter out "normal" results. However, still no changes are made: safe search is still on strict. Under "SafeSearch filters," check or uncheck the box next to "Turn on SafeSearch." In Bing, the process is much the same. Bing is Microsoft’s new search engine, but the strict filters may be blocking valid text content you need to surf.How can you change the Bing safesearch preferences from Strict to Moderate in India and many other countries, or turn on Strict filters in countries where the safe filter is set to moderate. There does not seem to be any way to switch off safe search. The easiest way to test this is to use something obvious like tits. Open Bing.com Settings to turn SafeSearch on or off. While you are in safe mode; Type about:preferences#advanced<Enter> in the address bar. When SafeSearch is off, we'll provide the most relevant results for your search which may include explicit content when you search for it. How to turn off Google safe search ? Sign in. Go to Search Settings. If there is still a problem, Start Firefox in Safe Mode {web link} A small dialog should appear. My problem is that I do not want my search results being decided by some filter somewhere. Please follow the methods below in order until you stumble upon a fix that resolves the Safe Search won’t rurn off issue. By continuing to browse this site, you agree to this use. How to Turn off Safe Search on iOS To disable safe search on your iOS device, the steps for Bing and Yahoo search engines are identical to disable safe search on Android. Select the icon in the upper right of the Bing.com window. Search Search the Community. This site uses cookies for analytics, personalized content and ads.  Remember, this can result in a welter of sexually explicit search results, so warn kids or co-workers away from the computer until you're done. More Less. Question: Q: how do i turn off safe search as it won't do it. SafeSearch will not turn off. MacBook Pro, iOS 5.1 Posted on Feb 27, 2015 12:06 AM. Note: SafeSearch only works on Google’s search results. That is all, guys. I hope you liked this short tutorial written by me on How To Turn SafeSearch ON or OFF in Windows 10 and I hope that after going through this article, you can turn Safe Search On or Off … Remember, this can result in a welter of sexually explicit search results, so warn kids or co-workers away from the computer until you're done. The easiest way to test this is to use something obvious like tits. Google Safe Search is a tool that allows users to screen explicit material and filtering to screen images and videos from search results. Cancel. This thread is locked. When I go to the settings I do not get the option to change. Or at least I want the option to turn it off. Method 4: Creating a new Windows user account. To disable SafeSearch feature, sign-in to Yahoo and make a random search. SafeSearch is a feature offered by Google that filters inappropriate and explicit content from your search results. It says that my Browser has indicated that I want strict. Scroll through the drop-down menu to the option "Turn off SafeSearch" and click it. I tried going to the preferences to set at off, and I have ensured that the safe search lock is unlocked, but I still cannot turn off. Click Start In Safe Mode (not Refresh). ";s:7:"keyword";s:25:"safe search wont turn off";s:5:"links";s:3618:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=honda-gx200-pressure-washer-hose'>Honda Gx200 Pressure Washer Hose</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-shape-of-water-review'>The Shape Of Water Review</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dollar-tree-items-in-store'>Dollar Tree Items In Store</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=harvard-university-mascot-crimson-xviii'>Harvard University Mascot Crimson Xviii</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kab-se-meaning-in-english'>Kab Se Meaning In English</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=design-patterns-in-ios-raywenderlich'>Design Patterns In Ios Raywenderlich</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rta-cabinet-store-near-me'>Rta Cabinet Store Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fire-pit-table-and-chairs-set'>Fire Pit Table And Chairs Set</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chocolate-cupcake-recipe-food-network'>Chocolate Cupcake Recipe Food Network</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=loved-it-meaning-in-hindi'>Loved It Meaning In Hindi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=master-of-fine-arts-course-details'>Master Of Fine Arts Course Details</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=craftsman-electric-power-washer-99016'>Craftsman Electric Power Washer 99016</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fiberglass-pool-cost-near-me'>Fiberglass Pool Cost Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=great-british-bake-off-2020-contestants'>Great British Bake Off 2020 Contestants</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=Sealy-bed-in-a-box'>Sealy Bed In A Box</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=helinox-chair-zero-vs-rei-flex-lite'>Helinox Chair Zero Vs Rei Flex Lite</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=leeds-college-of-music-foundation-year'>Leeds College Of Music Foundation Year</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=home-front-balcony-design-simple'>Home Front Balcony Design Simple</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=waiter-ka-full-form-hindi-mai'>Waiter Ka Full Form Hindi Mai</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-kitchen-appliances-2019-uk'>Best Kitchen Appliances 2019 Uk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=gray-dining-room-table-set'>Gray Dining Room Table Set</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=text-formatting-in-ms-word-2007'>Text Formatting In Ms Word 2007</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kelvinator-washing-machine-not-draining'>Kelvinator Washing Machine Not Draining</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kill-em-with-kindness-remix'>Kill Em With Kindness Remix</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=big-little-lies-season-1-episode-3'>Big Little Lies Season 1 Episode 3</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=famous-hip-hop-graffiti-artists'>Famous Hip Hop Graffiti Artists</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=state-pattern-vs-strategy-pattern'>State Pattern Vs Strategy Pattern</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-justice-league-2-coming-out'>Is Justice League 2 Coming Out</a>,
+";s:7:"expired";i:-1;}

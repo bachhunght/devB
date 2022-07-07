@@ -1,0 +1,222 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2204:"Kimchi fried rice is easy to make and will satisfy any kimchi fans. Kimchi fried rice (kimchi bokkeumbap, 김치볶음밥) is a humble Korean dish made basically with kimchi and leftover rice. ... Moo Shu Chicken. Add the kimchi and stir-fry for 1 more minute.  Add the chicken, carrots and white pepper and stir-fry until the meat is nearly cooked through, 4 minutes. Kimchi Fried Rice, or Kimchi Bokkeumbap (볶음밥), is a simple, delicious fried rice recipe that's made with mature kimchi, rice, and just a handful of other ingredients. "This is a very basic kimchi fried rice, a humble dish made with leftover rice, kimchi, and usually a processed meat like Spam®. Easy Kimchi Fried Rice - Use this flexible recipe to create delicious fried rice with whatever ingredients you have on hand in 10 minutes. The trick is in how the ingredients are combined, which can turn it into one of the most flavorful rice dishes ever. Taste the Kimchi Fried Rice and adjust the soy sauce if you want it saltier, or add more kimchi juice if … Finally, turn the heat off and sprinkle 1 Tbsp soy sauce and 1 tsp toasted sesame oil over the rice. Gently fold the rice in the skillet until the soy sauce and sesame oil are incorporated. In this recipe I used cubed ham and veggies I had in the fridge. Since Korean homes almost always have these two staples, kimchi fried rice is a favorite go-to meal whenever there seems to be nothing to eat at home. Our Kimchi Fried Rice Chicken Quesadilla recipe is a unique twist that brings Asian and Mexican flavors together in a single recipe. Delicious kimchi fried rice, chicken, cheese, tomatoes, and onions are packaged nicely in a browned tortilla. Serve with a sunny side up egg over top if you like." Easy Kimchi Fried Rice - Use this flexible recipe to create delicious fried rice with whatever ingredients you have on hand in 10 minutes. Kimchi Fried Rice bursts with flavors of kimchi and gochujang. Crumble the rice into the wok and cook for … Push the mixture to the side of the pan. A great way to use old sour kimchi and leftover rice. Pour the sesame oil into the empty side of the pan. Kimchi fried rice is easy to make and will satisfy any kimchi fans. ";s:7:"keyword";s:37:"kimchi fried rice recipe with chicken";s:5:"links";s:5628:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=starting-a-farm-in-ontario'>Starting A Farm In Ontario</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lemona-bts-where-to-buy'>Lemona Bts Where To Buy</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-tourneau-an-authorized-dealer'>Is Tourneau An Authorized Dealer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=can-you-add-a-nailing-flange-to-a-window'>Can You Add A Nailing Flange To A Window</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-pronounce-caveat-emptor'>How To Pronounce Caveat Emptor</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=national-association-of-hispanic-journalists-twitter'>National Association Of Hispanic Journalists Twitter</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pokemon-sun-and-moon-hacks'>Pokemon Sun And Moon Hacks</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=welcome-to-our-patio-signs'>Welcome To Our Patio Signs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-trim-the-sides-of-a-hollow-core-door'>How To Trim The Sides Of A Hollow Core Door</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=jamie-oliver-pulled-pork-buns'>Jamie Oliver Pulled Pork Buns</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=luxury-interior-design-brochure-pdf'>Luxury Interior Design Brochure Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=diy-bed-frame-with-storage'>Diy Bed Frame With Storage</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=indian-broccoli-recipes-side-dish'>Indian Broccoli Recipes Side Dish</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=alain-passard-cours-de-cuisine'>Alain Passard Cours De Cuisine</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=difference-between-resurfacing-and-plastering-a-pool'>Difference Between Resurfacing And Plastering A Pool</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=How-to-Bonsai-a-Jade-plant'>How To Bonsai A Jade Plant</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=muhammad-ali-vs-mike-tyson'>Muhammad Ali Vs Mike Tyson</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-iceberg-lettuce-safe-to-eat-2019'>Is Iceberg Lettuce Safe To Eat 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=peel-and-stick-solid-color-wallpaper'>Peel And Stick Solid Color Wallpaper</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=houzz-app-download-for-pc'>Houzz App Download For Pc</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=love-wall-art-for-bedroom'>Love Wall Art For Bedroom</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fun-breakfast-ideas-for-a-group'>Fun Breakfast Ideas For A Group</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wayfair-peel-and-stick-wallpaper'>Wayfair Peel And Stick Wallpaper</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-tomato-a-fruit-or-vegetable-yahoo-answers'>Is Tomato A Fruit Or Vegetable Yahoo Answers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=portes-du-soleil-summer-map'>Portes Du Soleil Summer Map</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-is-polyethylene-terephthalate-made'>How Is Polyethylene Terephthalate Made</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pollen-street-social-or-social-eating-house'>Pollen Street Social Or Social Eating House</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-old-is-jimmy-johnson'>How Old Is Jimmy Johnson</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=holland-bar-stool-table-tops'>Holland Bar Stool Table Tops</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-dance-of-intimacy-quotes'>The Dance Of Intimacy Quotes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=extreme-eye-sensitivity-to-onions'>Extreme Eye Sensitivity To Onions</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=comfy-floor-seats-for-adults'>Comfy Floor Seats For Adults</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=on-an-island-with-you-cast'>On An Island With You Cast</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=How-to-Draw-a-hot-dog'>How To Draw A Hot Dog</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=homewood-city-schools-substitute-teacher-pay'>Homewood City Schools Substitute Teacher Pay</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=german-residence-permit-for-spouse'>German Residence Permit For Spouse</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=husky-hydrosurge-1600-replacement-parts'>Husky Hydrosurge 1600 Replacement Parts</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=finding-dory-full-movie-download-in-tamil'>Finding Dory Full Movie Download In Tamil</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-psychology-of-restaurant-interior-design-part-4'>The Psychology Of Restaurant Interior Design Part 4</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philips-sonicare-diamondclean-smart-9700-vs-9500'>Philips Sonicare Diamondclean Smart 9700 Vs 9500</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rustic-peel-and-stick-wallpaper'>Rustic Peel And Stick Wallpaper</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=which-williams-sonoma-stores-are-closing'>Which Williams Sonoma Stores Are Closing</a>,
+";s:7:"expired";i:-1;}

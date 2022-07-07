@@ -1,0 +1,4 @@
+[23-Jan-2020 03:09:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/aussec/public_html/wp-content/themes/twentytwenty/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/aussec/public_html/wp-content/themes/twentytwenty/404.php on line 10

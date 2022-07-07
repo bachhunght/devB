@@ -1,0 +1,248 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2683:"Activity is fun - there’s plenty for families and friends to enjoy together. Easton Leisure Centre facilities includes a gym, swimming pool & fitness studio. Registered office: Middlegate … Anytime Fitness Bath is perfectly located in the heart of Bath BA1. Our Gym and Swim membership includes unlimited use of the fitness suite and swimming pool. A state of the art leisure facility offering a gym, swimming pool, classes, swim lessons and much more. 27793R. One Card membership provides all inclusive access for swimming, fitness classes and gyms at all Sandwell Leisure Centres. Find out more Membership enquiry Changes to our live timetables. Leisure Linx Membership. ... Find your place at Alfreton Leisure Centre ... We’re flexible. While we try our best to keep our timetables up-to-date, it's always worth checking this page for announcements, especially during public holidays. Car parking is for users of Wath upon Dearne Leisure Centre only. Ashton Leisure Centre is your destination for getting fit and feeling fantastic! ... you’ll find a membership to suit you. Flexible day and monthly gym passes at the largest network of gyms, pools, fitness classes and spas in the UK. Shared experiences. The price difference will depend on whether you are looking for a basic gym or a more premium one which has better facilities. Please ensure you input your registration details at reception each time you visit Mounts Baths Leisure Centre to avoid a £100 parking charge. Sign up today for our swim lessons or gym membership. Our centres offer a range and variety of activities for all ages and abilities. Customers using the centre, but struggling to park, can park at the clinic during set times. Activity is fun - there’s plenty for families and friends to enjoy together. We will keep you up to date with all the latest news from the club and keep in touch with you at key points to help you achieve your fitness goals. The centre has recently undergone a major £10m refurbishment and … New to activity or already in the exercise habit – you’ll find a membership to suit you. Shared experiences. Two tariffs - contract and non-contract are available, giving you fantastic value for money, whilst helping you attain all your health and fitness needs. Hussle.com - Home Page Leisure Linx is a discounted membership for people in receipt of specific benefits which can be used to access facilities during off peak times, Monday to Sunday from the centre opening time until 5.00pm. Located in the heart of Cheadle we are a leisure centre offering a 33m swimming pool, 56 station gym, sports hall, 2 squash courts, and a friendly onsite hair and beauty salon. ";s:7:"keyword";s:34:"bath leisure centre gym membership";s:5:"links";s:9120:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=led-lights-for-room-home-depot'>Led Lights For Room Home Depot</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philips-hue-gu10-colour-size'>Philips Hue Gu10 Colour Size</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rixos-sharm-el-sheikh-hotel'>Rixos Sharm El Sheikh Hotel</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lily-of-the-valley-toxidrome'>Lily Of The Valley Toxidrome</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-edinburgh-postgraduate-admissions'>University Of Edinburgh Postgraduate Admissions</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=accommodation-with-private-spa-auckland'>Accommodation With Private Spa Auckland</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-cooked-kale-good-for-you'>Is Cooked Kale Good For You</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-to-buy-kohler-parts'>Where To Buy Kohler Parts</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=indian-style-interior-design-for-small-flats'>Indian Style Interior Design For Small Flats</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=positive-and-negative-feedback-psychology'>Positive And Negative Feedback Psychology</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=american-furniture-warehouse-fort-collins'>American Furniture Warehouse Fort Collins</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-cupcakes-youtube'>How To Make Cupcakes Youtube</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-connect-water-line-to-back-of-fridge'>How To Connect Water Line To Back Of Fridge</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-makes-the-refrigerator-door-close-automatically'>What Makes The Refrigerator Door Close Automatically</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kawasaki-hpw-220-vs-302'>Kawasaki Hpw 220 Vs 302</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lg-washing-machine-error-code-de'>Lg Washing Machine Error Code De</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=art-size-above-full-bed'>Art Size Above Full Bed</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-to-buy-fridge-parts-singapore'>Where To Buy Fridge Parts Singapore</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rachael-ray-orange-handle-pans'>Rachael Ray Orange Handle Pans</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=true-innovations-fabric-swivel-glider-recliner-costco-reviews'>True Innovations Fabric Swivel Glider Recliner Costco Reviews</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=olx-furniture-for-sale-nashik'>Olx Furniture For Sale Nashik</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=brighton-night-skiing-discount-code'>Brighton Night Skiing Discount Code</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cheap-front-doors-for-sale'>Cheap Front Doors For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=waterfront-dining-near-williamsburg-va'>Waterfront Dining Near Williamsburg Va</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-100k-handyman-pdf-free'>The 100k Handyman Pdf Free</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mainstays-3-cube-storage-organizer'>Mainstays 3 Cube Storage Organizer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lavender-oil-benefits-for-hair'>Lavender Oil Benefits For Hair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-waterloo-ranking-engineering'>University Of Waterloo Ranking Engineering</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=crockpot-cheesy-potatoes-with-tater-tots'>Crockpot Cheesy Potatoes With Tater Tots</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wide-chest-of-drawers-ikea'>Wide Chest Of Drawers Ikea</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=target-peel-and-stick-wallpaper'>Target Peel And Stick Wallpaper</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ladder-with-seat-on-top'>Ladder With Seat On Top</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=benefits-of-avocado-seed-for-fertility'>Benefits Of Avocado Seed For Fertility</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=whirlpool-ice-maker-parts-water-valve'>Whirlpool Ice Maker Parts Water Valve</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=point-reyes-bed-and-breakfast'>Point Reyes Bed And Breakfast</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cotton-vs-polyester-for-gym'>Cotton Vs Polyester For Gym</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pinterest-small-bathroom-tile-ideas'>Pinterest Small Bathroom Tile Ideas</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=store-in-the-fridge-crossword-clue'>Store In The Fridge Crossword Clue</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=traditional-ratatouille-recipe-julia-child'>Traditional Ratatouille Recipe Julia Child</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-a-live-edge-slab'>How To Make A Live Edge Slab</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sofa-bed-with-memory-foam-mattress'>Sofa Bed With Memory Foam Mattress</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=home-front-balcony-design-simple'>Home Front Balcony Design Simple</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=king-size-comforter-sets-target'>King Size Comforter Sets Target</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-clean-beef-tongue'>How To Clean Beef Tongue</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=snow-skis-for-sale-south-africa'>Snow Skis For Sale South Africa</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=4-bedroom-duplex-house-plans'>4 Bedroom Duplex House Plans</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-bengali-restaurant-near-me'>Best Bengali Restaurant Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=living-room-plan-with-measurements'>Living Room Plan With Measurements</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=george-brown-college-continuing-education'>George Brown College Continuing Education</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-eat-kale-stems'>How To Eat Kale Stems</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=swimming-pool-rules-and-regulations-signs'>Swimming Pool Rules And Regulations Signs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=malaysia-international-furniture-fair-2019'>Malaysia International Furniture Fair 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=nursing-student-placement-evaluation-examples'>Nursing Student Placement Evaluation Examples</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=vanity-kit-meaning-in-tamil'>Vanity Kit Meaning In Tamil</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=why-ammonia-is-used-as-refrigerant'>Why Ammonia Is Used As Refrigerant</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cheap-appliance-parts-near-me'>Cheap Appliance Parts Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=precision-metal-art-usa-discount-code'>Precision Metal Art Usa Discount Code</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ikea-bryne-how-to-hang'>Ikea Bryne How To Hang</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=outside-of-the-classroom-synonym'>Outside Of The Classroom Synonym</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kitchenaid-replacement-parts-food-processor'>Kitchenaid Replacement Parts Food Processor</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=a-very-english-scandal-awards'>A Very English Scandal Awards</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-outsider-cast-2019-netflix'>The Outsider Cast 2019 Netflix</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-many-ikea-in-malaysia'>How Many Ikea In Malaysia</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=yellow-bell-pepper-calories-100g'>Yellow Bell Pepper Calories 100g</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=trestle-table-hire-near-me'>Trestle Table Hire Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=royal-tyrrell-museum-2-for-1-coupons-2018'>Royal Tyrrell Museum 2 For 1 Coupons 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=driving-from-montreal-to-quebec-city-in-winter'>Driving From Montreal To Quebec City In Winter</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=second-hand-double-beds-for-sale-near-me'>Second Hand Double Beds For Sale Near Me</a>,
+";s:7:"expired";i:-1;}

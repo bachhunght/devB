@@ -1,0 +1,255 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:1484:"Pour it over some pat-dried chicken, tuck in some lemon slices under the skin, and roast in the oven! Instead of my classic recipe, tonight I’m making Jeffrey’s new favorite Skillet-Roasted Lemon Chicken.It’s roasted with sliced lemons, onions, and garlic and the chicken is brushed with an herb & oil mixture. It’s Friday night, which means roast chicken for dinner at our house. Ina Garten’s Lemon Chicken will … This recipe is inspired by Ina Garten, with adaptations. It’s roasted with sliced lemons, onions, and garlic and the chicken is brushed with an herb & oil mixture. It’s Friday night, which means roast chicken for dinner at our house. Ina roasts her herb oil-brushed chicken with lemon and white wine. To make it ahead of time, simply pour the sauce over the chicken, cover, and refrigerate until ready to go into the oven. Instead of my classic recipe, tonight I’m making Jeffrey’s new favorite Skillet-Roasted Lemon Chicken. Ina roasts her herb oil-brushed chicken with lemon and white wine. So easy!  Remove the chicken and vegetables to a platter … As Ina says, “Roast a chicken and a man shows up!” Glamour magazine once featured this recipe as “Engagement Chicken” because ladies were making this roasted lemon chicken and getting engaged very quickly! Roast the chicken for 1 1/2 hours, or until the juices run clear when you cut between a leg and thigh. True confessions…I am a HUGE fan of Ina Garten aka “Barefoot Contessa”. ";s:7:"keyword";s:30:"ina garten roast chicken lemon";s:5:"links";s:10101:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-an-ink-wash-for-miniatures'>How To Make An Ink Wash For Miniatures</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=steelcase-leap-v1-vs-v2'>Steelcase Leap V1 Vs V2</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=indian-kitchen-tiles-design-pictures'>Indian Kitchen Tiles Design Pictures</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-is-goat-meat-called'>What Is Goat Meat Called</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=raising-chickens-for-beginners-pdf'>Raising Chickens For Beginners Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=arthur-andersen-enron-ethical-issues'>Arthur Andersen Enron Ethical Issues</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=auspost-mastercard-gift-card-balance'>Auspost Mastercard Gift Card Balance</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-beetroot-lip-balm-without-vaseline'>How To Make Beetroot Lip Balm Without Vaseline</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=grande-braderie-de-lille-flea-market'>Grande Braderie De Lille Flea Market</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=avenger-age-of-ultron-full-movie-in-hindi-download-filmywap'>Avenger Age Of Ultron Full Movie In Hindi Download Filmywap</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=samsung-washer-dryer-combo-home-depot'>Samsung Washer Dryer Combo Home Depot</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chile-de-%C3%A1rbol-scoville-scale'>Chile De árbol Scoville Scale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=family-dollar-peel-and-stick-floor-tiles'>Family Dollar Peel And Stick Floor Tiles</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=3-bedroom-house-to-rent-cb1'>3 Bedroom House To Rent Cb1</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-report-fake-reviews-on-glassdoor'>How To Report Fake Reviews On Glassdoor</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=national-society-of-black-engineers-scholarship'>National Society Of Black Engineers Scholarship</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=joe-louis-vs-rocky-marciano'>Joe Louis Vs Rocky Marciano</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=christmas-oilcloth-by-the-yard'>Christmas Oilcloth By The Yard</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=egg-custard-tart-recipe-jamie-oliver'>Egg Custard Tart Recipe Jamie Oliver</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=coosno-coffee-table-for-sale'>Coosno Coffee Table For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pickup-truck-bed-dimensions-chart'>Pickup Truck Bed Dimensions Chart</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mid-century-fabric-rocking-chair'>Mid Century Fabric Rocking Chair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=set-up-a-captive-portal'>Set Up A Captive Portal</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=solange-when-i-get-home-genius'>Solange When I Get Home Genius</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=food-network-thanksgiving-shows-2019'>Food Network Thanksgiving Shows 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=brighton-night-skiing-discount-code'>Brighton Night Skiing Discount Code</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=diamond-brite-pool-colors-images'>Diamond Brite Pool Colors Images</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=june-mountain-lift-ticket-prices'>June Mountain Lift Ticket Prices</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chocolate-pavlova-with-chocolate-mascarpone-mousse'>Chocolate Pavlova With Chocolate Mascarpone Mousse</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=5-panel-paintings-online-india'>5 Panel Paintings Online India</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-remove-led-panel-light'>How To Remove Led Panel Light</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=whitmor-3-section-small-drawer-organizer'>Whitmor 3 Section Small Drawer Organizer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-pass-the-series-7-in-a-week'>How To Pass The Series 7 In A Week</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=can-be-mean-meaning-in-hindi'>Can Be Mean Meaning In Hindi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=benefits-of-pineapple-juice-for-hair-growth'>Benefits Of Pineapple Juice For Hair Growth</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-sheffield-world-ranking-2020'>University Of Sheffield World Ranking 2020</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-walmart-good-for-america'>Is Walmart Good For America</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=types-of-flooring-in-india'>Types Of Flooring In India</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=feng-shui-money-tree-at-front-door'>Feng Shui Money Tree At Front Door</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-goes-with-jerusalem-artichokes'>What Goes With Jerusalem Artichokes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=big-cook-little-cook-recipe-cards'>Big Cook Little Cook Recipe Cards</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=spanish-colonial-architecture-in-florida'>Spanish Colonial Architecture In Florida</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=swivel-recliner-chairs-with-footstool'>Swivel Recliner Chairs With Footstool</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-to-buy-campari-tomatoes'>Where To Buy Campari Tomatoes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=real-simple-slow-cooker-chicken'>Real Simple Slow Cooker Chicken</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cost-of-kitchen-cabinets-installed'>Cost Of Kitchen Cabinets Installed</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=used-bunk-bed-for-sale-in-sharjah'>Used Bunk Bed For Sale In Sharjah</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=simplehuman-sensor-stainless-steel-soap-pump'>Simplehuman Sensor Stainless Steel Soap Pump</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=eames-molded-plastic-chair-replica'>Eames Molded Plastic Chair Replica</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=strange-magic-full-movie-youtube-english'>Strange Magic Full Movie Youtube English</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-100k-handyman-pdf-free'>The 100k Handyman Pdf Free</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pumpkin-scientific-name-and-family'>Pumpkin Scientific Name And Family</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=japanese-floor-chair-with-armrest'>Japanese Floor Chair With Armrest</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=finding-dory-full-movie-download-in-tamil'>Finding Dory Full Movie Download In Tamil</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=used-steel-cabinets-for-sale'>Used Steel Cabinets For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bed-designs-pictures-wooden-with-drawers'>Bed Designs Pictures Wooden With Drawers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=beko-fridge-freezer-recall-model-numbers'>Beko Fridge Freezer Recall Model Numbers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-to-put-with-tandoori-chicken'>What To Put With Tandoori Chicken</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=small-studio-apartment-floor-plans'>Small Studio Apartment Floor Plans</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=good-fortune-plants-for-front-door'>Good Fortune Plants For Front Door</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bad-bad-leroy-brown-chords'>Bad Bad Leroy Brown Chords</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=parts-of-a-desk-drawer'>Parts Of A Desk Drawer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=front-boundary-wall-design-of-house'>Front Boundary Wall Design Of House</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=signature-design-by-ashley-mattress-reviews'>Signature Design By Ashley Mattress Reviews</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=home-appliances-list-with-pictures'>Home Appliances List With Pictures</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-pork-red-or-white-meat-uk'>Is Pork Red Or White Meat Uk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=red-wall-art-for-bedroom'>Red Wall Art For Bedroom</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hikes-between-whistler-and-vancouver'>Hikes Between Whistler And Vancouver</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=under-armour-project-rock-1'>Under Armour Project Rock 1</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hobby-lobby-chico-grand-opening'>Hobby Lobby Chico Grand Opening</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dining-room-hutch-and-buffet'>Dining Room Hutch And Buffet</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-lighting-kit-for-clothing-photography'>Best Lighting Kit For Clothing Photography</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-all-mesh-office-chair'>Best All Mesh Office Chair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=black-friday-store-hours-2019'>Black Friday Store Hours 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=portland-maine-things-to-do'>Portland Maine Things To Do</a>,
+";s:7:"expired";i:-1;}

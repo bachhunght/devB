@@ -1,0 +1,250 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2593:"Applied mathematics. Delft University of Technology is a public technical research university in Delft, the Netherlands. Master Programs Aerospace Engineering ... to equip students with the theoretical and practical knowledge required to pursue a higher education or career in Architecture. Master/Track . This Master’s track can be taken by students who have obtained the Faculty’s broader Bachelor’s degree (in … Aerospace Architecture | Built Environment | Construction Biotechnology | Life Science & Technology Chemical | Biochemical | Process Engineering Civil | Coastal Engineering ... Delft University of Technology. Delft University of Technology. In the Master's degree programme you will specialise further in a particular area of the discipline. Postbus 5 2600 AA Delft Location. Dirk Snelders. Hilde Remoy Hilde Remøy is associate professor of Real Estate Management at the department of Management in the Built Environment (MBE), faculty of Architecture and the Built Environment at Delft University of Technology. Delft University of Technology Tu Delft. Established in 1842, the university is one the best institutes for technological and engineering programs in the world. The MSc Architecture, Urbanism and Building Sciences programme at TU Delft is underpinned by the renowned Dutch experience in architecture, spatial planning and the built environment professions and has an international orientation drawing on the multinational faculty of staff and students. The faculty conducts advanced research into the technology of architectural design and use scientific expertise to develop new design methodologies. Marine technology. TU Delft offers a Master of Science in Architecture Urbanism and Building Sciences.The Faculty of Architecture at TU Delft, established in 1904, has its own focus on the physical living environment - built and natural - on every conceivable scale. Clear Search. TU Delft has extensive contacts with governments, trade organisations, consultancies, the industry and small and medium-sized companies. Find A Masters. Search Postgraduate MSc Degrees at Delft University of Technology. Extending over 161 hectares, it features restaurants, parks, cycle paths, a botanical garden, a new media center, a flight simulator and an aerodynamics and propulsion lab. Delft University of Technology The graduate programme in landscape architecture at Delft University of Technology is a two-year full-time programme leading to a Master of Science in architecture, urbanism and the building sciences with a specialisation in landscape architecture. ";s:7:"keyword";s:108:"wbir weather 30 day forecast1111111111111 UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45)    ";s:5:"links";s:9320:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=catherine-the-great-horse-pulley'>Catherine The Great Horse Pulley</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=orange-tomatoes-vs-red-tomatoes'>Orange Tomatoes Vs Red Tomatoes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-pioneer-woman-season-24-episode-1'>The Pioneer Woman Season 24 Episode 1</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-british-columbia-courses'>University Of British Columbia Courses</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=farm-city-week-buyers-list'>Farm City Week Buyers List</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lily-of-the-valley-minecraft'>Lily Of The Valley Minecraft</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rustic-sisal-farmhouse-bathroom-rug'>Rustic Sisal Farmhouse Bathroom Rug</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=We-Gotta-Get-out-of-This-Place'>We Gotta Get Out Of This Place</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=la-maja-desnuda-in-english'>La Maja Desnuda In English</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=38-inch-square-folding-table'>38 Inch Square Folding Table</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=karcher-steam-cleaner-sc4-parts'>Karcher Steam Cleaner Sc4 Parts</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=boston-university-computer-science-ranking'>Boston University Computer Science Ranking</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=blowing-out-rv-water-pump'>Blowing Out Rv Water Pump</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=no-cook-low-carb-breakfast'>No Cook Low Carb Breakfast</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=black-and-white-paintings-with-color-accents'>Black And White Paintings With Color Accents</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=are-big-boy-tomatoes-disease-resistant'>Are Big Boy Tomatoes Disease Resistant</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=The-Lady-with-a-Fan'>The Lady With A Fan</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-return-an-item-to-wayfair'>How To Return An Item To Wayfair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-craft-beer-bars-near-times-square'>Best Craft Beer Bars Near Times Square</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=Katie-and-the-Mona-Lisa'>Katie And The Mona Lisa</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=black-dining-room-chairs-set-of-4'>Black Dining Room Chairs Set Of 4</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=does-ego-make-a-pressure-washer'>Does Ego Make A Pressure Washer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-finalize-a-dvd-on-lg-dvd-recorder'>How To Finalize A Dvd On Lg Dvd Recorder</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mid-century-modern-bathroom-pinterest'>Mid Century Modern Bathroom Pinterest</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=prp-louisville-ky-zip-code'>Prp Louisville Ky Zip Code</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=funny-kitchen-quotes-and-sayings'>Funny Kitchen Quotes And Sayings</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=about-barber-in-hindi-wikipedia'>About Barber In Hindi Wikipedia</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=home-depot-philips-hue-color'>Home Depot Philips Hue Color</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=applying-onion-juice-on-hair-benefits'>Applying Onion Juice On Hair Benefits</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=study-table-for-kids-amazon'>Study Table For Kids Amazon</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=samsung-front-load-washer-keeps-adding-time'>Samsung Front Load Washer Keeps Adding Time</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sun-joe-portable-pressure-washer'>Sun Joe Portable Pressure Washer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=navy-and-gold-dining-chairs'>Navy And Gold Dining Chairs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fresh-fruits-and-vegetables-quotes'>Fresh Fruits And Vegetables Quotes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=real-estate-referral-marketing-ideas'>Real Estate Referral Marketing Ideas</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-to-hang-pictures-in-bedroom'>Where To Hang Pictures In Bedroom</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=work-of-art-meaning-in-sarcastic-way'>Work Of Art Meaning In Sarcastic Way</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-grow-mogri-vegetable'>How To Grow Mogri Vegetable</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-clean-a-fiberglass-door-before-staining'>How To Clean A Fiberglass Door Before Staining</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bu-barnes-and-noble-hours'>Bu Barnes And Noble Hours</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=warm-white-or-cool-white-better-for-eyes'>Warm White Or Cool White Better For Eyes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-evergreen-park-a-good-place-to-live'>Is Evergreen Park A Good Place To Live</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-lighting-for-craft-room'>Best Lighting For Craft Room</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-season-collard-greens-without-salt'>How To Season Collard Greens Without Salt</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philips-hue-bridge-range-reddit'>Philips Hue Bridge Range Reddit</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=gingerbread-house-cookie-cutters-near-me'>Gingerbread House Cookie Cutters Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-fish-for-water-feature'>Best Fish For Water Feature</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-to-do-with-cherokee-purple-tomatoes'>What To Do With Cherokee Purple Tomatoes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=headboard-with-lights-and-storage'>Headboard With Lights And Storage</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=home-designer-match-blast-to-design-a-makeover'>Home Designer Match Blast To Design A Makeover</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cauliflower-rice-recipe-jamie-oliver'>Cauliflower Rice Recipe Jamie Oliver</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lowes-peel-and-stick-vinyl-wallpaper'>Lowes Peel And Stick Vinyl Wallpaper</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=used-patio-furniture-for-sale-on-craigslist-near-me'>Used Patio Furniture For Sale On Craigslist Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dark-gray-leather-dining-chairs'>Dark Gray Leather Dining Chairs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=funny-kitchen-quotes-and-sayings'>Funny Kitchen Quotes And Sayings</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=amazon-work-from-home-jobs'>Amazon Work From Home Jobs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=double-door-designs-for-main-door'>Double Door Designs For Main Door</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ionantha-guatemala-air-plant-care'>Ionantha Guatemala Air Plant Care</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=food-network-kitchen-gift-subscription'>Food Network Kitchen Gift Subscription</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=color-changing-light-bulb-app'>Color Changing Light Bulb App</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-oil-for-french-fries'>Best Oil For French Fries</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=deep-kitchen-drawer-organizer-ikea'>Deep Kitchen Drawer Organizer Ikea</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=3-t-cushion-sofa-slipcover'>3 T Cushion Sofa Slipcover</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-many-days-in-whistler-summer'>How Many Days In Whistler Summer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=camp-oven-damper-with-lemonade'>Camp Oven Damper With Lemonade</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=maytag-refrigerator-door-gasket-wp61004010'>Maytag Refrigerator Door Gasket Wp61004010</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=melissa-and-doug-pots-and-pans-target'>Melissa And Doug Pots And Pans Target</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=beddinge-cover-for-sleeper-sofa'>Beddinge Cover For Sleeper Sofa</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cozzia-qi-se-for-sale'>Cozzia Qi Se For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=opening-up-the-wardrobe-a-methods-book'>Opening Up The Wardrobe A Methods Book</a>,
+";s:7:"expired";i:-1;}

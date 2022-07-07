@@ -1,0 +1,253 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3233:"We assume you are converting between cable [British] and metre. We do not recommend bundling extra lengths of cables tightly. The Digital Cable Length Meter is an excellent tool to measure spooled cable/ wire. Calculate from nautical length into other length unit measures. The maximum allowed length of a Cat-6 cable is 100 meters (330 ft) when used for 10/100/1000baseT. Then click the Convert Me button. Instantly Converts Cable Lengths (imperial) to Nautical Miles (international) and Many More Length Conversions Online. Converts from Cable Lengths (u.s.) for you! However, due to the low level of signal, we would not recommend exceeding this length. Due to anachronisms and varying techniques of measurement, a cable length can be anywhere from 169 to 220 metres, depending on the standard used. A cable length or length of cable is a nautical unit of measure equal to one tenth of a nautical mile or approximately 100 fathoms. Many Other Conversions. Instantly Converts Cable Lengths (international) to Meters and Many More Length Conversions Online. Using the selector on the CLM100, turn to “R” on the dial. Although USB-IF compliance specification requires 1 meter as maximum length for cables with Micro B connectors, cable lengths longer than 1 meter are necessary to ensure safe testing for this particular application. A cable length meter simply determines spooled length on uninstalled cables or wires. Use this page to learn how to convert between metres and cable [British]. No way to really know. No way to really know. Cable Lengths (u.s.) Conversion Charts. 1: This is a conversion chart for US cable length (US Nautical Measure). With an integrated TDR (time domain reflectometer) the cable length meter captures cable lengths and distances to a cable end or an interference point (e.g. network cables, antenna cables and standard electric cables. Between cable Imp and m measurements conversion chart page. Diferent length units conversion from cable length Imperial to meters. This consists of 90 meters (300 ft) of solid … Cable Length Meters Cable length meters and TDR’s (time domain reflectometer) are very similar but do have differences. 2: Enter the value you want to convert (US cable length). The cable length meters of PCE instruments provide various functions that can be useful in terms of measuring the length of cables or detecting cable breaks. A meter, or metre, is the fundamental unit of length in the metric system, from which all other length units are based.It is equal to 100 centimeters, 1/1000th of a kilometer, or about 39.37 inches. Therefore the cable length meters function according to various measuring principles that will be described below. Converts from Cable Lengths (international) for you! Convert Cable Length to Meter. Easily convert Cable Length (cable) to Meter (m) using this free online unit conversion calculator. You can also go to the universal conversion page. Cable Lengths (imperial) Conversion Charts. Instantly Converts Cable Lengths (u.s.) to Meters and Many More Length Conversions Online. Convert 1 cable Imp into meter and cable lengths Imperial to m. The other way around, how many meters - m are in one cable length Imperial - cable Imp unit? ";s:7:"keyword";s:24:"1 cable length to meters";s:5:"links";s:9999:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-cut-kale-leaves-from-plant'>How To Cut Kale Leaves From Plant</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=simplehuman-dish-rack-with-knife-holder'>Simplehuman Dish Rack With Knife Holder</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=10-seater-round-dining-table-size'>10 Seater Round Dining Table Size</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=commercial-property-for-sale-in-south-georgia'>Commercial Property For Sale In South Georgia</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=oxford-paperback-dictionary-and-thesaurus-pdf'>Oxford Paperback Dictionary And Thesaurus Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=malcolm-bentwood-leather-swivel-chair-review'>Malcolm Bentwood Leather Swivel Chair Review</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=jeld-wen-impact-entry-doors'>Jeld Wen Impact Entry Doors</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mechanism-of-how-cookies-work'>Mechanism Of How Cookies Work</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=india-us-relations-under-modi'>India Us Relations Under Modi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-find-a-flower-forest-biome-in-minecraft'>How To Find A Flower Forest Biome In Minecraft</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=metal-bird-usa-discount-code'>Metal Bird Usa Discount Code</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=open-kitchen-floor-plans-with-islands'>Open Kitchen Floor Plans With Islands</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bombay-kulfi-franchise-cost-quora'>Bombay Kulfi Franchise Cost Quora</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-does-being-referred-to-oncology-mean'>What Does Being Referred To Oncology Mean</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=charmed-bite-me-full-episode'>Charmed Bite Me Full Episode</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=built-in-living-room-cabinets'>Built In Living Room Cabinets</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cheap-houses-for-rent-in-houston-tx'>Cheap Houses For Rent In Houston Tx</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=agate-side-table-world-market'>Agate Side Table World Market</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=anthony-bourdain-cause-of-death-cnn'>Anthony Bourdain Cause Of Death Cnn</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=corner-kitchen-pantry-cabinet-ideas'>Corner Kitchen Pantry Cabinet Ideas</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=battle-of-fredericksburg-confederate-leader'>Battle Of Fredericksburg Confederate Leader</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=studded-dining-chairs-with-ring'>Studded Dining Chairs With Ring</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-often-should-carpet-be-replaced-in-a-rental-home'>How Often Should Carpet Be Replaced In A Rental Home</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=oil-painting-ideas-for-beginners-step-by-step'>Oil Painting Ideas For Beginners Step By Step</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=for-sale-by-owner-closing-paperwork'>For Sale By Owner Closing Paperwork</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=parallel-ski-shop-squaw-valley'>Parallel Ski Shop Squaw Valley</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-write-a-presentation-script'>How To Write A Presentation Script</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=macdonald-furniture-closing-down-sale'>Macdonald Furniture Closing Down Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sausage-roll-wreath-paul-hollywood'>Sausage Roll Wreath Paul Hollywood</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=simple-wall-painting-designs-for-living-room'>Simple Wall Painting Designs For Living Room</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=plants-name-in-english-with-pictures'>Plants Name In English With Pictures</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=vmware-download-for-windows-8'>Vmware Download For Windows 8</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=carlo-colombo-university-of-florence'>Carlo Colombo University Of Florence</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=when-do-pools-go-on-sale'>When Do Pools Go On Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=great-taste-awards-2019-entry'>Great Taste Awards 2019 Entry</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=navy-feature-wall-living-room'>Navy Feature Wall Living Room</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kelley-blue-book-vehicle-weight'>Kelley Blue Book Vehicle Weight</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=osgood-5-piece-dining-set'>Osgood 5 Piece Dining Set</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=outdoor-lamp-post-replacement-parts'>Outdoor Lamp Post Replacement Parts</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=oblivion-weapons-that-level-with-you'>Oblivion Weapons That Level With You</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=zara-kids-clothing-online-shopping'>Zara Kids Clothing Online Shopping</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=crystal-mountain-parking-lot-map'>Crystal Mountain Parking Lot Map</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=grohe-pop-up-drain-parts'>Grohe Pop Up Drain Parts</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-pastry-chef-in-the-world-2019rubbermaid-brute-32-gallon-lid'>Best Pastry Chef In The World 2019rubbermaid Brute 32 Gallon Lid</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wallpaper-outlet-stores-near-me'>Wallpaper Outlet Stores Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sylvania-400w-metalarc-m59-s-m400-u-led-replacement'>Sylvania 400w Metalarc M59 S M400 U Led Replacement</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=exterior-doors-for-sale-near-me'>Exterior Doors For Sale Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ikea-catalogue-2020-uk-download'>Ikea Catalogue 2020 Uk Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=quaker-oats-meatloaf-recipe-with-milk'>Quaker Oats Meatloaf Recipe With Milk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=introduction-to-forestry-pdf-bsc-agriculture'>Introduction To Forestry Pdf Bsc Agriculture</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=green-wall-advantages-and-disadvantages'>Green Wall Advantages And Disadvantages</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-goes-with-jerusalem-artichokes'>What Goes With Jerusalem Artichokes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=craftsman-2000-psi-pressure-washer'>Craftsman 2000 Psi Pressure Washer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-much-does-home-depot-pay-in-california'>How Much Does Home Depot Pay In California</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-shop-for-earrings'>How To Shop For Earrings</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=scrubs-season-4-episode-26'>Scrubs Season 4 Episode 26</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=karcher-wv-1-plus-window-vacuum-cleaner'>Karcher Wv 1 Plus Window Vacuum Cleaner</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=restaurants-with-vegan-options-near-me'>Restaurants With Vegan Options Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pinch-of-nom-recipes-slimming-world'>Pinch Of Nom Recipes Slimming World</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mosaic-black-iron-outdoor-accent-table'>Mosaic Black Iron Outdoor Accent Table</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=storage-bins-with-lids-12-quart'>Storage Bins With Lids 12 Quart</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-get-to-jewel-changi-airport'>How To Get To Jewel Changi Airport</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=when-ordering-flowers-for-a-funeral-who-is-the-recipient'>When Ordering Flowers For A Funeral Who Is The Recipient</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=my-kitchen-rules-season-10-episode-19'>My Kitchen Rules Season 10 Episode 19</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cotton-rugs-pros-and-cons'>Cotton Rugs Pros And Cons</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=beddinge-cover-for-sleeper-sofa'>Beddinge Cover For Sleeper Sofa</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=diameter-of-a-circle-calculator'>Diameter Of A Circle Calculator</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=oh-she-glows-not-vegan'>Oh She Glows Not Vegan</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=foot-locker-vintage-faire-mall'>Foot Locker Vintage Faire Mall</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=johnson-and-johnson-lenses-recall'>Johnson And Johnson Lenses Recall</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=small-space-living-room-furniture'>Small Space Living Room Furniture</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=egg-fried-rice-hebbars-kitchen'>Egg Fried Rice Hebbars Kitchen</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=step-2-neat-and-tidy-cottage-stickers'>Step 2 Neat And Tidy Cottage Stickers</a>,
+";s:7:"expired";i:-1;}

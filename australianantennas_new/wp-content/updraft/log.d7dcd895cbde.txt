@@ -1,0 +1,756 @@
+0000.000 (0) Opened log file at time: Tue, 17 Sep 2019 05:43:14 +0000 on https://www.australianantennas.com.au
+0000.007 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.17 WP: 5.2.3 PHP: 5.6.40 (litespeed, Linux vader.sentius.net 3.10.0-714.10.2.lve1.5.17.1.el7.x86_64 #1 SMP Tue May 22 10:39:25 EDT 2018 x86_64) MySQL: 10.1.41-MariaDB WPLANG: en_US Server: LiteSpeed safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 12.9M | 13.8M) multisite: N openssl: OpenSSL 1.0.2s  28 May 2019 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.111 (0) Free space on disk containing Updraft's temporary directory: 272295.3 MB
+0000.120 (0) Tasks: Backup files: 1 (schedule: manual) Backup DB: 1 (schedule: manual)
+0000.127 (0) Semaphore (fd, rhofwwja_options) being initialised
+0000.143 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.159 (0) Set semaphore last lock (fd) time to 2019-09-17 05:43:14
+0000.164 (0) Semaphore lock (fd) complete
+0000.182 (0) Backup run: resumption=0, nonce=d7dcd895cbde, file_nonce=d7dcd895cbde begun at=1568698994 (0s ago), job type=backup
+0000.191 (0) Scheduling a resumption (1) after 300 seconds (1568699294) in case this run gets aborted
+0000.224 (0) Checking if we have a zip executable available
+0000.228 (0) Testing: /usr/bin/zip
+0000.242 (0) Output: zip warning: binziptest/test.zip not found or empty
+0000.248 (0) Output: adding: binziptest/subdir1/	(in=0) (out=0) (stored 0%)
+0000.253 (0) Output: adding: binziptest/subdir1/subdir2/	(in=0) (out=0) (stored 0%)
+0000.259 (0) Output: adding: binziptest/subdir1/subdir2/test.html	(in=131) (out=107) (deflated 18%)
+0000.264 (0) Output: total bytes=131, compressed=107 -> 18% savings
+0000.283 (0) Output: adding: binziptest/subdir1/subdir2/test2.html	(in=138) (out=113) (deflated 18%)
+0000.291 (0) Output: total bytes=269, compressed=220 -> 18% savings
+0000.298 (0) Working binary zip found: /usr/bin/zip
+0000.310 (0) Zip engine: found/will use a binary zip: /usr/bin/zip
+0000.313 (0) Creation of backups of directories: beginning
+0000.327 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0000.922 (0) Total entities for the zip file: 1814 directories, 10995 files (0 skipped as non-modified), 147.5 MB
+0000.935 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0000.945 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0000.971 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0000.980 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0000.989 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0000.993 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (11.6 MB, 10995 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0005.820 (0) backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: size is now: 7.80 MB
+0005.838 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 600 files added (on-disk size: 8034.4 KB)
+0005.846 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 700 files added (on-disk size: 8034.4 KB)
+0005.855 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 800 files added (on-disk size: 8034.4 KB)
+0005.862 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 900 files added (on-disk size: 8034.4 KB)
+0005.870 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 1000 files added (on-disk size: 8034.4 KB)
+0005.874 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (10.2 MB, 10995 files batched, 501 (1002) added so far); re-opening (prior size: 8034.4 KB)
+0022.102 (0) backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: size is now: 15.70 MB
+0022.122 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 1100 files added (on-disk size: 16095.9 KB)
+0022.134 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 1200 files added (on-disk size: 16095.9 KB)
+0022.143 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 1300 files added (on-disk size: 16095.9 KB)
+0022.153 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 1400 files added (on-disk size: 16095.9 KB)
+0022.161 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 1500 files added (on-disk size: 16095.9 KB)
+0022.165 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (9 MB, 10995 files batched, 501 (1503) added so far); re-opening (prior size: 16095.9 KB)
+0034.039 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 1600 files added (on-disk size: 18745 KB)
+0034.047 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 1700 files added (on-disk size: 18745 KB)
+0034.054 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 1800 files added (on-disk size: 18745 KB)
+0034.062 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 1900 files added (on-disk size: 18745 KB)
+0034.073 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 2000 files added (on-disk size: 18745 KB)
+0034.076 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (6.7 MB, 10995 files batched, 501 (2004) added so far); re-opening (prior size: 18745 KB)
+0051.137 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 2100 files added (on-disk size: 20852.1 KB)
+0051.158 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 2200 files added (on-disk size: 20852.1 KB)
+0051.194 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 2300 files added (on-disk size: 20852.1 KB)
+0051.215 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 2400 files added (on-disk size: 20852.1 KB)
+0051.234 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 2500 files added (on-disk size: 20852.1 KB)
+0051.244 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (0.6 MB, 10995 files batched, 501 (2505) added so far); re-opening (prior size: 20852.1 KB)
+0056.270 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 2600 files added (on-disk size: 21189 KB)
+0056.280 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 2700 files added (on-disk size: 21189 KB)
+0056.290 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 2800 files added (on-disk size: 21189 KB)
+0056.300 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 2900 files added (on-disk size: 21189 KB)
+0056.310 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 3000 files added (on-disk size: 21189 KB)
+0056.315 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (6.8 MB, 10995 files batched, 501 (3006) added so far); re-opening (prior size: 21189 KB)
+0057.576 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 3100 files added (on-disk size: 23620.3 KB)
+0057.586 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 3200 files added (on-disk size: 23620.3 KB)
+0057.594 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 3300 files added (on-disk size: 23620.3 KB)
+0057.603 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 3400 files added (on-disk size: 23620.3 KB)
+0057.611 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 3500 files added (on-disk size: 23620.3 KB)
+0057.615 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (10.3 MB, 10995 files batched, 501 (3507) added so far); re-opening (prior size: 23620.3 KB)
+0075.832 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 3600 files added (on-disk size: 26886.1 KB)
+0075.840 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 3700 files added (on-disk size: 26886.1 KB)
+0075.848 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 3800 files added (on-disk size: 26886.1 KB)
+0075.855 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 3900 files added (on-disk size: 26886.1 KB)
+0075.863 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 4000 files added (on-disk size: 26886.1 KB)
+0075.866 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (5.1 MB, 10995 files batched, 501 (4008) added so far); re-opening (prior size: 26886.1 KB)
+0091.617 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 4100 files added (on-disk size: 28917.6 KB)
+0091.629 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 4200 files added (on-disk size: 28917.6 KB)
+0091.643 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 4300 files added (on-disk size: 28917.6 KB)
+0091.658 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 4400 files added (on-disk size: 28917.6 KB)
+0091.678 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 4500 files added (on-disk size: 28917.6 KB)
+0091.693 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (13.4 MB, 10995 files batched, 501 (4509) added so far); re-opening (prior size: 28917.6 KB)
+0106.649 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 4600 files added (on-disk size: 32858.9 KB)
+0106.678 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 4700 files added (on-disk size: 32858.9 KB)
+0106.719 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 4800 files added (on-disk size: 32858.9 KB)
+0106.743 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 4900 files added (on-disk size: 32858.9 KB)
+0106.770 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 5000 files added (on-disk size: 32858.9 KB)
+0106.781 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (3.5 MB, 10995 files batched, 501 (5010) added so far); re-opening (prior size: 32858.9 KB)
+0111.498 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 5100 files added (on-disk size: 33997 KB)
+0111.514 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 5200 files added (on-disk size: 33997 KB)
+0111.526 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 5300 files added (on-disk size: 33997 KB)
+0111.541 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 5400 files added (on-disk size: 33997 KB)
+0111.552 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 5500 files added (on-disk size: 33997 KB)
+0111.556 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (2.8 MB, 10995 files batched, 501 (5511) added so far); re-opening (prior size: 33997 KB)
+0112.158 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 5600 files added (on-disk size: 35253.5 KB)
+0112.167 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 5700 files added (on-disk size: 35253.5 KB)
+0112.175 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 5800 files added (on-disk size: 35253.5 KB)
+0112.182 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 5900 files added (on-disk size: 35253.5 KB)
+0112.190 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 6000 files added (on-disk size: 35253.5 KB)
+0112.194 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (4.5 MB, 10995 files batched, 501 (6012) added so far); re-opening (prior size: 35253.5 KB)
+0113.521 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 6100 files added (on-disk size: 36407.2 KB)
+0113.538 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 6200 files added (on-disk size: 36407.2 KB)
+0113.552 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 6300 files added (on-disk size: 36407.2 KB)
+0113.563 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 6400 files added (on-disk size: 36407.2 KB)
+0113.581 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 6500 files added (on-disk size: 36407.2 KB)
+0113.592 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (3.5 MB, 10995 files batched, 501 (6513) added so far); re-opening (prior size: 36407.2 KB)
+0118.390 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 6600 files added (on-disk size: 37424 KB)
+0118.432 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 6700 files added (on-disk size: 37424 KB)
+0118.482 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 6800 files added (on-disk size: 37424 KB)
+0118.499 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 6900 files added (on-disk size: 37424 KB)
+0118.517 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 7000 files added (on-disk size: 37424 KB)
+0118.527 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (5.4 MB, 10995 files batched, 501 (7014) added so far); re-opening (prior size: 37424 KB)
+0121.162 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 7100 files added (on-disk size: 40011.1 KB)
+0121.170 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 7200 files added (on-disk size: 40011.1 KB)
+0121.178 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 7300 files added (on-disk size: 40011.1 KB)
+0121.185 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 7400 files added (on-disk size: 40011.1 KB)
+0121.193 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 7500 files added (on-disk size: 40011.1 KB)
+0121.197 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (8.5 MB, 10995 files batched, 501 (7515) added so far); re-opening (prior size: 40011.1 KB)
+0126.843 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 7600 files added (on-disk size: 43584.5 KB)
+0126.852 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 7700 files added (on-disk size: 43584.5 KB)
+0126.860 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 7800 files added (on-disk size: 43584.5 KB)
+0126.869 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 7900 files added (on-disk size: 43584.5 KB)
+0126.878 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 8000 files added (on-disk size: 43584.5 KB)
+0126.882 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (8.9 MB, 10995 files batched, 501 (8016) added so far); re-opening (prior size: 43584.5 KB)
+0138.996 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 8100 files added (on-disk size: 48404 KB)
+0139.006 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 8200 files added (on-disk size: 48404 KB)
+0139.021 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 8300 files added (on-disk size: 48404 KB)
+0139.036 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 8400 files added (on-disk size: 48404 KB)
+0139.047 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 8500 files added (on-disk size: 48404 KB)
+0139.057 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (4.3 MB, 10995 files batched, 501 (8517) added so far); re-opening (prior size: 48404 KB)
+0147.495 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 8600 files added (on-disk size: 49682.1 KB)
+0147.505 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 8700 files added (on-disk size: 49682.1 KB)
+0147.528 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 8800 files added (on-disk size: 49682.1 KB)
+0147.539 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 8900 files added (on-disk size: 49682.1 KB)
+0147.548 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 9000 files added (on-disk size: 49682.1 KB)
+0147.553 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (4.1 MB, 10995 files batched, 501 (9018) added so far); re-opening (prior size: 49682.1 KB)
+0148.738 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 9100 files added (on-disk size: 50984.1 KB)
+0148.745 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 9200 files added (on-disk size: 50984.1 KB)
+0148.753 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 9300 files added (on-disk size: 50984.1 KB)
+0148.760 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 9400 files added (on-disk size: 50984.1 KB)
+0148.768 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 9500 files added (on-disk size: 50984.1 KB)
+0148.772 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (16.4 MB, 10995 files batched, 501 (9519) added so far); re-opening (prior size: 50984.1 KB)
+0155.734 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 9600 files added (on-disk size: 55715.8 KB)
+0155.749 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 9700 files added (on-disk size: 55715.8 KB)
+0155.765 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 9800 files added (on-disk size: 55715.8 KB)
+0155.777 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 9900 files added (on-disk size: 55715.8 KB)
+0155.799 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 10000 files added (on-disk size: 55715.8 KB)
+0155.808 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (4.2 MB, 10995 files batched, 501 (10020) added so far); re-opening (prior size: 55715.8 KB)
+0161.127 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 10100 files added (on-disk size: 57386.3 KB)
+0161.171 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 10200 files added (on-disk size: 57386.3 KB)
+0161.202 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 10300 files added (on-disk size: 57386.3 KB)
+0161.217 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 10400 files added (on-disk size: 57386.3 KB)
+0161.247 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 10500 files added (on-disk size: 57386.3 KB)
+0161.257 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (3.1 MB, 10995 files batched, 501 (10521) added so far); re-opening (prior size: 57386.3 KB)
+0170.519 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 10600 files added (on-disk size: 58690.7 KB)
+0170.529 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 10700 files added (on-disk size: 58690.7 KB)
+0170.540 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 10800 files added (on-disk size: 58690.7 KB)
+0170.548 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip.tmp: 10900 files added (on-disk size: 58690.7 KB)
+0174.384 (0) Created plugins zip (0) - 60826.8 KB in 174 s (349.6 KB/s) (sha1: 177d5add45ace6372264a395dbb00f6fbb83cef6, sha256: 772ad5e7db8d8aa1db23dbd668b70af8933313725f3c41a7fcdd7adc8119ae41)
+0174.399 (0) Beginning creation of dump of themes (split every: 400 MB)
+0174.511 (0) Total entities for the zip file: 36 directories, 183 files (0 skipped as non-modified), 6.5 MB
+0174.522 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0174.747 (0) backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-themes.zip.tmp: size is now: 5.70 MB
+0174.896 (0) Created themes zip (0) - 5794 KB in 0.4 s (14504.2 KB/s) (sha1: 4d6eaa7581c24536bd70ab6d02258a0d5798e36b, sha256: 8bb25939792109589064268ea8aef13a72a73a3361b464e50ec8b16b8be9c0d4)
+0174.908 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0174.913 (0) Looking for candidates to backup in: /home/australiana/public_html/wp-content/uploads
+0174.917 (0) finding files: 2016: adding to list (1)
+0174.921 (0) finding files: 2012: adding to list (2)
+0174.927 (0) finding files: ithemes-security: adding to list (3)
+0174.930 (0) finding files: 2015: adding to list (4)
+0174.933 (0) finding files: 2017: adding to list (5)
+0174.937 (0) finding files: wpcf7_captcha: adding to list (6)
+0174.940 (0) finding files: 2018: adding to list (7)
+0174.947 (0) finding files: wpseo-redirects: adding to list (8)
+0174.955 (0) finding files: wp-file-manager-pro: adding to list (9)
+0174.962 (0) finding files: 2014: adding to list (10)
+0174.973 (0) finding files: 2013: adding to list (11)
+0174.982 (0) finding files: captcha_images: adding to list (12)
+0174.988 (0) finding files: 2019: adding to list (13)
+0174.994 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0175.190 (0) Total entities for the zip file: 109 directories, 1895 files (0 skipped as non-modified), 82.3 MB
+0175.203 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0175.213 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0175.224 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-uploads.zip.tmp: 300 files added (on-disk size: 0 KB)
+0175.235 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-uploads.zip.tmp: 400 files added (on-disk size: 0 KB)
+0175.246 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 25 MB added on this batch (26.1 MB, 1895 files batched, 496 (496) added so far); re-opening (prior size: 0 KB)
+0176.213 (0) backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-uploads.zip.tmp: size is now: 26.20 MB
+0176.231 (0) A useful amount of data was added after this amount of zip processing: 1.6 s (normalised: 1.6 s, rate: 16430.2 KB/s)
+0176.241 (0) Performance is good - will increase the amount of data we attempt to batch (time=1.6253008842468, normalised_time=1.5581044784541, max_time=176.23550796509, data points known=1, old_max_bytes=26214400, new_max_bytes=209715200)
+0176.253 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-uploads.zip.tmp: 500 files added (on-disk size: 26826.4 KB)
+0176.262 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-uploads.zip.tmp: 600 files added (on-disk size: 26826.4 KB)
+0176.271 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-uploads.zip.tmp: 700 files added (on-disk size: 26826.4 KB)
+0176.280 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-uploads.zip.tmp: 800 files added (on-disk size: 26826.4 KB)
+0176.290 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-uploads.zip.tmp: 900 files added (on-disk size: 26826.4 KB)
+0176.299 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (17 MB, 1895 files batched, 501 (997) added so far); re-opening (prior size: 26826.4 KB)
+0238.703 (0) backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-uploads.zip.tmp: size is now: 43.30 MB
+0238.731 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-uploads.zip.tmp: 1000 files added (on-disk size: 44334.3 KB)
+0238.744 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-uploads.zip.tmp: 1100 files added (on-disk size: 44334.3 KB)
+0238.759 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-uploads.zip.tmp: 1200 files added (on-disk size: 44334.3 KB)
+0238.777 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-uploads.zip.tmp: 1300 files added (on-disk size: 44334.3 KB)
+0238.794 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-uploads.zip.tmp: 1400 files added (on-disk size: 44334.3 KB)
+0238.882 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (25.9 MB, 1895 files batched, 501 (1498) added so far); re-opening (prior size: 44334.3 KB)
+0281.196 (0) The time we have been running (281.2) is approaching the resumption interval (300) - increasing resumption interval to 312
+0286.630 (0) The time we have been running (286.6) is approaching the resumption interval (312) - increasing resumption interval to 317
+0296.457 (0) The time we have been running (296.4) is approaching the resumption interval (317) - increasing resumption interval to 327
+0319.136 (0) The time we have been running (319.1) is approaching the resumption interval (327) - increasing resumption interval to 350
+0319.418 (1) Opened log file at time: Tue, 17 Sep 2019 05:48:33 +0000 on https://www.australianantennas.com.au
+0319.485 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.17 WP: 5.2.3 PHP: 5.6.40 (litespeed, Linux vader.sentius.net 3.10.0-714.10.2.lve1.5.17.1.el7.x86_64 #1 SMP Tue May 22 10:39:25 EDT 2018 x86_64) MySQL: 10.1.41-MariaDB WPLANG: en_US Server: LiteSpeed safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 10.3M | 10.5M) multisite: N openssl: OpenSSL 1.0.2s  28 May 2019 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0320.007 (1) Free space on disk containing Updraft's temporary directory: 272111.3 MB
+0320.086 (1) Terminate: check-in exists with activity within the last 30 seconds (time_mod=1568699313.6, time_now=1568699313.8, diff=0, size=n/a). This likely means that another UpdraftPlus run is at work; so we will exit.
+0320.101 (1) A new resumption will be scheduled to prevent the job ending
+0320.163 (1) Rescheduling resumption 2: moving to 470 seconds from now (1568699784)
+0320.318 (1) To decrease the likelihood of overlaps, increasing resumption interval to: 350 + 120 = 470
+0328.908 (0) The time we have been running (328.9) is approaching the resumption interval (350) - increasing resumption interval to 359
+0336.760 (0) The time we have been running (336.7) is approaching the resumption interval (359) - increasing resumption interval to 367
+0336.911 (0) backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-uploads.zip.tmp: size is now: 67.90 MB
+0337.022 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-uploads.zip.tmp: 1500 files added (on-disk size: 69527.2 KB)
+0337.084 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-uploads.zip.tmp: 1600 files added (on-disk size: 69527.2 KB)
+0337.177 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-uploads.zip.tmp: 1700 files added (on-disk size: 69527.2 KB)
+0337.267 (0) Zip: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-uploads.zip.tmp: 1800 files added (on-disk size: 69527.2 KB)
+0403.328 (0) The time we have been running (403.3) is approaching the resumption interval (367) - increasing resumption interval to 434
+0411.366 (0) The time we have been running (411.3) is approaching the resumption interval (434) - increasing resumption interval to 442
+0416.639 (0) The time we have been running (416.6) is approaching the resumption interval (442) - increasing resumption interval to 447
+0418.746 (0) Created uploads zip (0) - 82533 KB in 243.6 s (338.8 KB/s) (sha1: 3adf0d7c4e14892e69731d64e43aacc105e170f0, sha256: 12c49ea199ede476c52a65fc89b63e2c783cff0c4ae0a4fb0e5f20b79dccaca0)
+0418.753 (0) Beginning backup of other directories found in the content directory (index: 0)
+0418.756 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0418.758 (0) Looking for candidates to backup in: /home/australiana/public_html/wp-content
+0418.760 (0) finding files: advanced-cache.php: adding to list (1)
+0418.763 (0) finding files: updraft: skipping: this is the updraft directory
+0418.765 (0) finding files: themes: skipping: this is the themes directory
+0418.768 (0) finding files: upgrade: skipping: excluded by options
+0418.770 (0) finding files: uploads: skipping: this is the uploads directory
+0418.772 (0) finding files: index.php: adding to list (2)
+0418.775 (0) finding files: w3tc-config: adding to list (3)
+0418.777 (0) finding files: plugins: skipping: this is the plugins directory
+0418.780 (0) finding files: cache: skipping: excluded by options
+0418.782 (0) finding files: wp-cache-config.php: adding to list (4)
+0418.873 (0) Total entities for the zip file: 1 directories, 6 files (0 skipped as non-modified), 0 MB
+0418.890 (0) backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-others.zip.tmp: size is now: 0.00 MB
+0418.902 (0) The time we have been running (418.9) is approaching the resumption interval (447) - increasing resumption interval to 449
+0418.916 (0) Created others zip (0) - 12.4 KB in 0 s (255.4 KB/s) (sha1: d97cd3aceff0cdf35056dfd27901c8fb7ba5f379, sha256: 7fc05b138d24b3f3eceab862bb2192045a98bb5020df1ad4f15e34aad9c2ce44)
+0418.935 (0) Saving backup status to database (elements: 8)
+0418.941 (0) Beginning creation of database dump (WordPress DB)
+0418.947 (0) Testing potential mysqldump binary: /usr/bin/mysqldump
+0418.972 (0) Output: /*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;\n/*!40103 SET TIME_ZONE='+00:00' */;\n/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;\n/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;\n/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;\n/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;\nDROP TABLE IF EXISTS `rhofwwja_options`;\n/*!40101 SET @saved_cs_client     = @@character_set_client */;\n/*!40101 SET character_set_client = utf8 * (truncated - 1280 bytes total)
+0418.976 (0) Working binary mysqldump found: /usr/bin/mysqldump
+0418.993 (0) Table rhofwwja_options: Total expected rows (approximate): 576
+0419.094 (0) Table rhofwwja_options: Total rows added: 585 in 0.10 seconds
+0419.098 (0) Table rhofwwja_options: finishing file (backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db-table-rhofwwja_options.table.gz - 320 KB)
+0419.108 (0) The time we have been running (419.1) is approaching the resumption interval (449) - increasing resumption interval to 450
+0419.120 (0) Table rhofwwja_users: Total expected rows (approximate): 4
+0419.127 (0) Table rhofwwja_users: Total rows added: 4 in 0.00 seconds
+0419.130 (0) Table rhofwwja_users: finishing file (backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db-table-rhofwwja_users.table.gz - 0.8 KB)
+0419.141 (0) Table rhofwwja_usermeta: Total expected rows (approximate): 162
+0419.150 (0) Table rhofwwja_usermeta: Total rows added: 162 in 0.01 seconds
+0419.152 (0) Table rhofwwja_usermeta: finishing file (backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db-table-rhofwwja_usermeta.table.gz - 4.1 KB)
+0419.167 (0) Table rhofwwja_commentmeta: Total expected rows (approximate): 0
+0419.171 (0) Table rhofwwja_commentmeta: Total rows added: 0 in 0.00 seconds
+0419.174 (0) Table rhofwwja_commentmeta: finishing file (backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db-table-rhofwwja_commentmeta.table.gz - 0.4 KB)
+0419.186 (0) Table rhofwwja_comments: Total expected rows (approximate): 0
+0419.191 (0) Table rhofwwja_comments: Total rows added: 0 in 0.00 seconds
+0419.194 (0) Table rhofwwja_comments: finishing file (backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db-table-rhofwwja_comments.table.gz - 0.5 KB)
+0419.205 (0) Table rhofwwja_links: Total expected rows (approximate): 7
+0419.211 (0) Table rhofwwja_links: Total rows added: 7 in 0.00 seconds
+0419.213 (0) Table rhofwwja_links: finishing file (backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db-table-rhofwwja_links.table.gz - 0.6 KB)
+0419.228 (0) Table rhofwwja_postmeta: Total expected rows (approximate): 6031
+0419.478 (0) Table rhofwwja_postmeta: Total rows added: 6125 in 0.25 seconds
+0419.482 (0) Table rhofwwja_postmeta: finishing file (backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db-table-rhofwwja_postmeta.table.gz - 125 KB)
+0419.493 (0) Table rhofwwja_posts: Total expected rows (approximate): 566
+0427.210 (0) Table rhofwwja_posts: Total rows added: 738 in 7.72 seconds
+0427.228 (0) Table rhofwwja_posts: finishing file (backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db-table-rhofwwja_posts.table.gz - 133.7 KB)
+0427.255 (0) The time we have been running (427.2) is approaching the resumption interval (450) - increasing resumption interval to 458
+0427.280 (0) Table rhofwwja_term_relationships: Total expected rows (approximate): 213
+0427.293 (0) Table rhofwwja_term_relationships: Total rows added: 213 in 0.00 seconds
+0427.306 (0) Table rhofwwja_term_relationships: finishing file (backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db-table-rhofwwja_term_relationships.table.gz - 0.9 KB)
+0427.341 (0) Table rhofwwja_term_taxonomy: Total expected rows (approximate): 154
+0427.371 (0) Table rhofwwja_term_taxonomy: Total rows added: 154 in 0.02 seconds
+0427.400 (0) Table rhofwwja_term_taxonomy: finishing file (backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db-table-rhofwwja_term_taxonomy.table.gz - 1.4 KB)
+0427.432 (0) Table rhofwwja_termmeta: Total expected rows (approximate): 2
+0427.465 (0) Table rhofwwja_termmeta: Total rows added: 2 in 0.00 seconds
+0427.474 (0) Table rhofwwja_termmeta: finishing file (backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db-table-rhofwwja_termmeta.table.gz - 0.4 KB)
+0427.507 (0) Table rhofwwja_terms: Total expected rows (approximate): 154
+0427.547 (0) Table rhofwwja_terms: Total rows added: 154 in 0.03 seconds
+0427.555 (0) Table rhofwwja_terms: finishing file (backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db-table-rhofwwja_terms.table.gz - 2.2 KB)
+0427.587 (0) Table rhofwwja_yoast_seo_links: Total expected rows (approximate): 69
+0427.602 (0) Table rhofwwja_yoast_seo_links: Total rows added: 69 in 0.01 seconds
+0427.609 (0) Table rhofwwja_yoast_seo_links: finishing file (backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db-table-rhofwwja_yoast_seo_links.table.gz - 1.6 KB)
+0427.657 (0) Table rhofwwja_yoast_seo_meta: Total expected rows (approximate): 47
+0427.671 (0) Table rhofwwja_yoast_seo_meta: Total rows added: 48 in 0.00 seconds
+0427.681 (0) Table rhofwwja_yoast_seo_meta: finishing file (backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db-table-rhofwwja_yoast_seo_meta.table.gz - 0.5 KB)
+0427.719 (0) Table rhofwwja_blc_filters: Total expected rows (approximate): 0
+0427.732 (0) Table rhofwwja_blc_filters: Total rows added: 0 in 0.00 seconds
+0427.740 (0) Table rhofwwja_blc_filters: finishing file (backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db-table-rhofwwja_blc_filters.table.gz - 0.3 KB)
+0427.766 (0) Table rhofwwja_blc_instances: Total expected rows (approximate): 37
+0427.790 (0) Table rhofwwja_blc_instances: Total rows added: 37 in 0.02 seconds
+0427.803 (0) Table rhofwwja_blc_instances: finishing file (backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db-table-rhofwwja_blc_instances.table.gz - 1.5 KB)
+0427.834 (0) Table rhofwwja_blc_links: Total expected rows (approximate): 32
+0427.856 (0) Table rhofwwja_blc_links: Total rows added: 32 in 0.01 seconds
+0427.863 (0) Table rhofwwja_blc_links: finishing file (backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db-table-rhofwwja_blc_links.table.gz - 4.3 KB)
+0427.900 (0) Table rhofwwja_blc_synch: Total expected rows (approximate): 23
+0427.913 (0) Table rhofwwja_blc_synch: Total rows added: 23 in 0.00 seconds
+0427.921 (0) Table rhofwwja_blc_synch: finishing file (backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db-table-rhofwwja_blc_synch.table.gz - 0.5 KB)
+0427.966 (0) Table rhofwwja_cf7dbplugin_st: Total expected rows (approximate): 1430
+0428.190 (0) Table rhofwwja_cf7dbplugin_st: Total rows added: 2679 in 0.21 seconds
+0428.222 (0) Table rhofwwja_cf7dbplugin_st: finishing file (backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db-table-rhofwwja_cf7dbplugin_st.table.gz - 19.7 KB)
+0428.240 (0) The time we have been running (428.2) is approaching the resumption interval (458) - increasing resumption interval to 459
+0428.287 (0) Table rhofwwja_cf7dbplugin_submits: Total expected rows (approximate): 29233
+0429.123 (0) Table rhofwwja_cf7dbplugin_submits: binary mysqldump finished (writes: 37) in 0.83 seconds
+0429.142 (0) Table rhofwwja_cf7dbplugin_submits: finishing file (backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db-table-rhofwwja_cf7dbplugin_submits.table.gz - 923.7 KB)
+0429.159 (0) The time we have been running (429.1) is approaching the resumption interval (459) - increasing resumption interval to 460
+0429.184 (0) Table rhofwwja_cptch_whitelist: Total expected rows (approximate): 0
+0429.200 (0) Table rhofwwja_cptch_whitelist: Total rows added: 0 in 0.01 seconds
+0429.206 (0) Table rhofwwja_cptch_whitelist: finishing file (backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db-table-rhofwwja_cptch_whitelist.table.gz - 0.3 KB)
+0429.222 (0) Table rhofwwja_hctpc_images: Total expected rows (approximate): 112
+0429.235 (0) Table rhofwwja_hctpc_images: Total rows added: 112 in 0.01 seconds
+0429.242 (0) Table rhofwwja_hctpc_images: finishing file (backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db-table-rhofwwja_hctpc_images.table.gz - 0.9 KB)
+0429.262 (0) Table rhofwwja_hctpc_packages: Total expected rows (approximate): 12
+0429.270 (0) Table rhofwwja_hctpc_packages: Total rows added: 12 in 0.00 seconds
+0429.275 (0) Table rhofwwja_hctpc_packages: finishing file (backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db-table-rhofwwja_hctpc_packages.table.gz - 0.5 KB)
+0429.299 (0) Table rhofwwja_hctpc_whitelist: Total expected rows (approximate): 0
+0429.305 (0) Table rhofwwja_hctpc_whitelist: Total rows added: 0 in 0.00 seconds
+0429.309 (0) Table rhofwwja_hctpc_whitelist: finishing file (backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db-table-rhofwwja_hctpc_whitelist.table.gz - 0.3 KB)
+0429.335 (0) Table rhofwwja_itsec_distributed_storage: Total expected rows (approximate): 0
+0429.343 (0) Table rhofwwja_itsec_distributed_storage: Total rows added: 0 in 0.00 seconds
+0429.348 (0) Table rhofwwja_itsec_distributed_storage: finishing file (backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db-table-rhofwwja_itsec_distributed_storage.table.gz - 0.4 KB)
+0429.371 (0) Table rhofwwja_itsec_fingerprints: Total expected rows (approximate): 0
+0429.382 (0) Table rhofwwja_itsec_fingerprints: Total rows added: 0 in 0.01 seconds
+0429.388 (0) Table rhofwwja_itsec_fingerprints: finishing file (backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db-table-rhofwwja_itsec_fingerprints.table.gz - 0.4 KB)
+0429.418 (0) Table rhofwwja_itsec_geolocation_cache: Total expected rows (approximate): 0
+0429.427 (0) Table rhofwwja_itsec_geolocation_cache: Total rows added: 0 in 0.00 seconds
+0429.432 (0) Table rhofwwja_itsec_geolocation_cache: finishing file (backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db-table-rhofwwja_itsec_geolocation_cache.table.gz - 0.4 KB)
+0429.504 (0) Table rhofwwja_itsec_lockouts: Total expected rows (approximate): 168
+0429.556 (0) Table rhofwwja_itsec_lockouts: Total rows added: 168 in 0.04 seconds
+0429.572 (0) Table rhofwwja_itsec_lockouts: finishing file (backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db-table-rhofwwja_itsec_lockouts.table.gz - 3 KB)
+0429.619 (0) Table rhofwwja_itsec_log: Total expected rows (approximate): 3715
+0430.026 (0) Table rhofwwja_itsec_log: Total rows added: 3671 in 0.39 seconds
+0430.048 (0) Table rhofwwja_itsec_log: finishing file (backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db-table-rhofwwja_itsec_log.table.gz - 63 KB)
+0430.079 (0) The time we have been running (430.1) is approaching the resumption interval (460) - increasing resumption interval to 461
+0430.119 (0) Table rhofwwja_itsec_logs: Total expected rows (approximate): 763
+0430.247 (0) Table rhofwwja_itsec_logs: Total rows added: 763 in 0.12 seconds
+0430.257 (0) Table rhofwwja_itsec_logs: finishing file (backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db-table-rhofwwja_itsec_logs.table.gz - 85.8 KB)
+0430.286 (0) Table rhofwwja_itsec_temp: Total expected rows (approximate): 896
+0430.338 (0) Table rhofwwja_itsec_temp: Total rows added: 1082 in 0.04 seconds
+0430.348 (0) Table rhofwwja_itsec_temp: finishing file (backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db-table-rhofwwja_itsec_temp.table.gz - 11.4 KB)
+0430.378 (0) Table rhofwwja_redirection_404: Total expected rows (approximate): 342
+0430.415 (0) Table rhofwwja_redirection_404: Total rows added: 398 in 0.03 seconds
+0430.423 (0) Table rhofwwja_redirection_404: finishing file (backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db-table-rhofwwja_redirection_404.table.gz - 12.4 KB)
+0430.447 (0) Table rhofwwja_redirection_groups: Total expected rows (approximate): 0
+0430.454 (0) Table rhofwwja_redirection_groups: Total rows added: 1 in 0.00 seconds
+0430.459 (0) Table rhofwwja_redirection_groups: finishing file (backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db-table-rhofwwja_redirection_groups.table.gz - 0.4 KB)
+0430.482 (0) Table rhofwwja_redirection_items: Total expected rows (approximate): 71
+0430.495 (0) Table rhofwwja_redirection_items: Total rows added: 71 in 0.01 seconds
+0430.499 (0) Table rhofwwja_redirection_items: finishing file (backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db-table-rhofwwja_redirection_items.table.gz - 2.6 KB)
+0430.520 (0) Table rhofwwja_redirection_logs: Total expected rows (approximate): 61
+0430.532 (0) Table rhofwwja_redirection_logs: Total rows added: 68 in 0.01 seconds
+0430.537 (0) Table rhofwwja_redirection_logs: finishing file (backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db-table-rhofwwja_redirection_logs.table.gz - 2.8 KB)
+0430.566 (0) Table rhofwwja_smush_dir_images: Total expected rows (approximate): 0
+0430.575 (0) Table rhofwwja_smush_dir_images: Total rows added: 0 in 0.00 seconds
+0430.581 (0) Table rhofwwja_smush_dir_images: finishing file (backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db-table-rhofwwja_smush_dir_images.table.gz - 0.5 KB)
+0430.599 (0) Table rhofwwja_structuring_markup: Total expected rows (approximate): 11
+0430.609 (0) Table rhofwwja_structuring_markup: Total rows added: 11 in 0.00 seconds
+0430.622 (0) Table rhofwwja_structuring_markup: finishing file (backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db-table-rhofwwja_structuring_markup.table.gz - 1.5 KB)
+0430.657 (0) Table rhofwwja_toolset_post_guid_id: Total expected rows (approximate): 4
+0430.669 (0) Table rhofwwja_toolset_post_guid_id: Total rows added: 5 in 0.01 seconds
+0430.676 (0) Table rhofwwja_toolset_post_guid_id: finishing file (backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db-table-rhofwwja_toolset_post_guid_id.table.gz - 0.5 KB)
+0430.697 (0) Table rhofwwja_wpfm_backup: Total expected rows (approximate): 0
+0430.708 (0) Table rhofwwja_wpfm_backup: Total rows added: 0 in 0.00 seconds
+0430.718 (0) Table rhofwwja_wpfm_backup: finishing file (backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db-table-rhofwwja_wpfm_backup.table.gz - 0.3 KB)
+0430.746 (0) backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db-table-rhofwwja_options.table.gz (1/39): adding to final database dump
+0430.833 (0) backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db-table-rhofwwja_users.table.gz (2/39): adding to final database dump
+0430.839 (0) backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db-table-rhofwwja_usermeta.table.gz (3/39): adding to final database dump
+0430.845 (0) backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db-table-rhofwwja_commentmeta.table.gz (4/39): adding to final database dump
+0430.852 (0) backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db-table-rhofwwja_comments.table.gz (5/39): adding to final database dump
+0430.858 (0) backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db-table-rhofwwja_links.table.gz (6/39): adding to final database dump
+0430.867 (0) backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db-table-rhofwwja_postmeta.table.gz (7/39): adding to final database dump
+0430.958 (0) backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db-table-rhofwwja_posts.table.gz (8/39): adding to final database dump
+0431.029 (0) backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db-table-rhofwwja_term_relationships.table.gz (9/39): adding to final database dump
+0431.039 (0) backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db-table-rhofwwja_term_taxonomy.table.gz (10/39): adding to final database dump
+0431.047 (0) backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db-table-rhofwwja_termmeta.table.gz (11/39): adding to final database dump
+0431.053 (0) backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db-table-rhofwwja_terms.table.gz (12/39): adding to final database dump
+0431.062 (0) backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db-table-rhofwwja_yoast_seo_links.table.gz (13/39): adding to final database dump
+0431.069 (0) backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db-table-rhofwwja_yoast_seo_meta.table.gz (14/39): adding to final database dump
+0431.076 (0) backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db-table-rhofwwja_blc_filters.table.gz (15/39): adding to final database dump
+0431.083 (0) backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db-table-rhofwwja_blc_instances.table.gz (16/39): adding to final database dump
+0431.092 (0) backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db-table-rhofwwja_blc_links.table.gz (17/39): adding to final database dump
+0431.101 (0) backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db-table-rhofwwja_blc_synch.table.gz (18/39): adding to final database dump
+0431.106 (0) backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db-table-rhofwwja_cf7dbplugin_st.table.gz (19/39): adding to final database dump
+0431.131 (0) backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db-table-rhofwwja_cf7dbplugin_submits.table.gz (20/39): adding to final database dump
+0431.561 (0) backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db-table-rhofwwja_cptch_whitelist.table.gz (21/39): adding to final database dump
+0431.573 (0) backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db-table-rhofwwja_hctpc_images.table.gz (22/39): adding to final database dump
+0431.588 (0) backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db-table-rhofwwja_hctpc_packages.table.gz (23/39): adding to final database dump
+0431.597 (0) backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db-table-rhofwwja_hctpc_whitelist.table.gz (24/39): adding to final database dump
+0431.606 (0) backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db-table-rhofwwja_itsec_distributed_storage.table.gz (25/39): adding to final database dump
+0431.613 (0) backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db-table-rhofwwja_itsec_fingerprints.table.gz (26/39): adding to final database dump
+0431.619 (0) backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db-table-rhofwwja_itsec_geolocation_cache.table.gz (27/39): adding to final database dump
+0431.630 (0) backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db-table-rhofwwja_itsec_lockouts.table.gz (28/39): adding to final database dump
+0431.641 (0) backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db-table-rhofwwja_itsec_log.table.gz (29/39): adding to final database dump
+0431.695 (0) backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db-table-rhofwwja_itsec_logs.table.gz (30/39): adding to final database dump
+0431.749 (0) backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db-table-rhofwwja_itsec_temp.table.gz (31/39): adding to final database dump
+0431.765 (0) backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db-table-rhofwwja_redirection_404.table.gz (32/39): adding to final database dump
+0431.776 (0) backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db-table-rhofwwja_redirection_groups.table.gz (33/39): adding to final database dump
+0431.781 (0) backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db-table-rhofwwja_redirection_items.table.gz (34/39): adding to final database dump
+0431.786 (0) backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db-table-rhofwwja_redirection_logs.table.gz (35/39): adding to final database dump
+0431.791 (0) backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db-table-rhofwwja_smush_dir_images.table.gz (36/39): adding to final database dump
+0431.796 (0) backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db-table-rhofwwja_structuring_markup.table.gz (37/39): adding to final database dump
+0431.801 (0) backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db-table-rhofwwja_toolset_post_guid_id.table.gz (38/39): adding to final database dump
+0431.806 (0) backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db-table-rhofwwja_wpfm_backup.table.gz (39/39): adding to final database dump
+0431.811 (0) backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db.gz: finished writing out complete database file (1704 KB)
+0431.886 (0) Total database tables backed up: 39 (backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db.gz, size: 1762592, sha1: 18ddfeb1e2e42b972b975e8bb45b6341d772765e, sha256: 09677a954f1fa6e4f53a5bd6b95862f29d99802ae60941649bc1890703242d94)
+0431.913 (0) backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0431.920 (0) backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0431.928 (0) backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0431.932 (0) backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-others.zip: others: This file has not yet been successfully uploaded: will queue
+0431.941 (0) backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db.gz: db: This file has not yet been successfully uploaded: will queue
+0431.946 (0) Saving backup history. Total backup size: 147.4 MB
+0431.964 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0431.990 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0432.003 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-446a40b9da73827adbb839a74cf8834d)
+0434.439 (0) Google Drive: quota usage: used=76647.2 MB, total=204800 MB, available=128152.8 MB
+0434.447 (0) Google Drive: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip: Attempting to upload to Google Drive (into folder id: 1RTBy2o_Lvl5PPaJClLN7vhG2BL090MeS)
+0436.638 (0) The time we have been running (436.6) is approaching the resumption interval (461) - increasing resumption interval to 467
+0436.656 (0) Googledrive chunked upload: 1.7 % uploaded (1048576)
+0437.721 (0) The time we have been running (437.7) is approaching the resumption interval (467) - increasing resumption interval to 468
+0437.730 (0) Googledrive chunked upload: 3.4 % uploaded (2097152)
+0438.704 (0) The time we have been running (438.7) is approaching the resumption interval (468) - increasing resumption interval to 469
+0438.715 (0) Googledrive chunked upload: 5.1 % uploaded (3145728)
+0439.856 (0) The time we have been running (439.8) is approaching the resumption interval (469) - increasing resumption interval to 470
+0439.867 (0) Googledrive chunked upload: 6.7 % uploaded (4194304)
+0440.716 (0) The time we have been running (440.7) is approaching the resumption interval (470) - increasing resumption interval to 471
+0440.732 (0) Googledrive chunked upload: 8.4 % uploaded (5242880)
+0441.693 (0) The time we have been running (441.7) is approaching the resumption interval (471) - increasing resumption interval to 472
+0441.701 (0) Googledrive chunked upload: 10.1 % uploaded (6291456)
+0442.630 (0) The time we have been running (442.6) is approaching the resumption interval (472) - increasing resumption interval to 473
+0442.637 (0) Googledrive chunked upload: 11.8 % uploaded (7340032)
+0443.569 (0) The time we have been running (443.6) is approaching the resumption interval (473) - increasing resumption interval to 474
+0443.582 (0) Googledrive chunked upload: 13.5 % uploaded (8388608)
+0444.721 (0) The time we have been running (444.7) is approaching the resumption interval (474) - increasing resumption interval to 475
+0444.729 (0) Googledrive chunked upload: 15.2 % uploaded (9437184)
+0445.572 (0) The time we have been running (445.6) is approaching the resumption interval (475) - increasing resumption interval to 476
+0445.579 (0) Googledrive chunked upload: 16.8 % uploaded (10485760)
+0446.478 (0) The time we have been running (446.5) is approaching the resumption interval (476) - increasing resumption interval to 477
+0446.487 (0) Googledrive chunked upload: 18.5 % uploaded (11534336)
+0447.449 (0) The time we have been running (447.4) is approaching the resumption interval (477) - increasing resumption interval to 478
+0447.456 (0) Googledrive chunked upload: 20.2 % uploaded (12582912)
+0448.534 (0) The time we have been running (448.5) is approaching the resumption interval (478) - increasing resumption interval to 479
+0448.542 (0) Googledrive chunked upload: 21.9 % uploaded (13631488)
+0449.369 (0) The time we have been running (449.4) is approaching the resumption interval (479) - increasing resumption interval to 480
+0449.376 (0) Googledrive chunked upload: 23.6 % uploaded (14680064)
+0450.468 (0) The time we have been running (450.5) is approaching the resumption interval (480) - increasing resumption interval to 481
+0450.475 (0) Googledrive chunked upload: 25.3 % uploaded (15728640)
+0451.314 (0) The time we have been running (451.3) is approaching the resumption interval (481) - increasing resumption interval to 482
+0451.324 (0) Googledrive chunked upload: 26.9 % uploaded (16777216)
+0452.423 (0) The time we have been running (452.4) is approaching the resumption interval (482) - increasing resumption interval to 483
+0452.432 (0) Googledrive chunked upload: 28.6 % uploaded (17825792)
+0453.351 (0) The time we have been running (453.3) is approaching the resumption interval (483) - increasing resumption interval to 484
+0453.360 (0) Googledrive chunked upload: 30.3 % uploaded (18874368)
+0454.439 (0) The time we have been running (454.4) is approaching the resumption interval (484) - increasing resumption interval to 485
+0454.455 (0) Googledrive chunked upload: 32 % uploaded (19922944)
+0455.414 (0) The time we have been running (455.4) is approaching the resumption interval (485) - increasing resumption interval to 486
+0455.424 (0) Googledrive chunked upload: 33.7 % uploaded (20971520)
+0456.513 (0) The time we have been running (456.5) is approaching the resumption interval (486) - increasing resumption interval to 487
+0456.520 (0) Googledrive chunked upload: 35.4 % uploaded (22020096)
+0457.598 (0) The time we have been running (457.6) is approaching the resumption interval (487) - increasing resumption interval to 488
+0457.609 (0) Googledrive chunked upload: 37 % uploaded (23068672)
+0458.522 (0) The time we have been running (458.5) is approaching the resumption interval (488) - increasing resumption interval to 489
+0458.528 (0) Googledrive chunked upload: 38.7 % uploaded (24117248)
+0459.415 (0) The time we have been running (459.4) is approaching the resumption interval (489) - increasing resumption interval to 490
+0459.421 (0) Googledrive chunked upload: 40.4 % uploaded (25165824)
+0460.359 (0) The time we have been running (460.4) is approaching the resumption interval (490) - increasing resumption interval to 491
+0460.366 (0) Googledrive chunked upload: 42.1 % uploaded (26214400)
+0461.232 (0) The time we have been running (461.2) is approaching the resumption interval (491) - increasing resumption interval to 492
+0461.238 (0) Googledrive chunked upload: 43.8 % uploaded (27262976)
+0462.336 (0) The time we have been running (462.3) is approaching the resumption interval (492) - increasing resumption interval to 493
+0462.343 (0) Googledrive chunked upload: 45.5 % uploaded (28311552)
+0463.320 (0) The time we have been running (463.3) is approaching the resumption interval (493) - increasing resumption interval to 494
+0463.326 (0) Googledrive chunked upload: 47.1 % uploaded (29360128)
+0464.279 (0) The time we have been running (464.3) is approaching the resumption interval (494) - increasing resumption interval to 495
+0464.288 (0) Googledrive chunked upload: 48.8 % uploaded (30408704)
+0465.144 (0) The time we have been running (465.1) is approaching the resumption interval (495) - increasing resumption interval to 496
+0465.151 (0) Googledrive chunked upload: 50.5 % uploaded (31457280)
+0466.316 (0) The time we have been running (466.3) is approaching the resumption interval (496) - increasing resumption interval to 497
+0466.326 (0) Googledrive chunked upload: 52.2 % uploaded (32505856)
+0467.503 (0) The time we have been running (467.5) is approaching the resumption interval (497) - increasing resumption interval to 498
+0467.509 (0) Googledrive chunked upload: 53.9 % uploaded (33554432)
+0468.468 (0) The time we have been running (468.4) is approaching the resumption interval (498) - increasing resumption interval to 499
+0468.483 (0) Googledrive chunked upload: 55.6 % uploaded (34603008)
+0469.404 (0) The time we have been running (469.4) is approaching the resumption interval (499) - increasing resumption interval to 500
+0469.413 (0) Googledrive chunked upload: 57.2 % uploaded (35651584)
+0470.486 (0) The time we have been running (470.5) is approaching the resumption interval (500) - increasing resumption interval to 501
+0470.495 (0) Googledrive chunked upload: 58.9 % uploaded (36700160)
+0471.461 (0) The time we have been running (471.5) is approaching the resumption interval (501) - increasing resumption interval to 502
+0471.474 (0) Googledrive chunked upload: 60.6 % uploaded (37748736)
+0472.466 (0) The time we have been running (472.5) is approaching the resumption interval (502) - increasing resumption interval to 503
+0472.472 (0) Googledrive chunked upload: 62.3 % uploaded (38797312)
+0473.426 (0) The time we have been running (473.4) is approaching the resumption interval (503) - increasing resumption interval to 504
+0473.438 (0) Googledrive chunked upload: 64 % uploaded (39845888)
+0474.368 (0) The time we have been running (474.4) is approaching the resumption interval (504) - increasing resumption interval to 505
+0474.375 (0) Googledrive chunked upload: 65.7 % uploaded (40894464)
+0475.424 (0) The time we have been running (475.4) is approaching the resumption interval (505) - increasing resumption interval to 506
+0475.455 (0) Googledrive chunked upload: 67.3 % uploaded (41943040)
+0476.395 (0) The time we have been running (476.4) is approaching the resumption interval (506) - increasing resumption interval to 507
+0476.407 (0) Googledrive chunked upload: 69 % uploaded (42991616)
+0477.346 (0) The time we have been running (477.3) is approaching the resumption interval (507) - increasing resumption interval to 508
+0477.357 (0) Googledrive chunked upload: 70.7 % uploaded (44040192)
+0478.307 (0) The time we have been running (478.3) is approaching the resumption interval (508) - increasing resumption interval to 509
+0478.322 (0) Googledrive chunked upload: 72.4 % uploaded (45088768)
+0479.207 (0) The time we have been running (479.2) is approaching the resumption interval (509) - increasing resumption interval to 510
+0479.213 (0) Googledrive chunked upload: 74.1 % uploaded (46137344)
+0480.384 (0) The time we have been running (480.4) is approaching the resumption interval (510) - increasing resumption interval to 511
+0480.393 (0) Googledrive chunked upload: 75.8 % uploaded (47185920)
+0481.483 (0) The time we have been running (481.5) is approaching the resumption interval (511) - increasing resumption interval to 512
+0481.489 (0) Googledrive chunked upload: 77.4 % uploaded (48234496)
+0482.390 (0) The time we have been running (482.4) is approaching the resumption interval (512) - increasing resumption interval to 513
+0482.398 (0) Googledrive chunked upload: 79.1 % uploaded (49283072)
+0483.253 (0) The time we have been running (483.2) is approaching the resumption interval (513) - increasing resumption interval to 514
+0483.264 (0) Googledrive chunked upload: 80.8 % uploaded (50331648)
+0484.186 (0) The time we have been running (484.2) is approaching the resumption interval (514) - increasing resumption interval to 515
+0484.197 (0) Googledrive chunked upload: 82.5 % uploaded (51380224)
+0485.117 (0) The time we have been running (485.1) is approaching the resumption interval (515) - increasing resumption interval to 516
+0485.123 (0) Googledrive chunked upload: 84.2 % uploaded (52428800)
+0486.068 (0) The time we have been running (486.1) is approaching the resumption interval (516) - increasing resumption interval to 517
+0486.079 (0) Googledrive chunked upload: 85.9 % uploaded (53477376)
+0487.013 (0) The time we have been running (487) is approaching the resumption interval (517) - increasing resumption interval to 518
+0487.020 (0) Googledrive chunked upload: 87.5 % uploaded (54525952)
+0487.902 (0) Googledrive chunked upload: 89.2 % uploaded (55574528)
+0488.769 (0) The time we have been running (488.8) is approaching the resumption interval (518) - increasing resumption interval to 519
+0488.782 (0) Googledrive chunked upload: 90.9 % uploaded (56623104)
+0489.821 (0) The time we have been running (489.8) is approaching the resumption interval (519) - increasing resumption interval to 520
+0489.830 (0) Googledrive chunked upload: 92.6 % uploaded (57671680)
+0490.670 (0) The time we have been running (490.7) is approaching the resumption interval (520) - increasing resumption interval to 521
+0490.677 (0) Googledrive chunked upload: 94.3 % uploaded (58720256)
+0491.598 (0) The time we have been running (491.6) is approaching the resumption interval (521) - increasing resumption interval to 522
+0491.606 (0) Googledrive chunked upload: 96 % uploaded (59768832)
+0492.502 (0) The time we have been running (492.5) is approaching the resumption interval (522) - increasing resumption interval to 523
+0492.517 (0) Googledrive chunked upload: 97.6 % uploaded (60817408)
+0493.458 (0) The time we have been running (493.4) is approaching the resumption interval (523) - increasing resumption interval to 524
+0493.469 (0) Googledrive chunked upload: 99.3 % uploaded (61865984)
+0496.163 (0) The time we have been running (496.1) is approaching the resumption interval (524) - increasing resumption interval to 527
+0496.181 (0) Googledrive chunked upload: 100 % uploaded (61865984)
+0496.203 (0) Google Drive: OK: Archive backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip uploaded in 61.75 seconds
+0496.209 (0) Recording as successfully uploaded: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip
+0496.245 (0) Deleting local file: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-plugins.zip: OK
+0496.868 (0) Google Drive: quota usage: used=76706.6 MB, total=204800 MB, available=128093.4 MB
+0496.874 (0) Google Drive: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-themes.zip: Attempting to upload to Google Drive (into folder id: 1RTBy2o_Lvl5PPaJClLN7vhG2BL090MeS)
+0498.643 (0) The time we have been running (498.6) is approaching the resumption interval (527) - increasing resumption interval to 529
+0498.650 (0) Googledrive chunked upload: 17.7 % uploaded (1048576)
+0499.691 (0) The time we have been running (499.7) is approaching the resumption interval (529) - increasing resumption interval to 530
+0499.707 (0) Googledrive chunked upload: 35.3 % uploaded (2097152)
+0500.601 (0) The time we have been running (500.6) is approaching the resumption interval (530) - increasing resumption interval to 531
+0500.618 (0) Googledrive chunked upload: 53 % uploaded (3145728)
+0501.524 (0) The time we have been running (501.5) is approaching the resumption interval (531) - increasing resumption interval to 532
+0501.531 (0) Googledrive chunked upload: 70.7 % uploaded (4194304)
+0502.540 (0) The time we have been running (502.5) is approaching the resumption interval (532) - increasing resumption interval to 533
+0502.550 (0) Googledrive chunked upload: 88.4 % uploaded (5242880)
+0505.110 (0) The time we have been running (505.1) is approaching the resumption interval (533) - increasing resumption interval to 536
+0505.125 (0) Googledrive chunked upload: 100 % uploaded (5242880)
+0505.148 (0) Google Drive: OK: Archive backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-themes.zip uploaded in 8.27 seconds
+0505.156 (0) Recording as successfully uploaded: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-themes.zip
+0505.173 (0) Deleting local file: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-themes.zip: OK
+0505.821 (0) Google Drive: quota usage: used=76712.2 MB, total=204800 MB, available=128087.8 MB
+0505.825 (0) Google Drive: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-uploads.zip: Attempting to upload to Google Drive (into folder id: 1RTBy2o_Lvl5PPaJClLN7vhG2BL090MeS)
+0507.646 (0) The time we have been running (507.6) is approaching the resumption interval (536) - increasing resumption interval to 538
+0507.664 (0) Googledrive chunked upload: 1.2 % uploaded (1048576)
+0508.738 (0) The time we have been running (508.7) is approaching the resumption interval (538) - increasing resumption interval to 539
+0508.746 (0) Googledrive chunked upload: 2.5 % uploaded (2097152)
+0509.850 (0) The time we have been running (509.8) is approaching the resumption interval (539) - increasing resumption interval to 540
+0509.875 (0) Googledrive chunked upload: 3.7 % uploaded (3145728)
+0516.032 (0) The time we have been running (516) is approaching the resumption interval (540) - increasing resumption interval to 547
+0516.047 (0) Googledrive chunked upload: 5 % uploaded (4194304)
+0517.135 (0) The time we have been running (517.1) is approaching the resumption interval (547) - increasing resumption interval to 548
+0517.143 (0) Googledrive chunked upload: 6.2 % uploaded (5242880)
+0518.230 (0) The time we have been running (518.2) is approaching the resumption interval (548) - increasing resumption interval to 549
+0518.240 (0) Googledrive chunked upload: 7.4 % uploaded (6291456)
+0519.169 (0) The time we have been running (519.2) is approaching the resumption interval (549) - increasing resumption interval to 550
+0519.182 (0) Googledrive chunked upload: 8.7 % uploaded (7340032)
+0520.271 (0) The time we have been running (520.2) is approaching the resumption interval (550) - increasing resumption interval to 551
+0520.288 (0) Googledrive chunked upload: 9.9 % uploaded (8388608)
+0521.211 (0) The time we have been running (521.2) is approaching the resumption interval (551) - increasing resumption interval to 552
+0521.219 (0) Googledrive chunked upload: 11.2 % uploaded (9437184)
+0522.289 (0) The time we have been running (522.3) is approaching the resumption interval (552) - increasing resumption interval to 553
+0522.301 (0) Googledrive chunked upload: 12.4 % uploaded (10485760)
+0523.355 (0) The time we have been running (523.3) is approaching the resumption interval (553) - increasing resumption interval to 554
+0523.363 (0) Googledrive chunked upload: 13.6 % uploaded (11534336)
+0524.360 (0) The time we have been running (524.3) is approaching the resumption interval (554) - increasing resumption interval to 555
+0524.366 (0) Googledrive chunked upload: 14.9 % uploaded (12582912)
+0525.417 (0) The time we have been running (525.4) is approaching the resumption interval (555) - increasing resumption interval to 556
+0525.424 (0) Googledrive chunked upload: 16.1 % uploaded (13631488)
+0526.284 (0) The time we have been running (526.3) is approaching the resumption interval (556) - increasing resumption interval to 557
+0526.290 (0) Googledrive chunked upload: 17.4 % uploaded (14680064)
+0527.523 (0) The time we have been running (527.5) is approaching the resumption interval (557) - increasing resumption interval to 558
+0527.539 (0) Googledrive chunked upload: 18.6 % uploaded (15728640)
+0528.431 (0) The time we have been running (528.4) is approaching the resumption interval (558) - increasing resumption interval to 559
+0528.440 (0) Googledrive chunked upload: 19.9 % uploaded (16777216)
+0529.570 (0) The time we have been running (529.6) is approaching the resumption interval (559) - increasing resumption interval to 560
+0529.577 (0) Googledrive chunked upload: 21.1 % uploaded (17825792)
+0530.447 (0) The time we have been running (530.4) is approaching the resumption interval (560) - increasing resumption interval to 561
+0530.454 (0) Googledrive chunked upload: 22.3 % uploaded (18874368)
+0531.546 (0) The time we have been running (531.5) is approaching the resumption interval (561) - increasing resumption interval to 562
+0531.553 (0) Googledrive chunked upload: 23.6 % uploaded (19922944)
+0532.671 (0) The time we have been running (532.7) is approaching the resumption interval (562) - increasing resumption interval to 563
+0532.679 (0) Googledrive chunked upload: 24.8 % uploaded (20971520)
+0533.635 (0) The time we have been running (533.6) is approaching the resumption interval (563) - increasing resumption interval to 564
+0533.644 (0) Googledrive chunked upload: 26.1 % uploaded (22020096)
+0534.660 (0) The time we have been running (534.6) is approaching the resumption interval (564) - increasing resumption interval to 565
+0534.673 (0) Googledrive chunked upload: 27.3 % uploaded (23068672)
+0535.566 (0) The time we have been running (535.6) is approaching the resumption interval (565) - increasing resumption interval to 566
+0535.578 (0) Googledrive chunked upload: 28.5 % uploaded (24117248)
+0536.693 (0) The time we have been running (536.7) is approaching the resumption interval (566) - increasing resumption interval to 567
+0536.705 (0) Googledrive chunked upload: 29.8 % uploaded (25165824)
+0537.840 (0) The time we have been running (537.8) is approaching the resumption interval (567) - increasing resumption interval to 568
+0537.849 (0) Googledrive chunked upload: 31 % uploaded (26214400)
+0538.777 (0) The time we have been running (538.8) is approaching the resumption interval (568) - increasing resumption interval to 569
+0538.784 (0) Googledrive chunked upload: 32.3 % uploaded (27262976)
+0539.783 (0) The time we have been running (539.8) is approaching the resumption interval (569) - increasing resumption interval to 570
+0539.792 (0) Googledrive chunked upload: 33.5 % uploaded (28311552)
+0540.665 (0) The time we have been running (540.7) is approaching the resumption interval (570) - increasing resumption interval to 571
+0540.673 (0) Googledrive chunked upload: 34.7 % uploaded (29360128)
+0541.613 (0) The time we have been running (541.6) is approaching the resumption interval (571) - increasing resumption interval to 572
+0541.640 (0) Googledrive chunked upload: 36 % uploaded (30408704)
+0542.544 (0) The time we have been running (542.5) is approaching the resumption interval (572) - increasing resumption interval to 573
+0542.555 (0) Googledrive chunked upload: 37.2 % uploaded (31457280)
+0543.455 (0) The time we have been running (543.4) is approaching the resumption interval (573) - increasing resumption interval to 574
+0543.463 (0) Googledrive chunked upload: 38.5 % uploaded (32505856)
+0544.424 (0) The time we have been running (544.4) is approaching the resumption interval (574) - increasing resumption interval to 575
+0544.431 (0) Googledrive chunked upload: 39.7 % uploaded (33554432)
+0545.352 (0) The time we have been running (545.3) is approaching the resumption interval (575) - increasing resumption interval to 576
+0545.360 (0) Googledrive chunked upload: 40.9 % uploaded (34603008)
+0546.226 (0) The time we have been running (546.2) is approaching the resumption interval (576) - increasing resumption interval to 577
+0546.234 (0) Googledrive chunked upload: 42.2 % uploaded (35651584)
+0547.283 (0) The time we have been running (547.3) is approaching the resumption interval (577) - increasing resumption interval to 578
+0547.295 (0) Googledrive chunked upload: 43.4 % uploaded (36700160)
+0548.205 (0) The time we have been running (548.2) is approaching the resumption interval (578) - increasing resumption interval to 579
+0548.212 (0) Googledrive chunked upload: 44.7 % uploaded (37748736)
+0549.157 (0) The time we have been running (549.1) is approaching the resumption interval (579) - increasing resumption interval to 580
+0549.167 (0) Googledrive chunked upload: 45.9 % uploaded (38797312)
+0550.151 (0) The time we have been running (550.1) is approaching the resumption interval (580) - increasing resumption interval to 581
+0550.162 (0) Googledrive chunked upload: 47.1 % uploaded (39845888)
+0551.153 (0) The time we have been running (551.1) is approaching the resumption interval (581) - increasing resumption interval to 582
+0551.160 (0) Googledrive chunked upload: 48.4 % uploaded (40894464)
+0552.105 (0) The time we have been running (552.1) is approaching the resumption interval (582) - increasing resumption interval to 583
+0552.112 (0) Googledrive chunked upload: 49.6 % uploaded (41943040)
+0553.073 (0) The time we have been running (553.1) is approaching the resumption interval (583) - increasing resumption interval to 584
+0553.081 (0) Googledrive chunked upload: 50.9 % uploaded (42991616)
+0554.036 (0) The time we have been running (554) is approaching the resumption interval (584) - increasing resumption interval to 585
+0554.043 (0) Googledrive chunked upload: 52.1 % uploaded (44040192)
+0555.165 (0) The time we have been running (555.1) is approaching the resumption interval (585) - increasing resumption interval to 586
+0555.176 (0) Googledrive chunked upload: 53.4 % uploaded (45088768)
+0556.100 (0) The time we have been running (556.1) is approaching the resumption interval (586) - increasing resumption interval to 587
+0556.115 (0) Googledrive chunked upload: 54.6 % uploaded (46137344)
+0556.988 (0) Googledrive chunked upload: 55.8 % uploaded (47185920)
+0557.959 (0) The time we have been running (557.9) is approaching the resumption interval (587) - increasing resumption interval to 588
+0557.968 (0) Googledrive chunked upload: 57.1 % uploaded (48234496)
+0558.827 (0) The time we have been running (558.8) is approaching the resumption interval (588) - increasing resumption interval to 589
+0558.834 (0) Googledrive chunked upload: 58.3 % uploaded (49283072)
+0559.718 (0) The time we have been running (559.7) is approaching the resumption interval (589) - increasing resumption interval to 590
+0559.730 (0) Googledrive chunked upload: 59.6 % uploaded (50331648)
+0560.815 (0) The time we have been running (560.8) is approaching the resumption interval (590) - increasing resumption interval to 591
+0560.825 (0) Googledrive chunked upload: 60.8 % uploaded (51380224)
+0561.903 (0) The time we have been running (561.9) is approaching the resumption interval (591) - increasing resumption interval to 592
+0561.910 (0) Googledrive chunked upload: 62 % uploaded (52428800)
+0562.859 (0) The time we have been running (562.8) is approaching the resumption interval (592) - increasing resumption interval to 593
+0562.869 (0) Googledrive chunked upload: 63.3 % uploaded (53477376)
+0563.768 (0) The time we have been running (563.8) is approaching the resumption interval (593) - increasing resumption interval to 594
+0563.781 (0) Googledrive chunked upload: 64.5 % uploaded (54525952)
+0564.643 (0) The time we have been running (564.6) is approaching the resumption interval (594) - increasing resumption interval to 595
+0564.658 (0) Googledrive chunked upload: 65.8 % uploaded (55574528)
+0565.676 (0) The time we have been running (565.6) is approaching the resumption interval (595) - increasing resumption interval to 596
+0565.689 (0) Googledrive chunked upload: 67 % uploaded (56623104)
+0566.706 (0) The time we have been running (566.7) is approaching the resumption interval (596) - increasing resumption interval to 597
+0566.713 (0) Googledrive chunked upload: 68.2 % uploaded (57671680)
+0567.684 (0) The time we have been running (567.7) is approaching the resumption interval (597) - increasing resumption interval to 598
+0567.691 (0) Googledrive chunked upload: 69.5 % uploaded (58720256)
+0568.545 (0) The time we have been running (568.5) is approaching the resumption interval (598) - increasing resumption interval to 599
+0568.555 (0) Googledrive chunked upload: 70.7 % uploaded (59768832)
+0569.484 (0) The time we have been running (569.5) is approaching the resumption interval (599) - increasing resumption interval to 600
+0569.492 (0) Googledrive chunked upload: 72 % uploaded (60817408)
+0570.459 (0) The time we have been running (570.5) is approaching the resumption interval (600) - increasing resumption interval to 601
+0570.467 (0) Googledrive chunked upload: 73.2 % uploaded (61865984)
+0571.543 (0) The time we have been running (571.5) is approaching the resumption interval (601) - increasing resumption interval to 602
+0571.554 (0) Googledrive chunked upload: 74.4 % uploaded (62914560)
+0572.559 (0) The time we have been running (572.5) is approaching the resumption interval (602) - increasing resumption interval to 603
+0572.570 (0) Googledrive chunked upload: 75.7 % uploaded (63963136)
+0573.643 (0) The time we have been running (573.6) is approaching the resumption interval (603) - increasing resumption interval to 604
+0573.650 (0) Googledrive chunked upload: 76.9 % uploaded (65011712)
+0574.522 (0) The time we have been running (574.5) is approaching the resumption interval (604) - increasing resumption interval to 605
+0574.532 (0) Googledrive chunked upload: 78.2 % uploaded (66060288)
+0575.432 (0) The time we have been running (575.4) is approaching the resumption interval (605) - increasing resumption interval to 606
+0575.442 (0) Googledrive chunked upload: 79.4 % uploaded (67108864)
+0576.377 (0) The time we have been running (576.4) is approaching the resumption interval (606) - increasing resumption interval to 607
+0576.385 (0) Googledrive chunked upload: 80.6 % uploaded (68157440)
+0577.451 (0) The time we have been running (577.4) is approaching the resumption interval (607) - increasing resumption interval to 608
+0577.458 (0) Googledrive chunked upload: 81.9 % uploaded (69206016)
+0578.299 (0) The time we have been running (578.3) is approaching the resumption interval (608) - increasing resumption interval to 609
+0578.307 (0) Googledrive chunked upload: 83.1 % uploaded (70254592)
+0579.388 (0) The time we have been running (579.4) is approaching the resumption interval (609) - increasing resumption interval to 610
+0579.396 (0) Googledrive chunked upload: 84.4 % uploaded (71303168)
+0580.326 (0) The time we have been running (580.3) is approaching the resumption interval (610) - increasing resumption interval to 611
+0580.336 (0) Googledrive chunked upload: 85.6 % uploaded (72351744)
+0581.467 (0) The time we have been running (581.5) is approaching the resumption interval (611) - increasing resumption interval to 612
+0581.480 (0) Googledrive chunked upload: 86.9 % uploaded (73400320)
+0582.584 (0) The time we have been running (582.6) is approaching the resumption interval (612) - increasing resumption interval to 613
+0582.591 (0) Googledrive chunked upload: 88.1 % uploaded (74448896)
+0583.541 (0) The time we have been running (583.5) is approaching the resumption interval (613) - increasing resumption interval to 614
+0583.561 (0) Googledrive chunked upload: 89.3 % uploaded (75497472)
+0584.735 (0) The time we have been running (584.7) is approaching the resumption interval (614) - increasing resumption interval to 615
+0584.760 (0) Googledrive chunked upload: 90.6 % uploaded (76546048)
+0585.875 (0) The time we have been running (585.9) is approaching the resumption interval (615) - increasing resumption interval to 616
+0585.891 (0) Googledrive chunked upload: 91.8 % uploaded (77594624)
+0587.054 (0) The time we have been running (587) is approaching the resumption interval (616) - increasing resumption interval to 618
+0587.069 (0) Googledrive chunked upload: 93.1 % uploaded (78643200)
+0588.145 (0) The time we have been running (588.1) is approaching the resumption interval (618) - increasing resumption interval to 619
+0588.151 (0) Googledrive chunked upload: 94.3 % uploaded (79691776)
+0589.112 (0) The time we have been running (589.1) is approaching the resumption interval (619) - increasing resumption interval to 620
+0589.127 (0) Googledrive chunked upload: 95.5 % uploaded (80740352)
+0590.107 (0) The time we have been running (590.1) is approaching the resumption interval (620) - increasing resumption interval to 621
+0590.118 (0) Googledrive chunked upload: 96.8 % uploaded (81788928)
+0591.039 (0) The time we have been running (591) is approaching the resumption interval (621) - increasing resumption interval to 622
+0591.050 (0) Googledrive chunked upload: 98 % uploaded (82837504)
+0591.887 (0) Googledrive chunked upload: 99.3 % uploaded (83886080)
+0594.221 (0) The time we have been running (594.2) is approaching the resumption interval (622) - increasing resumption interval to 625
+0594.232 (0) Googledrive chunked upload: 100 % uploaded (83886080)
+0594.244 (0) Google Drive: OK: Archive backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-uploads.zip uploaded in 88.42 seconds
+0594.248 (0) Recording as successfully uploaded: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-uploads.zip
+0594.289 (0) Deleting local file: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-uploads.zip: OK
+0594.867 (0) Google Drive: quota usage: used=76792.8 MB, total=204800 MB, available=128007.2 MB
+0594.874 (0) Google Drive: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-others.zip: Attempting to upload to Google Drive (into folder id: 1RTBy2o_Lvl5PPaJClLN7vhG2BL090MeS)
+0597.515 (0) The time we have been running (597.5) is approaching the resumption interval (625) - increasing resumption interval to 628
+0597.526 (0) Googledrive chunked upload: 100 % uploaded
+0597.541 (0) Google Drive: OK: Archive backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-others.zip uploaded in 2.66 seconds
+0597.546 (0) Recording as successfully uploaded: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-others.zip
+0597.558 (0) Deleting local file: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-others.zip: OK
+0598.373 (0) Google Drive: quota usage: used=76792.8 MB, total=204800 MB, available=128007.2 MB
+0598.377 (0) Google Drive: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db.gz: Attempting to upload to Google Drive (into folder id: 1RTBy2o_Lvl5PPaJClLN7vhG2BL090MeS)
+0600.317 (0) The time we have been running (600.3) is approaching the resumption interval (628) - increasing resumption interval to 631
+0600.325 (0) Googledrive chunked upload: 59.5 % uploaded (1048576)
+0602.565 (0) The time we have been running (602.6) is approaching the resumption interval (631) - increasing resumption interval to 633
+0602.572 (0) Googledrive chunked upload: 100 % uploaded (1048576)
+0602.583 (0) Google Drive: OK: Archive backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db.gz uploaded in 4.2 seconds
+0602.585 (0) Recording as successfully uploaded: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db.gz
+0602.592 (0) Deleting local file: backup_2019-09-17-0543_Australian_Antennas_d7dcd895cbde-db.gz: OK
+0602.603 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0602.607 (0) Number of backup sets in history: 1; groups (db): 1
+0602.610 (0) Examining (for databases) backup set with group_id=0, nonce=d7dcd895cbde, datestamp=1568698994 (Sep 17 2019 05:43:14)
+0602.613 (0) This backup set is the backup set just made, so will not be deleted.
+0602.613 (0) Number of backup sets in history: 1; groups (files): 1
+0602.616 (0) Examining (for files) backup set with nonce=d7dcd895cbde, datestamp=1568698994 (Sep 17 2019 05:43:14)
+0602.616 (0) This backup set is the backup set just made, so will not be deleted.
+0602.618 (0) This backup set is the backup set just made, so will not be deleted.
+0602.619 (0) This backup set is the backup set just made, so will not be deleted.
+0602.619 (0) This backup set is the backup set just made, so will not be deleted.
+0602.620 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0602.622 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0602.630 (0) Resume backup (d7dcd895cbde, 0): finish run
+0602.641 (0) Decremented the semaphore (fd) by 1
+0602.649 (0) Semaphore (fd) unlocked
+0602.654 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0602.667 (0) No email will/can be sent - the user has not configured an email address.
+0602.670 (0) The backup apparently succeeded and is now complete

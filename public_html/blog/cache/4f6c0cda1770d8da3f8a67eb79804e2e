@@ -1,0 +1,268 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3266:"But those roles were limited in scope. For centuries, the defining role of the library has been as a repository of books. Many believe it is the same because it is a “core” mission (whatever that means in a 21st Century context). School library media centers in the 21st century can, and should be, hubs for increased student achievement and positive focused school reform--Kathleen D. Smith . 14] (Matthews, Stephen. Research links effective school libraries to improved student learning and academic success. Create an integrated library policy to guide decision-making and strategic planning and The starting point of this research was to understand how people currently use their libraries. 2009 Municipal Affairs, Positioning Alberta Libraries for the 21st Century 4 The MLA Committee makes the following recommendations to the Government of Alberta: Create an overarching library policy 1. 21st-Century Libraries: The Learning Commons From Library to Learning Commons. These workshops are offered all around the world. - Kimberley Mathews.  Libraries are welcoming spaces inviting us towards information, and they provide services that help us understand it. In the past 12 months, 53% of Americans ages 16 and older visited a library or bookmobile; 25% visited a library website; and 13% used a handheld device such as a smartphone or tablet computer to access a library website. (2013). Wouldn’t repositioning a library that is using a traditional 20th Century model to a library using a 21st Century model appropriately necessitate a strategic plan? As well as emphasising the need for the physical and the digital to sit side by side, it finds that the 21st century public library service will be one in which “local people are more active and involved in its design and delivery.” A sense of community, always a defining feature of libraries, has renewed importance. A good summary is provided in School libraries and teacher-librarians: evidence of their contribution to student literacy and learning (2013).. [Pg. Here’s a sample of the association’s framework, also included in “Confronting the Future: Strategic Visions for the 21st Century Public Library”: 1.) Extending the … Physical to Virtual In the past, libraries have existed exclusively as physical spaces, but this is changing as content moves online and libraries take steps to better meet community needs. Research. PUBLIC LIBRARIES AND INNOVATIVE THINKING IN THE 21ST CENTURY Christelle Lubbe Chief Librarian: Bellville Public Library City of Cape Town . In the 21st century, libraries have to perform pivotal roles in disseminating and sharing the culture of knowledge. Gene Carter School libraries. Purpose. Since the founding of our country, libraries have always been important to freedom. In the 21st century, school libraries are re-engineering themselves to focus on learning, curriculum and the skills needed for 21st century … The days are long gone when a library can, passively, assume that it will be recognized as an asset without having to defend that proposition and prove its worth. IT STARTS WITH AN IDEA…. PUBLIC LIBRARIES AND INNOVATIVE THINKING IN THE 21ST CENTURY Christelle Lubbe Chief Librarian: Bellville Public Library City of Cape Town . ";s:7:"keyword";s:36:"purpose of libraries in 21st century";s:5:"links";s:11844:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dark-blue-feature-wall-living-room'>Dark Blue Feature Wall Living Room</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=tandoori-chicken-gravy-recipe-sanjeev-kapoor'>Tandoori Chicken Gravy Recipe Sanjeev Kapoor</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=batman-beyond-return-of-the-joker-uncut'>Batman Beyond Return Of The Joker Uncut</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=An-Enemy-of-the-People'>An Enemy Of The People</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=paneer-butter-masala-in-tamil-home-cooking'>Paneer Butter Masala In Tamil Home Cooking</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=st-albert-weather-14-day'>St Albert Weather 14 Day</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ladies-swimming-pool-in-surat'>Ladies Swimming Pool In Surat</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=south-seattle-homes-for-sale'>South Seattle Homes For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=delonghi-esam3300-magnifica-coffee-maker-with-grinder'>Delonghi Esam3300 Magnifica Coffee Maker With Grinder</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=new-homes-in-rolling-hills-green-cove-springs'>New Homes In Rolling Hills Green Cove Springs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=williams-sonoma-holiday-catalog-2019'>Williams Sonoma Holiday Catalog 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=johnson-and-johnson-baby-box'>Johnson And Johnson Baby Box</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chopped-junior-sign-up-2020'>Chopped Junior Sign Up 2020</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=isle-royale-extended-weather-forecast'>Isle Royale Extended Weather Forecast</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=python-user-defined-functions-examples'>Python User Defined Functions Examples</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=maroon-5-wait-song-download'>Maroon 5 Wait Song Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wedding-facial-tips-in-tamil'>Wedding Facial Tips In Tamil</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-start-an-urban-garden'>How To Start An Urban Garden</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-run-junit-in-eclipse-step-by-step'>How To Run Junit In Eclipse Step By Step</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=karcher-1800-psi-pressure-washer-parts'>Karcher 1800 Psi Pressure Washer Parts</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sanjeev-kapoor-khana-khazana-vegetarian-recipes-in-hindi'>Sanjeev Kapoor Khana Khazana Vegetarian Recipes In Hindi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=holiday-inn-part-time-jobs'>Holiday Inn Part Time Jobs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=artificial-satellite-meaning-in-hindi'>Artificial Satellite Meaning In Hindi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rachael-ray-wet-cat-food-ingredients'>Rachael Ray Wet Cat Food Ingredients</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-clean-a-house-professionally'>How To Clean A House Professionally</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-mini-fridge-for-bedroom'>Best Mini Fridge For Bedroom</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-cabinet-doors-from-plywood'>How To Make Cabinet Doors From Plywood</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-east-london-events'>University Of East London Events</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=twin-mattress-under-50-dollars'>Twin Mattress Under 50 Dollars</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-artist-that-painted-the-kiss'>The Artist That Painted The Kiss</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=south-shore-platform-queen-bed-assembly-instructions-pdf'>South Shore Platform Queen Bed Assembly Instructions Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-sheffield-world-ranking-2020'>University Of Sheffield World Ranking 2020</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=honey-i-shrunk-the-kids-series'>Honey I Shrunk The Kids Series</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=adyen-marketpay-vs-stripe-connect'>Adyen Marketpay Vs Stripe Connect</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ebay-global-shipping-program-uk'>Ebay Global Shipping Program Uk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-is-polyester-material-like'>What Is Polyester Material Like</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=main-dish-casseroles-for-entertaining'>Main Dish Casseroles For Entertaining</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=2018-ram-1500-bed-dimensions'>2018 Ram 1500 Bed Dimensions</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lg-water-filter-home-depot'>Lg Water Filter Home Depot</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kitchen-side-table-with-storage'>Kitchen Side Table With Storage</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=american-red-cross-phone-number'>American Red Cross Phone Number</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=tampines-1-vs-tampines-mall'>Tampines 1 Vs Tampines Mall</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=strongest-man-in-the-world'>Strongest Man In The World</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=study-of-plant-families-pdf'>Study Of Plant Families Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-much-alcohol-is-safe-to-drink-daily'>How Much Alcohol Is Safe To Drink Daily</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-drowned-and-the-saved'>The Drowned And The Saved</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=health-benefits-of-roasted-peanuts'>Health Benefits Of Roasted Peanuts</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=big-lots-fire-pit-dining-table'>Big Lots Fire Pit Dining Table</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=download-autocad-2016-crack-with-full-setup'>Download Autocad 2016 Crack With Full Setup</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rubbermaid-50-piece-set-take-along'>Rubbermaid 50 Piece Set Take Along</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hydrochloric-acid-to-clean-toilet-bowl'>Hydrochloric Acid To Clean Toilet Bowl</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mung-bean-benefits-for-skin'>Mung Bean Benefits For Skin</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philips-healthcare-corporate-office-usa'>Philips Healthcare Corporate Office Usa</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-country-is-the-land-of-nod'>What Country Is The Land Of Nod</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ikea-furniture-names-in-deadpool'>Ikea Furniture Names In Deadpool</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wipro-led-bulb-service-center-near-me'>Wipro Led Bulb Service Center Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=it-chapter-2-age-rating'>It Chapter 2 Age Rating</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=space-saving-vegetable-garden-ideas'>Space Saving Vegetable Garden Ideas</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=betty-crocker-cake-mix-cupcakes'>Betty Crocker Cake Mix Cupcakes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=programa-para-dise%C3%B1o-de-interiores-online'>Programa Para Diseño De Interiores Online</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=museum-of-illusions-new-york'>Museum Of Illusions New York</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=city-of-fort-saskatchewan-employees'>City Of Fort Saskatchewan Employees</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-all-mesh-office-chair'>Best All Mesh Office Chair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philips-40-watt-fluorescent-tube-light-price'>Philips 40 Watt Fluorescent Tube Light Price</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-is-cold-storage-in-agriculture'>What Is Cold Storage In Agriculture</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-eat-asparagus-in-salad'>How To Eat Asparagus In Salad</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-do-you-say-lamp-in-spanish'>How Do You Say Lamp In Spanish</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=yorkshire-pudding-recipe-gordon-ramsay'>Yorkshire Pudding Recipe Gordon Ramsay</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=diy-makeup-brush-holder-with-lid'>Diy Makeup Brush Holder With Lid</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=white-and-rose-gold-office-chair'>White And Rose Gold Office Chair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=solid-oak-extending-dining-table-and-6-chairs'>Solid Oak Extending Dining Table And 6 Chairs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=Name-of-plants-with-pictures'>Name Of Plants With Pictures</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=blue-velvet-chaise-lounge-chair'>Blue Velvet Chaise Lounge Chair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=alison-roman-cookbook-nothing-fancy'>Alison Roman Cookbook Nothing Fancy</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=convert-dining-room-into-lounge'>Convert Dining Room Into Lounge</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fiddle-leaf-fig-support-stick'>Fiddle Leaf Fig Support Stick</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=indoor-wooden-benches-with-backs'>Indoor Wooden Benches With Backs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=Voyage-to-the-Bottom-of-the-Sea'>Voyage To The Bottom Of The Sea</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-tile-for-pool-waterline'>Best Tile For Pool Waterline</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=large-chest-of-drawers-for-sale'>Large Chest Of Drawers For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ellington-dining-set-big-lots'>Ellington Dining Set Big Lots</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=can-you-lay-new-carpet-over-old-underlay'>Can You Lay New Carpet Over Old Underlay</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=a-little-history-of-economics-pdf-download'>A Little History Of Economics Pdf Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=distressed-red-brick-peel-and-stick-wallpaper'>Distressed Red Brick Peel And Stick Wallpaper</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=royal-veterinary-college-calendar-2020'>Royal Veterinary College Calendar 2020</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wall-art-designs-for-hall'>Wall Art Designs For Hall</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=williams-sonoma-job-fair-2019'>Williams Sonoma Job Fair 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=summer-vacation-rentals-in-aspen-colorado'>Summer Vacation Rentals In Aspen Colorado</a>,
+";s:7:"expired";i:-1;}

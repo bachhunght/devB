@@ -1,0 +1,264 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:5215:" This is in excellent agreement with our observations for both spider dragline and silkworm silk fibers, and explains the fact that the spider dragline silk fibers having a lower crystallinity are much stronger than silkworm silk fibers. As is evident, the tensile strength of spider silk is much lower than Kevlar but higher than steel. How is spider silk so strong? Spider Silk Is Strong Because It's Smart. Spider silk is a remarkably strong material; the strongest natually-occurring fiber known. ... Just how such small spiders can make a material so strong … Spider webs have a very complex design. A spider web, spiderweb, spider's web, or cobweb is a device created by a spider out of spider silk extruded from its spinnerets. Scientists believe that it could one day be used to make all sorts of advanced products, from replacements for steel cables to lightweight body armor for soldiers. The golden orb-weaving spider’s silk … The way the web is built means that if a single strand of web breaks, the strength of the web actually increases. Also, while the synthetic spider silk acted much like the real thing, it had lower toughness and tensile strength than its natural counterpart, meaning it breaks more easily. Spider silk is not stronger than steel. Spider (dragline) silk is unique in that it has a relatively high strength (still much weaker than kevlar), and relatively high extensibility (but not as stretchy as say a rubber band). Spider silk is a remarkably strong material. It’s so thin and light! It is stronger than steel and tougher than Kevlar yet flexible enough to be spun into a wide variety of shapes. Its tensile strength is comparable to that of high-grade steel. "One possible way to increase the toughness could be to spin NT2RepCT fibers with diameters closer to that of … Some varieties are five times as strong as an equal mass of steel and twice as strong as an equal mass of Kevlar. Pound for pound, spider silk is stronger than steel. Silk can also be coated with various substances suited for different purposes. Also, each spider makes very little silk, so you would need hundreds of them to get a single gram of silk. Plus, it's lightweight and very flexible. The different silks have unique physical properties such as strength, toughness and elasticity, but all are very strong compared to other natural and synthetic materials. The web of a large Australian spider is so strong it could be used for skin grafts and bulletproof clothing. Spider silk has the ability to absorb immense amounts of kinetic energy, which means that it’s great for blast protection. Spider silk is an extremely strong material and is on weight basis much stronger than steel but also lighter and more flexible . Dragline silk combines toughness and strength to an extraordinary degree. The silk protein comes out of the spider as a liquid, then becomes a solid string that can be used for lots of different jobs. Spider silk is very strong, but so is your hair. It’s so strong, Indian and South Korean researchers are using it to create nano-scale piezoelectric generators. This has attracted the attention of scientists in a number of fields, but up until recently, humans … Spider silk is pretty strong stuff. At best, spider silk might compare to steel when it comes to tensile strength, which is the largest stress that a material can withstand before breaking. Today's body armor used by soldiers can be quite heavy. Spider silk is a fibre secreted by spiders. Density: Strong as it is, the silk is also incredibly light. But the champion constructor of the spider world is the Darwin bark spider. In an article in Nanowerk, the researchers reported getting spider silk molecules to generate an electric charge when placed under physical pressure. It is much lighter than steel itself, and its density (1.31 g/cm3) is actually one-sixth of the density of steel. Super strong silk. Spider silk is incredibly strong and flexible. Although silk is very strong, that's not the only important factor in a web's strength. This results in a much higher overall toughness that is rarely observed. New research shows that the material is not only strong but also smart. Silk is made of protein. Its tensile strength is comparable to that of high-grade steel — according to Nature,spider silk has a tensile strength of roughly 1.3 GPa, while one source lists a tensile strength … There are many kinds of proteins that animals make to form all sorts of materials from muscles, to hooves, to hair. Spider silk is one of the strongest and toughest materials in nature. Spider silk is well known for some spectacular properties. Spider’s silk is at least five times as strong as steel and yet is much more stretchable. Also, the silk that is the strongest would be the dragline silk made by orb weaver spiders (the ones that spin webs), but they also make around 6 other kinds of weaker silk, so you can't just collect their webs, you have to strap them down and manually extract the correct type of silk . The rest of the web is made from flag silk, which is less strong but very elastic, so it is really good at absorbing the shock when a great big fly smashes into the web. ";s:7:"keyword";s:28:"why is spider silk so strong";s:5:"links";s:11324:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=famous-indian-painters-of-2017'>Famous Indian Painters Of 2017</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=winter-garden-projects-for-kids'>Winter Garden Projects For Kids</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-to-buy-canned-cherry-tomatoes'>Where To Buy Canned Cherry Tomatoes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fig-cultivation-in-india-pdf'>Fig Cultivation In India Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-many-chlorine-tablets-for-10ft-pool'>How Many Chlorine Tablets For 10ft Pool</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=furniture-companies-in-uae-list'>Furniture Companies In Uae List</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-animation-schools-in-the-world-2019'>Best Animation Schools In The World 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=when-does-a-lunar-eclipse-occur'>When Does A Lunar Eclipse Occur</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bedroom-colors-for-couples-according-to-vastu'>Bedroom Colors For Couples According To Vastu</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=nothing-gold-can-stay-meaning'>Nothing Gold Can Stay Meaning</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=small-walk-in-closet-dimensions'>Small Walk In Closet Dimensions</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ski-rentals-near-crystal-mountain'>Ski Rentals Near Crystal Mountain</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=a-kind-of-stew-meaning-in-hindi'>A Kind Of Stew Meaning In Hindi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mcculloch-steam-cleaner-customer-service'>Mcculloch Steam Cleaner Customer Service</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sweet-bbq-sauce-recipe-for-pulled-pork'>Sweet Bbq Sauce Recipe For Pulled Pork</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=tent-decorations-for-birthday-party'>Tent Decorations For Birthday Party</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pressure-washer-wall-surface-cleaner'>Pressure Washer Wall Surface Cleaner</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=introduction-to-food-production-pdf'>Introduction To Food Production Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-to-order-at-open-bar'>What To Order At Open Bar</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=elisabeth-moss-movies-and-tv-shows'>Elisabeth Moss Movies And Tv Shows</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ikea-childrens-poang-chair-cushion'>Ikea Childrens Poang Chair Cushion</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=peter-grosz-living-with-yourself'>Peter Grosz Living With Yourself</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-refresh-garden-soil'>How To Refresh Garden Soil</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lake-louise-inn-discount-code'>Lake Louise Inn Discount Code</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=does-eating-beetroot-lower-blood-pressure'>Does Eating Beetroot Lower Blood Pressure</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=52-weeks-to-an-organized-home-and-life-workbook'>52 Weeks To An Organized Home And Life Workbook</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=side-effects-of-eating-too-much-celery'>Side Effects Of Eating Too Much Celery</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=they-were-expendable-filming-locations'>They Were Expendable Filming Locations</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-ray-theatre-park-city'>The Ray Theatre Park City</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=king-waterbed-pedestal-with-drawers'>King Waterbed Pedestal With Drawers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=large-end-table-with-drawer'>Large End Table With Drawer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-much-quantity-of-rum-is-good-for-health'>How Much Quantity Of Rum Is Good For Health</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=squaw-valley-hiking-granite-bay'>Squaw Valley Hiking Granite Bay</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=king-size-headboard-with-storage'>King Size Headboard With Storage</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=campfire-tales-1997-full-movie-online'>Campfire Tales 1997 Full Movie Online</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=above-ground-pool-on-slope-with-deck'>Above Ground Pool On Slope With Deck</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-finalize-a-dvd-on-lg-dvd-recorder'>How To Finalize A Dvd On Lg Dvd Recorder</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=if-you-really-know-me-quotes'>If You Really Know Me Quotes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=programas-para-dise%C3%B1o-de-interiores-3d-gratis'>Programas Para Diseño De Interiores 3d Gratis</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=blue-hd-wallpapers-1080p-for-mobile'>Blue Hd Wallpapers 1080p For Mobile</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=60-watt-led-daylight-bulbs'>60 Watt Led Daylight Bulbs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-big-were-the-walls-of-jericho'>How Big Were The Walls Of Jericho</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=goals-for-30-year-old-woman'>Goals For 30 Year Old Woman</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lemon-verbena-essential-oil-doterra'>Lemon Verbena Essential Oil Doterra</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=williams-sonoma-distribution-center-south-brunswick-nj'>Williams Sonoma Distribution Center South Brunswick Nj</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=drain-error-in-whirlpool-washing-machine'>Drain Error In Whirlpool Washing Machine</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=things-to-do-in-nashville-in-may'>Things To Do In Nashville In May</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=creative-wall-painting-ideas-for-living-room'>Creative Wall Painting Ideas For Living Room</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lizzo-cuz-i-love-you-album-youtube'>Lizzo Cuz I Love You Album Youtube</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cleaning-laminate-kitchen-cupboard-doors'>Cleaning Laminate Kitchen Cupboard Doors</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=be-our-guest-sign-printable-free'>Be Our Guest Sign Printable Free</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=tre-scalini-new-haven-restaurant-week'>Tre Scalini New Haven Restaurant Week</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=my-kitchen-rules-season-10-episode-19'>My Kitchen Rules Season 10 Episode 19</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ar-pressure-washer-pump-3000-psi'>Ar Pressure Washer Pump 3000 Psi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=upholstered-dining-chair-black-legs'>Upholstered Dining Chair Black Legs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cheap-furniture-stores-near-me'>Cheap Furniture Stores Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lg-tromm-front-load-washer-error-code-ue'>Lg Tromm Front Load Washer Error Code Ue</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-shape-of-water-movie'>The Shape Of Water Movie</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=karcher-window-vac-tesco-ireland'>Karcher Window Vac Tesco Ireland</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-build-a-garden-bench'>How To Build A Garden Bench</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=traditional-dining-room-tables-and-chairs'>Traditional Dining Room Tables And Chairs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=use-drop-in-a-sentence-as-a-noun'>Use Drop In A Sentence As A Noun</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mother-of-pearl-end-table'>Mother Of Pearl End Table</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hyderabadi-restaurants-in-international-city'>Hyderabadi Restaurants In International City</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=indian-broccoli-recipes-side-dish'>Indian Broccoli Recipes Side Dish</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=drafting-chair-vs-office-chair'>Drafting Chair Vs Office Chair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=tips-for-staying-hard-after-coming'>Tips For Staying Hard After Coming</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-food-goes-well-with-chocolate-martinis'>What Food Goes Well With Chocolate Martinis</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=safed-musli-benefits-in-hindi'>Safed Musli Benefits In Hindi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=oh-she-glows-not-vegan'>Oh She Glows Not Vegan</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=outside-of-the-classroom-synonym'>Outside Of The Classroom Synonym</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=plumbing-pipe-types-and-sizes'>Plumbing Pipe Types And Sizes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=apartment-bedroom-ideas-for-college'>Apartment Bedroom Ideas For College</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-more-branches-in-adenium'>How To Make More Branches In Adenium</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=arts-and-crafts-movement-influence-today'>Arts And Crafts Movement Influence Today</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kitchen-island-lighting-modern-uk'>Kitchen Island Lighting Modern Uk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=diy-modern-industrial-coffee-table'>Diy Modern Industrial Coffee Table</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=benefits-of-eating-dry-fruits-daily'>Benefits Of Eating Dry Fruits Daily</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=plants-for-east-facing-balcony'>Plants For East Facing Balcony</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=for-sale-by-owner-closing-paperwork'>For Sale By Owner Closing Paperwork</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philips-55-inch-smart-tv-price'>Philips 55 Inch Smart Tv Price</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=set-of-3-wall-art'>Set Of 3 Wall Art</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kpop-dance-classes-in-dubai'>Kpop Dance Classes In Dubai</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=types-of-bolts-used-in-furniture'>Types Of Bolts Used In Furniture</a>,
+";s:7:"expired";i:-1;}

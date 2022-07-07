@@ -1,0 +1,240 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4091:"Isaac Newton: Sir Isaac Newton (1643-1727) was an English mathematician and scientist, best remembered for describing the theory of gravity. Trees grown from the seeds of Sir Isaac Newton's famous apple tree are planted by British astronaut Tim Peake at the iconic physicist's house after six months in SPACE The tree was first planted by the U.S. Department of Agriculture and transplanted in 1966 to this location (the former headquarters of the National Bureau of Standards – … It's in the garden of Woolsthorpe Manor, Newtons birthplace and family home. The apple tree of which Newton spoke is now known as the gravity tree. The planet's name and orbiting apples is a reference to the scientist Isaac Newton who developed his theory of gravitation by watching the fall of an apple from a tree. A young Isaac Newton is sitting beneath an apple tree contemplating the mysterious universe. References Edit ↑ Edens Zero Manga: Chapter 40, Page 3; Navigation Edit In case you didn’t know. Suddenly – boink! Apple trees descended from one in England said to be Isaac Newton's famed apple tree are seen in a traffic roundabout on the University of British Columbia campus in Vancouver. However a tree can be found at Trinity College, the college he attended, to … This tree is a grafted descendant of the original one at the home of Sir Isaac Newton's mother in Woolsthorpe, Lincolnshire. Up in International Park (in NW north of Cleveland Park) grows this gravity inspiring progeny. Wikipedia On a visit to his mother's garden during his Cambridge days in the late 1660s, he observed a green apple fall from a tree and only then began to consider the mechanism that drove what is now termed Gravity. Comprised of a talented group of industry veterans, Laplacian develops visual novels with focuses ranging from comical time traveling journeys to pure love stories focused on that "first love". The tree was first planted by the U.S. Department of Agriculture and transplanted in 1966 to this location (the former headquarters of… Sir Isaac Newton's apple tree (Google Maps). Up in International Park (in NW north of Cleveland Park) grows this gravity inspiring progeny. -an apple hits him on the head.  The plaque below the tree reads " Sir Isaac Newton's Apple This apple tree is a descendant by vegetative propagation of a tree which grew in the garden of Woolsthorpe Manor, near Grantham, and which is reputed to be the tree from which fell the apple that helped Newton to formulate his theory of gravitation. Sir Isaac Newton's apple tree is set to be "cloned" in a bid to inspire students to think like the pioneering scientist. Legend has it that a young Isaac Newton was sitting under an apple tree when he was bonked on the head by a falling piece of fruit, a 17th-century “aha … A direct descendant of Sir Isaac Newton’s famous apple tree grows in DC. A direct descendant of Sir Isaac Newton's famous apple tree grows in DC. We’ve all heard the story. Newton and the Apple Tree was originally written and produced by the group Laplacian and released in Japan in May 2017. Science Centre Get stuck into science.Test Isaac Newton's experiments and discoveries in gravity, motion, light and optics. Question: Where was Isaac Newton's apple tree? Isaac Newton's apple tree Pay homage to Isaac Newton's apple tree and its legendary role in the discovery of law of gravity. Even though it's in dispute this should be the apple tree that in 1687 gave Newton the idea to his gravity theory. For 240 of those years, this tree has held the distinction of being the tree that helped Sir Isaac Newton make one of his most important findings. Scientists believe that it began growing more than 400 years ago. Plaque at the Isaac Newton Apple Tree. Newton's Incredible Scientific Discoveries: Myth, Inspiration and Technology SHORT SUMMARY: On a warm evening in 1666, just after dinner, the soon to be famous Isaac Newton sat down beneath this tree outside of Trinity to mull over his thoughts, when all of a sudden he was struck on the top of his head by a large, red apple. ";s:7:"keyword";s:32:"isaac newton apple tree location";s:5:"links";s:7998:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=carpet-area-meaning-in-telugu'>Carpet Area Meaning In Telugu</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=history-of-economic-thought-a-critical-perspective'>History Of Economic Thought A Critical Perspective</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=panasonic-iron-box-made-in-malaysia'>Panasonic Iron Box Made In Malaysia</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mcculloch-steam-cleaner-customer-service'>Mcculloch Steam Cleaner Customer Service</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=good-eats-the-return-watch-online'>Good Eats The Return Watch Online</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-white-rice-with-butter'>How To Make White Rice With Butter</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sweet-potato-marshmallow-thanksgiving-dish'>Sweet Potato Marshmallow Thanksgiving Dish</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-yarn-for-winter-scarves'>Best Yarn For Winter Scarves</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=precision-metal-art-usa-discount-code'>Precision Metal Art Usa Discount Code</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=breakfast-sausage-recipe-without-sage'>Breakfast Sausage Recipe Without Sage</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=particle-board-vs-plywood-cabinets'>Particle Board Vs Plywood Cabinets</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=things-to-do-in-bear-valley-springs-ca'>Things To Do In Bear Valley Springs Ca</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=view-cookies-in-chrome-developer-tools'>View Cookies In Chrome Developer Tools</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=southern-living-recipes-january-2019'>Southern Living Recipes January 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=snow-summit-mtb-opening-day'>Snow Summit Mtb Opening Day</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=can-mandevilla-be-rooted-in-water'>Can Mandevilla Be Rooted In Water</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=oliver-coopersmith-homes-under-the-hammer'>Oliver Coopersmith Homes Under The Hammer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=modern-master-bathroom-ideas-2019'>Modern Master Bathroom Ideas 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=map-of-somerset-county-nj'>Map Of Somerset County Nj</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=7-foot-pool-table-dimensions'>7 Foot Pool Table Dimensions</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-prepare-chayote-for-diabetes'>How To Prepare Chayote For Diabetes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-cook-papaya-leaves'>How To Cook Papaya Leaves</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=used-rattan-furniture-near-me'>Used Rattan Furniture Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=utah-ski-resorts-opening-dates-2019'>Utah Ski Resorts Opening Dates 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sample-comments-on-student-papers'>Sample Comments On Student Papers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cole-and-son-discount-wallpaper'>Cole And Son Discount Wallpaper</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=leather-loveseat-twin-sleeper-sofa'>Leather Loveseat Twin Sleeper Sofa</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kenmore-side-by-side-refrigerator-reviews'>Kenmore Side By Side Refrigerator Reviews</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dark-grey-living-room-ideas'>Dark Grey Living Room Ideas</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=at-home-realogy-sign-in'>At Home Realogy Sign In</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=steel-sofa-set-price-below-3000'>Steel Sofa Set Price Below 3000</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=antique-coffee-table-with-wheels'>Antique Coffee Table With Wheels</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=target-dollar-spot-halloween-2019'>Target Dollar Spot Halloween 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=egg-custard-tart-recipe-jamie-oliver'>Egg Custard Tart Recipe Jamie Oliver</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=Gearing-Up-for-the-Holidays'>Gearing Up For The Holidays</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pinterest-small-bathroom-tile-ideas'>Pinterest Small Bathroom Tile Ideas</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-clean-beef-tongue'>How To Clean Beef Tongue</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mary-queen-of-scots-and-francis'>Mary Queen Of Scots And Francis</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=melissa-and-doug-pots-and-pans'>Melissa And Doug Pots And Pans</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=little-tikes-cook-n-learn-smart-kitchen-replacement-parts'>Little Tikes Cook N Learn Smart Kitchen Replacement Parts</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=orla-kiely-linear-stem-backpack'>Orla Kiely Linear Stem Backpack</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=furniture-companies-in-uae-list'>Furniture Companies In Uae List</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=my-ebay-uk-watch-list'>My Ebay Uk Watch List</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=traverse-city-film-festival-2018-schedule'>Traverse City Film Festival 2018 Schedule</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-prepare-a-guest-room'>How To Prepare A Guest Room</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=large-stencils-for-outdoor-walls'>Large Stencils For Outdoor Walls</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-spaghetti-sauce-with-tomato-sauce'>How To Make Spaghetti Sauce With Tomato Sauce</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-many-nerf-guns-are-there'>How Many Nerf Guns Are There</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=economics-is-the-study-of'>Economics Is The Study Of</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=karcher-power-washer-g2650oh-pump-assy'>Karcher Power Washer G2650oh Pump Assy</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-give-feedback-on-training-session'>How To Give Feedback On Training Session</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=family-pictures-wall-decor-ideas'>Family Pictures Wall Decor Ideas</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-a-living-wall-diy'>How To Make A Living Wall Diy</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ice-cream-names-in-different-languages'>Ice Cream Names In Different Languages</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-to-buy-closetmaid-shelftrack'>Where To Buy Closetmaid Shelftrack</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=jackson-hole-discount-lift-tickets'>Jackson Hole Discount Lift Tickets</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ski-shuttle-from-calgary-to-banff'>Ski Shuttle From Calgary To Banff</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-serve-afternoon-tea'>How To Serve Afternoon Tea</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=orchard-supply-hardware-near-me'>Orchard Supply Hardware Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-hurt-locker-full-movie'>The Hurt Locker Full Movie</a>,
+";s:7:"expired";i:-1;}

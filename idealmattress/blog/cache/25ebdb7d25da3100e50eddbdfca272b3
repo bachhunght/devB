@@ -1,0 +1,220 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3551:"Kale. Spinach. Spicebush. Because my backyard is half shady in fall and spring and completely shady in winter, I can offer some advice. Cascading deep green foliage accents ... Arctic Beauty Kiwi. Cabbage. A lot of gardeners avoid it all together because they say it is invasive, spreading like wild fire. Wild Garlic: This chive relative can be used like (Surprise!) Cilantro. If you're looking to occupy your garden with some fruit plants but don't have much sun, these 7 fruits that grow in shade may be just what you're looking for! Here is a list of the most tolerant shade loving vegetable plants to put in the dark corners of the garden: Lettuce; Spinach; Swiss chard; Arugula; Endive; Broccoli (and related plants) Kale; Radicchio; Cabbage; Turnip (for greens) Mustard greens; If you have shady areas in the garden, there’s no need to let them go to waste. Chives. Even if you are lucky enough to have an area with full sun that you can reserve for a vegetable garden, if you know which plants will take some shade, then you can get the most out of your space. I need a list of edible plants that grow in full shade. Again, if you are growing the plant for the delicious fruit, the more sun the plant gets the more it will produce. Some cool season vegetables may actually prefer lots of morning sun and then shade during the hot summer afternoons. Arugula is a nice peppery green that goes great in different salads. Growing your own fruit is both fun and thrifty. Most ornamental plants grow best in full sun. There are plenty of vegetables that grow in shade, dappled sunlight, or with as little as 3-6 hours of sunlight per day: Vegetables that fruit from a blossom, such as cucumbers, tomatoes, peppers, and squash are the least tolerant of shady areas. But plants grown for their roots and flowers will produce with as little as three to six hours of full sun or consistent dappled sun. Most fruits and vegetables need at least 6 hours of full sun per day, but shade loving plants don't need much sun at all - if any! Parsley. Planting seedlings is best as germination can be limited in poorly lit areas. Plants That Grow In A Part Shade Garden. Culinary Herbs that are Shade Plants Mint: peppermint, spearmint, apple mint, and other mints. Beets. Arctic Raspberry. Or you have a shady balcony? Cabbage *. Article from balconygardenweb.com. Arugula. Beets *. Akebia. Thyme. They thrive pretty much anywhere and are so ... Sweet Violets – V iola odorata. Mustard greens. . Berries ripen in late summer-fall. Groundnut: These shade garden legumes grow tubers that are good in soups and stews. Spinach. Lemon Balm. Daylilies. Beets, carrots, broccoli, cauliflower, onions, turnips and radishes, for example, can be successfully grown with four to six hours of sun. Endive. Kohlrabi *.  Where to buy: spicebush; Wasabi (Eutrema japonicum) Interplanted with flowers in loose designs instead of straight rows, these vegetables add beauty to a garden. This article on usable/edible shade plants will teach you which plants grow well in shade. With four to six hours of sun – “part sun” – the list expands considerably. Lambs Lettuce. Peas *. The problem is that many fruit trees need full sun and if you have a shady yard, it can be difficult to find fruit-bearing plants. Mint. Shade Tolerant Edible Plants. Mint–mint is almost impossible to kill. Vegetables That Grow in the Shade. SHADE-TOLERANT PLANTS These vary from part shade (P)-- meaning fewer than six hours of sun a day -- to a half day of shade (H) to full (F) shade. ";s:7:"keyword";s:37:"edible plants that grow in full shade";s:5:"links";s:5502:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=tommy-bahama-folding-beach-chair-costco'>Tommy Bahama Folding Beach Chair Costco</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-is-your-place-meaning-in-malayalam'>Where Is Your Place Meaning In Malayalam</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=quebec-city-summer-festival-2020'>Quebec City Summer Festival 2020</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=small-cabinet-with-doors-for-bathroom'>Small Cabinet With Doors For Bathroom</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=gordon-ramsay-ultimate-home-cooking-pdf-free-downloadamerican-craftsman-windows-installation-guide'>Gordon Ramsay Ultimate Home Cooking Pdf Free Downloadamerican Craftsman Windows Installation Guide</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-bamboo-poisonous-to-humans'>Is Bamboo Poisonous To Humans</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=silver-bedroom-set-ashley-furniture'>Silver Bedroom Set Ashley Furniture</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=age-of-consent-new-york'>Age Of Consent New York</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=boiled-egg-salad-recipe-indian'>Boiled Egg Salad Recipe Indian</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=muskmelon-fruit-meaning-in-tamil'>Muskmelon Fruit Meaning In Tamil</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=victoria-university-of-wellington-jobs'>Victoria University Of Wellington Jobs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=room-for-rent-nyc-craigslist'>Room For Rent Nyc Craigslist</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cozzia-qi-se-for-sale'>Cozzia Qi Se For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-reset-samsung-refrigerator-from-demo-mode'>How To Reset Samsung Refrigerator From Demo Mode</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=samsung-class-action-lawsuit-tv'>Samsung Class Action Lawsuit Tv</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hatch-new-mexico-to-albuquerque'>Hatch New Mexico To Albuquerque</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ladies-cloth-shop-near-me'>Ladies Cloth Shop Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=office-desk-l-shape-ikea'>Office Desk L Shape Ikea</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-man-who-never-was-netflix'>The Man Who Never Was Netflix</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=types-of-seafood-with-pictures'>Types Of Seafood With Pictures</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=studded-dining-chairs-with-ring'>Studded Dining Chairs With Ring</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hoover-vacuum-parts-store-locations'>Hoover Vacuum Parts Store Locations</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=when-was-the-tower-of-london-built'>When Was The Tower Of London Built</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=artificial-flower-garlands-for-decoration'>Artificial Flower Garlands For Decoration</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=off-the-beaten-path-synonym'>Off The Beaten Path Synonym</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=empire-today-cancellation-email-address'>Empire Today Cancellation Email Address</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=importance-of-horticulture-in-food-and-nutrition-security'>Importance Of Horticulture In Food And Nutrition Security</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dulux-colour-of-the-year-2018'>Dulux Colour Of The Year 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=small-house-plans-with-garage'>Small House Plans With Garage</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-a-swimming-pool-profitable'>How To Make A Swimming Pool Profitable</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=white-and-rose-gold-office-chair'>White And Rose Gold Office Chair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bear-mountain-vs-snow-summit-for-lessons'>Bear Mountain Vs Snow Summit For Lessons</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=south-shore-furniture-bureau-dresser'>South Shore Furniture Bureau Dresser</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=restaurant-style-chole-bhature-recipe'>Restaurant Style Chole Bhature Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pan-roasted-chicken-and-cauliflower'>Pan Roasted Chicken And Cauliflower</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-food-goes-well-with-chocolate-martinis'>What Food Goes Well With Chocolate Martinis</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=christy-sports-powder-daze-2019-online'>Christy Sports Powder Daze 2019 Online</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=painting-squares-on-walls-ideas'>Painting Squares On Walls Ideas</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-eat-buffet-dinner'>How To Eat Buffet Dinner</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cheap-houses-for-sale-in-washington'>Cheap Houses For Sale In Washington</a>,
+";s:7:"expired";i:-1;}

@@ -1,0 +1,284 @@
+@media only screen and (max-width: 768px) {
+    .woocommerce ul.products[class*=columns-] li.product:nth-child(2n), 
+    .woocommerce-page ul.products[class*=columns-] li.product:nth-child(2n)
+    {
+        float: left;
+    }
+}
+
+.woocommerce ul.products,
+.woocommerce-page ul.products
+{
+    @media only screen {
+        &.small-block-grid-1>li.product {
+            width: 100%;
+            list-style: none
+        }
+        &.small-block-grid-1>li.product:nth-of-type(n) {
+            clear: none
+        }
+        &.small-block-grid-1>li.product:nth-of-type(1n+1) {
+            clear: both
+        }
+        &.small-block-grid-1>li.product:nth-child(1n) {
+            padding-left: 0rem;
+            padding-right: 0rem
+        }
+        &.small-block-grid-2>li.product {
+            width: 50%;
+            list-style: none
+        }
+        &.small-block-grid-2>li.product:nth-of-type(n) {
+            clear: none
+        }
+        &.small-block-grid-2>li.product:nth-of-type(2n+1) {
+            clear: both
+        }
+        &.small-block-grid-2>li.product:nth-child(2n+1) {
+            padding-left: 0rem;
+            padding-right: 0.9375rem
+        }
+        &.small-block-grid-2>li.product:nth-child(2n) {
+            padding-left: 0.9375rem;
+            padding-right: 0rem
+        }
+    }
+
+    @media only screen and (min-width: 40em) {
+        &.medium-block-grid-1>li.product {
+            width: 100%;
+            list-style: none
+        }
+        &.medium-block-grid-1>li.product:nth-of-type(n) {
+            clear: none
+        }
+        &.medium-block-grid-1>li.product:nth-of-type(1n+1) {
+            clear: both
+        }
+        &.medium-block-grid-1>li.product:nth-child(1n) {
+            padding-left: 0rem;
+            padding-right: 0rem
+        }
+        &.medium-block-grid-2>li.product {
+            width: 50%;
+            list-style: none
+        }
+        &.medium-block-grid-2>li.product:nth-of-type(n) {
+            clear: none
+        }
+        &.medium-block-grid-2>li.product:nth-of-type(2n+1) {
+            clear: both
+        }
+        &.medium-block-grid-2>li.product:nth-child(2n+1) {
+            padding-left: 0rem;
+            padding-right: 0.9375rem
+        }
+        &.medium-block-grid-2>li.product:nth-child(2n) {
+            padding-left: 0.9375rem;
+            padding-right: 0rem
+        }
+        &.medium-block-grid-3>li.product {
+            width: 33.33333%;
+            list-style: none
+        }
+        &.medium-block-grid-3>li.product:nth-of-type(n) {
+            clear: none
+        }
+        &.medium-block-grid-3>li.product:nth-of-type(3n+1) {
+            clear: both
+        }
+        &.medium-block-grid-3>li.product:nth-child(3n+1) {
+            padding-left: 0rem;
+            padding-right: 1.25rem
+        }
+        &.medium-block-grid-3>li.product:nth-child(3n+2) {
+            padding-left: 0.625rem;
+            padding-right: 0.625rem
+        }
+        &.medium-block-grid-3>li.product:nth-child(3n) {
+            padding-left: 1.25rem;
+            padding-right: 0rem
+        }
+        &.medium-block-grid-4>li.product {
+            width: 25%;
+            list-style: none
+        }
+        &.medium-block-grid-4>li.product:nth-of-type(n) {
+            clear: none
+        }
+        &.medium-block-grid-4>li.product:nth-of-type(4n+1) {
+            clear: both
+        }
+        &.medium-block-grid-4>li.product:nth-child(4n+1) {
+            padding-left: 0rem;
+            padding-right: 1.40625rem
+        }
+        &.medium-block-grid-4>li.product:nth-child(4n+2) {
+            padding-left: 0.46875rem;
+            padding-right: 0.9375rem
+        }
+        &.medium-block-grid-4>li.product:nth-child(4n+3) {
+            padding-left: 0.9375rem;
+            padding-right: 0.46875rem
+        }
+        &.medium-block-grid-4>li.product:nth-child(4n) {
+            padding-left: 1.40625rem;
+            padding-right: 0rem
+        }
+    }
+
+    @media only screen and (min-width: 64em) {
+        &.large-block-grid-1>li.product {
+            width: 100%;
+            list-style: none
+        }
+        &.large-block-grid-1>li.product:nth-of-type(n) {
+            clear: none
+        }
+        &.large-block-grid-1>li.product:nth-of-type(1n+1) {
+            clear: both
+        }
+        &.large-block-grid-1>li.product:nth-child(1n) {
+            padding-left: 0rem;
+            padding-right: 0rem
+        }
+        &.large-block-grid-2>li.product {
+            width: 50%;
+            list-style: none
+        }
+        &.large-block-grid-2>li.product:nth-of-type(n) {
+            clear: none
+        }
+        &.large-block-grid-2>li.product:nth-of-type(2n+1) {
+            clear: both
+        }
+        &.large-block-grid-2>li.product:nth-child(2n+1) {
+            padding-left: 0rem;
+            padding-right: 0.9375rem
+        }
+        &.large-block-grid-2>li.product:nth-child(2n) {
+            padding-left: 0.9375rem;
+            padding-right: 0rem
+        }
+        &.large-block-grid-3>li.product {
+            width: 33.33333%;
+            list-style: none
+        }
+        &.large-block-grid-3>li.product:nth-of-type(n) {
+            clear: none
+        }
+        &.large-block-grid-3>li.product:nth-of-type(3n+1) {
+            clear: both
+        }
+        &.large-block-grid-3>li.product:nth-child(3n+1) {
+            padding-left: 0rem;
+            padding-right: 1.25rem
+        }
+        &.large-block-grid-3>li.product:nth-child(3n+2) {
+            padding-left: 0.625rem;
+            padding-right: 0.625rem
+        }
+        &.large-block-grid-3>li.product:nth-child(3n) {
+            padding-left: 1.25rem;
+            padding-right: 0rem
+        }
+        &.large-block-grid-4>li.product {
+            width: 25%;
+            list-style: none
+        }
+        &.large-block-grid-4>li.product:nth-of-type(n) {
+            clear: none
+        }
+        &.large-block-grid-4>li.product:nth-of-type(4n+1) {
+            clear: both
+        }
+        &.large-block-grid-4>li.product:nth-child(4n+1) {
+            padding-left: 0rem;
+            padding-right: 1.40625rem
+        }
+        &.large-block-grid-4>li.product:nth-child(4n+2) {
+            padding-left: 0.46875rem;
+            padding-right: 0.9375rem
+        }
+        &.large-block-grid-4>li.product:nth-child(4n+3) {
+            padding-left: 0.9375rem;
+            padding-right: 0.46875rem
+        }
+        &.large-block-grid-4>li.product:nth-child(4n) {
+            padding-left: 1.40625rem;
+            padding-right: 0rem
+        }
+        &.large-block-grid-5>li.product {
+            width: 20%;
+            list-style: none
+        }
+        &.large-block-grid-5>li.product:nth-of-type(n) {
+            clear: none
+        }
+        &.large-block-grid-5>li.product:nth-of-type(5n+1) {
+            clear: both
+        }
+        &.large-block-grid-5>li.product:nth-child(5n+1) {
+            padding-left: 0rem;
+            padding-right: 1.5rem
+        }
+        &.large-block-grid-5>li.product:nth-child(5n+2) {
+            padding-left: 0.375rem;
+            padding-right: 1.125rem
+        }
+        &.large-block-grid-5>li.product:nth-child(5n+3) {
+            padding-left: 0.75rem;
+            padding-right: 0.75rem
+        }
+        &.large-block-grid-5>li.product:nth-child(5n+4) {
+            padding-left: 1.125rem;
+            padding-right: 0.375rem
+        }
+        &.large-block-grid-5>li.product:nth-child(5n) {
+            padding-left: 1.5rem;
+            padding-right: 0rem
+        }
+        &.large-block-grid-6>li.product {
+            width: 16.66667%;
+            list-style: none
+        }
+        &.large-block-grid-6>li.product:nth-of-type(n) {
+            clear: none
+        }
+        &.large-block-grid-6>li.product:nth-of-type(6n+1) {
+            clear: both
+        }
+        &.large-block-grid-6>li.product:nth-child(6n+1) {
+            padding-left: 0rem;
+            padding-right: 1.5625rem
+        }
+        &.large-block-grid-6>li.product:nth-child(6n+2) {
+            padding-left: 0.3125rem;
+            padding-right: 1.25rem
+        }
+        &.large-block-grid-6>li.product:nth-child(6n+3) {
+            padding-left: 0.625rem;
+            padding-right: 0.9375rem
+        }
+        &.large-block-grid-6>li.product:nth-child(6n+4) {
+            padding-left: 0.9375rem;
+            padding-right: 0.625rem
+        }
+        &.large-block-grid-6>li.product:nth-child(6n+5) {
+            padding-left: 1.25rem;
+            padding-right: 0.3125rem
+        }
+        &.large-block-grid-6>li.product:nth-child(6n) {
+            padding-left: 1.5625rem;
+            padding-right: 0rem
+        }
+    }
+}
+
+.woocommerce ul.products .owl-item li.product {
+    width: auto;
+
+    h2 {
+        text-align: left;
+    }
+}

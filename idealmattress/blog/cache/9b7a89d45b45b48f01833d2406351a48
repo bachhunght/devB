@@ -1,0 +1,213 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4641:"We're located on Commercial Street right in the middle of downtown Elko, Nevada. Biltoki 405 Silver St Elko, NV 89801 Good food, way too large portions. Basque restaurants in Idaho. Every year, there’s a Basque Festival held in Elko where Basque dancers and performers dressed in their native costumes put on a great show and serve their favorite foods. Star Hotel & Restaurant 246 Silver St Elko… Basque restaurants in Oregon and Washington. Call our Basque restaurant @ 775-738-9925 (775) 738-9925 or (775) 753-8696. Experience the best family friendly bar & restaurant at Star Hotel Basque Family Style Restaurant in Elko, Nevada. Basque restaurants in Nevada. Find 25 listings related to Basque Restaurant in Elko on YP.com. Share. Elko has been the home of the annual National Cowboy Poetry Gathering for the last 33 years. The Star is indeed an experience of the Basque traditional Northern Nevada Restaraunt meal. Our restaurant specializes in delicious, handcrafted Basque and American sandwiches, salads, pintxos (Basque tapas) and drinks - served in a beautifully restored historic building. Many of the rooms were above restaurants, where the immigrants gathered for meals family style. Experience the best family friendly bar & restaurant at Star Hotel Basque Family Style Restaurant in Elko, Nevada. Every July, since 1963, Elko is host to the National Basque Festival. Ogi Bar brings PINTXO-POTE! Ongi Etorri! While there are several Basque restaurants strewn around Carson City, Reno, Gardnerville, and other towns, if you want the most mouthwatering Basque food in Nevada, you must head northeast to Elko … Book a table @ 775-738-9925 Come on Fridays to watch and play the Basque card game of Mus! The Center for Basque Studies is at the University of Nevada at Reno. The night we visited was crazy busy and staff did their best to keep up. Welcome to Ogi Deli! Claimed. (Peencho-Potay), the Basque version of Happy Hour, to Elko. This festival is held each January and is a week-long celebration of life in the rural West, featuring poetry, music, stories, gear, film, photography, and food. CENTRO BASCO 13432 Central Ave. Chino, California 91710 (909) 628-9014 The only place to get traditional family-style Basque meals in the entire Los Angeles region. Elko, NV 789 people checked in here Jeanna Catalano added a new photo to Char Buehrle 's timeline — with Marquitta M Samper and Jody Arnold-Grant at Biltoki . Basque Dining truly is a unique experience, and here are 9 restaurants in Nevada that serve the most delicious Basque food: Basque immigrants came to Nevada to work as ranch hands tending sheep, and Basque hotels offered these immigrants familiar surroundings and food and people who spoke their language. Enjoy a Pintxo (Basque tapa) and a Pote (pint of beer, glass of house wine, or a glass of Basque cider) for only $5! Toki Ona: Really Good Basque Food - See 174 traveler reviews, 24 candid photos, and great deals for Elko, NV, at TripAdvisor. Toki Ona | Elko, Nevada. Very kind and friendly. Come in between 4:30 and 6:00 pm each Thursday and Friday evening for PINTXO-POTE! Basque Restaurants in New York and East Coast. Our restaurant and bar is known for serving fresh, never frozen, beef, lamb, pork, chicken and seafood entrees in both Basque and American style dishes. Toki Ona has been a local favorite since 1990 when the restaurant first opened. Check out our Restaurant Menu of best Basque Dishes and Steak Sandwich of Star Hotel Basque Family Style Restaurant in Elko, NV.  Click to find out where you can truly eat and drink Basque in Nevada. Elko is the Basque center of Nevada and they have four restaurants to choose from. Basque meals are typically served in a family-style setting and include a variety of food choices, including lamb stew, paella, Basque beans, steak, pork chops, seafood, etc. The Star Hotel on Silver Street is one of Elko's famous Basque restaurants Founded as a railroad-promoted townsite and railhead for the White Pine mines in 1869, Elko has served for generations now as the provincial capital of an enormous cattle ranching empire embracing parts of four states. In Ely years ago, the Nevada Hotel there served Basque food, but the last time I was there, it had changed. Best Dining in Elko, Nevada: See 3,862 Tripadvisor traveler reviews of 89 Elko restaurants and search by cuisine, price, location, and more. See reviews, photos, directions, phone numbers and more for Basque Restaurant locations in Elko, NV. Experience Basque Nevada, a mix of great food and amazing culture throughout Northern Nevada. Call our Basque restaurant @ 775-738-9925. ";s:7:"keyword";s:33:"basque restaurants in elko nevada";s:5:"links";s:4469:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chinese-restaurant-in-dubai-mall'>Chinese Restaurant In Dubai Mall</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=galanz-mini-fridge-freezer-not-working'>Galanz Mini Fridge Freezer Not Working</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fix-it-and-forget-it-our-best-fall-recipes'>Fix It And Forget It Our Best Fall Recipes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-old-is-madylin-sweeten'>How Old Is Madylin Sweeten</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-big-family-cooking-showdown-winners'>The Big Family Cooking Showdown Winners</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bed-bath-and-beyond-credit-card-approval-odds'>Bed Bath And Beyond Credit Card Approval Odds</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=second-hand-dining-chairs-ebay'>Second Hand Dining Chairs Ebay</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=snow-inner-tubing-near-me'>Snow Inner Tubing Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=The-Last-Days-of-Patton'>The Last Days Of Patton</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=father-brown-season-7-episode-9'>Father Brown Season 7 Episode 9</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=crate-box-meaning-in-hindi'>Crate Box Meaning In Hindi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=japanese-flavor-pairing-for-weight-loss'>Japanese Flavor Pairing For Weight Loss</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=types-of-lights-used-in-interiors'>Types Of Lights Used In Interiors</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=shadow-of-the-vampire-script'>Shadow Of The Vampire Script</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=portland-pressure-washer-harbor-freight-coupon'>Portland Pressure Washer Harbor Freight Coupon</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=who-won-family-food-fight-2019'>Who Won Family Food Fight 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-red-cabbage-evolved-from-wild-cabbage'>How Red Cabbage Evolved From Wild Cabbage</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=twinings-strawberry-and-raspberry-tea-health-benefits'>Twinings Strawberry And Raspberry Tea Health Benefits</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=google-maps-directions-from-current-location'>Google Maps Directions From Current Location</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=eyevac-pet-touchless-vacuum-cleaner'>Eyevac Pet Touchless Vacuum Cleaner</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=brands-to-buy-in-paris'>Brands To Buy In Paris</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=articles-for-magazine-in-english'>Articles For Magazine In English</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=run-all-night-dual-audio-480p-download'>Run All Night Dual Audio 480p Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=are-moon-cactus-poisonous-to-dogs'>Are Moon Cactus Poisonous To Dogs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=winged-victory-of-samothrace-replica'>Winged Victory Of Samothrace Replica</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-pizza-in-michigan-2019'>Best Pizza In Michigan 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ashley-furniture-credit-card-login'>Ashley Furniture Credit Card Login</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=thesaurus-pronunciation-in-uk-english'>Thesaurus Pronunciation In Uk English</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=walnut-grove-dubai-mall-zomato'>Walnut Grove Dubai Mall Zomato</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=private-selection-brand-ice-cream'>Private Selection Brand Ice Cream</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kung-fu-panda-3-full-movie-dailymotion'>Kung Fu Panda 3 Full Movie Dailymotion</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=use-of-chain-of-responsibility-pattern'>Use Of Chain Of Responsibility Pattern</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cibc-swift-code-11-digits'>Cibc Swift Code 11 Digits</a>,
+";s:7:"expired";i:-1;}

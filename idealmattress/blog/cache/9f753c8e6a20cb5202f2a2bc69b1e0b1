@@ -1,0 +1,223 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3946:"Come to our next Open Day! Hear first-hand from current students about what it’s like to study at Westminster. Greenwich are proud of our excellent standards of teaching and put student satisfaction at the heart of its work. Can't wait until the day? Greenwich offer an excellent, globally recognised education that aims to put you ahead in your career. Scroll down or click CTRL + F and the keyword, for example 'Manchester', to … Greenwich offer an excellent, globally recognised education that aims to put you ahead in your career.  At University for the Creative Arts Campus - Rochester Campus, Rochester, ME1 1DZ Use our search tool to find and book open days. Find out why we are University of the year for Graduate Employment. At the University of Greenwich, we believe that the best way to decide which subject you want to study is by talking to the people who teach it, so when you visit us during an Open Day at our Greenwich Campus, you'll get the chance to speak to the academics who teach the subjects you are interested in. At University for the Creative Arts Campus - Rochester Campus, Rochester, ME1 1DZ Learn more If you’re interested in applying to study our undergraduate courses, ... come pay us a visit on our historic campus and see what the University of Greenwich has to offer. Again. The information presented in this guide is correct at the time of publication (July 2018), however the names of some faculties, departments or schools may change at the beginning of the 2018/19 academic year. At Multiple London campuses, London, W1B 2HW. 2019-11-23 Open Day: University of Greenwich Organiser University of Greenwich Summary Open day for all University of Greenwich campuses. The University of Greenwich is a diverse and friendly community, with over 37,000 students from over 140 countries studying across our three campuses in London and Kent, and our overseas partner colleges. Join one of our Open Days and see why Greenwich is the ideal university for you. Everything you need to know about University of Greenwich; from its 2019 ranking to student reviews, stats and figures, free prospectuses, open day info, and more. Get a taste of London Met right now with our latest video.. You can also find out what visitors to our recent Undergraduate Open Day had to say about their experience in our video summing up the day. Date Saturday 23 November 2019 Time 09:00 - 17:00 Cost Free Venue University of Greenwich Old Royal Naval College Park Row Greenwich University open day calendar 2019 This list of universities and colleges is in alphabetical order. University open day calendar 2019 This list of universities and colleges is in alphabetical order. Next Open Days. Previous Slide Next Slide. Attending an open day is a great way to experience London Met and to get a taste of university life in London. Open Days. Our dedicated team of trained advisers are available now for tips, advice, or to make an application on 020 8331 9000. Upcoming Open Events Wednesday 1 April 2020, 5pm - 7pm. University of Greenwich,Wednesday 13 November 2019, open day details, online booking and contact details Opendays.com uses cookies to ensure that you get the best experience. Undergraduate Open Events. The information presented in this guide is correct at the time of publication (July 2018), however the names of some faculties, departments or schools may change at the beginning of the 2018/19 academic year. Read about what an open day is and why you need to go. University of Greenwich,Saturday 29 June 2019, open day details, online booking and contact details University of Greenwich Academic Year and Term Dates Documents | University of Greenwich Our website uses cookies to recognise users of our site and optimise your experience. Undergraduate Open Events. Make sure you visit them first by attending an open day in 2020 We use cookies to ensure the best user experience and to serve tailored advertising. ";s:7:"keyword";s:38:"university of greenwich open days 2019";s:5:"links";s:5929:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cheese-sauce-in-microwave-without-flour'>Cheese Sauce In Microwave Without Flour</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=royal-tyrrell-museum-2-for-1-coupons-2018'>Royal Tyrrell Museum 2 For 1 Coupons 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sleeper-sofa-with-matching-ottoman'>Sleeper Sofa With Matching Ottoman</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-lay-brick-edging-driveway'>How To Lay Brick Edging Driveway</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=extra-large-tall-chest-of-drawers'>Extra Large Tall Chest Of Drawers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=5-piece-canvas-art-frames'>5 Piece Canvas Art Frames</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-restaurants-edinburgh-west-end'>Best Restaurants Edinburgh West End</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mogo-toll-free-phone-number'>Mogo Toll Free Phone Number</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wall-art-for-finished-basement'>Wall Art For Finished Basement</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=face-to-face-lyrics-hillsong'>Face To Face Lyrics Hillsong</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=small-roof-garden-design-ideas'>Small Roof Garden Design Ideas</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=winsley-manager-chair-assembly-instructions'>Winsley Manager Chair Assembly Instructions</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=michelin-star-restaurants-paris-2020'>Michelin Star Restaurants Paris 2020</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=high-protein-indian-breakfast-for-weight-loss'>High Protein Indian Breakfast For Weight Loss</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=plastic-under-bed-storage-bins'>Plastic Under Bed Storage Bins</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=raised-bed-soil-vs-garden-soil'>Raised Bed Soil Vs Garden Soil</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=suicide-squad-full-movie-in-hindi-watch-online'>Suicide Squad Full Movie In Hindi Watch Online</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=perennial-garden-plans-zone-5-partial-sun'>Perennial Garden Plans Zone 5 Partial Sun</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=Ice-skating-Quotes-for-Instagram'>Ice Skating Quotes For Instagram</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=steve-ells-net-worth-2019'>Steve Ells Net Worth 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=when-does-a-lunar-eclipse-occur'>When Does A Lunar Eclipse Occur</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=country-inn-and-suites-tinley-park'>Country Inn And Suites Tinley Park</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=baby-posters-for-pregnant-lady-walmart'>Baby Posters For Pregnant Lady Walmart</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=potato-side-dishes-for-steak'>Potato Side Dishes For Steak</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pictures-of-beautiful-roses-bouquet'>Pictures Of Beautiful Roses Bouquet</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=black-farmhouse-semi-flush-mount-light'>Black Farmhouse Semi Flush Mount Light</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=light-or-dark-corn-syrup-for-pecan-pie'>Light Or Dark Corn Syrup For Pecan Pie</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=high-seat-chairs-for-seniors'>High Seat Chairs For Seniors</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=solid-wood-study-table-malaysia'>Solid Wood Study Table Malaysia</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=squaw-valley-gingerbread-village-2019'>Squaw Valley Gingerbread Village 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=5-star-hotel-organizational-chart-pdf'>5 Star Hotel Organizational Chart Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=baked-salisbury-steak-recipe-with-cream-of-mushroom-soup'>Baked Salisbury Steak Recipe With Cream Of Mushroom Soup</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pottery-barn-leather-chair-dining'>Pottery Barn Leather Chair Dining</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=data-structure-for-connection-pool'>Data Structure For Connection Pool</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=museo-nacional-thyssen-bornemisza-collection'>Museo Nacional Thyssen Bornemisza Collection</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=keeping-up-with-the-kardashians-season-17-episode-10'>Keeping Up With The Kardashians Season 17 Episode 10</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-do-i-fix-4e-error-on-my-samsung-washing-machine'>How Do I Fix 4e Error On My Samsung Washing Machine</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=images-of-luxury-homes-interiors'>Images Of Luxury Homes Interiors</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lemongrass-tea-for-weight-loss'>Lemongrass Tea For Weight Loss</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=adverbial-phrases-and-clauses-exercises'>Adverbial Phrases And Clauses Exercises</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=super-mario-maker-wii-u'>Super Mario Maker Wii U</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=will-2020-be-a-bad-hurricane-season'>Will 2020 Be A Bad Hurricane Season</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=jobs-in-corvallis-oregon-on-craigslist'>Jobs In Corvallis Oregon On Craigslist</a>,
+";s:7:"expired";i:-1;}

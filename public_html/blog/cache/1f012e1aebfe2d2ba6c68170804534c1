@@ -1,0 +1,236 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:1:" ";s:7:"keyword";s:25:"how to eat cereal wikihow";s:5:"links";s:7470:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=venus-de-milo-khan-academy'>Venus De Milo Khan Academy</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-tasting-alcoholic-drinks-in-a-can'>Best Tasting Alcoholic Drinks In A Can</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=old-country-buffet-fried-chicken-recipe'>Old Country Buffet Fried Chicken Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=extra-glass-shelves-for-ikea-detolf'>Extra Glass Shelves For Ikea Detolf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chile-de-%C3%A1rbol-scoville-scale'>Chile De árbol Scoville Scale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=face-to-face-lyrics-zach-williams'>Face To Face Lyrics Zach Williams</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=baby-boy-nursery-ideas-grey'>Baby Boy Nursery Ideas Grey</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=screw-in-pendant-light-conversion-kit-lowes'>Screw In Pendant Light Conversion Kit Lowes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=house-cleaning-routine-in-india'>House Cleaning Routine In India</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-write-a-presentation-script'>How To Write A Presentation Script</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-katering-show-season-3'>The Katering Show Season 3</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=paint-colors-for-hallways-and-stairs'>Paint Colors For Hallways And Stairs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=utah-museum-of-fine-arts-jobs'>Utah Museum Of Fine Arts Jobs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wood-chairs-with-arms-outdoor'>Wood Chairs With Arms Outdoor</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-prune-asparagus-fern'>How To Prune Asparagus Fern</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=master-bedroom-french-doors-to-patio'>Master Bedroom French Doors To Patio</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=betty-crocker-cookbooks-through-the-years'>Betty Crocker Cookbooks Through The Years</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mystery-diners-season-1-episode-1-dailymotion'>Mystery Diners Season 1 Episode 1 Dailymotion</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lighting-shop-in-kota-damansara'>Lighting Shop In Kota Damansara</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dollhouse-with-elevator-and-garage'>Dollhouse With Elevator And Garage</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sur-la-table-locations-nj'>Sur La Table Locations Nj</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ice-cream-near-me-now'>Ice Cream Near Me Now</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-float-a-sofa-in-a-living-room'>How To Float A Sofa In A Living Room</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-pronounce-solanum-tuberosum'>How To Pronounce Solanum Tuberosum</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=green-roof-advantages-and-disadvantages'>Green Roof Advantages And Disadvantages</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=aluminum-mobile-home-windows-near-me'>Aluminum Mobile Home Windows Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sylvania-400w-metalarc-m59-s-m400-u-led-replacement'>Sylvania 400w Metalarc M59 S M400 U Led Replacement</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dry-food-for-hostel-students'>Dry Food For Hostel Students</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=guy-fieri-panama-city-beach-fl'>Guy Fieri Panama City Beach Fl</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=junkmail-kitchen-units-for-sale'>Junkmail Kitchen Units For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bathroom-wall-decor-dollar-tree'>Bathroom Wall Decor Dollar Tree</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=batman-beyond-return-of-the-joker-google-drive'>Batman Beyond Return Of The Joker Google Drive</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=glassdoor-com-member-profile-index-htm'>Glassdoor Com Member Profile Index Htm</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mechanical-engineer-meaning-in-urdu'>Mechanical Engineer Meaning In Urdu</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=water-bath-canning-apple-butter'>Water Bath Canning Apple Butter</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-5-days-in-prague-too-much'>Is 5 Days In Prague Too Much</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=summer-vacation-rentals-in-aspen-colorado'>Summer Vacation Rentals In Aspen Colorado</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-stake-aloe-vera-plant'>How To Stake Aloe Vera Plant</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ski-in-ski-out-park-city-airbnb'>Ski In Ski Out Park City Airbnb</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-garden-hose-foam-gun'>Best Garden Hose Foam Gun</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=who-invented-the-color-tv'>Who Invented The Color Tv</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=diy-desk-plans-with-drawers'>Diy Desk Plans With Drawers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=good-and-cheap-cookbook-pdf'>Good And Cheap Cookbook Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hygge-and-west-removable-wallpaper'>Hygge And West Removable Wallpaper</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=flattened-rice-benefits-during-pregnancy'>Flattened Rice Benefits During Pregnancy</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-save-power-consumption-in-refrigerator'>How To Save Power Consumption In Refrigerator</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=diners-drive-ins-and-dives-bristol-va'>Diners Drive Ins And Dives Bristol Va</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=30-inch-storm-door-menards'>30 Inch Storm Door Menards</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=tree-painting-black-and-white'>Tree Painting Black And White</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-a-costco-membership-worth-it-for-a-couple'>Is A Costco Membership Worth It For A Couple</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=tales-from-the-hood-2-budget'>Tales From The Hood 2 Budget</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=artwork-explication-the-raft-of-the-medusa-answers'>Artwork Explication The Raft Of The Medusa Answers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=public-toilet-floor-plan-dimensions'>Public Toilet Floor Plan Dimensions</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=music-girl-on-fire-download'>Music Girl On Fire Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=3-panel-door-with-glass'>3 Panel Door With Glass</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=good-boys-2019-full-movie'>Good Boys 2019 Full Movie</a>,
+";s:7:"expired";i:-1;}

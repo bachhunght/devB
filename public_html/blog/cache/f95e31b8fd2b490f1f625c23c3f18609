@@ -1,0 +1,226 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4963:"How to Connect Philips Hue Lights to Amazon Alexa. This manual will help you to install the Philips Hue instore demo app. Philips Hue outdoor lights – Design and installation The Lily can be bought as a three-pack, with additional extension lights available if you want to expand your system up to five lights. Philips Hue is part of the Zigbee Light Link standard protocol and, as such, Zigbee Light Link compliant products and devices work with the Hue Bridge. Philips Hue outdoor. Works with Siri/HomeKit, Alexa, and Google Assistant. … Mit Philips Hue wird sowohl Ihre Innen- als auch Ihre Außenbeleuchtung zum Leben erweckt. ‘How to’ Guides and hacks for everything Philips Hue, from how to install Hue light strips on your TV, setting up your Hue bridge and syncing your Hue lights with Music or Video.  How to Sync your Philips Hue Lights with your TV, Xbox or PS4. Designing your room with light is simple with Philips Hue smart lights. as it uses the above bulbs it is super bright, the bulbs are 13 watts with a 1300lm. Unwind with warm to cool white light. Flood light … Installation manual. Turn on living with the Philips Hue personal wireless lighting system. If you going to watch the video watch it with the volume turn down. Shop all. Extend your evenings with Philips Hue outdoor lighting. Set the right ambiance on your patio, balcony or porch and relax. This app is intended only for use in store. Philips Hue has taken the smart home era by storm, and we’re not surprised. Those light strips aren't the only outdoor goodies, though. A hands-on, real, and honest review of the Phillips Hue Outdoor Lily Spot Smart Lights. It can be a bit fiddly, but you can get cheaper bulbs such as Ikea’s, GE’s and Osram’s all set up on your Hue system. 2 Disclaimer. More brands from. From now on, dark gardens are a thing of the past. I'm loving it so far. Never lose track of what is happening around your house with this powerful Philips Hue light. However we’re guessing you’ve heard of Philips Hue and that’s why you’re here. Watch the video to find out more on easy installation. ‘How to’ Guides and hacks for everything Philips Hue, from how to install Hue light strips on your TV, setting up your Hue bridge and syncing your Hue lights with Music or Video. Hue Outdoor Lights. Philips Hue instore app. If you’ve not heard of Philips Hue when it comes to the smart home– it’s okay. Learn how to install your Philips Hue lighting system in just 4 easy steps! Philips Hue einzurichten ist Kinderleicht, denn mit nur wenigen Handgriffen ist das System bereit und kann von euch genutzt werden. Constructed with high-quality aluminum and strong synthetic materials, Philips Hue outdoor smart lighting fixtures can withstand any weather conditions. Our aim is to make it easy to build your business. March 2017. Finally gave in, I bought the hue sync box and two phillips hue light bars. From the warm white light of a summer sun, to the ice cool daylight of winter: you can enjoy any shade of white light … Build and control your own DIY smart home Lights with diyHue. Anleitung: Philips Hue einrichten und verbinden – Schritt für Schritt erklärt. Es gibt unzählige Apps im App Store, die mit Hue funktionieren. Powerful light This Philips Hue light possesses a LED light source which illuminates a large portion of your garden. Home. Philips Hue's full outdoor smart lighting range launched in 2018. Philips Hue Ludere White Outdoor Security Light Using the same bulbs as above this outdoor security floodlight by Hue is a fitting designed just for the Philips Hue White Outdoor PAR38 LED bulbs. Whether it’s for your living room, your kitchen, your bathroom or your back-yard, Philips Hue has the perfect light. Philips Hue kann seine Farben zum Takt der Musik ändern und Ihre Freunde bei Ihrer nächsten Geburtstagsparty staunen lassen. With the lights on you can see the full effect in the evening when it is dark. Learn more about Hue LED bulbs, fixtures, and controls. The Open Source Hue Emulator integrates 3rd party devices incl. Philips Hue White and Color Ambiance BR30 60W Equivalent Dimmable LED Smart Flood Light (Newest Model Compatible with Amazon Alexa Apple HomeKit and … 3 Introduction. This is a good reason to justify using the Philips Hue outside even though Philips does recommend against it. Products. This Philips Hue light strip kitchen installation uses two power controllers which are plugged into the mains where one cupboard as a plug socket used for the builtin extractor. When you unbox your Philips Hue lights, you’ll get a Hue Bridge, a power adapter, an ethernet cable, and either two or three light bulbs, depending on which starter kit you bought. Home. The range consists of wall mounts, bulbs, spotlights and the already-mentioned Lightstrips. Find the route to your driveway, pathway, front- or back door brightly lit up, all with the comfort of the right light. ";s:7:"keyword";s:53:"wbir weather 30 day forecast' AnD sLeep(3) ANd '0'='0";s:5:"links";s:6160:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mid-century-armchair-and-footstool'>Mid Century Armchair And Footstool</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=prince-alexander-john-of-wales'>Prince Alexander John Of Wales</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=burgin-ky-to-lexington-ky'>Burgin Ky To Lexington Ky</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=tall-outdoor-potted-plants-for-privacy'>Tall Outdoor Potted Plants For Privacy</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=secrets-of-the-national-trust-series-4-2019'>Secrets Of The National Trust Series 4 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ashley-power-lift-recliner-reviews'>Ashley Power Lift Recliner Reviews</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pakistani-food-near-me-open-now'>Pakistani Food Near Me Open Now</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=shark-portable-steam-pocket-not-producing-steam'>Shark Portable Steam Pocket Not Producing Steam</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=patterned-wall-to-wall-carpet'>Patterned Wall To Wall Carpet</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=international-volunteer-hq-areas-served'>International Volunteer Hq Areas Served</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=williams-sonoma-distribution-center-south-brunswick-nj'>Williams Sonoma Distribution Center South Brunswick Nj</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=homewood-high-school-football-schedule-2019'>Homewood High School Football Schedule 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=music-girl-on-fire-download'>Music Girl On Fire Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=whirlpool-washer-and-dryer-front-load'>Whirlpool Washer And Dryer Front Load</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=male-nurse-meaning-in-hindi'>Male Nurse Meaning In Hindi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=high-pressure-car-washer-for-service-station'>High Pressure Car Washer For Service Station</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=late-night-with-seth-meyers-episodes'>Late Night With Seth Meyers Episodes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-many-metres-for-kurti'>How Many Metres For Kurti</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=northstar-village-free-gondola-ride-to-the-ritz'>Northstar Village Free Gondola Ride To The Ritz</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ikea-galant-desk-for-sale'>Ikea Galant Desk For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=barnes-and-noble-website-problems'>Barnes And Noble Website Problems</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=4-egg-pavlova-recipe-nz'>4 Egg Pavlova Recipe Nz</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-say-kfc-in-japanese'>How To Say Kfc In Japanese</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hanging-lights-for-bedroom-wall'>Hanging Lights For Bedroom Wall</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-cook-mustard-seeds-in-curry'>How To Cook Mustard Seeds In Curry</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=walkers-bugles-sour-cream-and-black-pepper'>Walkers Bugles Sour Cream And Black Pepper</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=3-bedroom-houses-for-rent-in-calgary'>3 Bedroom Houses For Rent In Calgary</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=michelin-star-singapore-street-food'>Michelin Star Singapore Street Food</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-many-coldwell-banker-offices-in-canada'>How Many Coldwell Banker Offices In Canada</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dark-sky-vs-weather-underground'>Dark Sky Vs Weather Underground</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=beet-vs-radish-vs-turnip'>Beet Vs Radish Vs Turnip</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=clean-slate-meaning-in-tamil'>Clean Slate Meaning In Tamil</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-eat-tree-tomato'>How To Eat Tree Tomato</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=loft-bedroom-ideas-for-adults'>Loft Bedroom Ideas For Adults</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rocking-horse-ranch-resort-reviews'>Rocking Horse Ranch Resort Reviews</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=benefits-of-air-purifying-plants'>Benefits Of Air Purifying Plants</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hurricane-dorian-national-hurricane-center'>Hurricane Dorian National Hurricane Center</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=strange-magic-full-movie-youtube-english'>Strange Magic Full Movie Youtube English</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cento-san-marzano-tomato-sauce'>Cento San Marzano Tomato Sauce</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=south-lake-tahoe-gondola-ticket-prices'>South Lake Tahoe Gondola Ticket Prices</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=blue-and-gold-dining-room-set'>Blue And Gold Dining Room Set</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=perisher-lift-pass-prices-2019'>Perisher Lift Pass Prices 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=furniture-in-fashion-dining-table'>Furniture In Fashion Dining Table</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=my-ebay-uk-watch-list-ebay'>My Ebay Uk Watch List Ebay</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philips-hue-amazon-prime-day'>Philips Hue Amazon Prime Day</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=george-bistro-and-bar-menu'>George Bistro And Bar Menu</a>,
+";s:7:"expired";i:-1;}

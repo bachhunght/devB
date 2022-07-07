@@ -1,0 +1,230 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2614:"Unleash full potential of home furniture and interior design through Augmented Reality. Our developers are expert in developing Augmented Reality Interior Design app, Home Design app & AR Floor Planner app to perfectly connect with the clients. Houzz, the home decor company that combines professional renovation services, design ideas, and furniture shopping into one app includes 3D imaging features of augmented reality. Curate by Sotheby's International Realty® is the best augmented reality app for decorating an empty room. As you might know, augmented reality (AR) apps combine a real-world environment with computer-generated objects. Get ideas, place objects in your space, and see how your transformed room with look using augmented reality apps. - New Muuto Stacked AR Shelving Configuratior! Home > Technology > Products > Three Augmented and Virtual Reality Apps for Design and Construction Products . Myty is a powerful interior design tool, based on Augmented Reality Technology. Always 100% original Design. It allows users to place furniture just inside their own place, preview materials on the floor and more! Photo Credit: Home Depot YouTube Channel Augmented Reality and The Home Depot Shopping App. In fact, why stop there? Producing designs suitable for residential and commercial spaces, from elegant lounge furniture to modular shelving with endless possibility, the NAU collection is reductive in form, honest in materiality and timeless in style. Augmented Reality Interior Design App for iOS and iPadOS. As you might know, augmented reality (AR) apps combine a real-world environment with computer-generated objects. A home improvement application through augmented reality with high quality configurable furniture 3D models. With Home Design 3D, designing and remodeling your house in 3D has never been so quick and intuitive!  Learn more about augmented reality for interior design and try the Augment app for free today. Producing designs suitable for residential and commercial spaces, from elegant lounge furniture to modular shelving with endless possibility, the NAU collection is reductive in form, honest in materiality and timeless in style. A great platform for home goods and furniture sellers, Houzz is one of the top AR apps for planning interior layouts and design. Myty is one of the first AR apps designed both for furniture professionals and regular users that are interior design lovers. Consumers are well aware that Augmented Reality is available for furniture shopping from various retailers, and over 60 percent of consumers want to shop for furniture using AR. ";s:7:"keyword";s:33:"augmented reality home design app";s:5:"links";s:6640:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=diy-vacuum-pump-and-chamber'>Diy Vacuum Pump And Chamber</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=simplehuman-rechargeable-soap-dispenser-manual-pdf'>Simplehuman Rechargeable Soap Dispenser Manual Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ground-chicken-tacos-old-el-paso'>Ground Chicken Tacos Old El Paso</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cravings-by-chrissy-teigen-cookware'>Cravings By Chrissy Teigen Cookware</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lane-altavista-virginia-serial-number-lookup'>Lane Altavista Virginia Serial Number Lookup</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=park-city-hiking-trail-map'>Park City Hiking Trail Map</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-is-the-ferret-in-sredni-vashtar-linked-to-death'>How Is The Ferret In Sredni Vashtar Linked To Death</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=universal-soldier-the-return-123movies'>Universal Soldier The Return 123movies</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=keto-diet-bacon-and-eggs'>Keto Diet Bacon And Eggs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=books-on-gardening-in-india'>Books On Gardening In India</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ryet-led-200-lm-ikea'>Ryet Led 200 Lm Ikea</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kmart-bed-in-a-bag'>Kmart Bed In A Bag</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=managing-dust-in-a-warehouse'>Managing Dust In A Warehouse</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sweet-and-sour-sauce-without-pineapple-uk'>Sweet And Sour Sauce Without Pineapple Uk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=waldorf-astoria-park-city-spa'>Waldorf Astoria Park City Spa</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=samsung-washing-machine-error-code-se'>Samsung Washing Machine Error Code Se</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bonsai-fruit-tree-for-sale'>Bonsai Fruit Tree For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philips-respironics-dreamstation-go-auto-travel-cpap-machine-amazon'>Philips Respironics Dreamstation Go Auto Travel Cpap Machine Amazon</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=korean-bbq-buffet-near-me'>Korean Bbq Buffet Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=star-wars-mystery-box-target'>Star Wars Mystery Box Target</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=easy-chocolate-desserts-to-impress'>Easy Chocolate Desserts To Impress</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=century-21-homes-for-sale'>Century 21 Homes For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-to-eat-with-pork-chops-for-dinner'>What To Eat With Pork Chops For Dinner</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=auspost-mastercard-gift-card-balance'>Auspost Mastercard Gift Card Balance</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=queen-headboard-and-footboard-with-storage'>Queen Headboard And Footboard With Storage</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-use-instacart-shopper-app'>How To Use Instacart Shopper App</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=round-glass-top-dining-table-set-6-chairs'>Round Glass Top Dining Table Set 6 Chairs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=modern-living-room-sets-for-small-spaces'>Modern Living Room Sets For Small Spaces</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pressure-washer-pump-belt-drive'>Pressure Washer Pump Belt Drive</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=white-barn-door-medicine-cabinet'>White Barn Door Medicine Cabinet</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-indian-food-san-francisco'>Best Indian Food San Francisco</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=macrobiotic-diet-pros-and-cons'>Macrobiotic Diet Pros And Cons</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=regents-university-london-ranking-2018'>Regents University London Ranking 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=good-and-cheap-cookbook-pdf'>Good And Cheap Cookbook Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ikea-pax-wardrobe-door-hinges-instructions'>Ikea Pax Wardrobe Door Hinges Instructions</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=250w-pulse-start-metal-halide-ballast'>250w Pulse Start Metal Halide Ballast</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=landscaping-next-to-house-ideas'>Landscaping Next To House Ideas</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rent-a-center-price-list'>Rent A Center Price List</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=recipes-using-sugar-beet-syrup'>Recipes Using Sugar Beet Syrup</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-fat-duck-price-2019'>The Fat Duck Price 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=why-is-my-radicchio-green'>Why Is My Radicchio Green</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rice-with-zucchini-and-carrots'>Rice With Zucchini And Carrots</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ground-beef-and-noodles-skillet'>Ground Beef And Noodles Skillet</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=5-minute-indian-snacks-recipes'>5 Minute Indian Snacks Recipes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kitchen-utensil-set-with-holder'>Kitchen Utensil Set With Holder</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cooking-in-the-kitchen-rap-song'>Cooking In The Kitchen Rap Song</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=landscaping-next-to-house-ideas'>Landscaping Next To House Ideas</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=val-thorens-ski-pass-price-2020'>Val Thorens Ski Pass Price 2020</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=suicide-squad-full-movie-in-hindi-watch-online'>Suicide Squad Full Movie In Hindi Watch Online</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-tomato-soup'>How To Make Tomato Soup</a>,
+";s:7:"expired";i:-1;}

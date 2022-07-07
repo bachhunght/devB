@@ -1,0 +1,97 @@
+#customize-theme-controls .customize-pane-child.accordion-section-content
+{
+	overflow: hidden;
+}
+
+.dropdown-item
+{
+	&.hidden-control
+	{
+	  opacity: 0;
+	  visibility: hidden;
+	  max-height: 0;
+	  transition: all 0.3s ease-in-out;
+	  margin-bottom: 0;
+	}
+
+	&:not(.hidden-control)
+	{
+		opacity: 1;
+	  	visibility: visible;
+	  	max-height: 500px;
+	  	transition: all 0.3s ease-in-out;
+
+	  	 + .customize-control-dropdown
+		{
+			margin-top: 15px;
+		}
+	}
+}
+
+.dropdown-control
+{
+	position: relative;
+	margin: 0 -12px;
+	border-top: 1px solid rgba(0, 0, 0, 0.05);
+
+	h3
+	{
+		display: block;
+		position: relative;
+		margin: 0;
+		font-size: 14px;
+	    padding: 10px 10px 11px 15px;
+	    border-left: 4px solid transparent;
+		color: #555;
+		background: white;
+		line-height: 20px;
+		cursor: pointer;
+
+		&:after
+		{
+			position: absolute;
+			top: 12px;
+			right: 14px;
+			color: #a0a5aa;
+			font: 400 20px/1 dashicons;
+			content: "\f343";
+		}
+
+		&:hover
+		{
+			color: #0073aa;
+			background: #f3f3f5;
+			border-left: 4px solid #0073aa;
+			transition: .15s color ease-in-out, .15s background-color ease-in-out, .15s border-color ease-in-out;
+
+			&:after
+			{
+				color: #0073aa;
+			}
+		}
+	}
+}
+
+.customize-control-dropdown
+{
+	&.collapsed
+	{
+		margin-bottom: 0;
+		position: relative;
+
+		.dropdown-control h3:after
+		{
+			content: "\f347";
+		}
+	}
+
+	&:not(.collapsed)
+	{
+		margin-bottom: 25px;
+	}
+
+	&:hover
+	{
+		cursor: pointer;
+	}
+}

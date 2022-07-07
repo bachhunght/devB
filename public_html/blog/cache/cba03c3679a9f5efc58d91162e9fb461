@@ -1,0 +1,278 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4121:"See Doors and windows do not cut openings when inserted into walls in AutoCAD Architecture . I know this is very basic but I’m missing something fundamental. The process starts with preparing the building site and outlining the window then continues with cutting into the brick and installing the window framing elements. Many thanks. Now repeat the process for the height of the window. If there’s a simpler tutorial out there, can someone point me in the right direction? To seal this area, you’ll need to build what is in effect a small wall within a wall. If patching walls will be difficult (as when you have plaster walls), you may choose to slip the new framing in. The next step to add a window to an interior wall is to cut out the rough opening. Exterior and interior window … Cut the opening in the wall Use an angle grinder to cut the straight vertical lines into the wall. Here's how they do it. When installing window molding, start at the top. Before cutting, take a moment to make sure there is no electrical wiring in your way. To build a new window frame in an existing wall, first remove the interior wall covering and any insulation to expose the studs. With the window out, you’re left with a large, square hole in the wall. I’ve gone through Csaba Pozsarko’s tutorials on this several times but don’t understand parts of them. Framing a window in a brick wall is of a relatively simple, three-step process. Install jack studs cut to fit inside each side of the window opening, flush with the trimmer studs that frame the right- … An elegant casing gives windows a sense of depth and dimension that makes them stand out as more than just portals to the outside world. How to Install Basement Windows. If the window is only 2' wide, you don't need a header. Use a reciprocating saw to slice through the studs above and below, taking into account the widths of the header and sill. I’m looking for a tutorial on how to make components (windows, doors) cut openings in thick walls. These will be used for king studs on either side of the window, cut for jack studs below the window, window sill and cripple studs. On the inside of the wall, cut and install the window liner, from the window frame to the full thickness of the inside wall finish to cover up the trimmer studs, rough sill and header. Firstly you need to cut out the brick to the size of your window frame. Use the grinder to cut the horizontal mortar. How to Case a Window. Then take your 4 foot level and draw an outline of the enlarged shape of the window. A lot of brick dust will be kicked up, so wear a dust mask, safety glasses and earmuffs. Take the jamb size and sill height into consideration when planning the placement. On the Door tab > General group > Add Selected tool. The next step to add a window to an interior wall is to cut out the rough opening. When you have done this you will be left with half bricks. Before cutting, take a moment to make sure there is no electrical wiring in your way. It's all done by eye, with a sharp pencil, a miter saw and an 18-gauge nailer. Just put a 2x4 or 2x6 (depending on what the wall was framed with) in its place. In the image below, I already start with a basic window component that has the ability to cut a hole into a face. Remember, you get a much cleaner cut if you don’t push too hard on the angle grinder and just let the tool do the work. For the vertical cut use a masonary drill. Cutting a hole through a cinder block wall is a messy and time consuming project, and it requires safety equipment such as ear plugs, a respirator and eye protection. To place multiple doors or windows, you have the option to Right-click and choose "Multiple" when placing them.  Anchor the sides of the frame to the basement wall with concrete screws. Chances are several of the cut bricks will be loose; these are called bats and will need to be mortared back into their spaces before installing the window frame. 16. Please check Cut Plane in your drawing as we do not have it. Install a new window that fits the space and caulk around the frame to waterproof it. ";s:7:"keyword";s:29:"how to cut a window in a wall";s:5:"links";s:13340:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=godrej-4-door-steel-almirah-price-list'>Godrej 4 Door Steel Almirah Price List</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-hikes-near-mt-bachelor'>Best Hikes Near Mt Bachelor</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=in-ground-pool-steps-amazon'>In Ground Pool Steps Amazon</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-summer-of-sangaile-full-movie-123movies'>The Summer Of Sangaile Full Movie 123movies</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dora-and-the-lost-city-of-gold-box-office-bomb'>Dora And The Lost City Of Gold Box Office Bomb</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=steamboat-restaurants-on-the-mountain'>Steamboat Restaurants On The Mountain</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-to-buy-cpap-filters-near-me'>Where To Buy Cpap Filters Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=real-estate-announcement-on-facebook'>Real Estate Announcement On Facebook</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=honda-powerstroke-pressure-washer-2700-psi-manual'>Honda Powerstroke Pressure Washer 2700 Psi Manual</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cvs-photo-printing-near-me'>Cvs Photo Printing Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-many-cities-in-england'>How Many Cities In England</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mark-levine-dollar-shave-club'>Mark Levine Dollar Shave Club</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=adding-a-room-to-a-single-wide-mobile-home-cost'>Adding A Room To A Single Wide Mobile Home Cost</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=second-hand-double-beds-for-sale-near-me'>Second Hand Double Beds For Sale Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=types-of-rice-in-maharashtra'>Types Of Rice In Maharashtra</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=doors-between-living-room-and-dining-room'>Doors Between Living Room And Dining Room</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=car-service-park-city-to-slc-airport'>Car Service Park City To Slc Airport</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-a-living-wall-diy'>How To Make A Living Wall Diy</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-do-you-become-an-iron-chef-on-food-network'>How Do You Become An Iron Chef On Food Network</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=new-restaurants-coming-to-owensboro-ky'>New Restaurants Coming To Owensboro Ky</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-increase-excitement-in-female'>How To Increase Excitement In Female</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dry-food-for-hostel-students'>Dry Food For Hostel Students</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-clean-your-room-fast-step-by-step'>How To Clean Your Room Fast Step By Step</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=when-to-use-singleton-and-prototype-scope-in-spring'>When To Use Singleton And Prototype Scope In Spring</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=can-anyone-shop-at-flavortown-market'>Can Anyone Shop At Flavortown Market</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=great-blue-hills-of-god'>Great Blue Hills Of God</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=godrej-2-drawer-steel-filing-cabinet'>Godrej 2 Drawer Steel Filing Cabinet</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=andrew-zimmern-new-show-food-network'>Andrew Zimmern New Show Food Network</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=house-by-the-railroad-wikipedia'>House By The Railroad Wikipedia</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=william-sonoma-margarita-cake-recipe'>William Sonoma Margarita Cake Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mid-century-modern-front-door-ideas'>Mid Century Modern Front Door Ideas</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wood-bed-frame-queen-diy'>Wood Bed Frame Queen Diy</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rooms-in-the-house-worksheets-for-preschoolers'>Rooms In The House Worksheets For Preschoolers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dark-teal-velvet-accent-chair'>Dark Teal Velvet Accent Chair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cross-country-ski-rental-south-lake-tahoe'>Cross Country Ski Rental South Lake Tahoe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cobra-pose-vs-upward-dog'>Cobra Pose Vs Upward Dog</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-pioneer-woman-season-24-episode-1'>The Pioneer Woman Season 24 Episode 1</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-long-to-wait-to-swim-after-copper-sulfate'>How Long To Wait To Swim After Copper Sulfate</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=suffolk-sheep-pros-and-cons'>Suffolk Sheep Pros And Cons</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=learn-more-button-facebook-story'>Learn More Button Facebook Story</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=new-mexico-dried-red-chile-pods'>New Mexico Dried Red Chile Pods</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rooms-to-go-complaints-phone-number'>Rooms To Go Complaints Phone Number</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ikea-play-kitchen-refrigerator-hack'>Ikea Play Kitchen Refrigerator Hack</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=virgin-of-the-rocks-medium'>Virgin Of The Rocks Medium</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ikea-storage-ideas-for-small-spaces'>Ikea Storage Ideas For Small Spaces</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=new-york-city-upcoming-events'>New York City Upcoming Events</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=diy-wall-decor-with-lights'>Diy Wall Decor With Lights</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=master-bedroom-plans-with-bath-and-walk-in-closet'>Master Bedroom Plans With Bath And Walk In Closet</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=vegan-gluten-free-samosa-recipe'>Vegan Gluten Free Samosa Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cm-to-feet-and-inches'>Cm To Feet And Inches</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=vintage-room-ideas-for-teenage'>Vintage Room Ideas For Teenage</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=gordon-ramsay-ultimate-home-cooking-free-download'>Gordon Ramsay Ultimate Home Cooking Free Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-is-your-place-meaning-in-malayalam'>Where Is Your Place Meaning In Malayalam</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=house-of-bath-christmas-gifts'>House Of Bath Christmas Gifts</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-remove-zestimate-from-zillow'>How To Remove Zestimate From Zillow</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=are-1920s-houses-well-built'>Are 1920s Houses Well Built</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=eames-style-office-chair-uk'>Eames Style Office Chair Uk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=uses-of-bamboo-in-hindi'>Uses Of Bamboo In Hindi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philips-led-automotive-light-bulbs'>Philips Led Automotive Light Bulbs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=twelve-oaks-mall-holiday-hours-2019'>Twelve Oaks Mall Holiday Hours 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=postman-vs-soapui-vs-katalon'>Postman Vs Soapui Vs Katalon</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=nebraska-furniture-mart-lazy-boy-recliners'>Nebraska Furniture Mart Lazy Boy Recliners</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=university-of-south-florida-application'>University Of South Florida Application</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=indian-breakfast-ideas-for-4-year-old'>Indian Breakfast Ideas For 4 Year Old</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mid-century-modern-landscape-design'>Mid Century Modern Landscape Design</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-french-doors-out-of-regular-doors'>How To Make French Doors Out Of Regular Doors</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kitchen-services-in-hotels-ppt'>Kitchen Services In Hotels Ppt</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=teaching-jobs-in-sharjah-indian-school'>Teaching Jobs In Sharjah Indian School</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-store-black-radish'>How To Store Black Radish</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=current-editor-of-macquarie-dictionary-susan'>Current Editor Of Macquarie Dictionary Susan</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=htc-desire-10-pro-battery'>Htc Desire 10 Pro Battery</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hobby-lobby-90-off-sale-2019-dates'>Hobby Lobby 90 Off Sale 2019 Dates</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=east-side-marios-menu-prices-ontario'>East Side Marios Menu Prices Ontario</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=strawberry-shortcake-characters-lemon-meringue'>Strawberry Shortcake Characters Lemon Meringue</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=contemporary-metal-wall-art-uk'>Contemporary Metal Wall Art Uk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=menards-exterior-french-doors-with-frame'>Menards Exterior French Doors With Frame</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=names-with-ivy-in-them'>Names With Ivy In Them</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=williams-sonoma-holiday-catalog-2019'>Williams Sonoma Holiday Catalog 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=castle-mountain-lift-tickets-costco'>Castle Mountain Lift Tickets Costco</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=quaker-oats-meatloaf-recipe-with-milk'>Quaker Oats Meatloaf Recipe With Milk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=raw-papaya-benefits-for-periods'>Raw Papaya Benefits For Periods</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=used-doors-for-sale-on-craigslist'>Used Doors For Sale On Craigslist</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-use-mango-for-skin-care'>How To Use Mango For Skin Care</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=home-bargains-halloween-decorations-2019'>Home Bargains Halloween Decorations 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=freedom-task-chair-with-headrest-advanced-duron'>Freedom Task Chair With Headrest Advanced Duron</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-big-were-the-guns-of-navarone'>How Big Were The Guns Of Navarone</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kimchi-fried-rice-recipe-with-chicken'>Kimchi Fried Rice Recipe With Chicken</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lucky-bamboo-leaves-turning-yellow'>Lucky Bamboo Leaves Turning Yellow</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rose-garden-white-house-press-conference'>Rose Garden White House Press Conference</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=my-kitchen-rules-season-9-winner'>My Kitchen Rules Season 9 Winner</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cheap-apartment-for-rent-in-new-york'>Cheap Apartment For Rent In New York</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=magnolia-bakery-banana-pudding-recipe-popsugar'>Magnolia Bakery Banana Pudding Recipe Popsugar</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=age-of-consent-new-york'>Age Of Consent New York</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pottery-barn-uk-john-lewis'>Pottery Barn Uk John Lewis</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sex-in-the-city-or-sex-and-the-city'>Sex In The City Or Sex And The City</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=charmed-season-4-episode-19'>Charmed Season 4 Episode 19</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ryobi-pressure-washer-parts-lowes'>Ryobi Pressure Washer Parts Lowes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=delft-university-of-technology-ranking'>Delft University Of Technology Ranking</a>,
+";s:7:"expired";i:-1;}

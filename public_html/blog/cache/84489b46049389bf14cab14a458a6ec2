@@ -1,0 +1,208 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4323:"Facts About Los Angeles. STATISTICAL INFORMATION CONTAINED WITHIN THIS REPORT MAY CHANGE DURING THE COURSE OF AN INVESTIGATION 1 DEFINITIONS ASSAULT: Any … Summary Data for County: Los Angeles. Los Angeles County, officially the County of Los Angeles, in the Los Angeles metropolitan area of the U.S. state of California, is the single most populous county in the United States, with more than 10 million inhabitants as of 2018. 2019 Local Profiles Los Angeles County Southern California Association of Governments 2 The purpose of this report is to provide current information and data for Los Angeles County for planning and outreach efforts. Information on population, housing, transportation, employment, retail sales, and education can be utilized by the city to make well informed planning decisions.  County of Los Angeles had loaded numerous population and poverty estimates at either the Census Tract level or Census Tract-City split areas by age, gender, and/or race-ethnicity into the eGIS_Demographic database and the internal networked drive (members\Demography folder). Des ferries permettent de … By 2060, the county will have a population of 11.5 million. 4.45% . Population. It's projected that the population of Los Angeles County will increase 3.5 million by 2050, and it will remain the largest county and city in the state. Area of Los Angeles County is 4,751.1 mi² (=12305.4 … Race See More Race Data. Los Angeles [lɔs ˈændʒələs] (aus dem spanischen Los Ángeles [losˈaŋxeles]‚ Die Engel‘) oder auch kurz L.A., ist die größte Stadt im US-Bundesstaat Kalifornien.Sie liegt am Pazifischen Ozean und am Los Angeles River.. Los Angeles ist mit 3.976.322 Einwohnern (2016) im Stadtgebiet nach New York City und vor Chicago die zweitgrößte Stadt der Vereinigten Staaten. Los Angeles County, California's estimated population is 10,118,759 with a growth rate of … Los Angeles’s population density is 3,275 people per square kilometer, which is one of the most densely populated major cities in America. This was 3.082% of total US population and 25.1% of total California state population. QuickFacts Los Angeles County, California; California. 2019 Greater Los Angeles Homeless Count—Vehicles, Tents, And Makeshift Shelters By Geographic Area. Das Los Angeles County ist ein County im Süden des US-Bundesstaates Kalifornien.Mit 10.163.507 Einwohnern ist es (Stand: 2017) das bevölkerungsreichste County der Vereinigten Staaten.Auf 10.517 Quadratkilometern umfasst es 88 selbstverwaltete Städte und viele gemeindefreie Gebiete. Los Angeles County, for instance, contains 88 cities including the City of Los Angeles, Long Beach, Santa Clarita, Glendale, and Lancaster, as well as several unincorporated communities whose combined population makes it the largest county in the United States in terms of occupancy. QuickFacts provides statistics for all states and counties, and for cities and towns with a population of 5,000 or more. The term "Greater Los Angeles" does not include San Diego County; that county's urbanized area is separated from San Clemente, the southernmost contiguous urbanized area south of Los Angeles, by a 16.4-mile (26.4 km) stretch of the Marine Corps Base Camp Pendleton. Los Angeles County lost 13,241 residents in the past year, the fourth-biggest drop among the nation’s 100 most-populous counties. 2019 Greater Los Angeles Homeless Count—Los Angeles County. Percent Population Change: 2010 to 2019. Los Angeles County Population vs. State Populations The population of Los Angeles County alone would place it tenth in population behind only the states of California, Texas, Florida, New York, Illinois, Pennsylvania, Ohio, Georgia, and North Carolina. Les deux principaux ports du comté sont le port de Los Angeles et le port de Long Beach, d'une importance mondiale. Population See More Population Data. 2019 Greater Los Angeles Homeless Count—Los Angeles Continuum Of Care In the city of Los Angeles, the increase is even more dramatic—the population grew 16 percent since last year. The Hollywood region of Los Angeles also has several significant headquarters, churches, and the Celebrity Center of Scientology. As such, it is the largest non–state level government entity in the United States. Population Density of Los Angeles. ";s:7:"keyword";s:34:"los angeles county population 2019";s:5:"links";s:3782:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=husky-1550-pressure-washer-manual'>Husky 1550 Pressure Washer Manual</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=amazon-shopping-app-not-compatible'>Amazon Shopping App Not Compatible</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=you-are-the-best-sentence'>You Are The Best Sentence</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cardinal-health-job-cuts-2018'>Cardinal Health Job Cuts 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=minions-hd-wallpapers-1080p-for-desktop'>Minions Hd Wallpapers 1080p For Desktop</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-grow-vegetables-in-pots-malaysia'>How To Grow Vegetables In Pots Malaysia</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ashley-furniture-upholstered-sleigh-bed'>Ashley Furniture Upholstered Sleigh Bed</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=who-voices-buff-in-borderlands-3'>Who Voices Buff In Borderlands 3</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hide-and-seek-movie-2019'>Hide And Seek Movie 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fig-tree-varieties-in-india'>Fig Tree Varieties In India</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kawasaki-hpw-220-vs-302'>Kawasaki Hpw 220 Vs 302</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=difference-between-sociology-and-anthropology-pdf'>Difference Between Sociology And Anthropology Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=alvin-and-the-chipmunks-call-me'>Alvin And The Chipmunks Call Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=advantages-and-disadvantages-of-factory-system'>Advantages And Disadvantages Of Factory System</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=vep%C5%99o-knedlo-zelo-czech-food'>Vepřo Knedlo Zelo Czech Food</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pre-owned-washing-machine-near-me'>Pre Owned Washing Machine Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=m22-threaded-trigger-gun-for-gas-and-electric-pressure-washers'>M22 Threaded Trigger Gun For Gas And Electric Pressure Washers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-does-opportunity-cost-mean'>What Does Opportunity Cost Mean</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=The-Farm-With-Ian-Knauer'>The Farm With Ian Knauer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=american-society-of-preventive-cardiology'>American Society Of Preventive Cardiology</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=difference-between-sociology-and-anthropology-pdf'>Difference Between Sociology And Anthropology Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=farm-and-fleet-pressure-washer'>Farm And Fleet Pressure Washer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=haier-duo-washing-machine-india-price-list'>Haier Duo Washing Machine India Price List</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hard-plastic-paddling-pool-nz'>Hard Plastic Paddling Pool Nz</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=popeye-olive-oyl-and-brutus'>Popeye Olive Oyl And Brutus</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=prp-louisville-ky-zip-code'>Prp Louisville Ky Zip Code</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-get-a-hemp-growing-license'>How To Get A Hemp Growing License</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=whistler-bike-park-a-line'>Whistler Bike Park A Line</a>,
+";s:7:"expired";i:-1;}

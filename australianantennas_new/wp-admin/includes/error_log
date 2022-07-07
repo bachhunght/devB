@@ -1,0 +1,62 @@
+[24-Oct-2021 06:08:16 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Upgrader_Skin' not found in /home/australiana/public_html/wp-admin/includes/class-theme-installer-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/australiana/public_html/wp-admin/includes/class-theme-installer-skin.php on line 18
+[24-Oct-2021 06:26:55 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/australiana/public_html/wp-admin/includes/nav-menu.php on line 11
+[24-Oct-2021 06:26:55 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-walker-nav-menu-edit.php): failed to open stream: No such file or directory in /home/australiana/public_html/wp-admin/includes/nav-menu.php on line 11
+[24-Oct-2021 06:26:55 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-walker-nav-menu-edit.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/australiana/public_html/wp-admin/includes/nav-menu.php on line 11
+[24-Oct-2021 06:41:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/australiana/public_html/wp-admin/includes/continents-cities.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/australiana/public_html/wp-admin/includes/continents-cities.php on line 12
+[24-Oct-2021 07:00:14 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/australiana/public_html/wp-admin/includes/class-wp-themes-list-table.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/australiana/public_html/wp-admin/includes/class-wp-themes-list-table.php on line 18
+[24-Oct-2021 07:50:27 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/australiana/public_html/wp-admin/includes/class-wp-media-list-table.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/australiana/public_html/wp-admin/includes/class-wp-media-list-table.php on line 18
+[24-Oct-2021 09:49:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Walker' not found in /home/australiana/public_html/wp-admin/includes/class-walker-category-checklist.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/australiana/public_html/wp-admin/includes/class-walker-category-checklist.php on line 19
+[24-Oct-2021 10:31:38 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/australiana/public_html/wp-admin/includes/class-wp-themes-list-table.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/australiana/public_html/wp-admin/includes/class-wp-themes-list-table.php on line 18
+[24-Oct-2021 10:47:59 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/australiana/public_html/wp-admin/includes/class-wp-ms-themes-list-table.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/australiana/public_html/wp-admin/includes/class-wp-ms-themes-list-table.php on line 18
+[24-Oct-2021 11:51:13 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Comments_List_Table' not found in /home/australiana/public_html/wp-admin/includes/class-wp-post-comments-list-table.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/australiana/public_html/wp-admin/includes/class-wp-post-comments-list-table.php on line 18
+[24-Oct-2021 12:31:29 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Upgrader_Skin' not found in /home/australiana/public_html/wp-admin/includes/class-theme-upgrader-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/australiana/public_html/wp-admin/includes/class-theme-upgrader-skin.php on line 18
+[24-Oct-2021 13:01:51 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/australiana/public_html/wp-admin/includes/class-wp-ms-sites-list-table.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/australiana/public_html/wp-admin/includes/class-wp-ms-sites-list-table.php on line 18
+[27-Oct-2021 18:41:12 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/australiana/public_html/wp-admin/includes/class-wp-privacy-data-export-requests-list-table.php on line 11
+[27-Oct-2021 18:41:12 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-wp-privacy-requests-table.php): failed to open stream: No such file or directory in /home/australiana/public_html/wp-admin/includes/class-wp-privacy-data-export-requests-list-table.php on line 11
+[27-Oct-2021 18:41:12 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-wp-privacy-requests-table.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/australiana/public_html/wp-admin/includes/class-wp-privacy-data-export-requests-list-table.php on line 11
+[27-Oct-2021 23:27:57 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/australiana/public_html/wp-admin/includes/class-wp-comments-list-table.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/australiana/public_html/wp-admin/includes/class-wp-comments-list-table.php on line 18
+[29-Oct-2021 02:51:33 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Filesystem_Base' not found in /home/australiana/public_html/wp-admin/includes/class-wp-filesystem-ftpsockets.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/australiana/public_html/wp-admin/includes/class-wp-filesystem-ftpsockets.php on line 16
+[29-Oct-2021 13:37:10 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Privacy_Data_Export_Requests_List_Table' not found in /home/australiana/public_html/wp-admin/includes/deprecated.php:1530
+Stack trace:
+#0 {main}
+  thrown in /home/australiana/public_html/wp-admin/includes/deprecated.php on line 1530
+[30-Oct-2021 04:51:07 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Privacy_Data_Export_Requests_List_Table' not found in /home/australiana/public_html/wp-admin/includes/deprecated.php:1530
+Stack trace:
+#0 {main}
+  thrown in /home/australiana/public_html/wp-admin/includes/deprecated.php on line 1530

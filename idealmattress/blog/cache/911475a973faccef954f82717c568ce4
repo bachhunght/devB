@@ -1,0 +1,220 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3670:"Now you can erase your dotted lines inside the square and add shading and highlights to your square and you will have a 3-d square with an accurate shadow. Core shadows can tell the viewer about the form of the object in the scene, while cast shadows imply the shape of the object and the direction of the light.  Core shadows are shadows on the object itself, while cast shadows are the result of the light being blocked by the object. It should be drawn in as close to black as possible. In HTML I am calling draw function onclick() event of a button named Refresh. You need to understand the geometry behind this process to make your drawings most life-like. When you get shadows right, your whole composite looks more cohesive, and your subject fits better within the scene. The placement of this light source affects every aspect of a drawing. It is not as hard as it looks. Before you begin to draw or create your shadow in Photoshop, it’s important to understand how shadows work. (See Fig. How to Create a Simple Shadow Using Photoshop CS3. Final Image. In this tutorial you'll learn how to give a person or object a realistic shadow. This is the shadow the object you are drawing casts onto a surrounding surface. In this tutorial, we gladly help you to add a shadow to an object/a person in Photoshop. — The " shadow " V.P. The next lesson will cover how to draw the shadow of a pyramid and how to draw a shadow cast against a wall. The shadow is then “cast” onto surrounding objects or surfaces. To see a drop shadow you need a light source. You can use the form shadows on your object to give you clues as to how a realistic cast shadow will appear. Open an image in Photoshop. Drawing shadows is an important part of a 3-D drawing. I intend to draw a shadow of an object … (When the sun is close to the horizon, the horizon is the point of contact.). • Drawing by looking at objects in correct perspective and proportions. I dont want to draw shadow of the circle. Tweet. Can anyone please tell me the mistake I'm doing here. We will also show you how to shade cylindrical objects and how to draw perfect cast shadows. As I click on the Refresh button it is drawing both the objects with shadow. flat shadow. The next lesson will cover how to draw the shadow of a pyramid and how to draw a shadow cast against a wall. Cuttable shadows are needed for such projects. Add a shadow to an object/a person in Photoshop. How to Create a Simple Shadow Using Photoshop CS3. 5.) It is No. Drawing a shadow of a line is, actually, a bit easier - you don't need to define the position of the object on the floor! In this image, notice that the light reflecting from the pitcher brightens part of the shadow from the block in front of it. This wikiHow teaches you how to create a shadow behind an image in Adobe Photoshop. Step 1: Select the object/person/... that you want to give a shadow. And the shadow is ready. Drop shadow is a shape that is created by an object on a surface (or multiple surfaces) by blocking the light. 1.Cast Shadow. Start Image. 1. When you insert an object or person into another picture with Photoshop, it is very important to add a shadow to that object or person to make things realistic and believable. A light will create a bright spot, with a gradient to darker shadows on the opposite side. The secret to making a two-dimensional circle look like a three-dimensional sphere is the shading. In HTML I am calling draw function onclick() event of a button named Refresh. Realistic shadow. The shadow follows the shape of an object to the extent that the surface, by its angles and variation of form and shape, will permit it. ";s:7:"keyword";s:33:"how to draw a shadow of an object";s:5:"links";s:5310:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=second-hand-shops-near-me'>Second Hand Shops Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=park-city-ski-school-video'>Park City Ski School Video</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=merriam-webster-app-for-kids'>Merriam Webster App For Kids</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=used-concession-trailers-for-rent'>Used Concession Trailers For Rent</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=How-to-draw-a-Chrysanthemum'>How To Draw A Chrysanthemum</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=head-first-design-patterns-amazon'>Head First Design Patterns Amazon</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=tie-rack-london-oxford-street'>Tie Rack London Oxford Street</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ikea-deck-tiles-on-dirt'>Ikea Deck Tiles On Dirt</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-tell-when-daikon-radish-is-ready-to-harvest'>How To Tell When Daikon Radish Is Ready To Harvest</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=l-shaped-sleeper-sofa-bed'>L Shaped Sleeper Sofa Bed</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ludwig-maximilian-university-of-munich-masters'>Ludwig Maximilian University Of Munich Masters</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-last-drop-whisky-wikipedia'>The Last Drop Whisky Wikipedia</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=home-depot-delivery-never-showed-up'>Home Depot Delivery Never Showed Up</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-care-for-lavender-plants-in-pots'>How To Care For Lavender Plants In Pots</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cauliflower-rice-recipe-jamie-oliver'>Cauliflower Rice Recipe Jamie Oliver</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=are-coworking-spaces-worth-it'>Are Coworking Spaces Worth It</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-hideout-at-the-pourhouse'>The Hideout At The Pourhouse</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=black-cumin-seeds-meaning-in-telugu'>Black Cumin Seeds Meaning In Telugu</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=importance-of-posting-learning-objectives'>Importance Of Posting Learning Objectives</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=st-george-personal-loan-calculator'>St George Personal Loan Calculator</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=custom-canvas-print-with-words'>Custom Canvas Print With Words</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-build-a-wooden-wall'>How To Build A Wooden Wall</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=vinegar-based-bbq-sauce-recipe'>Vinegar Based Bbq Sauce Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=24-inch-white-wall-tires'>24 Inch White Wall Tires</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=architectural-case-study-of-resorts-in-india-pdf'>Architectural Case Study Of Resorts In India Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hulled-barley-vs-brown-rice'>Hulled Barley Vs Brown Rice</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wilbers-bbq-chicken-gravy-recipe'>Wilbers Bbq Chicken Gravy Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=metal-raised-garden-beds-home-depot'>Metal Raised Garden Beds Home Depot</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=flower-vase-in-hindi-language'>Flower Vase In Hindi Language</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=make-ahead-breakfast-burrito-casserole'>Make Ahead Breakfast Burrito Casserole</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=types-of-geraniums-for-hanging-baskets'>Types Of Geraniums For Hanging Baskets</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=farmers-almanac-hurricane-season-2019-predictions'>Farmers Almanac Hurricane Season 2019 Predictions</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cheap-front-doors-for-sale'>Cheap Front Doors For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=south-lake-tahoe-gondola-ticket-prices'>South Lake Tahoe Gondola Ticket Prices</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-plan-a-brunch-menu'>How To Plan A Brunch Menu</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=discount-furniture-outlet-near-me'>Discount Furniture Outlet Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=home-depot-hvac-installation-reviews'>Home Depot Hvac Installation Reviews</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-soil-for-herbs-in-pots'>Best Soil For Herbs In Pots</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=brandon-sanderson-white-sand-volume-3'>Brandon Sanderson White Sand Volume 3</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=furniture-stores-in-roseburg-oregon'>Furniture Stores In Roseburg Oregon</a>,
+";s:7:"expired";i:-1;}

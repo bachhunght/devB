@@ -1,0 +1,212 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:1856:"Rick Ware Racing began fielding entries in NASCAR in 1998 but did not start competing full time until 2017. Rick Ware Racing had more of a presence in the Monster Energy NASCAR Cup Series in 2019 with at least two cars in all 36 races. Rick Ware Racing is an American motorsports team competing in the NASCAR Cup Series, WeatherTech SportsCar Championship and Asian Le Mans Series Rick Ware Racing will also compete in the NASCAR Xfinity Series with the expanded effort in two of the three NASCAR national series in 2019. The 23-year-old driver has competed in nine races in NASCAR's top series across two seasons. The team revealed that veteran driver J.J. Yeley will be one of its three full-time drivers. Timmy moved on to Bandelero cars in 2006, where he gained another 10 wins. Timmy began his racing career driving go karts in 2005. THOMASVILLE, N.C. – On the heels of their first full season in the Monster Energy NASCAR Cup Series, Rick Ware Racing is already full steam ahead to prepare for next season, kicking off with the prestigious Daytona 500 on Sunday, Feb. 17, 2019. The team has run in all three major series at one point or another on a part-time basis.  About Timmy Hill. Rick Ware Racing announced Thursday that it will field three full-time cars in the 2020 NASCAR Cup season. Timmy won over 80 events including (2) WKA Championships, (2) King George Championships, and (1) Concord Speedway Winter series championship and also finishing 3rd in the National championship. Rick Ware Racing has acquired a second NASCAR charter and new cars for 2019 THOMASVILLE, N.C. – On the heels of their first full season in the Monster Energy NASCAR Cup Series (MENCS), Thomasville, N.C.-based Rick Ware Racing (RWR) is already full steam ahead to prepare for next season, kicking off with the prestigious Daytona 500 on Sunday, Feb. 17, 2019. ";s:7:"keyword";s:29:"rick ware racing 2019 drivers";s:5:"links";s:4326:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=teams-that-moved-from-fcs-to-fbs'>Teams That Moved From Fcs To Fbs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=3-bedroom-houses-for-rent-in-calgary'>3 Bedroom Houses For Rent In Calgary</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=all-star-movies-food-court-secret-menu'>All Star Movies Food Court Secret Menu</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=locking-wall-cabinet-with-glass-doors'>Locking Wall Cabinet With Glass Doors</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=office-space-interior-design-ideas'>Office Space Interior Design Ideas</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bedroom-wall-art-above-bed'>Bedroom Wall Art Above Bed</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-fast-food-chicken-sandwich-2019'>Best Fast Food Chicken Sandwich 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=diane-lane-husband-josh-brolin'>Diane Lane Husband Josh Brolin</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=better-homes-and-gardens-fabric-cube-storage-bins'>Better Homes And Gardens Fabric Cube Storage Bins</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ginger-tea-benefits-for-skin'>Ginger Tea Benefits For Skin</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=upper-east-side-casual-restaurants'>Upper East Side Casual Restaurants</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sunday-brunch-buffet-near-me-now'>Sunday Brunch Buffet Near Me Now</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sarah-j-maas-throne-of-glass'>Sarah J Maas Throne Of Glass</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=big-cook-little-cook-mouse'>Big Cook Little Cook Mouse</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mt-baldy-vs-mt-high'>Mt Baldy Vs Mt High</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=healthy-green-bean-casserole-greek-yogurt'>Healthy Green Bean Casserole Greek Yogurt</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=i-have-been-using-this-product-since'>I Have Been Using This Product Since</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=home-office-design-ideas-photos'>Home Office Design Ideas Photos</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-do-i-give-feedback-to-my-teacher'>How Do I Give Feedback To My Teacher</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=for-sale-by-owner-closing-paperwork'>For Sale By Owner Closing Paperwork</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-many-bahama-breeze-locations'>How Many Bahama Breeze Locations</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=thai-spicy-vegetable-stir-fry-recipe'>Thai Spicy Vegetable Stir Fry Recipe</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=study-table-designs-for-adults'>Study Table Designs For Adults</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=key-west-florida-map-islands'>Key West Florida Map Islands</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-a-glass-panel-door'>How To Make A Glass Panel Door</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=why-are-hydrothermal-vents-important'>Why Are Hydrothermal Vents Important</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hyatt-centric-park-city-restaurant'>Hyatt Centric Park City Restaurant</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=large-metal-wall-decor-cheap'>Large Metal Wall Decor Cheap</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=little-tikes-cook-n-learn-smart-kitchen-replacement-parts'>Little Tikes Cook N Learn Smart Kitchen Replacement Parts</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ancient-tamil-food-recipes-in-tamil-language'>Ancient Tamil Food Recipes In Tamil Language</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lakshmi-nair-cookery-show-malayalam'>Lakshmi Nair Cookery Show Malayalam</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lowes-french-doors-with-blinds-inside'>Lowes French Doors With Blinds Inside</a>,
+";s:7:"expired";i:-1;}

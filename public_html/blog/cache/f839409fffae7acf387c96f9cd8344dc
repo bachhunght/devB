@@ -1,0 +1,209 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3665:"Sky-Byte – Sky-Byte is a Decepticon poet who shares the same body-type as Lugnut but with a color scheme and head design based on the Predacon of the same name from … That’s why most robots with have at least 4 of them, usually they have 6 legs or more. There are as many different types of robots as there are tasks for them to perform. Common Types of Industrial Robots: Articulated - This robot design features rotary joints and can range from simple two joint structures to 10 or more joints. ASIMO, Honda's human-shaped robot that turned 10 in 2010, is just one example. What do you think? A robot is a machine designed to execute one or more tasks repeatedly, with speed and precision. Robotics - Types of Robots Ask a number of people to describe a robot and most of them will answer they look like a human. Here's to ten great years of robot goodness and high hopes for ten more! 12 Robots That Are Actually Useful + Type keyword(s) to search + Gear-obsessed editors choose every product we review. It's been a pretty busy 10 years for robotic innovation, so I don't doubt there's plenty more than I could have listed. Cylindrical robots are generally used for assembly purposes, spot welding and machine die castings. Robots are often used to do daunting tasks too difficult for humans, like preforming sensitive surgeries or handling hazardous materials.  Robots are already a big part of our society and interact with humans in ways that many people take for granted. As the name suggests, it forms a As you ROBOTS is a product of IEEE Spectrum, the flagship publication of the IEEE, the world's largest technical professional organization for the advancement of technology. Entertainment robots – These types of robots are employed for entertainment. Paige: For my thumbnail sketches, I took inspiration from robot images. Types of Robots Learn about a variety of interesting types of robots that lead the way in the world of robotics and artificial intelligence. It is the discipline in charge of the design, construction, operation and use of the robots, besides the computer systems to control them, to give feedback and to allow them to process information. Types of robots by application Nowadays, robots do a lot of different tasks in many fields and the number of jobs entrusted to robots is growing steadily. These military robots can This robot has a simple structure which is important for all of the group when drawing and animating Forgotten Robot Found in a cardboard box in front of store with "Free to good home" written on the side. Apart from mechanical configuration, industrial robots can also be categorized based on motion control, power supply control and physical characteristics. Industrial Robots. A Robot is a machine capable of carrying out a complex series of actions automatically or via a remote control. It begins with model robots such as robosapien or the running photo frames and concludes with real 7. Here are the types of robots by locomotion systems. Below are just some of the uses for robots. Walking Robots: Robots on legs are usually brought in when the terrain is rocky and difficult to enter with wheels.Robots have a hard time shifting balance and keep them from tumbling. Robots on Earth Typical industrial robots do jobs that are difficult, dangerous or dull. 6. Please Click on the image for a larger picture. In this collection, you'll see images of … We will examine these types in detail. Based on mechanical configuration, industrial robots can be classified into six major types namely: articulated robots, cartesian robots, SCARA robots, delta robots, polar robots and cylindrical robots. ";s:7:"keyword";s:37:"types of robots with images and names";s:5:"links";s:3905:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=jasmine-name-meaning-in-hindi'>Jasmine Name Meaning In Hindi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=extra-large-tall-chest-of-drawers'>Extra Large Tall Chest Of Drawers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=something-the-lord-made-123movies'>Something The Lord Made 123movies</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=an-idiot-abroad-season-1-episode-2'>An Idiot Abroad Season 1 Episode 2</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=do-you-have-to-remove-furniture-to-install-hardwood-floors'>Do You Have To Remove Furniture To Install Hardwood Floors</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=homes-for-sale-marion-ohio'>Homes For Sale Marion Ohio</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=country-inn-and-suites-carlisle-pa'>Country Inn And Suites Carlisle Pa</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=alfa-romeo-f1-drivers-2018'>Alfa Romeo F1 Drivers 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=litti-chokha-web-series-download'>Litti Chokha Web Series Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=can-i-use-a-pottery-barn-gift-card-at-williams-sonoma'>Can I Use A Pottery Barn Gift Card At Williams Sonoma</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dyson-v8-absolute-vs-v10'>Dyson V8 Absolute Vs V10</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-metal-sculptures'>How To Make Metal Sculptures</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ge-refrigerator-door-shelf-retainer-bar'>Ge Refrigerator Door Shelf Retainer Bar</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=place-of-supply-malayalam-meaning'>Place Of Supply Malayalam Meaning</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chicken-wings-and-rice-restaurant'>Chicken Wings And Rice Restaurant</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=set-up-a-captive-portal'>Set Up A Captive Portal</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=de-error-in-lg-top-loading-washing-machine'>De Error In Lg Top Loading Washing Machine</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=calories-in-1-cup-fried-cauliflower'>Calories In 1 Cup Fried Cauliflower</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-do-bent-lamination'>How To Do Bent Lamination</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-tell-if-an-eames-fiberglass-chair-is-real'>How To Tell If An Eames Fiberglass Chair Is Real</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=spiritual-healing-in-the-bible'>Spiritual Healing In The Bible</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=restaurants-with-private-dining-near-me'>Restaurants With Private Dining Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-ice-cream-with-milk-and-eggs'>How To Make Ice Cream With Milk And Eggs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-brunch-in-dubai-2018'>Best Brunch In Dubai 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=when-to-plant-kohlrabi-in-zone-8'>When To Plant Kohlrabi In Zone 8</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-cut-logs-into-slices'>How To Cut Logs Into Slices</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=string-of-tears-vs-string-of-pearls'>String Of Tears Vs String Of Pearls</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=isle-royale-national-park-timeline'>Isle Royale National Park Timeline</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=italian-kitchen-design-in-india'>Italian Kitchen Design In India</a>,
+";s:7:"expired";i:-1;}

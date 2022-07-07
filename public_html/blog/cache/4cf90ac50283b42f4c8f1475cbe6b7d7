@@ -1,0 +1,236 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:831:"Low Carb Breakfast Casserole: I keep it low carb by cutting any sort of starchy veggies or bread and just sticking to the good stuff: eggs, meat, and cheese! For more low carb favorites, try my stuffed peppers or this chicken casserole. Serve this dish for your holiday breakfasts and brunch!  I’ve used sausage and bacon today, but ham is tasty too! Vegan Breakfast Casserole (No Eggs or Meat) 0 from 0 ratings It’s really quite remarkable how despite the fact that the paleo diet and vegan diets have so many major differences, they still do share quite an awful lot in common. Low-Carb Keto Bacon, Egg, and Spinach Breakfast Casserole is the perfect quick and easy make-ahead, meal-prep dish with cheese, mushrooms, and peppers. This dish is keto friendly and perfect for keto diets. Who doesn’t love pork in the morning? ";s:7:"keyword";s:34:"low carb vegan breakfast casserole";s:5:"links";s:7600:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=high-back-swivel-vanity-stool'>High Back Swivel Vanity Stool</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=2-drawer-nightstand-near-me'>2 Drawer Nightstand Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=small-roof-garden-design-ideas'>Small Roof Garden Design Ideas</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=round-dining-table-for-8-with-lazy-susan'>Round Dining Table For 8 With Lazy Susan</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=can-you-propagate-creeping-jenny-in-water'>Can You Propagate Creeping Jenny In Water</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-grow-a-baby-fiddle-leaf-fig'>How To Grow A Baby Fiddle Leaf Fig</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=blue-curacao-drinks-with-sprite'>Blue Curacao Drinks With Sprite</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=torres-del-paine-national-park-hotels'>Torres Del Paine National Park Hotels</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=r32-refrigerant-suction-and-discharge-pressure'>R32 Refrigerant Suction And Discharge Pressure</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-proud-rose-short-story'>The Proud Rose Short Story</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=new-york-farmhouse-architectural-digest'>New York Farmhouse Architectural Digest</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=top-ten-grilled-chicken-breast-recipes'>Top Ten Grilled Chicken Breast Recipes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=leaving-dog-in-crate-for-10-hours'>Leaving Dog In Crate For 10 Hours</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-is-a-referral-agent'>What Is A Referral Agent</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=benjamin-moore-paint-colors-2019'>Benjamin Moore Paint Colors 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=hilton-honors-customer-service-number'>Hilton Honors Customer Service Number</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=modular-home-additions-floor-plans'>Modular Home Additions Floor Plans</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=wall-collage-ideas-with-clock'>Wall Collage Ideas With Clock</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cochrane-chile-things-to-do'>Cochrane Chile Things To Do</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=3-room-resale-flat-renovation-cost'>3 Room Resale Flat Renovation Cost</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=Benefits-of-carrots-for-skin'>Benefits Of Carrots For Skin</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-creature-from-the-black-lagoon-full-movie'>The Creature From The Black Lagoon Full Movie</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=snap-on-pressure-washer-gun'>Snap On Pressure Washer Gun</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=comfy-floor-seats-for-adults'>Comfy Floor Seats For Adults</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-add-lights-to-headboard'>How To Add Lights To Headboard</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-request-feedback-from-coworkers-email-template'>How To Request Feedback From Coworkers Email Template</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philips-h4-led-bulb-for-car'>Philips H4 Led Bulb For Car</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mother-of-pearl-end-table'>Mother Of Pearl End Table</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=townhomes-for-sale-near-me-zillow'>Townhomes For Sale Near Me Zillow</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=garden-pond-supplies-near-me'>Garden Pond Supplies Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=too-much-beetroot-side-effects'>Too Much Beetroot Side Effects</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=laundry-room-cabinets-with-sink'>Laundry Room Cabinets With Sink</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=courchevel-1850-hotels-ski-in-ski-out'>Courchevel 1850 Hotels Ski In Ski Out</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=herberger-institute-for-design-and-the-arts-acceptance-rate'>Herberger Institute For Design And The Arts Acceptance Rate</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kth-royal-institute-of-technology-ranking'>Kth Royal Institute Of Technology Ranking</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=italian-to-english-converter-online'>Italian To English Converter Online</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=glass-wardrobe-designs-for-kitchen'>Glass Wardrobe Designs For Kitchen</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cambridge-apartments-for-rent-by-owner'>Cambridge Apartments For Rent By Owner</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-repair-sash-windows-with-springs'>How To Repair Sash Windows With Springs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=japanese-floor-chair-with-armrest'>Japanese Floor Chair With Armrest</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cambridge-apartments-for-rent-by-owner'>Cambridge Apartments For Rent By Owner</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-causes-brown-tips-on-my-peace-lily'>What Causes Brown Tips On My Peace Lily</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=free-printable-wall-art-watercolor'>Free Printable Wall Art Watercolor</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philips-respironics-dreamstation-go-auto-travel-cpap-machine-amazon'>Philips Respironics Dreamstation Go Auto Travel Cpap Machine Amazon</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=used-power-washers-for-sale-near-me'>Used Power Washers For Sale Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=back-niggle-meaning-in-tamil'>Back Niggle Meaning In Tamil</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=stores-going-out-of-business-2020'>Stores Going Out Of Business 2020</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fast-food-in-richmond-hill-ga'>Fast Food In Richmond Hill Ga</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=modern-apartment-design-floor-plan'>Modern Apartment Design Floor Plan</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philips-mastercolor-ceramic-metal-halide-400w'>Philips Mastercolor Ceramic Metal Halide 400w</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=murphy-bed-with-tv-on-back'>Murphy Bed With Tv On Back</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-support-tomato-plants-with-string'>How To Support Tomato Plants With String</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-build-a-wooden-wall'>How To Build A Wooden Wall</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=800-sq-ft-apartment-design'>800 Sq Ft Apartment Design</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=pothos-in-water-turning-yellow'>Pothos In Water Turning Yellow</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ethnic-wear-shops-near-me'>Ethnic Wear Shops Near Me</a>,
+";s:7:"expired";i:-1;}

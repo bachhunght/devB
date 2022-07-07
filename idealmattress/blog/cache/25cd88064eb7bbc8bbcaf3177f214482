@@ -1,0 +1,248 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:5463:"Also remember that you can't get most daedric artifacts without being level 20+, but I agree with the person above, the unique items in this game are to weak. (in vanilla the items/enemies stats will depend on what level you are at) so do these mods fix the scaling? If there are any good guild weapons, please tell me. On a sort of related note, in Shivering Isles there's a bad ass 2 handed sword called Shadowrend you can get that is really good. Leveled items are typically obtained as quest rewards. This means that in the game there are several versions of the same item, some more powerful than the others. You'll need to be above level 10 at least to get elen armour/weapons dropped. These enchantments are working all the time when you wear the item, unlike a weapon which will only be used when you strike an enemy. If you have the PC you can get a quest award leveler mod that takes care of that for you. Some items are "leveled". That’s where this mod comes in. Is it possible to remove the item from inventory, then use a console command to receive the item again at my current level? Best weapon and Armor in Oblivion ??? Auto Update Leveled Items And Spells (AULIAS) Version: 1.2.5 By: Alek ... (if you have level 1 item and it need to be replaced with level 30 version you will have level 5,10,15,20,25 sequently added and removed until you finally get level 30 item, can cause CTD). If you can tell me some good, not to hard stuff to get, that would be hulpful. How to Get Glass Armor in Oblivion. Oblivion:Leveled Items. There isn't a way to level up a spell, you simply have to buy another spell. At lower levels, these items have weaker base stats, while at high levels, these stats increase. (lvl 9 damage-10 lvl 20 damage-25) Leveled items are items in the game whose statistics are scaled to the player's character level at the time they acquire them.  If you want to level up quickly, select Athletics as one of your Major Skills and never stop running. Despite Oblivion’s huge assortment of weapons on offer, you’re likely to get bored by most of them after a few playthroughs. If you are opting for the regular oblivion, then the level will be increasing at a similar rate. Fine steel bow: Pick pocketed from a Bruma guard. It would be cool if the weapon could be upgraded to match my current level so that it's not completely useless shortly after receiving it. I already have the Akaviri Katana. You're on a quest in Oblivion. It drops in Vaults of Madness in Coldharbour. The item is scaled in power based on the player's level at the time the reward is given. Are there other solutions? Silver Bow - Carried by Imperial Archers. If I receive a leveled item (ex. Power-leveling still exists in Oblivion, much the same way it did in Morrowind. Blade of Woe) at a low level it won't have the best stats. Leveled items refer to loot or quest rewards that vary in strength due to Character Level. Glass Armour is the best light armor in the game. I am looking for good weapons and armor in oblivion. Is that true or does everything get stronger as i level up? The reason it is only 4 is that your blade skill and strength attribute is not high enough. As I am in early stages of play (level 5) I have pretty bad weapons, fine steel bow and silver longsword. Even if you don't exploit smithing to the max you can craft better weapons. Oblivion's Edge is a medium armor set. < Oblivion: Items. Say, if I had Goldbrad at level 9, would its stats gradually increase as I level? If you're playing on the console, I'd wait on any of the special items in game until your high enough level. Can be obtained from the Imperial Archer outside the Inn of Ill Omen when the Oblivion Gate opens nearby, by leading the enemies to him to kill him, letting you loot his bow. Immersive Weapons adds hundreds of new weapons to the game ranging from bows and daggers to swords and axes. This oblivion mod is also incorporated with several small mods, and they have the artificial intelligence tweaks which are adding some hundreds of new items and weapon into the game along with the balance alteration. With the help of these oblivion mods, one can completely change this setting and can assign different areas for different level caps. So i read that enemies level up as you do and someone told me that its only the enemies on the other side of the oblivion gate and things in caves and forts are at a constant level. (make it so as you progress so do your unique items) Also do you know how to disable the message that requires you to have a certain skill like: ''You need to be joureyman in heavy armor to equip this item'' Thanks ... (archery, one handed weapon, light armor, sneak). The goal of this modding guide is to not only introduce you how to install and configure mods to Elder Scrolls IV: Oblivion, but to also provide mods that enhance the experience, dealing with annoying aspects of the game while strengthening the powerful ones. Some leveled items become stronger in both their physical and magical characteristics, while … The weapons and armour that appear in general play in oblivion are level dependant. you have to level up to level 10.after you get it you should press P and that will show you all the weapons you unlocked so you press shotgun or whatever else you … Oblivion weapons! The Oblivion's Edge set is part of the base game. Silver longsword: Also robbed in a … I am currently level 3 and use swords and bows. ";s:7:"keyword";s:36:"oblivion weapons that level with you";s:5:"links";s:9254:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=essay-about-flowers-in-malayalam'>Essay About Flowers In Malayalam</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=tomato-benefits-for-skin-whitening'>Tomato Benefits For Skin Whitening</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=when-will-ocee-library-open'>When Will Ocee Library Open</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kung-fu-panda-3-full-movie-dailymotion'>Kung Fu Panda 3 Full Movie Dailymotion</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=toddler-boy-room-ideas-on-a-budgetis-david-gregory-still-with-cnn'>Toddler Boy Room Ideas On A Budgetis David Gregory Still With Cnn</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=commercial-property-for-rent-london'>Commercial Property For Rent London</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=arthur-llewellyn-jenkins-discount-code'>Arthur Llewellyn Jenkins Discount Code</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dining-room-chairs-for-seniors'>Dining Room Chairs For Seniors</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=arthur-llewellyn-jenkins-discount-code'>Arthur Llewellyn Jenkins Discount Code</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-brain-supplements-for-adults'>Best Brain Supplements For Adults</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ie-school-of-architecture-and-design-fees'>Ie School Of Architecture And Design Fees</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=large-slate-rock-for-sale'>Large Slate Rock For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=rent-pressure-washer-with-water-tank'>Rent Pressure Washer With Water Tank</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=world-record-red-stag-2019'>World Record Red Stag 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=i-still-see-you-sequel'>I Still See You Sequel</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=foam-mattress-meaning-in-tamil'>Foam Mattress Meaning In Tamil</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=low-fat-spinach-and-ricotta-cannelloni'>Low Fat Spinach And Ricotta Cannelloni</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-pressure-washer-detergent-for-concrete'>Best Pressure Washer Detergent For Concrete</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bajaj-led-lighting-price-list-2018-pdf'>Bajaj Led Lighting Price List 2018 Pdf</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-save-a-bamboo-plant-that-is-turning-yellow'>How To Save A Bamboo Plant That Is Turning Yellow</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bissell-hard-floor-expert-1154'>Bissell Hard Floor Expert 1154</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=next-of-kin-rights-and-responsibilities'>Next Of Kin Rights And Responsibilities</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-lay-a-garden-path'>How To Lay A Garden Path</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=best-italian-restaurants-in-broward-county'>Best Italian Restaurants In Broward County</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=upvc-window-replacement-near-me'>Upvc Window Replacement Near Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=spicy-bbq-sauce-recipe-for-ribs'>Spicy Bbq Sauce Recipe For Ribs</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=order-place-meaning-in-hindi'>Order Place Meaning In Hindi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=everybody-loves-raymond-season-7-episodes'>Everybody Loves Raymond Season 7 Episodes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=live-free-or-die-hard-full-movie-in-hindi'>Live Free Or Die Hard Full Movie In Hindi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=simple-chicken-tater-tot-casserole-without-soup'>Simple Chicken Tater Tot Casserole Without Soup</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=does-freezing-kill-e-coli'>Does Freezing Kill E Coli</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-is-the-phylum-of-a-daisy'>What Is The Phylum Of A Daisy</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-barefoot-contessa-cookbook-recipes'>The Barefoot Contessa Cookbook Recipes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=white-barn-door-medicine-cabinet'>White Barn Door Medicine Cabinet</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=craftsman-electric-power-washer-99016'>Craftsman Electric Power Washer 99016</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=cabinet-with-lots-of-small-drawers'>Cabinet With Lots Of Small Drawers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=man-in-the-mirror-video'>Man In The Mirror Video</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-great-british-baking-show-season-9'>The Great British Baking Show Season 9</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=succulent-growing-long-stem-flower'>Succulent Growing Long Stem Flower</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-adjust-the-back-of-an-office-chair'>How To Adjust The Back Of An Office Chair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=baron-resort-sharm-el-sheikh'>Baron Resort Sharm El Sheikh</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=force-10-from-navarone-full-movie-free-download'>Force 10 From Navarone Full Movie Free Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-to-do-if-zz-plant-leaves-turn-yellow'>What To Do If Zz Plant Leaves Turn Yellow</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=generac-3100-psi-pressure-washer-manual'>Generac 3100 Psi Pressure Washer Manual</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=agate-side-table-world-market'>Agate Side Table World Market</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=justice-league-full-movie-in-hindi-youtube'>Justice League Full Movie In Hindi Youtube</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-cook-eggplant-in-oven'>How To Cook Eggplant In Oven</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=study-table-and-chair-olx'>Study Table And Chair Olx</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=oil-leaking-from-top-of-engine'>Oil Leaking From Top Of Engine</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=breakfast-casserole-with-potatoes-and-ham'>Breakfast Casserole With Potatoes And Ham</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bayside-mesh-office-chair-reddit'>Bayside Mesh Office Chair Reddit</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=study-table-design-for-bedroom'>Study Table Design For Bedroom</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=brussel-sprouts-with-bacon-and-garlic'>Brussel Sprouts With Bacon And Garlic</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=la-maja-desnuda-in-english'>La Maja Desnuda In English</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=can-you-steam-clean-linen-upholstery'>Can You Steam Clean Linen Upholstery</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-use-samsung-washing-machine'>How To Use Samsung Washing Machine</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=chocolate-and-vanilla-panna-cotta'>Chocolate And Vanilla Panna Cotta</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=easy-camping-breakfast-for-large-groups'>Easy Camping Breakfast For Large Groups</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-make-pavlova-white-not-brown'>How To Make Pavlova White Not Brown</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-do-you-spell-honey-as-a-term-of-endearment'>How Do You Spell Honey As A Term Of Endearment</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=easiest-fruit-to-grow-indoors'>Easiest Fruit To Grow Indoors</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=menards-ad-for-next-week'>Menards Ad For Next Week</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=library-help-desk-job-description'>Library Help Desk Job Description</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=menards-black-friday-2018-ad'>Menards Black Friday 2018 Ad</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=balestier-lighting-shops-review-2017'>Balestier Lighting Shops Review 2017</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=raising-dion-season-2-release-date'>Raising Dion Season 2 Release Date</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-cut-kale-leaves-from-plant'>How To Cut Kale Leaves From Plant</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=console-table-with-drawers-ikea'>Console Table With Drawers Ikea</a>,
+";s:7:"expired";i:-1;}

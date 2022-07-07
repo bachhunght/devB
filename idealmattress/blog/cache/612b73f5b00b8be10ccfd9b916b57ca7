@@ -1,0 +1,242 @@
+a:5:{s:8:"template";s:3151:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>{{ keyword }}</title>
+<style media="screen" rel="stylesheet" type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #231F20;
+
+}
+
+a {
+	color: #5f5f5f;
+}
+
+#logo {
+	width: 313px;
+	height: 115px;
+	margin-top:0;
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+	background: url() no-repeat left 20%;
+
+}
+
+#menu {
+    /* Cumba updated */
+	height:3.0em;
+	width:529px;
+	height:35px;
+	background-image:url();
+	background-repeat:no-repeat;
+	}
+
+#menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+
+
+#menu ul li {
+	float: left;
+}
+
+#menu .page_item a {
+	/* Cumba updated */
+	display: block;
+	padding-left:14px;
+	padding-right:7px;
+	padding-top:9px;
+	color: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration: none;
+}
+
+#menu .page_item a:hover {
+	color: #DA1F26;
+}
+
+/* Header */
+
+#header-wrap {
+	background: url() repeat-x center top;
+}
+
+#header {
+width:889px;
+	height: 175px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+#header div {
+	/*width: 889px;   --- Cumba updated*/
+	margin: 0 auto;
+}
+
+
+.clear {
+	clear:both;
+}
+
+
+#footer .legal {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+#footer-wrap {
+	width: 100%;
+	background-image:url();
+	background-repeat:repeat-x;
+	height:114px;
+	margin-top:30px;
+
+
+}
+
+
+#footer {
+	width: 889px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 40px;
+	min-height: 60px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#footer a {
+	color: #a3a3a3;
+}
+#vebiz
+{
+width:165px;
+height:31px;
+background-image:url();
+background-repeat:no-repeat;
+float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	border:none;
+	text-decoration:none;
+}
+
+
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header-wrap">
+<div id="header">
+<div style="float:left; width:325px;">
+<a href="#"><div id="logo"></div></a>
+</div>
+<div style="float:right; width:320px; 	margin-top:45px; margin-right:230px;">
+<div id="menu">
+<ul>
+<li class="page_item page-item-4"><a href="#">Home</a></li>
+<li class="page_item page-item-2"><a href="#">About Us</a></li>
+<li class="page_item page-item-33"><a href="#">Services</a></li>
+<li class="page_item page-item-36"><a href="#">Choose Us</a></li>
+<li class="page_item page-item-38"><a href="#">Talk to Us</a></li>
+<li class="page_item page-item-158"><a href="#">Useful Links</a></li>
+<li class="page_item page-item-221"><a href="#">Articles</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+{{ text }}
+
+{{ links }}
+</div> 
+<div id="footer-wrap">
+<div id="footer">
+<div class="clear"></div>
+<div class="legal">Copyright 2011 - 2012 Maslensbookkeeping. {{ keyword }}</div>
+<a href="#" target="_blank">
+<div id="vebiz"></div>
+</a>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4262:"tl;dr: don't waste your time waiting for Philips to release a feature that you need, just find an app that suits your needs. Die ebenso kleinen wie smarten Retrofits werden von Konsumenten sehnlichst erwartet und kommen ab April in gleich zwei Varianten in den Handel: als „White Ambiance“ sowie als „White and Color Ambiance“. Signify is also launching a collection of filament-style bulbs. Unsere neuen Philips Hue Filament Lampen kombinieren moderne Technologie mit einem nostalgischen Vintage-Look. Hot on the heels of the news of the forthcoming Philips Hue range of Filament style bulbs, the company are now getting ready to release more lighting as part of their new and updated ZigBee+Bluetooth range. Philips will also launch Hue Filament lamps which will work with Zigbee and Bluetooth. The Hue Filament collection includes a $24.99 A19 bulb, a $26.99 ST19 tube, and a $32.99 G25 globe. In fact, we've got three variations of the new Philips Hue Filament bulb, which hipsters will surely be pawning their fixie bikes for. I'd be pretty upset if I spent time and effort to build an app only to have Philips incorporate my power-user ideas into their app on the next release. Philips Hue kann seine Farben zum Takt der Musik ändern und Ihre Freunde bei Ihrer nächsten Geburtstagsparty staunen lassen. The next wave of Philips Hue products appears to have leaked this morning, revealing stylish new bulbs, a smart plug, and a number of new lighting fixtures. I'd be pretty upset if I spent time and effort to build an app only to have Philips incorporate my power-user ideas into their app on the next release. Signify, the company behind Philips Hue, has unveiled a range of trendy Edison-style smart lightbulbs at IFA 2019 in Berlin. The Plug will start shipping next month at a cost of $39.99. The portfolio is available in Europe as of today and in North America in October 2019. That includes the new portable Philips Hue Go light, the new G10 spotlight, and the refreshed E12 candle bulbs. The Philips Hue range is pretty vast, but one thing fans have long been calling for is a vintage-style, exposed Edison bulb. In the press release it said “Combine the convenience of smart lighting with the beauty of the popular Edison-style bulb with the new collection of amber-coated smart filament bulbs from Philips Hue. The Philips Hue Filament collection includes three form factors: the traditional A19/A60 light bulb shape ($24.99/€19.95), ST19/ST64 tube ($27.99/€24.95) and G25/G93 globe ($32.99/€29.95). So lässt sich das Hygge-Ambiente eines Boutique-Hotels nach Hause holen oder einfach für zusätzliche visuelle Stilelemente im Raum sorgen. The current plan is to release an E27, an G93 and an ST19 fitting. According to the source, the new Philips Hue Filament bulbs fitting should appear the second week September 2019 with price ranges from €19.95 to €29.95. As first reported on Dutch website iCulture.nl, new Hue products are being prepared for launch this autumn, just as they did previously with the outdoor lighting product we first mentioned last July.. That's one of the reasons Hue has an active developer base. Mit Philips Hue wird sowohl Ihre Innen- als auch Ihre Außenbeleuchtung zum Leben erweckt. That's one of the reasons Hue has an active developer base. As an example, plugging a standard old-school lamp into the new Hue Smart Plug will allow it to be controlled remotely through the Hue app or via Siri and HomeKit or Alex and Assistant. All offer up 2100K of power at 530 lumens, so they'll comfortably light a room but they're not hugely bright. Philips Hue filament range including bulb, tube, and globe shapes. tl;dr: don't waste your time waiting for Philips to release a feature that you need, just find an app that suits your needs.  Philips Hue auf der IFA 2019: Filament-Retrolampen, neue Hue Go und weitere Neuerungen. Finally, we’ve got one. In fact, the entire range of Hue lights is being upgraded with Bluetooth. With the retro design, these smart bulbs come in a traditional A19 bulb shape, an ST19 tube shape and a G25 globe shape. Philips Lighting erweitert seine Philips Hue-Familie um dekorative E14-Kerzenlampen. Es gibt unzählige Apps im App Store, die mit Hue funktionieren. ";s:7:"keyword";s:33:"philips hue filament release date";s:5:"links";s:8272:"<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=svante-thunberg-net-worth-2018'>Svante Thunberg Net Worth 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-is-cleaner-carpet-or-hardwood'>What Is Cleaner Carpet Or Hardwood</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=new-haven-indiana-italian-restaurants'>New Haven Indiana Italian Restaurants</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=weather-park-city-ut-84098'>Weather Park City Ut 84098</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=close-my-eyes-movie-download-300mb'>Close My Eyes Movie Download 300mb</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=4000-psi-pressure-washer-lowes'>4000 Psi Pressure Washer Lowes</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=overstock-furniture-north-little-rock-ar'>Overstock Furniture North Little Rock Ar</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=baby-girl-names-2018-unique'>Baby Girl Names 2018 Unique</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=old-fashioned-beef-stew-slow-cooker-uk'>Old Fashioned Beef Stew Slow Cooker Uk</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=landscape-design-a-cultural-and-architectural-history-pdf-free-download'>Landscape Design A Cultural And Architectural History Pdf Free Download</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=company-casserole-taste-of-home'>Company Casserole Taste Of Home</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=great-food-truck-race-2019'>Great Food Truck Race 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lowes-greenworks-1700-psi-pressure-washer'>Lowes Greenworks 1700 Psi Pressure Washer</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=honor-10-vs-honor-20i'>Honor 10 Vs Honor 20i</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=karcher-pressure-washer-1700-psi'>Karcher Pressure Washer 1700 Psi</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=white-tv-console-table-with-storage'>White Tv Console Table With Storage</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=palm-beach-apartments-for-sale'>Palm Beach Apartments For Sale</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kids-study-desk-and-chair'>Kids Study Desk And Chair</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-kitchen-table-bistro-richmond-vt'>The Kitchen Table Bistro Richmond Vt</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=sports-pool-vs-traditional-deep-end'>Sports Pool Vs Traditional Deep End</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=troy-bilt-pressure-washer-pumps'>Troy Bilt Pressure Washer Pumps</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=kenmore-elite-refrigerator-parts-manual'>Kenmore Elite Refrigerator Parts Manual</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ikea-credit-card-foreign-transaction-fee'>Ikea Credit Card Foreign Transaction Fee</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=calories-in-a-whole-butternut-squash'>Calories In A Whole Butternut Squash</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=ikea-klippan-compact-sofa-cover'>Ikea Klippan Compact Sofa Cover</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=on-an-island-with-you-cast'>On An Island With You Cast</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=small-bedroom-decorating-ideas-on-a-budget'>Small Bedroom Decorating Ideas On A Budget</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lauriston-campus-the-university-of-edinburgh'>Lauriston Campus The University Of Edinburgh</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=multi-video-game-console-cabinet'>Multi Video Game Console Cabinet</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=square-foot-gardening-spacing-template'>Square Foot Gardening Spacing Template</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-crate-train-a-dog'>How To Crate Train A Dog</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=lg-24-cubic-foot-refrigerator-french-door'>Lg 24 Cubic Foot Refrigerator French Door</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=target-baby-sale-dates-2020'>Target Baby Sale Dates 2020</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-does-stroganoff-taste-like'>What Does Stroganoff Taste Like</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=taking-care-of-plants-for-grade-1'>Taking Care Of Plants For Grade 1</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=push-pin-travel-map-michaels'>Push Pin Travel Map Michaels</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dining-table-steel-frame-design'>Dining Table Steel Frame Design</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=karcher-1800-psi-pressure-washer-parts'>Karcher 1800 Psi Pressure Washer Parts</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=dresser-with-doors-and-drawers'>Dresser With Doors And Drawers</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=terminator-2-judgment-day-full-movie'>Terminator 2 Judgment Day Full Movie</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=locking-storage-cabinet-living-room'>Locking Storage Cabinet Living Room</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=synonyms-for-feel-free-to-contact-me'>Synonyms For Feel Free To Contact Me</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bensons-for-beds-discount-code'>Bensons For Beds Discount Code</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=when-does-camelback-ski-open'>When Does Camelback Ski Open</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=how-to-cook-beets-from-a-can'>How To Cook Beets From A Can</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=is-iceberg-lettuce-safe-to-eat-2019'>Is Iceberg Lettuce Safe To Eat 2019</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=1-cable-length-to-meters'>1 Cable Length To Meters</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=philippines-house-designs-and-floor-plans'>Philippines House Designs And Floor Plans</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=mason-jar-herb-garden-self-watering'>Mason Jar Herb Garden Self Watering</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=air-fryer-buffalo-cauliflower-keto'>Air Fryer Buffalo Cauliflower Keto</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fig-tree-varieties-in-india'>Fig Tree Varieties In India</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=bank-of-america-careers-login'>Bank Of America Careers Login</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fiddle-leaf-fig-tree-care'>Fiddle Leaf Fig Tree Care</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=family-friendly-restaurants-marais-paris'>Family Friendly Restaurants Marais Paris</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=what-color-gladiolus-means-strength'>What Color Gladiolus Means Strength</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=michelin-star-restaurants-edinburgh-2018'>Michelin Star Restaurants Edinburgh 2018</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=fake-fall-flowers-dollar-tree'>Fake Fall Flowers Dollar Tree</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=where-to-stay-in-st-anton'>Where To Stay In St Anton</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=british-land-number-of-employees'>British Land Number Of Employees</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=skyrim-se-becoming-a-landlord'>Skyrim Se Becoming A Landlord</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=e14-led-bulb-100w-equivalent'>E14 Led Bulb 100w Equivalent</a>,
+<a href='http://idealmattress.com.au/blog/stsn1.php?03db60=the-pioneer-woman-season-24-episode-1'>The Pioneer Woman Season 24 Episode 1</a>,
+";s:7:"expired";i:-1;}

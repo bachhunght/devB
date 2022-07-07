@@ -1,0 +1,18 @@
+[11-Feb-2020 19:23:30 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/ideammat/public_html/wp-content/themes/aven/index.php on line 14
+[20-May-2020 01:29:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ideammat/public_html/wp-content/themes/aven/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/ideammat/public_html/wp-content/themes/aven/index.php on line 14
+[23-Oct-2020 07:08:56 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/ideammat/public_html/wp-content/themes/aven/index.php on line 14
+[14-May-2021 19:56:31 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/ideammat/public_html/wp-content/themes/aven/index.php on line 14
+[16-May-2021 15:04:23 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/ideammat/public_html/wp-content/themes/aven/index.php on line 14
+[19-May-2021 17:21:11 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/ideammat/public_html/wp-content/themes/aven/index.php on line 14
+[22-May-2021 16:04:29 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/ideammat/public_html/wp-content/themes/aven/index.php on line 14
+[25-May-2021 15:44:11 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/ideammat/public_html/wp-content/themes/aven/index.php on line 14
+[25-May-2021 17:39:33 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/ideammat/public_html/wp-content/themes/aven/index.php on line 14
+[12-Jun-2021 05:31:09 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/ideammat/public_html/wp-content/themes/aven/index.php on line 14
+[24-Jul-2021 17:48:13 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/ideammat/public_html/wp-content/themes/aven/index.php on line 14
+[23-Aug-2021 07:29:28 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/ideammat/public_html/wp-content/themes/aven/index.php on line 14
+[24-Aug-2021 12:13:11 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/ideammat/public_html/wp-content/themes/aven/index.php on line 14
+[07-Nov-2021 08:52:19 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/ideammat/public_html/wp-content/themes/aven/index.php on line 14
+[19-Nov-2021 16:10:45 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/ideammat/public_html/wp-content/themes/aven/index.php on line 14
